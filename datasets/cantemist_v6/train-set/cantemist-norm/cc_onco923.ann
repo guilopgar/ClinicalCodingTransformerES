@@ -1,0 +1,74 @@
+T1	MORFOLOGIA_NEOPLASIA 2144 2165	carcinoma epidermoide
+#1	AnnotatorNotes T1	8070/3
+T2	MORFOLOGIA_NEOPLASIA 6497 6508	metastásico
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1629 1638	neoplasia
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 2088 2098	neoplásico
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 3417 3427	neoplásico
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 3075 3080	tumor
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 3314 3319	tumor
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 3365 3370	tumor
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 1154 1164	tumoración
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 1334 1344	tumoración
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 3718 3728	tumoración
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 3779 3789	tumoración
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 9134 9144	tumoración
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 1469 1476	tumoral
+#14	AnnotatorNotes T14	8000/1
+T15	MORFOLOGIA_NEOPLASIA 1874 1884	neoplásica
+#15	AnnotatorNotes T15	8000/1
+T16	MORFOLOGIA_NEOPLASIA 2860 2866	T2N2M0
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 2881 2942	Carcinoma de pulmón no microcítico (CPNM) de tipo epidermoide
+#17	AnnotatorNotes T17	8070/3
+T18	MORFOLOGIA_NEOPLASIA 2917 2921	CPNM
+#18	AnnotatorNotes T18	8046/3
+T19	MORFOLOGIA_NEOPLASIA 2881 2915	Carcinoma de pulmón no microcítico
+#19	AnnotatorNotes T19	8046/3
+T20	MORFOLOGIA_NEOPLASIA 4136 4154	neoplasia mucinosa
+#20	AnnotatorNotes T20	8000/1/H
+T21	MORFOLOGIA_NEOPLASIA 4397 4422	neoplasia sólido-quística
+#21	AnnotatorNotes T21	8452/1
+T22	MORFOLOGIA_NEOPLASIA 4605 4630	neoplasia sólido-quística
+#22	AnnotatorNotes T22	8452/1
+T23	MORFOLOGIA_NEOPLASIA 5739 5798	metástasis de carcinoma escamoso moderadamente diferenciado
+#23	AnnotatorNotes T23	8070/62
+T24	MORFOLOGIA_NEOPLASIA 6288 6336	masas nodulares sólidas de situación suprarrenal
+#24	AnnotatorNotes T24	8000/6
+T25	MORFOLOGIA_NEOPLASIA 6566 6585	masas suprarrenales
+#25	AnnotatorNotes T25	8000/6
+T26	MORFOLOGIA_NEOPLASIA 6639 6653	CA epidermoide
+#26	AnnotatorNotes T26	8070/3
+T27	MORFOLOGIA_NEOPLASIA 7953 7969	masa suprarrenal
+#27	AnnotatorNotes T27	8000/6
+T28	MORFOLOGIA_NEOPLASIA 8004 8016	LOE hepática
+#28	AnnotatorNotes T28	8000/6
+T29	MORFOLOGIA_NEOPLASIA 8167 8181	CA epidermoide
+#29	AnnotatorNotes T29	8070/3
+T30	MORFOLOGIA_NEOPLASIA 8875 8887	LOE hepática
+#30	AnnotatorNotes T30	8000/6
+T31	MORFOLOGIA_NEOPLASIA 8938 8960	masa de la suprarrenal
+#31	AnnotatorNotes T31	8000/6
+T32	MORFOLOGIA_NEOPLASIA 9075 9103	lesión sólida en suprarrenal
+#32	AnnotatorNotes T32	8000/6
+T33	MORFOLOGIA_NEOPLASIA 9216 9234	lesión suprarrenal
+#33	AnnotatorNotes T33	8000/6
+T34	MORFOLOGIA_NEOPLASIA 3603 3641	lesión hipodensa en cuerpo de páncreas
+#34	AnnotatorNotes T34	8000/6
+T35	MORFOLOGIA_NEOPLASIA 4765 4786	MTS de CA epidermoide
+#35	AnnotatorNotes T35	8070/6
+T36	MORFOLOGIA_NEOPLASIA 5030 5058	masa en la cola del páncreas
+#36	AnnotatorNotes T36	8000/6
+T37	MORFOLOGIA_NEOPLASIA 6063 6079	masa pancreática
+#37	AnnotatorNotes T37	8000/6

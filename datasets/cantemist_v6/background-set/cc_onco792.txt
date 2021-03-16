@@ -1,0 +1,28 @@
+Anamnesis
+Presentamos el caso de un varón de 46 años, sin comorbilidades. En enero de 2017, se diagnostica de carcinoma neuroendocrino de alto grado de páncreas, con un índice de proliferación celular (Ki67) del 30-40 %, no funcionante, que debuta con obstrucción intestinal. Tras comentar el caso en comité multidisciplinar de tumores hepatobiliopancreáticos, se opta por realizar laparotomía exploratoria para valorar la resecabilidad del tumor, realizándose en febrero de 2017, donde se objetiva una masa en cola de páncreas que infiltra el ángulo esplénico, cara posterior gástrica y la raíz del mesenterio, produciendo un cuadro oclusivo con dilatación de colon hasta el ciego, por lo que se considera irresecable y se realiza una resección de la zona obstruida del colon.
+En marzo de 2017, inicia tratamiento con quimioterapia paliativa bajo el esquema de cisplatino, etopósido y factor estimulante de colonias, administrado cada 21 días hasta completar 6 ciclos, finaliza en agosto de 2017 con enfermedad estable tras el escáner de valoración y se inicia seguimiento.
+En septiembre de 2017 presenta un episodio de sensación de mareo y disnea secundario episodio de fibrilación auricular (ACxFA) rápida que no cede con amiodarona, por lo que se decide cardioversión eléctrica consiguiendo ritmo sinusal. En el análisis de Urgencias presenta una hemoglobina de 6,8 g/decilitro (g/dl), probablemente secundaria a sangrado de origen digestivo ya que al historiar al paciente refiere deposiciones melénicas de semanas de evolución, precisando transfusión de hemoderivados. Además, también destaca la presencia de una hipopotasemia leve de 3,22 miliequivalentes por litro (mEq/l), glucosa de 692 miligramos por decilitro (mg/dl) y leucocitosis con neutrofilia. En la gasometría arterial aparece un pH de 7,46 y un bicarbonato de 24,2 milimoles por litro (mmol/l), con el resto de parámetros normal.
+Con los diagnósticos de ACxFA con inestabilidad hemodinámica, anemia secundaria a pérdidas digestivas relacionadas con la enfermedad tumoral e hiperglucemia sin repercusión metabólica, se decide ingreso a cargo de Oncología Médica para control evolutivo.
+
+Exploración física
+Presión arterial sistólica 103 mm Hg, presión arterial diastólica 64 mm Hg. Frecuencia cardiaca 94 lpm. Estado general conservado. Palidez cutáneo-mucosa. Pulso radial lleno no taquicárdico.
+Sin ingurgitación yugular. Auscultación cardiaca rítmica, a buena frecuencia sin soplos. Auscultación pulmonar con murmullo vesicular conservado. Abdomen blando, globuloso, depresible, sin signos de irritación peritoneal. Tacto rectal con heces oscuras, no claramente melénicas, con algún resto negruzco.
+
+Pruebas complementarias
+Analítica: creatinina 0,66, cloro 88, sodio 139, potasio 2,37, cortisol 47,1, ACTH 418, cromogranina A 197,7, hemoglobina 10, plaquetas 66.000, leucocitos 10.220, neutrófilos 8.460. Gasometría venosa: pH 7,58, pO2 59, pCO2 47, bicarbonato 44,1, exceso de bases 22,2. Bioquímica de orina: cortisol libre
+2.539,1.
+
+Diagnóstico
+Carcinoma neuroendocrino de cola de páncreas localmente avanzado e irresecable.
+Hemorragia digestiva alta por sangrado tumoral.
+Hipopotasemia.
+Alcalosis metabólica.
+Síndrome de Cushing ectópico.
+
+Tratamiento
+Ketoconazol, metirapona, temozolamida, capecitabina.
+
+Evolución
+Durante el ingreso se detectan cifras altas de glucemia que precisan de continuos rescates de insulina, así como hipopotasemia y alcalosis metabólica, permaneciendo el paciente asintomático con cifras de tensión arterial normales. Ante la ausencia de mejoría de las cifras de potasio, a pesar de la administración de suplementos y de tratamiento con espironolactona, se realiza estudio hormonal por sospecha de Cushing ectópico. Se detectan niveles elevados de cortisol en sangre y en saliva, cortisol en orina de 24 horas aumentado, niveles de renina descendidos, una aldosterona por encima del límite inferior de la normalidad y una ACTH incrementada. Se inicia tratamiento con ketoconazol y metirapona y al valorar la hemorragia digestiva y la secreción hormonal secundarias a una progresión tumoral, se inicia segunda línea de tratamiento quimioterápico paliativo bajo el esquema CAPTEM (capecitabina 600 mg/m2, con dosis máxima de 1.000 mg/m2) durante 14 días y temozolamida 150 mg/m2 días 10 al 14.
+Tras la intervención terapéutica mejoran progresivamente las cifras de potasio hasta normalizarse permitiendo la retirada de espironolactona y de insulina. No obstante, se detecta analíticamente una tendencia a la insuficiencia suprarrenal con un descenso llamativo de los niveles de cortisol urinario y se suspende la metirapona. Tras la modificación en el tratamiento los resultados analíticos de cortisol plasmático vuelven a elevarse, por lo que se dobla la dosis de ketoconazol. A pesar de doblar la dosis del fármaco, se sigue sin ser capaz de frenar los niveles de cortisol, y por este motivo decide reiniciar la metirapona y comenzar tratamiento con hidroaltesona. En las siguientes analíticas, mejoran tanto los niveles de potasio como las cifras de glucemia.
+Durante el ingreso, persistió el sangrado digestivo debido al desarrollo de una fístula tumoral pancreatogástrica. El 23 de noviembre el paciente presenta una hematemesis masiva con importante inestabilidad hemodinámica, por lo ante la irreversibilidad del cuadro y situación de agonía del paciente, se decide sedación paliativa.

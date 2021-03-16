@@ -1,0 +1,40 @@
+T1	MORFOLOGIA_NEOPLASIA 3056 3071	Nódulo pulmonar
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 544 553	carcinoma
+#2	AnnotatorNotes T2	8010/3
+T3	MORFOLOGIA_NEOPLASIA 682 709	carcinoma de células claras
+#3	AnnotatorNotes T3	8310/3
+T4	MORFOLOGIA_NEOPLASIA 642 659	carcinoma papilar
+#4	AnnotatorNotes T4	8260/3
+T5	MORFOLOGIA_NEOPLASIA 1020 1041	enfermedad diseminada
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 3119 3133	lesiones óseas
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 4010 4025	lesión pulmonar
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 5366 5377	lesión ósea
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 3177 3187	metástasis
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 4737 4747	metástasis
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 739 748	neoplasia
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 1099 1114	nódulo pulmonar
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 3348 3355	tumoral
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 792 829	carcinoma urotelial de vejiga, pT1 G3
+#14	AnnotatorNotes T14	8120/33
+T15	MORFOLOGIA_NEOPLASIA 1133 1158	lesión lítica iliopubiana
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 1046 1080	recidiva en polo inferior de riñón
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 3077 3109	nódulo en polo inferior de riñón
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 3252 3300	Carcinoma renal mixto (células claras y papilar)
+#18	AnnotatorNotes T18	8050/3
+T19	MORFOLOGIA_NEOPLASIA 3252 3289	Carcinoma renal mixto (células claras
+#19	AnnotatorNotes T19	8310/3/H
+T20	MORFOLOGIA_NEOPLASIA 4045 4065	lesión en polo renal
+#20	AnnotatorNotes T20	8000/6

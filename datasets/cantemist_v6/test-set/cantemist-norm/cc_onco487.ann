@@ -1,0 +1,6 @@
+T1	MORFOLOGIA_NEOPLASIA 676 682	T4N2M0
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 641 655	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 2727 2749	enfermedad a distancia
+#3	AnnotatorNotes T3	8000/6

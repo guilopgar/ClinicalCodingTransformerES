@@ -1,0 +1,18 @@
+T1	MORFOLOGIA_NEOPLASIA 3098 3108	metástasis
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 2250 2255	tumor
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 4026 4031	tumor
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 449 461	tumoraciones
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 2621 2667	neoplasia de células germinales intratubulares
+#5	AnnotatorNotes T5	9064/2
+T6	MORFOLOGIA_NEOPLASIA 2880 2926	tumor testicular germinal regresado burned-out
+#6	AnnotatorNotes T6	9064/3/H
+T7	MORFOLOGIA_NEOPLASIA 2941 2968	Tumor testicular burned-out
+#7	AnnotatorNotes T7	8000/3/H
+T8	MORFOLOGIA_NEOPLASIA 1908 1926	nódulos pulmonares
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 3037 3084	afectación visceral únicamente a nivel pulmonar
+#9	AnnotatorNotes T9	8000/6

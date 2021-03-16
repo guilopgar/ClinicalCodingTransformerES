@@ -1,0 +1,14 @@
+T1	MORFOLOGIA_NEOPLASIA 1318 1330	osteosarcoma
+#1	AnnotatorNotes T1	9180/3
+T2	MORFOLOGIA_NEOPLASIA 2618 2630	osteosarcoma
+#2	AnnotatorNotes T2	9180/3
+T3	MORFOLOGIA_NEOPLASIA 3589 3601	osteosarcoma
+#3	AnnotatorNotes T3	9180/3
+T4	MORFOLOGIA_NEOPLASIA 996 1006	tumoración
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 1758 1765	tumoral
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 2607 2614	tumoral
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 474 508	tumoración previsiblemente benigna
+#7	AnnotatorNotes T7	8000/1

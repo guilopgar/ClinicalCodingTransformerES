@@ -1,0 +1,14 @@
+T1	MORFOLOGIA_NEOPLASIA 1508 1522	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 1849 1878	adenopatías supraclaviculares
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 640 650	malignidad
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 1955 1967	metastásicas
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 237 245	teratoma
+#5	AnnotatorNotes T5	9080/1
+T6	MORFOLOGIA_NEOPLASIA 2141 2193	adenocarcinoma de pulmón, estadio IV (pulmón, pleura
+#6	AnnotatorNotes T6	8140/6
+T7	MORFOLOGIA_NEOPLASIA 3179 3235	blastoma pulmonar con diferenciación rabdomiosarcomatosa
+#7	AnnotatorNotes T7	8972/3/H

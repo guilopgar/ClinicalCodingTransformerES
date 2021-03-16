@@ -1,0 +1,23 @@
+Anamnesis
+Varón de 57 años de edad, sin antecedentes personales de interés, diagnosticado en 2005 de tumor neuroendocrino tras la resección de un pólipo rectal con patrón histológico carcinoide que infiltraba las capas musculares. Los estudios de extensión encontraron un quiste hepático en la TC con octreoscán negativo.
+En diciembre de 2005 se realizó ampliación de márgenes quirúrgicos y nodulectomía hepática, siendo la histología de esta última negativa para malignidad. Se decide actitud expectante durante 5 años, permaneciendo asintomático y sin evidencia de recidiva tumoral hasta 2011, momento en el que aparecen crisis de flushing y taquicardias autolimitadas.
+
+Examen físico
+Hábito asténico. ECOG 0. Rubor facial. No presenta adenopatías. Campos pulmonares con murmullo vesicular conservado. Corazón rítmico sin soplos. Abdomen no doloroso, sin hepatomegalia, peristalsis conservada. No tiene focalidad neurológica.
+
+Pruebas complementarias
+Biopsia endoscópica al diagnóstico: estructura polipoide con patrón trabecular, mitosis ocasionales. Infiltra capas musculares. IHQ: Ki67< 5 %, intensamente positivo para sinaptofisina y focalmente para cromogranina (CGA).
+A la recurrencia: Colonoscopia: normal.
+Cromogranina sérica e índoles en orina: normales.
+Octreoscán: marcada irregularidad en la captación hepática con grandes focos hipercaptantes en su interior.
+Ecocardiograma: sin valvulopatía derecha.
+
+Diagnóstico
+Tumor carcinoide rectal estadio IV por recurrencia hepática, moderadamente diferenciado, funcionante.
+
+Tratamiento
+Primera línea: lanreótide SC 120 mg/4 semanas, permaneciendo estable durante 19 meses.
+Tras progresión hepática, se incluye dentro de ensayo clínico del Grupo GETNE EudraCT: 2011-001550-29 AXI-IIG-02, asignándose de manera aleatoria a recibir octreótide ± axitinib (1).
+
+Evolución
+Durante este tratamiento ha presentado HTA y astenia de grado I, alcanzando respuesta parcial (RP) a los 3 meses de más del 60 %, con marcadores persistentemente negativos. Tras 8 meses dentro del estudio, desarrolla mínima elevación de TSH sin clínica asociada y permanece en respuesta parcial evaluada por imagen.

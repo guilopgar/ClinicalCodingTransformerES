@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 1454 1466	Angiosarcoma
+#1	AnnotatorNotes T1	9120/3
+T2	MORFOLOGIA_NEOPLASIA 1499 1511	Angiosarcoma
+#2	AnnotatorNotes T2	9120/3
+T3	MORFOLOGIA_NEOPLASIA 1590 1602	Angiosarcoma
+#3	AnnotatorNotes T3	9120/3
+T4	MORFOLOGIA_NEOPLASIA 1866 1878	Angiosarcoma
+#4	AnnotatorNotes T4	9120/3
+T5	MORFOLOGIA_NEOPLASIA 1344 1366	enfermedad a distancia
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 3286 3305	lesiones esplénicas
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 2465 2483	lesiones hepáticas
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 2863 2881	lesiones hepáticas
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 2225 2230	tumor
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 3371 3376	tumor
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 530 540	tumoración
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 3250 3277	enfermedad a nivel hepático
+#12	AnnotatorNotes T12	8000/6

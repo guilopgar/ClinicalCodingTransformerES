@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 527 555	hepatocarcinoma fibrolamelar
+#1	AnnotatorNotes T1	8171/3
+T2	MORFOLOGIA_NEOPLASIA 1282 1310	hepatocarcinoma fibrolamelar
+#2	AnnotatorNotes T2	8171/3
+T3	MORFOLOGIA_NEOPLASIA 676 687	metastásica
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 377 387	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 294 305	satelitosis
+#5	AnnotatorNotes T5	8001/1
+T6	MORFOLOGIA_NEOPLASIA 596 607	satelitosis
+#6	AnnotatorNotes T6	8001/1
+T7	MORFOLOGIA_NEOPLASIA 256 261	tumor
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 557 560	FLC
+#8	AnnotatorNotes T8	8171/3
+T9	MORFOLOGIA_NEOPLASIA 1312 1315	FLC
+#9	AnnotatorNotes T9	8171/3
+T10	MORFOLOGIA_NEOPLASIA 1331 1410	Recidiva pulmonar y retroperitoneal irresecable de hepatocarcinoma fibrolamelar
+#10	AnnotatorNotes T10	8171/6

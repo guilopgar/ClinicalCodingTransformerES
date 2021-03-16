@@ -1,0 +1,42 @@
+T1	MORFOLOGIA_NEOPLASIA 347 353	T1N0M0
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 2684 2703	implantes tumorales
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 321 329	melanoma
+#3	AnnotatorNotes T3	8720/3
+T4	MORFOLOGIA_NEOPLASIA 3137 3148	metastásica
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2842 2852	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 3925 3935	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 985 1007	metástasis de melanoma
+#7	AnnotatorNotes T7	8720/6
+T8	MORFOLOGIA_NEOPLASIA 2773 2795	metástasis de melanoma
+#8	AnnotatorNotes T8	8720/6
+T9	MORFOLOGIA_NEOPLASIA 4281 4303	metástasis de melanoma
+#9	AnnotatorNotes T9	8720/6
+T10	MORFOLOGIA_NEOPLASIA 4580 4602	metástasis de melanoma
+#10	AnnotatorNotes T10	8720/6
+T11	MORFOLOGIA_NEOPLASIA 4225 4230	tumor
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 886 916	lesiones del intestino delgado
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 1608 1667	tumoración melanocítica atípica, fundamentalmente fusiforme
+#13	AnnotatorNotes T13	8772/3
+T14	MORFOLOGIA_NEOPLASIA 2407 2441	Recidiva peritoneal de un melanoma
+#14	AnnotatorNotes T14	8720/6
+T15	MORFOLOGIA_NEOPLASIA 3018 3037	recidiva intestinal
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 3810 3829	implante peritoneal
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 3977 3988	peritumoral
+#17	AnnotatorNotes T17	8000/1
+T18	MORFOLOGIA_NEOPLASIA 4660 4682	recidiva en fosa nasal
+#18	AnnotatorNotes T18	8000/6
+T19	MORFOLOGIA_NEOPLASIA 4864 4891	progresión tumoral pulmonar
+#19	AnnotatorNotes T19	8000/6
+T20	MORFOLOGIA_NEOPLASIA 5068 5086	nódulos pulmonares
+#20	AnnotatorNotes T20	8000/6
+T21	MORFOLOGIA_NEOPLASIA 3059 3077	nódulo mesentérico
+#21	AnnotatorNotes T21	8000/6

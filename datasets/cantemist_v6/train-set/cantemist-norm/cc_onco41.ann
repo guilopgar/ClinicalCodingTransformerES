@@ -1,0 +1,12 @@
+T1	MORFOLOGIA_NEOPLASIA 1179 1181	M0
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1110 1138	carcinoma ductal infiltrante
+#2	AnnotatorNotes T2	8500/3
+T3	MORFOLOGIA_NEOPLASIA 441 450	neoplasia
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 936 943	tumoral
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 666 697	carcinoma ductal infiltrante G2
+#5	AnnotatorNotes T5	8500/32
+T6	MORFOLOGIA_NEOPLASIA 1021 1042	enfermedad diseminada
+#6	AnnotatorNotes T6	8000/6

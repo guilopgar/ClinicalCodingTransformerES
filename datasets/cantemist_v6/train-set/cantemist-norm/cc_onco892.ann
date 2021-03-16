@@ -1,0 +1,6 @@
+T1	MORFOLOGIA_NEOPLASIA 2506 2511	tumor
+#1	AnnotatorNotes T1	8000/1
+T2	MORFOLOGIA_NEOPLASIA 2486 2493	tumoral
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 196 244	carcinoma seroso papilar de ovario de alto grado
+#3	AnnotatorNotes T3	8461/34

@@ -1,0 +1,28 @@
+T1	MORFOLOGIA_NEOPLASIA 1855 1869	Adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 790 813	adenocarcinoma mucinoso
+#2	AnnotatorNotes T2	8480/3
+T3	MORFOLOGIA_NEOPLASIA 2212 2230	carcinoma mucinoso
+#3	AnnotatorNotes T3	8480/3
+T4	MORFOLOGIA_NEOPLASIA 2233 2259	células en anillo de sello
+#4	AnnotatorNotes T4	8490/3
+T5	MORFOLOGIA_NEOPLASIA 1067 1077	malignidad
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 756 766	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1883 1893	metástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 964 969	tumor
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 1142 1147	tumor
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 1513 1523	tumoración
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 1695 1702	tumoral
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 2024 2031	tumoral
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 2314 2323	tumorales
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 2174 2210	adenocarcinoma tipo intestinal mixto
+#14	AnnotatorNotes T14	8144/3/H

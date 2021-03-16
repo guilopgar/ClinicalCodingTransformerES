@@ -1,0 +1,20 @@
+Anamnesis
+Paciente de 55 años que acude a Urgencias por diarrea y fiebre de 2 días de evolución. El paciente no presenta alergias medicamentosas. Exfumador de 20 cigarrillos-día y enolismo moderado hasta 2015. Como antecedentes de interés destaca EPOC grave tipo enfisema y adenocarcinoma de pulmón pT1pN1cM0, estadio IIB, intervenido (lobectomía superior derecha) en julio de 2017, tras la cual el paciente declinó la quimioterapia adyuvante.
+El paciente presenta un cuadro de cefalea y vómitos desde hace 10 días, que asocia desde hace 48 horas fiebre de hasta 38ºC y diarrea (10 episodios/día), sin productos patológicos ni dolor abdominal, ni otra sintomatología. Ante normalidad de pruebas complementarias, se decide alta a domicilio con azitromicina y paracetamol. Dos días más tarde, acude de nuevo a Urgencias por persistencia de la clínica. Interrogando al paciente, refiere polidipsia y polaquiuria desde hace 10 días.
+
+Exploración física
+Presenta buen estado general, adecuada hidratación mucocutánea. Mantiene constantes adecuadas, afebril. Consciente y orientado en tres esferas, eupneico en reposo. Auscultación cardiopulmonar anodina.
+Abdomen blando, no doloroso durante la palpación, sin masas ni megalias, peristaltismo conservado, ni signos de peritonismo. Miembros inferiores sin edemas ni signos de TVP. Exploración neurológica sin signos de focalidad neurológica, ni otros hallazgos de interés.
+
+Pruebas complementarias
+Durante su llegada a Urgencias, se realiza analítica en la que se objetiva leucocitosis con desviación hacia la izquierda y PCR 17,54 mg/dl, decidiéndose ingreso hospitalario por persistencia de la clínica. Se inicia el estudio con analítica completa y estudio endoscópico, donde se objetivan datos de diverticulitis colónica, iniciándose antibioterapia con ciprofloxacino y metronidazol, con adecuada evolución. Durante el ingreso, el paciente presenta hipernatremia mantenida, y continúa con náuseas y astenia, por lo que solicitamos analítica con estudio hormonal, en la que destaca disminución del cortisol y somatomedina, de TSH y T4, de FSH, LH, testosterona y estradiol, e iniciamos tratamiento con hidrocortisona iv, con rápida mejoría clínica. Para completar estudio, se realiza TC toracoabdominopélvica, sin hallazgos de interés, y posteriormente, una RM hipofisiaria, en la que se objetiva una masa que parece infiltrar la hipófisis, a descartar metástasis u otras entidades como hipofisitis o sarcoidosis. Realizamos PET-TC, sin evidencia clara de enfermedad maligna macroscópica. Ante los hallazgos clínicos y analíticos de panhipopituitarismo y masa hipofisiaria, se añade tratamiento con levotiroxina, y se comenta el caso con Neurocirugía.
+
+Diagnóstico
+Metástasis hipofisiaria adenocarcinoma de pulmón. Panhipopituitarismo.
+
+Tratamiento
+Ante el hallazgo objetivado en RM hipofisiaria, Neurocirugía decide extirpación de la lesión hipofisiaria mediante abordaje endonasal. La Anatomía Patológica es compatible con metástasis de adenocarcinoma de pulmón, por lo que nos encontramos ante una progresión de enfermedad.
+El paciente comienza tratamiento hormonal sustitutivo, con adecuada evolución; y es valorado por Oncología Médica y Oncología Radioterápica, decidiéndose tratamiento con radioterapia estereotáxica en región hipofisiaria, recibiendo 5 fracciones de radioterapia.
+
+Evolución
+El paciente permanece clínicamente estable, con adecuado estado general y buen control sintomático, en seguimiento actual por Oncología Médica, Oncología Radioterápica, Neurocirugía y Endocrinología. Se realiza PET-TC de control, sin clara evidencia de enfermedad maligna macroscópica.

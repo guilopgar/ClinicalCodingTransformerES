@@ -1,0 +1,22 @@
+T1	MORFOLOGIA_NEOPLASIA 1424 1446	enfermedad a distancia
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1465 1475	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 4189 4199	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 4289 4296	tumoral
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 537 592	carcinoma urotelial de vejiga superficial de alto grado
+#5	AnnotatorNotes T5	8120/34
+T6	MORFOLOGIA_NEOPLASIA 802 838	carcinoma transicional de alto grado
+#6	AnnotatorNotes T6	8120/34
+T7	MORFOLOGIA_NEOPLASIA 1202 1249	adenocarcinoma de próstata multifocal gleason 6
+#7	AnnotatorNotes T7	8140/31
+T8	MORFOLOGIA_NEOPLASIA 1273 1309	carcinoma transicional de vejiga, G3
+#8	AnnotatorNotes T8	8120/33
+T9	MORFOLOGIA_NEOPLASIA 1618 1651	metástasis de carcinoma urotelial
+#9	AnnotatorNotes T9	8120/6
+T10	MORFOLOGIA_NEOPLASIA 5918 5930	metastásicas
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 4335 4349	lesiones óseas
+#11	AnnotatorNotes T11	8000/6

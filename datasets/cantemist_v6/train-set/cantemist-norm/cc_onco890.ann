@@ -1,0 +1,18 @@
+T1	MORFOLOGIA_NEOPLASIA 1061 1064	cM0
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1105 1112	cT3N0M0
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 3047 3054	maligno
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 2996 3006	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2414 2426	neoformación
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 601 627	adenoma prostático grado 2
+#6	AnnotatorNotes T6	8140/02
+T7	MORFOLOGIA_NEOPLASIA 807 842	adenocarcinoma prostático Gleason 5
+#7	AnnotatorNotes T7	8140/31
+T8	MORFOLOGIA_NEOPLASIA 1079 1093	Adenocarcinoma
+#8	AnnotatorNotes T8	8140/3
+T9	MORFOLOGIA_NEOPLASIA 2540 2566	angiosarcoma de alto grado
+#9	AnnotatorNotes T9	9120/34

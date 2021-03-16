@@ -1,0 +1,18 @@
+T1	MORFOLOGIA_NEOPLASIA 5602 5612	malignidad
+#1	AnnotatorNotes T1	8000/3
+T2	MORFOLOGIA_NEOPLASIA 7108 7120	neoformación
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 7419 7431	neoformativo
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 5448 5458	tumoración
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 5772 5779	tumoral
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 5723 5730	maligno
+#6	AnnotatorNotes T6	8000/3
+T7	MORFOLOGIA_NEOPLASIA 7787 7822	linfoma B difuso de células grandes
+#7	AnnotatorNotes T7	9680/3
+T8	MORFOLOGIA_NEOPLASIA 8024 8059	Linfoma difuso de células grandes B
+#8	AnnotatorNotes T8	9680/3
+T9	MORFOLOGIA_NEOPLASIA 8002 8009	linfoma
+#9	AnnotatorNotes T9	9590/3

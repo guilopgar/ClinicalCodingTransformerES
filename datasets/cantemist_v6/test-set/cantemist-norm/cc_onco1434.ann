@@ -1,0 +1,12 @@
+T1	MORFOLOGIA_NEOPLASIA 1623 1647	Angiosarcoma epitelioide
+#1	AnnotatorNotes T1	8804/3
+T2	MORFOLOGIA_NEOPLASIA 2187 2197	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 2367 2377	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2541 2551	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 1931 1941	tumoración
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 2128 2161	lesiones en zona parieto-temporal
+#6	AnnotatorNotes T6	8000/6

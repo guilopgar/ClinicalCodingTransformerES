@@ -1,0 +1,12 @@
+T1	MORFOLOGIA_NEOPLASIA 769 772	M1a
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 598 612	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 665 706	afectación metastásica pulmonar bilateral
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 543 553	malignidad
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 813 820	tumoral
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 676 687	metastásica
+#6	AnnotatorNotes T6	8000/6

@@ -1,0 +1,34 @@
+T1	MORFOLOGIA_NEOPLASIA 507 527	lesiones a distancia
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1093 1111	lesiones hepáticas
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1719 1737	lesiones hepáticas
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2585 2603	lesiones hepáticas
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 412 420	melanoma
+#5	AnnotatorNotes T5	8720/3
+T6	MORFOLOGIA_NEOPLASIA 768 779	metastásica
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1138 1148	metástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 2617 2627	metástasis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 4242 4252	metástasis
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 915 933	nódulos pulmonares
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 4324 4342	nódulos pulmonares
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 430 438	cT2aN0M0
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 952 976	lesión de partes blandas
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 1041 1059	lesión suprarrenal
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 1234 1265	metástasis por melanoma maligno
+#15	AnnotatorNotes T15	8720/6
+T16	MORFOLOGIA_NEOPLASIA 2534 2554	lesión retroesternal
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 4296 4308	metastásicas
+#17	AnnotatorNotes T17	8000/6

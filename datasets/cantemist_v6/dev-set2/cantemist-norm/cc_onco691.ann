@@ -1,0 +1,30 @@
+T1	MORFOLOGIA_NEOPLASIA 2045 2055	tumoración
+#1	AnnotatorNotes T1	8000/1
+T2	MORFOLOGIA_NEOPLASIA 2960 2967	tumoral
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 3268 3275	tumoral
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 3388 3395	tumoral
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 4149 4156	tumoral
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 4239 4246	tumoral
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 4793 4800	tumoral
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 2702 2711	tumorales
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 2917 2926	tumorales
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 3215 3224	tumorales
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 3552 3561	tumorales
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 1706 1732	tumor de origen gliomatoso
+#12	AnnotatorNotes T12	9380/1
+T13	MORFOLOGIA_NEOPLASIA 2214 2258	glioblastoma multiforme (grado IV de la WHO)
+#13	AnnotatorNotes T13	9440/34
+T14	MORFOLOGIA_NEOPLASIA 4996 5038	carcinoma ductal infiltrante multicéntrico
+#14	AnnotatorNotes T14	8500/3/H
+T15	MORFOLOGIA_NEOPLASIA 5305 5328	glioblastoma multiforme
+#15	AnnotatorNotes T15	9440/3

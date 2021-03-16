@@ -1,0 +1,6 @@
+T1	MORFOLOGIA_NEOPLASIA 99 105	T2N2M0
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 52 80	carcinoma ductal infiltrante
+#2	AnnotatorNotes T2	8500/3
+T3	MORFOLOGIA_NEOPLASIA 367 390	recidiva pleuropulmonar
+#3	AnnotatorNotes T3	8000/6

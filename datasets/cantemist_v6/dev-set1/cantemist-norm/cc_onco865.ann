@@ -1,0 +1,34 @@
+T1	MORFOLOGIA_NEOPLASIA 4196 4200	CNMP
+#1	AnnotatorNotes T1	8046/3
+T2	MORFOLOGIA_NEOPLASIA 1065 1079	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 419 445	adenopatía supraclavicular
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1220 1237	células tumorales
+#4	AnnotatorNotes T4	8001/1
+T5	MORFOLOGIA_NEOPLASIA 1393 1408	lesión hepática
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 886 896	malignidad
+#6	AnnotatorNotes T6	8000/3
+T7	MORFOLOGIA_NEOPLASIA 1292 1303	metastásica
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 3743 3753	metástasis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 704 734	nódulos pulmonares bilaterales
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 2531 2558	progresión a nivel pulmonar
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 3666 3685	progresión cerebral
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 3948 3955	tumoral
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 736 781	adenopatías mediastínicas y supraclaviculares
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 817 855	lesiones blásticas en columna cervical
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 1460 1525	adenocarcinoma de pulmón ALK positivo avanzado (estadio cT4cN3M1b
+#15	AnnotatorNotes T15	8140/6
+T16	MORFOLOGIA_NEOPLASIA 3102 3128	progresión a nivel del SNC
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 3152 3202	lesiones subcentimétricas supra e infratentoriales
+#17	AnnotatorNotes T17	8000/6

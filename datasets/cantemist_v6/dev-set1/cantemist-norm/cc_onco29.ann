@@ -1,0 +1,32 @@
+T1	MORFOLOGIA_NEOPLASIA 1612 1619	Adenoma
+#1	AnnotatorNotes T1	8140/0
+T2	MORFOLOGIA_NEOPLASIA 1655 1665	Hemangioma
+#2	AnnotatorNotes T2	9120/0
+T3	MORFOLOGIA_NEOPLASIA 1559 1568	carcinoma
+#3	AnnotatorNotes T3	8010/3
+T4	MORFOLOGIA_NEOPLASIA 4033 4052	lesiones pulmonares
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2343 2358	lesión pulmonar
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 2088 2111	metástasis de carcinoma
+#6	AnnotatorNotes T6	8010/6
+T7	MORFOLOGIA_NEOPLASIA 2414 2437	metástasis de carcinoma
+#7	AnnotatorNotes T7	8010/6
+T8	MORFOLOGIA_NEOPLASIA 2503 2526	metástasis de carcinoma
+#8	AnnotatorNotes T8	8010/6
+T9	MORFOLOGIA_NEOPLASIA 2965 2975	neoplásico
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 3732 3747	nódulo pulmonar
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 3887 3905	nódulos pulmonares
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 1351 1362	peritumoral
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 748 755	tumoral
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 1870 1877	tumoral
+#14	AnnotatorNotes T14	8000/1
+T15	MORFOLOGIA_NEOPLASIA 2201 2244	Carcinoma renal de células claras, pT3bN0M1
+#15	AnnotatorNotes T15	8310/6
+T16	MORFOLOGIA_NEOPLASIA 2757 2801	carcinoma renal de células claras, Fuhrman 3
+#16	AnnotatorNotes T16	8310/33

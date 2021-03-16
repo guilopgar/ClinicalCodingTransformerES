@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 1494 1508	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 2431 2450	lesiones cerebrales
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1643 1654	lesión ósea
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1787 1798	lesión ósea
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 1298 1305	tumoral
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 1021 1047	Lesión en rama iliopubiana
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1587 1641	Adenocarcinoma pulmonar estadio clínico IV-b (T2N2M1b)
+#7	AnnotatorNotes T7	8140/6
+T8	MORFOLOGIA_NEOPLASIA 2204 2222	lesiones, 1 ilíaca
+#8	AnnotatorNotes T8	8000/6

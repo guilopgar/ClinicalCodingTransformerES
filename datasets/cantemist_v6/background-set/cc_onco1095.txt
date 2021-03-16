@@ -1,0 +1,55 @@
+Anamnesis
+Varón de 75 años, hipertenso y con neuralgia del trigémino, que consulta por anemia y rectorragia. El paciente era exfumador desde hacía 10 años de 30 paquetes/año, pero sin hábito enólico.
+Su tratamiento habitual era indapamida 2,5 mg 1 comprimido al día, carbamazepina 200 mg 2 comprimidos cada 8 horas y hierro oral 1 comprimido al día desde hacía 3 meses.
+Como antecedentes familiares oncológicos destacaba un hepatocarcinoma en una tía materna y un cáncer anal en una tía paterna.
+El paciente acudió por anemia ferropénica de 3 meses de evolución en tratamiento con hierro oral por su médico de Atención Primaria y rectorragia de nueva aparición. No refería dolor abdominal, pérdida de peso ni anorexia.
+Habitualmente realizaba deposiciones diarias negruzcas, que el paciente relacionaba con el tratamiento con hierro oral.
+No refería otra sintomatología.
+
+Examen físico
+Buen estado general. Eupneico. Bien hidratado, nutrido y perfundido. Consciente y orientado en las tres esferas.
+No se palpaban adenopatías en las cadenas ganglionares accesibles.
+Auscultación cardiopulmonar: tonos rítmicos, sin soplos. Murmullo vesicular conservado, sin ruidos añadidos.
+Abdomen: ruidos hidroaéreos presentes. Blando, no doloroso a la palpación. No masas ni visceromegalias. Sin signos de irritación peritoneal.
+Miembros inferiores: no edema. No signos de trombosis venosa profunda. Pulsos pedios palpables.
+
+Pruebas complementarias
+- En la analítica sanguínea se observaba anemia ferropénica (hemoglobina 11,2 g/dl, VCM 82,6 fl, HCM 26,7 pg, hierro 26 ug/dl, ferritina 31 ng/ml, transferrina 291 mg/dl), alteración del perfil hepático con GGT de 96 UI/l y ALT, AST, LDH y fosfatasa alcalina dentro de los límites de la normalidad.
+El antígeno carcinoembrionario (CEA) era de 3,8 mg/dl (0-3 mg/dl), permaneciendo el CA19.9 en 6 UI/ml (0-4 UI/ml).
+En la colonoscopia se encontró a nivel de colon ascendente-ciego una tumoración excrecente y estenosante de aproximadamente 6 cm sugestiva de malignidad. Se tomaron biopsias con diagnóstico de adenocarcinoma de colon.
+- TC tóraco-abdómino-pélvica: engrosamiento mural irregular concéntrico en el colon ascendente de aproximadamente 10 cm con luz filiforme sin dilatación significativa del polo ileocecal ni asas intestinales. Presencia de adenopatías regionales de hasta 7 mm sospechosas de malignidad. Además, se identificaron dos LOE sólidas hipodensas de 1 y 2,5 cm en los segmentos VI y IVa sugerentes de implantes metastássicos. Sin alteraciones a otro nivel.
+
+Diagnóstico
+Adenocarcinoma de colon estadio IV (cT4N1M1a).
+
+Tratamiento
+El paciente fue presentado en el Comité de Tumores Colorrectales, decidiéndose realizar en primer lugar una hemicolectomía derecha con anastomosis latero-lateral y posteriormente tratamiento quimioterápico neoadyuvante con intención de realizar posterior cirugía hepática.
+En la pieza quirúrgica se encontró un adenocarcinoma de colon de 5 x 5 cm que infiltraba la totalidad de la pared colónica, alcanzando la grasa perivisceral subyacente y perforando focalmente la serosa. De los 24 ganglios linfáticos aislados se observaba metástasis en uno de ellos. Estadio UICC pT4aN1a. La determinación de mutación en el gen KRAS fue negativa.
+En el postoperatorio inmediato presentó como complicaciones un episodio de suboclusión intestinal, que se resolvió con manejo conservador, la aparición de múltiples abscesos no drenables adyacentes a la zona de sutura, que se trataron con meropenem y vancomicina durante 7 días, con buena evolución, y neumonía nosocomial tratada con piperacilina-tazobactam durante 7 días.
+Tras el alta y la estabilización, se remitió al paciente al Servicio de Oncología Médica, iniciándose el tratamiento quimioterápico mediante el esquema FOLFOX (fluorouracilo, ácido folínico y oxaliplatino).
+El paciente recibió únicamente dos ciclos con frecuentes retrasos por neutropenia grado 1-2 que requirieron tratamiento de soporte con factores estimulantes de colonias granulocíticas (G-CSF) y trombopenia grado 1, por lo que se decidió suspender el mismo. Tras ello, se realizó una RM hepática, en la que se evidenciaron las lesiones previamente descritas en el segmento IVa y VI y la aparición de una nueva lesión de 5 mm en la superficie más posterior del segmento VII.
+En la analítica sanguínea no se encontraron nuevas alteraciones, siendo los valores de los marcadores tumorales (CEA y CA 19.9) normales.
+Se desestimó la realización de cirugía hepática debido a la edad del paciente, la localización de las lesiones que implicaría una resección extensa y la progresión de la enfermedad. Se decidió realizar radiofrecuencia sobre la lesión del segmento IVa, la única visible en la ecografía hepática con contraste, sin complicaciones.
+A las 4 semanas se realizó una RM, en la cual se objetivaba la persistencia de las lesiones, permaneciendo estables las lesiones de los segmentos VI y VII y el crecimiento de la lesión en el segmento IVa, alcanzando 3,9 cm. En la analítica presentaba elevación de los valores de CEA a 6 mg/dl, siendo el resto normales.
+Se descartó realizar una nueva sesión de radiofrecuencia debido al crecimiento de la lesión en la zona más distal, por lo que se optó por la radioembolización con microesferas de Ytrio90.
+En la arteriografía previa a la embolización se observaba comunicación entre la arteria gastroduodenal y la arteria mesentérica superior, y a su vez entre la arteria hepática izquierda con la derecha.
+La gammagrafía arterial con Tc99 de la circulación hepática demostró distribución del radiotrazador en las imágenes planares y en el SPECT-TC en el lóbulo hepático izquierdo, sin visualización gammagráfica de gran proporción del lóbulo derecho. Se observaba en la región teórica del hipocondrio izquierdo acúmulo focal del radiotrazador, que en el estudio SPET-TC no se correspondía con actividad gástrica, la cual podría corresponder al diafragma o a la lengüeta hepática. El shunt hepatopulmonar era de 4% (> 20% contraindica la radioembolización).
+A las 4 semanas se realizó la radioembolización de las lesiones del lóbulo hepático izquierdo a través de la arteria hepática izquierda, sin complicaciones.
+Tras 4 semanas, en la RM se observó la reducción del tamaño de la lesión del segmento IVa con 35 mm de diámetro máximo, permaneciendo estables el resto.
+
+Evolución
+Tras 2 meses del procedimiento el paciente comienza con náuseas, vómitos y dolor abdominal en el epigastrio y el epicondrio derecho, por lo que acude en varias ocasiones a Urgencias, siendo dado de alta con mejoría parcial tras tratamiento sintomático con metoclopramida, paracetamol y metamizol. Debido a la persistencia de la sintomatología se decide el ingreso hospitalario para su estudio.
+A la exploración física el paciente estaba estable hemodinámicamente y únicamente destacaba el dolor a la palpación difusa en todo el abdomen, sin signos de irritación peritoneal, con ruidos hidroaéreos presentes.
+Se realizó una radiografía de abdomen sin dilatación de asas intestinal ni gas extraluminal.
+En la analítica sanguínea presentaba datos de desnutrición calórico-proteica como hipoalbuminenia e hipoproteinemia y niveles bajos de colesterol. Además, destacaba la alteración del perfil hepático con GGT 399 UI/l, ALT 55 UI/l y AST 50 UI/l.
+Los marcadores tumorales (CEA y alfa-fetoproteína) permanecían dentro de los límites de la normalidad.
+Se realizó una TC-body, sin nuevos hallazgos con respecto a exploraciones previas, descartándose la progresión de la enfermedad como origen del cuadro. Se inició tolerancia oral y dieta progresiva, con buena evolución, por lo que se decidió dar de alta al paciente a su domicilio con analgesia oral.
+Tras 10 días el paciente acude por persistencia de la sintomatología junto con fiebre de 38 ºC, sin focalidad infecciosa.
+La analítica sanguínea era similar a la del ingreso previo, sin nuevas alteraciones.
+Se realizó una gastroscopia, en la que se encontró a nivel del antro gástrico la mucosa muy edematosa, eritematosa, con una gran úlcera plana recubierta de fibrina que se extendía hasta el píloro disminuyendo el calibre de este. A nivel del bulbo y la segunda porción duodenal se encontraron alteraciones similares con múltiples úlceras rodeadas de tejido adenomatoso circundante.
+Se tomaron múltiples biopsias, con resultado de cambios de fondo y borde de úlceras focales asociadas a la presencia de cuerpos extraños esféricos en los vasos linfáticos. Todo ello era compatible con el diagnóstico de úlceras actínicas/isquémicas en relación con microesferas de Ytrio.
+El paciente comenzó tratamiento con inhibidores de la bomba de protones a dosis dobles, con buena evolución, siendo dado de alta con tolerancia oral positiva.
+Tras 10 días el paciente reingresa por mal control del dolor abdominal, intolerancia digestiva y melenas.
+Se realizó una nueva endoscopia, con resultados similares a la previa. Ante la persistencia de la sintomatología se realizó una TC abdominal, hallándose un engrosamiento mural concéntrico desde el antro gástrico hasta la mitad de la tercera porción duodenal con estenosis luminal concéntrica incompleta. Debido a la sintomatología del paciente y el resultado de las pruebas complementarias, se decidió realizar una gastroenteroanastomosis. No se desarrollaron complicaciones durante el postoperatorio, por lo que fue dado de alta.
+A las 2 semanas el paciente acude a otro hospital por dolor abdominal mal controlado y aumento del perímetro abdominal. Se realiza una PET-TC, confirmándose la progresión masiva a nivel hepático, peritoneal y ganglionar.
+El paciente presentaba muy mal estado general, por lo que finalmente se desestima cualquier tratamiento activo y se decide remitir a la Unidad de Cuidados Paliativos domiciliarios.

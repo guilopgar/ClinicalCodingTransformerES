@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 2092 2095	LMA
+#1	AnnotatorNotes T1	9861/3
+T2	MORFOLOGIA_NEOPLASIA 2328 2331	LMA
+#2	AnnotatorNotes T2	9861/3
+T3	MORFOLOGIA_NEOPLASIA 338 344	T2N1M0
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2178 2187	neoplasia
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 1153 1169	sarcoma mieloide
+#5	AnnotatorNotes T5	9930/3
+T6	MORFOLOGIA_NEOPLASIA 169 179	tumoración
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 214 246	carcinoma intraductal de grado I
+#7	AnnotatorNotes T7	8500/21
+T8	MORFOLOGIA_NEOPLASIA 930 959	células mieloides neoplásicas
+#8	AnnotatorNotes T8	8001/1
+T9	MORFOLOGIA_NEOPLASIA 2025 2043	Sarcomas mieloides
+#9	AnnotatorNotes T9	9930/3
+T10	MORFOLOGIA_NEOPLASIA 2067 2127	leucemia mieloide aguda (LMA) relacionada con la terapéutica
+#10	AnnotatorNotes T10	9920/3

@@ -1,0 +1,12 @@
+T1	MORFOLOGIA_NEOPLASIA 3361 3370	carcinoma
+#1	AnnotatorNotes T1	8010/3
+T2	MORFOLOGIA_NEOPLASIA 5036 5042	cáncer
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 5474 5480	cáncer
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 235 244	neoplasia
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 510 555	adenocarcinoma seroso de ovario de alto grado
+#5	AnnotatorNotes T5	8441/34
+T6	MORFOLOGIA_NEOPLASIA 5503 5512	letálides
+#6	AnnotatorNotes T6	8000/6

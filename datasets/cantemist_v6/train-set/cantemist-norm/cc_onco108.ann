@@ -1,0 +1,26 @@
+T1	MORFOLOGIA_NEOPLASIA 764 793	adenocarcinoma seroso papilar
+#1	AnnotatorNotes T1	8460/3
+T2	MORFOLOGIA_NEOPLASIA 258 268	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1687 1697	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1631 1641	neoplásico
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 582 587	tumor
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 390 397	tumoral
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 3231 3238	tumoral
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 167 209	adenocarcinoma de ovario seroso papilar G2
+#8	AnnotatorNotes T8	8460/32
+T9	MORFOLOGIA_NEOPLASIA 2297 2312	lesión cerebral
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 2542 2624	Metástasis cerebral única de adenocarcinoma seroso papilar de ovario de alto grado
+#10	AnnotatorNotes T10	8460/64
+T11	MORFOLOGIA_NEOPLASIA 1425 1480	lesión ocupante de espacio nodular en el lóbulo frontal
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 2777 2789	LOE cerebral
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 3532 3575	adenocarcinoma seroso papilar de alto grado
+#13	AnnotatorNotes T13	8460/34

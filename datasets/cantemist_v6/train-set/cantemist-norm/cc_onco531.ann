@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 531 533	M0
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 448 464	melanoma maligno
+#2	AnnotatorNotes T2	8720/3
+T3	MORFOLOGIA_NEOPLASIA 2380 2391	metastásica
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 495 511	micrometastásica
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2973 3037	Recaída locorregional, ganglionar y pulmonar de melanoma maligno
+#5	AnnotatorNotes T5	8720/6
+T6	MORFOLOGIA_NEOPLASIA 2744 2759	nódulo pulmonar
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 2393 2449	Adenopatías patológicashipervasculares supraclaviculares
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 2800 2859	adenopatías laterocervicales bilaterales, supraclaviculares
+#8	AnnotatorNotes T8	8000/6

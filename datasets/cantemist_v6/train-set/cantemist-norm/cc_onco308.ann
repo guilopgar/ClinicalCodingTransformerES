@@ -1,0 +1,46 @@
+T1	MORFOLOGIA_NEOPLASIA 2457 2459	M0
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 2695 2697	M0
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 3399 3401	M0
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2811 2819	Melanoma
+#4	AnnotatorNotes T4	8720/3
+T5	MORFOLOGIA_NEOPLASIA 1671 1681	meningioma
+#5	AnnotatorNotes T5	9530/0
+T6	MORFOLOGIA_NEOPLASIA 1830 1840	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 456 466	tumoración
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 641 651	tumoración
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 1196 1206	tumoración
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 1841 1851	tumoración
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 4118 4125	tumoral
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 719 727	melanoma
+#12	AnnotatorNotes T12	8720/3
+T13	MORFOLOGIA_NEOPLASIA 1427 1435	melanoma
+#13	AnnotatorNotes T13	8720/3
+T14	MORFOLOGIA_NEOPLASIA 2399 2439	adenocarcinoma de pulmón de tipo papilar
+#14	AnnotatorNotes T14	8260/3
+T15	MORFOLOGIA_NEOPLASIA 2538 2565	carcinoma de patrón papilar
+#15	AnnotatorNotes T15	8050/3
+T16	MORFOLOGIA_NEOPLASIA 2605 2643	carcinoma ductal in situ de bajo grado
+#16	AnnotatorNotes T16	8500/21
+T17	MORFOLOGIA_NEOPLASIA 3043 3075	adenocarcinoma de pulmón papilar
+#17	AnnotatorNotes T17	8260/3
+T18	MORFOLOGIA_NEOPLASIA 3077 3085	pT2aN0M0
+#18	AnnotatorNotes T18	8000/6
+T19	MORFOLOGIA_NEOPLASIA 3230 3268	Carcinoma ductal infiltrante grado III
+#19	AnnotatorNotes T19	8500/33
+T20	MORFOLOGIA_NEOPLASIA 3841 3860	implante peritoneal
+#20	AnnotatorNotes T20	8000/6
+T21	MORFOLOGIA_NEOPLASIA 2538 2572	carcinoma de patrón papilar sólido
+#21	AnnotatorNotes T21	8230/3
+T22	MORFOLOGIA_NEOPLASIA 4461 4478	nódulo peritoneal
+#22	AnnotatorNotes T22	8000/6
+T23	MORFOLOGIA_NEOPLASIA 4602 4620	nódulo mesentérico
+#23	AnnotatorNotes T23	8000/6

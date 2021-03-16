@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 2576 2597	Carcinoma infiltrante
+#1	AnnotatorNotes T1	8010/3/H
+T2	MORFOLOGIA_NEOPLASIA 2112 2141	adenopatías supraclaviculares
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1769 1778	carcinoma
+#3	AnnotatorNotes T3	8010/3
+T4	MORFOLOGIA_NEOPLASIA 2683 2704	carcinoma infiltrante
+#4	AnnotatorNotes T4	8010/3/H
+T5	MORFOLOGIA_NEOPLASIA 1861 1878	células tumorales
+#5	AnnotatorNotes T5	8001/1
+T6	MORFOLOGIA_NEOPLASIA 1920 1937	células tumorales
+#6	AnnotatorNotes T6	8001/1
+T7	MORFOLOGIA_NEOPLASIA 2221 2231	malignidad
+#7	AnnotatorNotes T7	8000/3
+T8	MORFOLOGIA_NEOPLASIA 2394 2404	metástasis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 1563 1606	carcinoma infiltrante grado 2 de Nottingham
+#9	AnnotatorNotes T9	8010/32/H
+T10	MORFOLOGIA_NEOPLASIA 1655 1689	carcinoma in situ de patrón sólido
+#10	AnnotatorNotes T10	8230/2
+T11	MORFOLOGIA_NEOPLASIA 3222 3258	carcinoma concordante con metástasis
+#11	AnnotatorNotes T11	8010/6
+T12	MORFOLOGIA_NEOPLASIA 2508 2543	carcinoma compatible con metástasis
+#12	AnnotatorNotes T12	8010/6

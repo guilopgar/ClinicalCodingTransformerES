@@ -1,0 +1,44 @@
+T1	MORFOLOGIA_NEOPLASIA 2345 2354	carcinoma
+#1	AnnotatorNotes T1	8010/3
+T2	MORFOLOGIA_NEOPLASIA 158 164	cáncer
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 1573 1579	cáncer
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 3207 3213	cáncer
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 2432 2449	células tumorales
+#5	AnnotatorNotes T5	8001/1
+T6	MORFOLOGIA_NEOPLASIA 1282 1293	metastásica
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 3426 3436	metástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 6793 6816	metástasis de carcinoma
+#8	AnnotatorNotes T8	8010/6
+T9	MORFOLOGIA_NEOPLASIA 5503 5515	neoformación
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 7039 7044	tumor
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 2043 2053	tumoración
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 3121 3147	cáncer de mama metastásico
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 3345 3356	metastásica
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 5251 5300	neoplasia primaria renal sin descartar metástasis
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 6562 6592	metástasis de carcinoma ductal
+#15	AnnotatorNotes T15	8500/6
+T16	MORFOLOGIA_NEOPLASIA 6607 6638	carcinoma de células cromófobas
+#16	AnnotatorNotes T16	8270/3
+T17	MORFOLOGIA_NEOPLASIA 4671 4690	lesiones pulmonares
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 1181 1211	lesión supra-acetabular cadera
+#18	AnnotatorNotes T18	8000/6
+T19	MORFOLOGIA_NEOPLASIA 1798 1838	lesión costal izquierda (partes blandas)
+#19	AnnotatorNotes T19	8000/6
+T20	MORFOLOGIA_NEOPLASIA 5138 5180	masa localizada en polo superior del riñón
+#20	AnnotatorNotes T20	8000/6
+T21	MORFOLOGIA_NEOPLASIA 5063 5081	lesiones blásticas
+#21	AnnotatorNotes T21	8000/6
+T22	MORFOLOGIA_NEOPLASIA 1159 1178	lesión lítica L4-L5
+#22	AnnotatorNotes T22	8000/6

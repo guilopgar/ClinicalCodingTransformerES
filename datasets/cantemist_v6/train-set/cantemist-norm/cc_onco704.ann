@@ -1,0 +1,26 @@
+T1	MORFOLOGIA_NEOPLASIA 1016 1018	M0
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 967 981	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 99 105	cáncer
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 2279 2289	malignidad
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 2578 2589	metastásica
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 2947 2958	metastásica
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1514 1524	metástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 3330 3337	tumoral
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 633 674	adenocarcinoma moderadamente diferenciado
+#9	AnnotatorNotes T9	8140/32
+T10	MORFOLOGIA_NEOPLASIA 876 888	metastásicas
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 2317 2327	neoplásica
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 2421 2433	metastásicas
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 2487 2528	adenocarcinoma moderadamente diferenciado
+#13	AnnotatorNotes T13	8140/32

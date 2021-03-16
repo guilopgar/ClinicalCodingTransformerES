@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 327 339	angiosarcoma
+#1	AnnotatorNotes T1	9120/3
+T2	MORFOLOGIA_NEOPLASIA 1088 1100	angiosarcoma
+#2	AnnotatorNotes T2	9120/3
+T3	MORFOLOGIA_NEOPLASIA 149 157	malignos
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 2060 2070	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2371 2390	progresión hepática
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 1281 1286	tumor
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 1424 1429	tumor
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 1443 1448	tumor
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 14 21	tumores
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 173 209	angiosarcomas cardíacos metastásicos
+#10	AnnotatorNotes T10	9120/6
+T11	MORFOLOGIA_NEOPLASIA 1012 1065	lesiones líticas en la medular de cuerpos vertebrales
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 1128 1190	Angiosarcoma de la aurícula derecha, estadio IV por metástasis
+#12	AnnotatorNotes T12	9120/6

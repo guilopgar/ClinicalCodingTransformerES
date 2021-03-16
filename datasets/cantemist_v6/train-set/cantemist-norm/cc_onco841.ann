@@ -1,0 +1,12 @@
+T1	MORFOLOGIA_NEOPLASIA 110 140	poliposis adenomatosa familiar
+#1	AnnotatorNotes T1	8220/0
+T2	MORFOLOGIA_NEOPLASIA 1371 1392	fibromatosis desmoide
+#2	AnnotatorNotes T2	8821/1
+T3	MORFOLOGIA_NEOPLASIA 1444 1466	neoplásica mesenquimal
+#3	AnnotatorNotes T3	8800/1
+T4	MORFOLOGIA_NEOPLASIA 1823 1837	tumor desmoide
+#4	AnnotatorNotes T4	8821/1
+T5	MORFOLOGIA_NEOPLASIA 1856 1886	poliposis adenomatosa familiar
+#5	AnnotatorNotes T5	8220/0
+T6	MORFOLOGIA_NEOPLASIA 1888 1907	síndrome de Gardner
+#6	AnnotatorNotes T6	8220/0

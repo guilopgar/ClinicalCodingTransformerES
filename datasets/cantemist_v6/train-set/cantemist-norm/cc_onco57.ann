@@ -1,0 +1,18 @@
+T1	MORFOLOGIA_NEOPLASIA 1482 1499	carcinoma papilar
+#1	AnnotatorNotes T1	8050/3
+T2	MORFOLOGIA_NEOPLASIA 1160 1170	malignidad
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 1442 1454	metastásicas
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2201 2210	neoplasia
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 1975 1982	tumores
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 923 940	carcinoma papilar
+#6	AnnotatorNotes T6	8260/3
+T7	MORFOLOGIA_NEOPLASIA 967 984	Carcinoma papilar
+#7	AnnotatorNotes T7	8260/3
+T8	MORFOLOGIA_NEOPLASIA 3511 3522	metastásica
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 3642 3653	metastásica
+#9	AnnotatorNotes T9	8000/6

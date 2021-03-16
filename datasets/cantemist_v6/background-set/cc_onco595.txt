@@ -1,0 +1,58 @@
+Anamnesis
+Mujer de 70 años. Ama de casa.
+
+Antecedentes personales
+» No RAMc. Niega hábitos tóxicos. Hipertensión arterial, dislipemia y diabetes mellitus tipo 2.
+» Fibrilación auricular paroxística. Valvulopatía mitral reumática. Hipertensión pulmonar.
+» Insuficiencia renal crónica moderada.
+» Tratamiento habitual: amiodarona 100 mg/24 h; bisoprolol 5 mg/24 h; espironolactona 12,5 mg/24 h; furosemida 20 mg/24 h; simvastatina 40 mg/24 h; canagliflozina 100 mg/24 h; acenocumarol; exemestano 25 mg/24 h.
+
+Historia oncológica
+Diagnosticada en 2011 de carcinoma lobulillar infiltrante de mama derecha, estadio clínico T3N1M0. Receptores de estrógenos positivos (> 95 %). Receptores de progesterona positivos (> 95 %). HER-2 negativo. Recibió quimioterapia neoadyuvante con doxorrubicina-ciclofosfamida (4 ciclos), seguido de docetaxel (4 ciclos). Posteriormente, se llevó a cabo mastectomía radical modificada, con estadio patológico ypT2 ypN1a M0, y tratamiento adyuvante con radioterapia y hormonoterapia (letrozol) durante cinco años. Es dada de alta y puesta en seguimiento posteriormente por su médico de Atención Primaria.
+En diciembre de 2018 es derivada a Oncología por aumento progresivo de marcadores tumorales en analítica, monitorizados por su médico de Atención Primaria. La paciente se encontraba asintomática y la exploración física no mostraba signos de actividad neoplásica. Se solicitan pruebas complementarias, donde se descubren metástasis óseas en columna vertebral y pelvis.
+Se decide inicio de tratamiento con palbociclib y exemestano en diciembre de 2018. La paciente acudió al 2º ciclo, evidenciándose en control analítico toxicidad hepática (con aumento de transaminasas G3,) por lo que no se prescribe palbociclib, continuando únicamente con exemestano.
+
+Enfermedad actual
+La paciente acude al mes del inicio del primer ciclo de palbociclib a Urgencias por astenia y mialgias. La clínica comenzó a los 5-7 días de inicio del mismo, y con empeoramiento progresivo. En los últimos días presentaba pérdida de fuerza generalizada, de predominio en miembros inferiores, limitando su actividad, y permaneciendo encamada por dicho motivo. Además, mialgias ante pequeños esfuerzos, orina oscura, sin clínica miccional, afebril y negaba otra sintomatología acompañante.
+
+Exploración física
+» Paciente con aceptable estado general, consciente, orientada y colaboradora, bien hidratada y perfundida, eupneica en reposo.
+» PS 4 (ECOG); saturación de O2 del 99 % basal; frecuencia cardiaca 60 lpm; TA 170/100 mm Hg; afebril.
+» Auscultación cardiopulmonar: tonos arrítmicos, soplo sistólico. Murmullo vesicular conservado, sin ruidos patológicos sobreañadidos.
+» Abdomen blando y depresible, no doloroso durante la palpación profunda, ruidos hidroaéreos conservados, sin signos de irritación peritoneal.
+» Miembros inferiores: edemas con fóvea pretibiales, sin signos de trombosis.
+» Exploración neurológica: fuerza en miembros superiores (4/5); fuerza en miembros inferiores (3+/5); cuádriceps (3/5); sensibilidad conservada. Reflejos conservados. Incapacidad para la marcha. No hay alteraciones de pares craneales.
+
+Pruebas complementarias
+
+PRUEBAS COMPLEMENTARIAS A SU LLEGADA A URGENCIAS
+Analítica
+» Hemograma: hemoglobina 13,5 g/dl; leucocitos 7.350 (neutrófilos 4.840); plaquetas 271.000.
+» Bioquímica: glucemia 150 mg/dl; urea 119 mg/dl; creatinina 1,7 mg/dl (previa 2,2); sodio 135 mmol/l; potasio 4,36; amilasa 64; GOT 1.088 U/l; GPT 723 U/l; bilirrubina total 0,77 mg/dl; LDH 2.006 U/l; proteína C reactiva 17,6; CK 22.741 U/l.
+» Coagulación: INR 2,99; actividad de protrombina 24 %.
+Sistemático de orina: pH 5,5; proteínas 200; glucosa 1.000; hematíes 300.
+Radiografía de tórax: cardiomegalia, signos de redistribución vascular, sin pinzamiento de senos, ni infiltrados.
+ECG: ritmo sinocal con bloqueo AV de primer grado a 54 lpm; sin alteraciones agudas de la repolarización.
+
+PRUEBAS COMPLEMENTARIAS A LO LARGO DEL INGRESO
+Analítica
+» Hemograma: hemoglobina 12,6 g/dl; leucocitos 5.960 con fórmula normal; plaquetas 239.000.
+» Coagulación: tiempo de protrombina 43,7 seg; actividad de protrombina 19 %; INR 3,77; TPTA 48,5 segundos; fibrinógeno 484 mg/dl.
+» Bioquímica: glucemia 129 mg/dl, urea 129 mg/dl, ácido úrico 7,9 mg/dl, creatinina 1,7 mg/dl, GOT 1.088 U/l, GPT 723 U/l, gamma-GT 132 U/l, fosfatasa alcalina 94 U/L, Br total 0,77 mg/dl, LDH 2.006 U/l, CK 17.522 U/l, aldolasa 104,0 U/L, PCR 16,7 mg/l, proteínas totales 5,58 g/dl, Ca corregido 10 mg/l, P 4,1 mg/dl, Mg 2,2 mg/dl, Na 140 mmol/l, Cl 101 mmol/l, colesterol total 118 mg/dl, triglicéridos 139 mg/dl, albúmina 3,8 g/dl, TSH 3,75 UI/ml.
+Serología: VHA, VHB, VHC negativos. VHB no inmunizado. VIH negativo, VEB compatible con infección pasada, CMV negativo.
+Estudio autoinmunidad: ANA negativo, Ac anti-JO-1 negativo, Ac antimitocondriales negativo, Ac anti-PMScl negativo, Ac anti-Ku negativo, Ac anti-Mi-2 negativo.
+
+Diagnóstico
+Rabdomiolisis y hepatitis secundaria a toxicidad farmacológica (interacción de palbociclib, estatinas y amiodarona).
+
+Tratamiento
+Se procede a ingreso hospitalario, para sueroterapia intravenosa y alcalinización de la orina. Además de tratamiento con furosemida, para evitar sobrecarga hídrica de la paciente, con patología cardiaca de base.
+Se suspendieron los fármacos con sospecha de interacción con palbociclib (tanta la estatina como amiodarona). Palbociclib se había retirado en la semana previa, debido a la hipertransaminasemia de grado 3.
+
+Evolución
+Con el tratamiento instaurado la evolución de la paciente fue favorable, con descenso progresivo de enzimas hepáticas y musculares. Con el inicio de la actividad física precoz, se produjo un empeoramiento clínico transitorio con aumento de enzimas musculares. Finalmente, la evolución continuó su curso favorable, con resolución de la debilidad muscular, normalización de marcadores hepáticos, musculares y función renal.
+Evolución de marcadores hepáticos y musculares
+» GOT: 963 --> 1088 --> 888 --> 496 --> 31
+» GPT: 681 --> 723 --> 549 --> 242 --> 33
+» CPK: 22.741-->17.522-->17.349-->27.084-->10.834-->2.321-->270
+Actualmente la paciente se encuentra asintomática, sin síntomas secundarios a las metástasis óseas, con capacidad funcional de 1 (ECOG). En pruebas complementarias se han corregido las alteraciones analíticas. Recibe tratamiento oncológico únicamente con exemestano.

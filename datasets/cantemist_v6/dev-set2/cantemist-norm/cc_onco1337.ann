@@ -1,0 +1,14 @@
+T1	MORFOLOGIA_NEOPLASIA 341 351	metástasis
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 775 785	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1319 1329	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1210 1233	metástasis de carcinoma
+#4	AnnotatorNotes T4	8010/6
+T5	MORFOLOGIA_NEOPLASIA 1029 1107	carcinoma acinar pancreático mixto, con áreas de diferenciación neuroendocrina
+#5	AnnotatorNotes T5	8154/3
+T6	MORFOLOGIA_NEOPLASIA 1485 1522	carcinoma mixto acinar-neuroendocrino
+#6	AnnotatorNotes T6	8154/3
+T7	MORFOLOGIA_NEOPLASIA 2119 2196	carcinoma pancreático acinar mixto con áreas de diferenciación neuroendocrina
+#7	AnnotatorNotes T7	8154/3

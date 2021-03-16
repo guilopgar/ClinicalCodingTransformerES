@@ -1,0 +1,8 @@
+T1	MORFOLOGIA_NEOPLASIA 954 968	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 637 647	malignidad
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 954 991	adenocarcinoma de patrón micropapilar
+#3	AnnotatorNotes T3	8265/3
+T4	MORFOLOGIA_NEOPLASIA 1187 1221	adenocarcinoma de pulmón cT2aN3M1c
+#4	AnnotatorNotes T4	8140/6

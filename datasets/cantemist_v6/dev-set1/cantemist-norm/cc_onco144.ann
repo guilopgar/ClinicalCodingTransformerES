@@ -1,0 +1,28 @@
+T1	MORFOLOGIA_NEOPLASIA 8024 8033	formación
+#1	AnnotatorNotes T1	8000/1
+T2	MORFOLOGIA_NEOPLASIA 6439 6465	lesiones focales hepáticas
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 7512 7522	malignidad
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 7440 7450	metastasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 6584 6594	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 6836 6846	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 8066 8075	neoplasia
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 8607 8617	neoplásica
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 7676 7686	neoplásico
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 7026 7031	tumor
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 10294 10301	tumoral
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 6788 6821	lesiones hipoecogénicas hepáticas
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 8211 8287	adenocarcinoma gástrico moderadamente diferenciado, variante anillo de sello
+#13	AnnotatorNotes T13	8490/32
+T14	MORFOLOGIA_NEOPLASIA 8714 8745	focos en el parénquima hepático
+#14	AnnotatorNotes T14	8000/6

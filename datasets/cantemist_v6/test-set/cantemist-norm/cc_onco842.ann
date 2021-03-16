@@ -1,0 +1,26 @@
+T1	MORFOLOGIA_NEOPLASIA 3840 3850	Metástasis
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 2653 2682	adenopatías supraclaviculares
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 2074 2107	carcinoma pobremente diferenciado
+#3	AnnotatorNotes T3	8010/33
+T4	MORFOLOGIA_NEOPLASIA 3927 3960	carcinoma pobremente diferenciado
+#4	AnnotatorNotes T4	8010/33
+T5	MORFOLOGIA_NEOPLASIA 2165 2182	células tumorales
+#5	AnnotatorNotes T5	8001/1
+T6	MORFOLOGIA_NEOPLASIA 769 779	malignidad
+#6	AnnotatorNotes T6	8000/3
+T7	MORFOLOGIA_NEOPLASIA 2049 2059	metástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 3259 3269	metástasis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 3417 3427	metástasis
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 2281 2286	tumor
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 4454 4459	tumor
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 3521 3528	tumoral
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 4148 4177	tumores de origen desconocido
+#13	AnnotatorNotes T13	8000/9

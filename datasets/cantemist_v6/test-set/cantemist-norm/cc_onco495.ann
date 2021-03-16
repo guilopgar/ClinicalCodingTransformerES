@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 1029 1071	carcinoma escamoso pobremente diferenciado
+#1	AnnotatorNotes T1	8070/33
+T2	MORFOLOGIA_NEOPLASIA 2280 2304	carcinoma indiferenciado
+#2	AnnotatorNotes T2	8020/3
+T3	MORFOLOGIA_NEOPLASIA 1130 1141	metastásica
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1525 1532	tumoral
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 2178 2185	tumoral
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 3290 3299	tumorales
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 2202 2209	tumores
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 1173 1224	Carcinoma escamoso de pulmón AJCC 7 E IV B (cT4N3M1
+#8	AnnotatorNotes T8	8070/6

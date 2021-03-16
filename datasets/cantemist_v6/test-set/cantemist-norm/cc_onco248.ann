@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 2884 2917	Carcinoma pobremente diferenciado
+#1	AnnotatorNotes T1	8010/33
+T2	MORFOLOGIA_NEOPLASIA 2814 2847	carcinoma pobremente diferenciado
+#2	AnnotatorNotes T2	8010/33
+T3	MORFOLOGIA_NEOPLASIA 2261 2288	carcinoma poco diferenciado
+#3	AnnotatorNotes T3	8010/33
+T4	MORFOLOGIA_NEOPLASIA 2078 2094	células malignas
+#4	AnnotatorNotes T4	8001/3
+T5	MORFOLOGIA_NEOPLASIA 1808 1819	metastásica
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 659 669	tumoración
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 2535 2571	Carcinoma indiferenciado metastásico
+#7	AnnotatorNotes T7	8020/6
+T8	MORFOLOGIA_NEOPLASIA 3117 3153	carcinoma indiferenciado metastásico
+#8	AnnotatorNotes T8	8020/6

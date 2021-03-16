@@ -1,0 +1,72 @@
+T1	MORFOLOGIA_NEOPLASIA 1488 1491	CLI
+#1	AnnotatorNotes T1	8520/3
+T2	MORFOLOGIA_NEOPLASIA 2442 2445	CLI
+#2	AnnotatorNotes T2	8520/3
+T3	MORFOLOGIA_NEOPLASIA 2915 2918	CLI
+#3	AnnotatorNotes T3	8520/3
+T4	MORFOLOGIA_NEOPLASIA 653 677	Carcinoma indiferenciado
+#4	AnnotatorNotes T4	8020/3
+T5	MORFOLOGIA_NEOPLASIA 1454 1486	Carcinoma lobulillar infiltrante
+#5	AnnotatorNotes T5	8520/3
+T6	MORFOLOGIA_NEOPLASIA 6594 6626	Carcinoma lobulillar infiltrante
+#6	AnnotatorNotes T6	8520/3
+T7	MORFOLOGIA_NEOPLASIA 5723 5739	Lesiones líticas
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 4325 4334	carcinoma
+#8	AnnotatorNotes T8	8010/3
+T9	MORFOLOGIA_NEOPLASIA 868 926	infiltración dérmica por carcinoma pobremente diferenciado
+#9	AnnotatorNotes T9	8010/63
+T10	MORFOLOGIA_NEOPLASIA 601 607	cáncer
+#10	AnnotatorNotes T10	8000/3
+T11	MORFOLOGIA_NEOPLASIA 2291 2301	hemangioma
+#11	AnnotatorNotes T11	9120/0
+T12	MORFOLOGIA_NEOPLASIA 4079 4089	hemangioma
+#12	AnnotatorNotes T12	9120/0
+T13	MORFOLOGIA_NEOPLASIA 4783 4793	hemangioma
+#13	AnnotatorNotes T13	9120/0
+T14	MORFOLOGIA_NEOPLASIA 2774 2789	macrometástasis
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 1765 1775	malignidad
+#15	AnnotatorNotes T15	8000/3
+T16	MORFOLOGIA_NEOPLASIA 734 744	metástasis
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 3697 3707	metástasis
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 3996 4006	metástasis
+#18	AnnotatorNotes T18	8000/6
+T19	MORFOLOGIA_NEOPLASIA 4054 4064	metástasis
+#19	AnnotatorNotes T19	8000/6
+T20	MORFOLOGIA_NEOPLASIA 5174 5184	metástasis
+#20	AnnotatorNotes T20	8000/6
+T21	MORFOLOGIA_NEOPLASIA 6554 6564	metástasis
+#21	AnnotatorNotes T21	8000/6
+T22	MORFOLOGIA_NEOPLASIA 4445 4468	metástasis de carcinoma
+#22	AnnotatorNotes T22	8010/6
+T23	MORFOLOGIA_NEOPLASIA 6703 6726	metástasis de carcinoma
+#23	AnnotatorNotes T23	8010/6
+T24	MORFOLOGIA_NEOPLASIA 1026 1053	metástasis por un carcinoma
+#24	AnnotatorNotes T24	8010/6
+T25	MORFOLOGIA_NEOPLASIA 1905 1956	carcinoma lobulillar infiltrante, bien diferenciado
+#25	AnnotatorNotes T25	8520/31
+T26	MORFOLOGIA_NEOPLASIA 1981 2017	carcinoma in situ de tipo lobulillar
+#26	AnnotatorNotes T26	8520/2
+T27	MORFOLOGIA_NEOPLASIA 2481 2488	T1cN0M0
+#27	AnnotatorNotes T27	8000/6
+T28	MORFOLOGIA_NEOPLASIA 2713 2735	CLI de 1,8 cm, grado 1
+#28	AnnotatorNotes T28	8520/31
+T29	MORFOLOGIA_NEOPLASIA 2948 2957	pT1cpN1M0
+#29	AnnotatorNotes T29	8000/6
+T30	MORFOLOGIA_NEOPLASIA 3917 3928	angiomatoso
+#30	AnnotatorNotes T30	9120/0
+T31	MORFOLOGIA_NEOPLASIA 4206 4218	lesión de D7
+#31	AnnotatorNotes T31	8000/6
+T32	MORFOLOGIA_NEOPLASIA 4273 4286	lesión dorsal
+#32	AnnotatorNotes T32	8000/6
+T33	MORFOLOGIA_NEOPLASIA 5848 5895	metástasis de carcinoma pobremente diferenciado
+#33	AnnotatorNotes T33	8010/63
+T34	MORFOLOGIA_NEOPLASIA 6390 6458	carcinoma de mama, pobremente diferenciado, estadio IV por letálides
+#34	AnnotatorNotes T34	8010/63
+T35	MORFOLOGIA_NEOPLASIA 3537 3552	recaída cutánea
+#35	AnnotatorNotes T35	8000/6
+T36	MORFOLOGIA_NEOPLASIA 4024 4039	recaída cutánea
+#36	AnnotatorNotes T36	8000/6

@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 1404 1418	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 3751 3779	adenocarcinoma de bajo grado
+#2	AnnotatorNotes T2	8140/31
+T3	MORFOLOGIA_NEOPLASIA 2853 2871	lesiones hepáticas
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 3373 3388	lesión hepática
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 3699 3704	tumor
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 3350 3357	tumoral
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 5034 5041	tumoral
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 1787 1841	neoplasia de colon transverso con metástasis hepáticas
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 1869 1875	T3N1M1
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 4149 4179	tumor de colon ypT3ypN0 con M1
+#10	AnnotatorNotes T10	8000/6

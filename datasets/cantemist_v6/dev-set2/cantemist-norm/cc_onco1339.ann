@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 1131 1147	Lesiones líticas
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 376 397	carcinoma basocelular
+#2	AnnotatorNotes T2	8090/3
+T3	MORFOLOGIA_NEOPLASIA 1960 1981	carcinoma basocelular
+#3	AnnotatorNotes T3	8090/3
+T4	MORFOLOGIA_NEOPLASIA 1712 1726	lesiones óseas
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 1599 1610	lesión ósea
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 1800 1808	malignas
+#6	AnnotatorNotes T6	8000/3
+T7	MORFOLOGIA_NEOPLASIA 1882 1905	metástasis de carcinoma
+#7	AnnotatorNotes T7	8010/6
+T8	MORFOLOGIA_NEOPLASIA 1996 2031	Metástasis de carcinoma basocelular
+#8	AnnotatorNotes T8	8090/6
+T9	MORFOLOGIA_NEOPLASIA 2033 2036	CBC
+#9	AnnotatorNotes T9	8090/3
+T10	MORFOLOGIA_NEOPLASIA 2258 2302	lesiones líticas de 6.º y 8.º arcos costales
+#10	AnnotatorNotes T10	8000/6

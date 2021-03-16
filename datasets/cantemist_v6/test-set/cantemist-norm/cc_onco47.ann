@@ -1,0 +1,50 @@
+T1	MORFOLOGIA_NEOPLASIA 2588 2603	Afectación ósea
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 6021 6031	Metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1816 1820	PNET
+#3	AnnotatorNotes T3	9364/3
+T4	MORFOLOGIA_NEOPLASIA 3334 3338	PNET
+#4	AnnotatorNotes T4	9364/3
+T5	MORFOLOGIA_NEOPLASIA 3573 3577	PNET
+#5	AnnotatorNotes T5	9364/3
+T6	MORFOLOGIA_NEOPLASIA 5353 5357	PNET
+#6	AnnotatorNotes T6	9364/3
+T7	MORFOLOGIA_NEOPLASIA 6602 6606	PNET
+#7	AnnotatorNotes T7	9364/3
+T8	MORFOLOGIA_NEOPLASIA 3712 3739	infiltración de médula ósea
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 2635 2653	lesiones blásticas
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 7416 7430	lesiones óseas
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 5141 5151	malignidad
+#11	AnnotatorNotes T11	8000/3
+T12	MORFOLOGIA_NEOPLASIA 6316 6326	malignidad
+#12	AnnotatorNotes T12	8000/3
+T13	MORFOLOGIA_NEOPLASIA 4633 4644	metastásica
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 1503 1513	metástasis
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 2670 2680	metástasis
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 2960 2970	metástasis
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 6491 6507	neoproliferativo
+#17	AnnotatorNotes T17	8000/1
+T18	MORFOLOGIA_NEOPLASIA 7015 7030	teratoma maduro
+#18	AnnotatorNotes T18	9080/0
+T19	MORFOLOGIA_NEOPLASIA 3305 3318	tumor maligno
+#19	AnnotatorNotes T19	8000/3
+T20	MORFOLOGIA_NEOPLASIA 1782 1814	tumor neuroectodérmico primitivo
+#20	AnnotatorNotes T20	9473/3
+T21	MORFOLOGIA_NEOPLASIA 1634 1732	tumor maligno de células pequeñas con alto índice de proliferación y diferenciación neuroendocrina
+#21	AnnotatorNotes T21	8002/3/H
+T22	MORFOLOGIA_NEOPLASIA 1634 1667	tumor maligno de células pequeñas
+#22	AnnotatorNotes T22	8002/3
+T23	MORFOLOGIA_NEOPLASIA 2268 2283	sólido quístico
+#23	AnnotatorNotes T23	8452/1
+T24	MORFOLOGIA_NEOPLASIA 3592 3630	Tumor indiferenciado de célula pequeña
+#24	AnnotatorNotes T24	8002/34
+T25	MORFOLOGIA_NEOPLASIA 3640 3684	PNET extraesquelético estadio IV (metástasis
+#25	AnnotatorNotes T25	9364/6

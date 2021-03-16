@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 1097 1111	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 3065 3079	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 189 195	miomas
+#3	AnnotatorNotes T3	8895/0
+T4	MORFOLOGIA_NEOPLASIA 1335 1386	Adenocarcinoma de pulmón estadio IVA por metástasis
+#4	AnnotatorNotes T4	8140/6
+T5	MORFOLOGIA_NEOPLASIA 2303 2322	lesiones cerebrales
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 2804 2821	lesión cerebelosa
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 2950 2967	lesión cerebelosa
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 3516 3572	progresión se había dado exclusivamente a nivel cerebral
+#8	AnnotatorNotes T8	8000/6

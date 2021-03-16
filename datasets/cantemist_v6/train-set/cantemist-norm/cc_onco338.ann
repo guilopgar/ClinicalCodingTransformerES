@@ -1,0 +1,26 @@
+T1	MORFOLOGIA_NEOPLASIA 877 887	Meningioma
+#1	AnnotatorNotes T1	9530/0
+T2	MORFOLOGIA_NEOPLASIA 4343 4352	carcinoma
+#2	AnnotatorNotes T2	8010/3
+T3	MORFOLOGIA_NEOPLASIA 7937 7958	carcinoma epidermoide
+#3	AnnotatorNotes T3	8070/3
+T4	MORFOLOGIA_NEOPLASIA 5592 5602	malignidad
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 506 515	neoplasia
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 3106 3116	neoplásico
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 7609 7619	tumoración
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 8230 8237	tumoral
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 4268 4322	carcinoma de células escamosas pobremente diferenciado
+#9	AnnotatorNotes T9	8070/33
+T10	MORFOLOGIA_NEOPLASIA 5289 5301	mestastásica
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 6066 6078	metastásicas
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 7983 7991	cT4cN0M0
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 5270 5288	afectación pleural
+#13	AnnotatorNotes T13	8000/6

@@ -1,0 +1,27 @@
+Anamnesis
+Paciente de 56 años alérgico a la penicilina y al metamizol con antecedentes de intervención por pancreatitis complicada (colecistectomía parcial con resección del intestino delgado) en el año 1992. Exfumador de 60 paquetes/año.
+Consulta por aparición de tos y expectoración blanquecina de 1 mes de evolución que no cede con tratamiento pautado, junto con síndrome constitucional.
+Acude al Servicio de Urgencias en diciembre de 2004, realizándose una radiografía de tórax en la que se aprecia un nódulo en el lóbulo superior derecho (LSD), por lo que se deriva al Servicio de Neumología para continuar con el estudio.
+
+Examen físico
+Presenta buen estado general, ECOG 1-2, normocoloreado y bien hidratado.
+No se observan alteraciones en la cavidad orofaríngea ni a la auscultación cardiopulmonar, con ruidos cardiacos a 70 latidos por minuto y murmullo vesicular conservado. En el abdomen únicamente se observa cicatriz de laparotomía, sin otras alteraciones.
+
+Pruebas complementarias
+- En enero de 2005 le realizan una fibrobroncoscopia, evidenciándose una masa en el LSD cuya PAAF (punción aspiración con aguja fina) es positiva para células malignas, adenocarcinoma.
+- Se realiza una TC tóraco-abdómino-pélvica, observándose una masa en el LSD de 6 x 5 x 7 cm que engloba los bronquios segmentarios y las arterias que contactan con el bronquio lobar superior y parece infiltrar el mediastino, junto con nódulos metastásicos milimétricos subpleurales en el pulmón derecho. Se estadifica como T4NxM1.
+
+Diagnóstico
+Adenocarcinoma de pulmón T4NxM1.
+
+Tratamiento
+El paciente en ese momento no tiene determinada la mutación de EGFR y se inicia tratamiento con QT según el esquema cisplatino-gemcitabina cada 21 días. Recibe 3 ciclos desde enero de 2005 hasta marzo de 2005, presentando neutropenia febril, motivo por el cual no se administra el cuarto tratamiento y en la TC de reevaluación se objetiva una respuesta parcial con disminución de la masa en el LSD a 3 x 3 cm y desaparición de nódulos subpleurales.
+En mayo de 2005 comienza con tratamiento concomitante con radioterapia y QT según el esquema taxol-carboplatino semanal, finalizando en junio de 2005. En la TC de control realizada posteriormente se observa progresión de la masa del LSD (5,5 x 4 x 3,8 cm), junto con aumento de los nódulos subpleurales y aparición de adenopatías mediastínicas.
+Ante estos hallazgos, se solicita la posibilidad de administrar erlotinib, pautándose 150 mg/día, comenzando dicho tratamiento en septiembre de 2005.
+
+Evolución
+Tras 3 meses de tratamiento, se realiza una TC de control, observándose una disminución de la masa pulmonar a 2 x 2 x 3,5 cm en el LSD, sin otros hallazgos. Se considera respuesta parcial y continúa con el tratamiento.
+Tras el quinto ciclo, en la TC de control se observan cambios postratamiento, sin evidencia de enfermedad. Tras estos hallazgos, se decide continuar el tratamiento con erlotinib hasta el momento actual (8 años), sin evidencia de enfermedad en los estudios periódicos realizados.
+Hasta el año 2012 no se realiza la mutación de EGFR a este paciente en nuestro hospital, cuyo resultado es EGFR no mutado, y dada la buena respuesta se decide mantener el tratamiento.
+Tras este largo período con erlotinib solo ha presentado diarrea de grado 1, que cede con loperamida en el ciclo 16, y tos persistente a partir del ciclo 42, que cede con pulsos de corticoterapia y que a día de hoy todavía persiste.
+El paciente ha acudido a consulta de Oncología en marzo de 2014 con persistencia de respuesta completa tumoral, ECOG 0 y continuación del tratamiento con erlotinib.

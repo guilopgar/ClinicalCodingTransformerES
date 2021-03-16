@@ -1,0 +1,13 @@
+T1	MORFOLOGIA_NEOPLASIA 3235 3263	Carcinoma ductal infiltrante
+T2	MORFOLOGIA_NEOPLASIA 3333 3365	Carcinoma lobulillar infiltrante
+T3	MORFOLOGIA_NEOPLASIA 3433 3443	Metástasis
+T4	MORFOLOGIA_NEOPLASIA 244 250	cáncer
+T5	MORFOLOGIA_NEOPLASIA 727 737	malignidad
+T6	MORFOLOGIA_NEOPLASIA 1094 1104	metástasis
+T7	MORFOLOGIA_NEOPLASIA 367 443	carcinoma ductal infiltrante, grado 2-3 con focos de diferenciación mucinosa
+T8	MORFOLOGIA_NEOPLASIA 807 850	carcinoma lobulillar invasivo de alto grado
+T9	MORFOLOGIA_NEOPLASIA 3788 3806	carcinoma invasivo
+T10	MORFOLOGIA_NEOPLASIA 4068 4096	carcinoma de tipo lobulillar
+T11	MORFOLOGIA_NEOPLASIA 4239 4265	metástasis de su neoplasia
+T12	MORFOLOGIA_NEOPLASIA 4291 4319	carcinoma de tipo lobulillar
+T13	MORFOLOGIA_NEOPLASIA 4791 4839	lesiones conocidas en ambas mamas y a nivel óseo

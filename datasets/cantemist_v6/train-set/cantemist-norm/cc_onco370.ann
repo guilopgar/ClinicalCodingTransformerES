@@ -1,0 +1,48 @@
+T1	MORFOLOGIA_NEOPLASIA 3690 3692	M0
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 76 90	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 553 567	adenocarcinoma
+#3	AnnotatorNotes T3	8140/3
+T4	MORFOLOGIA_NEOPLASIA 2396 2410	adenocarcinoma
+#4	AnnotatorNotes T4	8140/3
+T5	MORFOLOGIA_NEOPLASIA 2454 2468	adenocarcinoma
+#5	AnnotatorNotes T5	8140/3
+T6	MORFOLOGIA_NEOPLASIA 3653 3667	adenocarcinoma
+#6	AnnotatorNotes T6	8140/3
+T7	MORFOLOGIA_NEOPLASIA 2521 2524	cM0
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 3342 3356	carcinomatosis
+#8	AnnotatorNotes T8	8010/9
+T9	MORFOLOGIA_NEOPLASIA 4230 4244	carcinomatosis
+#9	AnnotatorNotes T9	8010/9
+T10	MORFOLOGIA_NEOPLASIA 4404 4418	carcinomatosis
+#10	AnnotatorNotes T10	8010/9
+T11	MORFOLOGIA_NEOPLASIA 5579 5593	carcinomatosis
+#11	AnnotatorNotes T11	8010/9
+T12	MORFOLOGIA_NEOPLASIA 144 150	cáncer
+#12	AnnotatorNotes T12	8000/3
+T13	MORFOLOGIA_NEOPLASIA 460 466	cáncer
+#13	AnnotatorNotes T13	8000/3
+T14	MORFOLOGIA_NEOPLASIA 1793 1818	linfangitis carcinomatosa
+#14	AnnotatorNotes T14	8000/3
+T15	MORFOLOGIA_NEOPLASIA 2069 2079	metástasis
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 1239 1248	neoplasia
+#16	AnnotatorNotes T16	8000/1
+T17	MORFOLOGIA_NEOPLASIA 1917 1926	neoplasia
+#17	AnnotatorNotes T17	8000/1
+T18	MORFOLOGIA_NEOPLASIA 917 930	neo-formación
+#18	AnnotatorNotes T18	8000/1
+T19	MORFOLOGIA_NEOPLASIA 1735 1767	adenocarcinoma bien diferenciado
+#19	AnnotatorNotes T19	8140/31
+T20	MORFOLOGIA_NEOPLASIA 3384 3423	adenocarcinoma ductal bien diferenciado
+#20	AnnotatorNotes T20	8500/31
+T21	MORFOLOGIA_NEOPLASIA 4444 4486	implantes, 2 de ellos en intestino delgado
+#21	AnnotatorNotes T21	8000/6
+T22	MORFOLOGIA_NEOPLASIA 4904 4923	implante subcutáneo
+#22	AnnotatorNotes T22	8000/6
+T23	MORFOLOGIA_NEOPLASIA 4955 4984	metástasis por adenocarcinoma
+#23	AnnotatorNotes T23	8140/6
+T24	MORFOLOGIA_NEOPLASIA 5244 5268	enfermedad (PE) pulmonar
+#24	AnnotatorNotes T24	8000/6

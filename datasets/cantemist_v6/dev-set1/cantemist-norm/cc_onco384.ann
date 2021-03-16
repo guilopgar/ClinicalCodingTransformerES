@@ -1,0 +1,68 @@
+T1	MORFOLOGIA_NEOPLASIA 2709 2713	CDIS
+#1	AnnotatorNotes T1	8500/2
+T2	MORFOLOGIA_NEOPLASIA 3206 3210	CDIS
+#2	AnnotatorNotes T2	8500/2
+T3	MORFOLOGIA_NEOPLASIA 2210 2219	carcinoma
+#3	AnnotatorNotes T3	8010/3
+T4	MORFOLOGIA_NEOPLASIA 3108 3117	carcinoma
+#4	AnnotatorNotes T4	8010/3
+T5	MORFOLOGIA_NEOPLASIA 8091 8100	carcinoma
+#5	AnnotatorNotes T5	8010/3
+T6	MORFOLOGIA_NEOPLASIA 2683 2707	carcinoma ductal in situ
+#6	AnnotatorNotes T6	8500/2
+T7	MORFOLOGIA_NEOPLASIA 1823 1851	carcinoma ductal infiltrante
+#7	AnnotatorNotes T7	8500/3
+T8	MORFOLOGIA_NEOPLASIA 3214 3242	carcinoma ductal infiltrante
+#8	AnnotatorNotes T8	8500/3
+T9	MORFOLOGIA_NEOPLASIA 5360 5374	lesiones óseas
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 1598 1608	malignidad
+#10	AnnotatorNotes T10	8000/3
+T11	MORFOLOGIA_NEOPLASIA 1704 1714	malignidad
+#11	AnnotatorNotes T11	8000/3
+T12	MORFOLOGIA_NEOPLASIA 4797 4808	metástasica
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 4932 4943	metástasica
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 2786 2796	metástasis
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 5072 5095	metástasis de carcinoma
+#15	AnnotatorNotes T15	8010/6
+T16	MORFOLOGIA_NEOPLASIA 1267 1279	tumoraciones
+#16	AnnotatorNotes T16	8000/1
+T17	MORFOLOGIA_NEOPLASIA 621 631	tumoración
+#17	AnnotatorNotes T17	8000/1
+T18	MORFOLOGIA_NEOPLASIA 3601 3611	tumoración
+#18	AnnotatorNotes T18	8000/1
+T19	MORFOLOGIA_NEOPLASIA 5796 5806	tumoración
+#19	AnnotatorNotes T19	8000/1
+T20	MORFOLOGIA_NEOPLASIA 2588 2595	tumoral
+#20	AnnotatorNotes T20	8000/1
+T21	MORFOLOGIA_NEOPLASIA 3425 3432	tumoral
+#21	AnnotatorNotes T21	8000/1
+T22	MORFOLOGIA_NEOPLASIA 3710 3717	tumoral
+#22	AnnotatorNotes T22	8000/1
+T23	MORFOLOGIA_NEOPLASIA 4463 4472	tumorales
+#23	AnnotatorNotes T23	8000/1
+T24	MORFOLOGIA_NEOPLASIA 281 314	carcinoma basocelular superficial
+#24	AnnotatorNotes T24	8090/3/H
+T25	MORFOLOGIA_NEOPLASIA 3162 3204	Carcinoma de mama izquierda ductal in situ
+#25	AnnotatorNotes T25	8500/2
+T26	MORFOLOGIA_NEOPLASIA 3259 3272	cT2pN0(sn)cM0
+#26	AnnotatorNotes T26	8000/6
+T27	MORFOLOGIA_NEOPLASIA 3973 4009	carcinoma ductal infiltrante grado I
+#27	AnnotatorNotes T27	8500/31
+T28	MORFOLOGIA_NEOPLASIA 4060 4074	ypT2pN0(sn)cM0
+#28	AnnotatorNotes T28	8000/6
+T29	MORFOLOGIA_NEOPLASIA 5399 5419	lesión a nivel de L1
+#29	AnnotatorNotes T29	8000/6
+T30	MORFOLOGIA_NEOPLASIA 5932 5954	proliferación linfoide
+#30	AnnotatorNotes T30	9970/1
+T31	MORFOLOGIA_NEOPLASIA 5969 6001	linfoma no Hodgkin de alto grado
+#31	AnnotatorNotes T31	9591/34
+T32	MORFOLOGIA_NEOPLASIA 6125 6172	proceso linfoproliferativo B de células grandes
+#32	AnnotatorNotes T32	9680/3
+T33	MORFOLOGIA_NEOPLASIA 6818 6853	Linfoma B difuso de células grandes
+#33	AnnotatorNotes T33	9680/3
+T34	MORFOLOGIA_NEOPLASIA 6627 6665	lesiones hipermetabolicas a nivel óseo
+#34	AnnotatorNotes T34	8000/6

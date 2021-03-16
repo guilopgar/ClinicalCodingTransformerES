@@ -1,0 +1,32 @@
+T1	MORFOLOGIA_NEOPLASIA 351 360	carcinoma
+#1	AnnotatorNotes T1	8010/3
+T2	MORFOLOGIA_NEOPLASIA 2722 2731	carcinoma
+#2	AnnotatorNotes T2	8010/3
+T3	MORFOLOGIA_NEOPLASIA 1898 1904	cáncer
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 1923 1929	cáncer
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 2179 2193	leiomiosarcoma
+#5	AnnotatorNotes T5	8890/3
+T6	MORFOLOGIA_NEOPLASIA 187 196	neoplasia
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 2130 2140	tumoración
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 3374 3381	tumoral
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 2958 2965	tumores
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 529 558	CDI de mama derecha grado III
+#10	AnnotatorNotes T10	8500/33
+T11	MORFOLOGIA_NEOPLASIA 619 650	CDI de mama izquierda grado III
+#11	AnnotatorNotes T11	8500/33
+T12	MORFOLOGIA_NEOPLASIA 1153 1175	afectación a distancia
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 1190 1219	CDI de mama derecha grado III
+#13	AnnotatorNotes T13	8500/33
+T14	MORFOLOGIA_NEOPLASIA 1279 1310	CDI de mama izquierda grado III
+#14	AnnotatorNotes T14	8500/33
+T15	MORFOLOGIA_NEOPLASIA 2526 2574	cistoadenocarcinoma seroso papilar de alto grado
+#15	AnnotatorNotes T15	8460/34
+T16	MORFOLOGIA_NEOPLASIA 2820 2840	adenocarcinoma mixto
+#16	AnnotatorNotes T16	8323/3

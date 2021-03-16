@@ -1,0 +1,28 @@
+T1	MORFOLOGIA_NEOPLASIA 4117 4144	carcinoma de célula pequeña
+#1	AnnotatorNotes T1	8041/3
+T2	MORFOLOGIA_NEOPLASIA 2231 2242	metastásica
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 6255 6265	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 4591 4596	tumor
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 4084 4100	células malignas
+#5	AnnotatorNotes T5	8001/3
+T6	MORFOLOGIA_NEOPLASIA 4146 4149	CCP
+#6	AnnotatorNotes T6	8041/3
+T7	MORFOLOGIA_NEOPLASIA 4680 4716	CARCINOMA PULMONAR DE CÉLULA PEQUEÑA
+#7	AnnotatorNotes T7	8041/3
+T8	MORFOLOGIA_NEOPLASIA 3179 3215	neoplasia de pulmón en LSI T4 N2 M1b
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 2296 2325	metastásica hepática de tumor
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 2209 2230	enfermedad secundaria
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 2943 2964	enfermedad secundaria
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 6905 6920	enfermedad ósea
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 6856 6874	lesiones hepáticas
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 2296 2346	metastásica hepática de tumor primario desconocido
+#14	AnnotatorNotes T14	8000/9

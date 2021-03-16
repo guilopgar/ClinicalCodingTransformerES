@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 2451 2465	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 2754 2768	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 3158 3172	adenocarcinoma
+#3	AnnotatorNotes T3	8140/3
+T4	MORFOLOGIA_NEOPLASIA 2993 3009	células malignas
+#4	AnnotatorNotes T4	8001/3
+T5	MORFOLOGIA_NEOPLASIA 1914 1933	lesiones pulmonares
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 3025 3053	metástasis de adenocarcinoma
+#6	AnnotatorNotes T6	8140/6
+T7	MORFOLOGIA_NEOPLASIA 1656 1666	tumoración
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 655 701	adenopatías laterocervicales,supraclaviculares
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 2487 2516	enfermedad tumoral diseminada
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 1877 1911	lesión a nivel del seno esfenoidal
+#10	AnnotatorNotes T10	8000/6

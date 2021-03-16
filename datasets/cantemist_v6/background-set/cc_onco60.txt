@@ -1,0 +1,31 @@
+Anamnesis
+Mujer de 42 años, sin alergias ni hábitos tóxicos; no toma ningún tratamiento de forma habitual y tampoco existen enfermedades de interés en su familia.
+
+En enero de 2000 se sometió a una resección quirúrgica completa por un melanoma de extensión superficial en la espalda, pT2N0M0; no recibió ningún tratamiento complementario posterior y siguió revisiones a cargo del Servicio de Dermatología.
+
+La paciente se mantuvo asintomática y sin evidencia de recidiva hasta enero de 2013, que comenzó con cefalea de características orgánicas, vómitos sin relación con la ingesta y paresia de la EID (3/5).
+
+Por este motivo fue estudiada en el Servicio de Medicina Interna.
+
+Exploración física
+Peso 54 kg. Talla 168 cm. ECOG 1. Nódulo pétreo de 2 cm en CSE de la mama izquierda, masa de 4 cm en axila ipsilateral y nódulos subcutáneos de 2 cm en glúteos. Resto sin interés.
+
+Pruebas complementarias
+» TC craneal (9/3/2013): tres lesiones intraaxiales, una en lóbulo frontal derecho de hasta 4 cm de diámetro con intensa expansividad, otro nódulo metastásico de 15 mm en el lóbulo occipital izquierdo y también en ellóbulo temporal izquierdo y tienda del cerebelo.
+» TC toracoabdominal (9/3/2013): nódulos subcutáneos en región preesternal mamaria izquierda, axila ipsilateral, múltiples nódulos pulmonares bilaterales, algunos necróticos y cavitados (el mayor de 3,5 cm), nódulos subcutáneos en glúteos, lesión osteoblástica sacroiliaca izquierda y paravertebral lumbar izquierda a la altura de L5, sugestivo de metástasis.
+» Biopsia de masa axilar: metástasis por melanoma; IHQ: proteína S100, melan-A, HMB 45 positivos, RE y RP negativos y Ki-67 del 70-80%.
+
+Diagnóstico
+Melanoma de extensión superficial en espalda, pT2N0M0 (enero de 2000). Recaída sistémica con afectación pulmonar, ganglionar, ósea, cutánea y cerebral (enero de 2013).
+
+Tratamiento
+La paciente es remitida a nuestra consulta para valoración terapéutica en abril de 2013 y la enviamos al Servicio de Radioterapia para irradiación holocraneal (30 Gy) que recibió entre el 7/4/2013 y el 18/4/2013 con mejoría clínica. Por otro lado, solicitamos la mutación de BRAF, que resultó positiva para la mutación V600, por lo que se solicitó administración de inhibidor de BRAF dentro de programa de uso compasivo. El 10/6/2013 inició tratamiento con DABRAFENIB a las dosis habituales de 300 mg/día con excelente tolerancia. Tras el primer mes de tratamiento la respuesta clínica era evidente, con desaparición de los nódulos mamario y axilar y también de los subcutáneos en la región de los glúteos.
+
+Evolución
+En septiembre de 2013, se realizó un control radiológico que confirmó una importante respuesta a nivel de todas las localizaciones afectas.Esta respuesta parcial se ha mantenido a lo largo de 16 meses, permitiendo a la paciente llevar una vida normal sin toxicidades atribuibles al tratamiento.
+
+En noviembre de 2014, se solicita nueva reevaluación, objetivándose una progresión tanto a nivel cerebral como a nivel pulmonar y de partes blandas y además, aparición de una metástasis intracardiaca, no visualizada en los estudios previos. En ese momento, se suspende el tratamiento con dabrafenib (ha recibido 19 ciclos en total). Ante la mala expectativa (con una supuesta esperanza de vida inferior a 3 meses tras progresión al inhibidor de BRAF), se opta por iniciar quimioterapia en vez de inmunoterapia y se inicia una segunda línea con fotemistina, que recibe hasta febrero de 2015. En ese momento, se solicita una TC corporal de control que evidencia un crecimiento de la lesión cardiaca a nivel de las cavidades derechas y aparición de una lesión en la cúpula hepática sugestiva de afectación metastásica, además la TC craneal muestra también progresión tumoral. Se solicita, previo a proseguir con tratamiento quimioterápico, un ecocardiograma que describe una gran masa polilobulada que ocupa todo el ventrículo derecho y que se insinúa en aurícula derecha a través del anillo tricuspídeo y en el tracto de salida del ventrículo derecho produciendo aceleración de flujos.
+
+Por este motivo, se cambia a una tercera línea de tratamiento basado en carboplatino-paclitaxel, del que recibió un sólo ciclo el 25/3/2015. Unos días después acudió a Urgencias presentando fiebre, mal estado general y analítica compatible con sepsis, además de pancitopenia, sin mostrar respuesta al tratamiento de soporte y falleciendo pocas horas después el 31/3/2015.
+
+

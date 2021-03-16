@@ -1,0 +1,21 @@
+Anamnesis
+Paciente de 60 años. Como únicos antecedentes destacan: exfumador desde hace 14 años y bebedor de 2-3 cervezas al día. Intervenido en diciembre de 2012 mediante hepatectomía izquierda con colangioyeyunostomía y anastomosis yeyuno-yenunal por colangiocarcinoma hiliar pT4 pN1 (2/2) G1 R0. Postoperatorio tórpido con coleperitoneo por fuga biliar con múltiples colecciones intraabdominales, que precisó lavado y drenaje quirúrgico y refuerzo de la enteroanastomosis, manteniendo posteriormente una fístula biliar de bajo débito resuelta con tratamiento médico.
+Valorado en Oncología Médica, se plantea quimiorradioterapia adyuvante. Sin embargo, no llega a recibirla al presentar ictericia obstructiva secundaria a estenosis de la anastomosis quirúrgica, sin evidencia de recidiva tumoral. Desde junio de 2013 refiere múltiples ingresos en Oncología para dilatación y drenaje biliar mediante colangiografía transparietohepática (CTH), asociando varios episodios de colangitis en este contexto resueltas con antibioterapia sistémica y tandas repetidas de dexametasona a dosis altas.
+Ingresó en Oncología en febrero de 2014 por fiebre y disnea intensa de 5 días de evolución. Se objetiva una neumonía bilateral extensa e insuficiencia respiratoria hipoxémica. Inicia tratamiento empírico con antibioterapia de amplio espectro y antivirales, dado el antecedente de neoplasia e inmunosupresión por corticoterapia prolongada. Tras estudios de imagen, microbiológicos y fibrobroncoscopia, se confirma origen por P. jirovecii, continuando con cotrimoxazol y pauta descendente de corticoides, con buena respuesta clínica y radiológica inicial. El día +18 de tratamiento con cotrimoxazol el paciente presenta reagudización grave de la insuficiencia respiratoria, con empeoramiento radiológico claro.
+
+Examen físico
+ECOG 3. Regular estado general. Bien hidratado y perfundido. Hemodinámicamente estable y afebril. Taquipneico en reposo con SatO2 84% con oxigenoterapia en gafas nasales. Ictericia conjuntival. Auscultación cardiorrespiratoria: roncus y sibilantes generalizados. Resto normal.
+
+Pruebas complementarias
+- Analítica: hemograma y bioquímica normales, salvo leucocitosis 25.000 con neutrofilia 97%, plaquetas 78.000, creatinina 3,97 mg/dl, urea 234 mg/dl, GPT 111 mU/ml, bilirrubina total 3,22 mg/dl a expensas de la directa (en descenso desde la última CTH). Coagulación con INR 3.
+- Ecografía abdominal: cambios posquirúrgicos secundarios a hepatectomía izquierda sin datos de recidiva. Líquido libre perihepático, periesplénico y en ambas gotieras parietocólicas. Esplenomegalia de 15 cm. Resto normal.
+- TC de tórax de alta resolución: progresión radiológica con extensa afectación pulmonar bilateral y simétrica con condensaciones difusas de predominio en las bases, distorsión arquitectural pulmonar en los vértices sin panalización, y aparición de áreas en vidrio deslustrado. Derrame pleural izquierdo moderado estable.
+
+Diagnóstico
+Síndrome de distrés respiratorio del adulto con hipoxemia grave en paciente con neumonía bilateral extensa por P. jirovecii con buena evolución inicial.
+
+Tratamiento
+El paciente es trasladado a la Unidad de Cuidados Intensivos (UCI) y comienza tratamiento con meropenem + levofloxacino + ganciclovir + metilprednisolona a dosis altas ante una posible hemorragia alveolar o neumonitis tóxica grave secundaria al cotrimoxazol.
+
+Evolución
+Durante su estancia en la UCI presenta mala evolución clínica, con fallo multiorgánico, precisando intubación orotraqueal y hemofiltración. Se realizó una TC de tórax, que demuestra mejoría del infiltrado bilateral con aparición de una lesión cavitada en el vértice pulmonar izquierdo, y una nueva fibrobroncoscopia con LBA en el que se aislan Aspergillus spp y Mucor. El paciente no responde al tratamiento antifúngico con anfotericina B y finalmente fallece. Se solicita necropsia, que confirma el diagnóstico final de bronconeumonía aguda necrotizante invasiva por Aspergillus con afectación hepática, en el tracto digestivo y en el tejido peritiroideo.

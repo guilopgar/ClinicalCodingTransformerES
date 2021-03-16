@@ -1,0 +1,8 @@
+T1	MORFOLOGIA_NEOPLASIA 285 299	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 2037 2044	sarcoma
+#2	AnnotatorNotes T2	8800/3
+T3	MORFOLOGIA_NEOPLASIA 968 975	tumoral
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 1081 1115	sarcoma pleomórfico indiferenciado
+#4	AnnotatorNotes T4	8802/34

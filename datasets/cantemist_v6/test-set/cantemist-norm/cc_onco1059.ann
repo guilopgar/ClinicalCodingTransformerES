@@ -1,0 +1,76 @@
+T1	MORFOLOGIA_NEOPLASIA 4219 4225	T4N2M1
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 2633 2659	adenopatía supraclavicular
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 4242 4271	afectación pulmonar bilateral
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 6492 6521	afectación pulmonar bilateral
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 3240 3249	carcinoma
+#5	AnnotatorNotes T5	8010/3
+T6	MORFOLOGIA_NEOPLASIA 6051 6060	carcinoma
+#6	AnnotatorNotes T6	8010/3
+T7	MORFOLOGIA_NEOPLASIA 3627 3656	carcinoma medular de tiroides
+#7	AnnotatorNotes T7	8510/3
+T8	MORFOLOGIA_NEOPLASIA 2388 2412	carcinoma neuroendocrino
+#8	AnnotatorNotes T8	8246/3
+T9	MORFOLOGIA_NEOPLASIA 5530 5554	carcinoma neuroendocrino
+#9	AnnotatorNotes T9	8246/3
+T10	MORFOLOGIA_NEOPLASIA 3841 3874	carcinoma pobremente diferenciado
+#10	AnnotatorNotes T10	8010/33
+T11	MORFOLOGIA_NEOPLASIA 5663 5682	células neoplásicas
+#11	AnnotatorNotes T11	8001/1
+T12	MORFOLOGIA_NEOPLASIA 3367 3393	células tumorales malignas
+#12	AnnotatorNotes T12	8001/3
+T13	MORFOLOGIA_NEOPLASIA 7045 7074	lesiones nodulares pulmonares
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 6761 6780	lesiones pulmonares
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 7138 7157	lesiones pulmonares
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 2702 2712	malignidad
+#16	AnnotatorNotes T16	8000/3
+T17	MORFOLOGIA_NEOPLASIA 2900 2910	malignidad
+#17	AnnotatorNotes T17	8000/3
+T18	MORFOLOGIA_NEOPLASIA 3216 3226	malignidad
+#18	AnnotatorNotes T18	8000/3
+T19	MORFOLOGIA_NEOPLASIA 1875 1885	metástasis
+#19	AnnotatorNotes T19	8000/6
+T20	MORFOLOGIA_NEOPLASIA 3591 3600	neoplasia
+#20	AnnotatorNotes T20	8000/1
+T21	MORFOLOGIA_NEOPLASIA 4085 4094	neoplasia
+#21	AnnotatorNotes T21	8000/1
+T22	MORFOLOGIA_NEOPLASIA 2141 2151	neoplásico
+#22	AnnotatorNotes T22	8000/1
+T23	MORFOLOGIA_NEOPLASIA 4653 4671	nódulos pulmonares
+#23	AnnotatorNotes T23	8000/6
+T24	MORFOLOGIA_NEOPLASIA 2922 2952	nódulos pulmonares bilaterales
+#24	AnnotatorNotes T24	8000/6
+T25	MORFOLOGIA_NEOPLASIA 1925 1930	tumor
+#25	AnnotatorNotes T25	8000/1
+T26	MORFOLOGIA_NEOPLASIA 2439 2444	tumor
+#26	AnnotatorNotes T26	8000/1
+T27	MORFOLOGIA_NEOPLASIA 2550 2570	tumor neuroendocrino
+#27	AnnotatorNotes T27	8240/3
+T28	MORFOLOGIA_NEOPLASIA 4866 4876	tumoración
+#28	AnnotatorNotes T28	8000/1
+T29	MORFOLOGIA_NEOPLASIA 2388 2434	carcinoma neuroendocrino (no células pequeñas)
+#29	AnnotatorNotes T29	8046/3
+T30	MORFOLOGIA_NEOPLASIA 3395 3431	Carcinoma con rasgos neuroendocrinos
+#30	AnnotatorNotes T30	8246/3
+T31	MORFOLOGIA_NEOPLASIA 3810 3827	carcinoma insular
+#31	AnnotatorNotes T31	8337/3
+T32	MORFOLOGIA_NEOPLASIA 4131 4225	Carcinoma de pulmón de célula grande con componente neuroendocrino (no célula pequeña), T4N2M1
+#32	AnnotatorNotes T32	8013/6
+T33	MORFOLOGIA_NEOPLASIA 5600 5624	carcinoma indiferenciado
+#33	AnnotatorNotes T33	8020/3
+T34	MORFOLOGIA_NEOPLASIA 5600 5635	carcinoma indiferenciado/anaplásico
+#34	AnnotatorNotes T34	8021/3
+T35	MORFOLOGIA_NEOPLASIA 6186 6254	carcinoma de alto grado con rasgos neuroendocrinos (patrón organoide
+#35	AnnotatorNotes T35	8246/34/H
+T36	MORFOLOGIA_NEOPLASIA 6319 6343	carcinoma indiferenciado
+#36	AnnotatorNotes T36	8020/3
+T37	MORFOLOGIA_NEOPLASIA 6319 6354	carcinoma indiferenciado/anaplásico
+#37	AnnotatorNotes T37	8021/3
+T38	MORFOLOGIA_NEOPLASIA 6400 6426	carcinomas neuroendocrinos
+#38	AnnotatorNotes T38	8246/3

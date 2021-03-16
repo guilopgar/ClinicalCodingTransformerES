@@ -1,0 +1,42 @@
+T1	MORFOLOGIA_NEOPLASIA 5081 5103	Implantes peritoneales
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 88 94	cáncer
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 5858 5880	implantes peritoneales
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 4003 4011	teratoma
+#4	AnnotatorNotes T4	9080/1
+T5	MORFOLOGIA_NEOPLASIA 5922 5937	teratoma maduro
+#5	AnnotatorNotes T5	9080/0
+T6	MORFOLOGIA_NEOPLASIA 4562 4567	tumor
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 2500 2526	tumor del seno endodérmico
+#7	AnnotatorNotes T7	9071/3
+T8	MORFOLOGIA_NEOPLASIA 2842 2849	tumoral
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 4286 4293	tumoral
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 1471 1499	diseminación intraperitoneal
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 2165 2182	teratoma inmaduro
+#11	AnnotatorNotes T11	9080/3
+T12	MORFOLOGIA_NEOPLASIA 2529 2548	variantes hepatoide
+#12	AnnotatorNotes T12	9071/3
+T13	MORFOLOGIA_NEOPLASIA 2551 2582	glandular de tipo endometrioide
+#13	AnnotatorNotes T13	8380/0
+T14	MORFOLOGIA_NEOPLASIA 4667 4702	Implantes en cúpulas diafragmáticas
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 4748 4774	implantes subcentimétricos
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 4851 4899	teratoma de características histológicas maduras
+#16	AnnotatorNotes T16	9080/0
+T17	MORFOLOGIA_NEOPLASIA 5016 5051	teratoma de características maduras
+#17	AnnotatorNotes T17	9080/0
+T18	MORFOLOGIA_NEOPLASIA 5157 5192	teratoma de características maduras
+#18	AnnotatorNotes T18	9080/0
+T19	MORFOLOGIA_NEOPLASIA 5260 5278	neoplásico maligno
+#19	AnnotatorNotes T19	8000/3
+T20	MORFOLOGIA_NEOPLASIA 5589 5615	implantes subcentimétricos
+#20	AnnotatorNotes T20	8000/6
+T21	MORFOLOGIA_NEOPLASIA 1501 1513	omental cake
+#21	AnnotatorNotes T21	8000/6

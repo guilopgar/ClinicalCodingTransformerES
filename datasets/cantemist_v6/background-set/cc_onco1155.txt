@@ -1,0 +1,43 @@
+Anamnesis
+Mujer de 68 años sin alergias conocidas, con antecedentes personales de fumadora de 20 paquetes/año, enfermedad pulmonar obstructiva crónica grado II de la GOLD tipo bronquitis crónica diagnosticada desde hacía más de 10 años.
+Tuberculosis adecuadamente tratada hacía 32 años. En tratamiento habitual con broncodilatadores. Llevaba una vida activa e independiente sin disnea.
+Como antecedentes familiares su madre había fallecido de cáncer gástrico con 58 años.
+Hacía un mes se le había realizado una resonancia magnética tras un traumatismo en el hombro derecho, donde se objetivó una tendinosis masiva del manguito rotador y adenopatías axilares derechas de tamaño patológico. Por lo que se completó el estudio mediante mamografía y ecografía mamaria, visualizándose adenopatías axilares derechas, probablemente reactivas, sin lesiones mamarias asociadas. Se clasificó como BIRADS 2. Fue ingresada por neumonía adquirida en la comunidad en el lóbulo inferior izquierdo, tratada con antibioterapia de amplio espectro, que había completado hacía tres días y en seguimiento ambulatorio.
+En la anamnesis refiere fiebre, aumento de tos con expectoración verdosa y empeoramiento del estado general, mialgias generalizadas y rigidez de cuello; destacaban unas lesiones cutáneas en el tercer y el cuarto dedos que habían aparecido una semana atrás, en forma de lesiones eritematosas no sobreelevadas, dolorosas a la palpación en los pulpejos con sensación de frialdad continua, no relacionada con los cambios térmicos, junto con sequedad e intensa descamación palmar. Refería presentar Raynaud desde hacía más de 20 años, simétrico, en relación con la exposición al frío.
+
+Examen físico
+En la exploración física era destacable una temperatura de 37,5 ºC, dos adenopatías axilares derechas de unos 2 cm, rodaderas, duras, no dolorosas. Dolor a la palpación en la musculatura cervical. Se escuchaban crepitantes basales.
+Y en las extremidades superiores destacaban el tercer y el cuarto dedos de la mano izquierda pálidos, fríos, mal perfundidos, dolorosos a la palpación, sin pérdida de fuerza ni sensibilidad y los pulsos radiales eran simétricos.
+Por lo que refiere a la exploración neurológica, no evidenció hallazgos patológicos.
+
+Pruebas complementarias
+- Se le realizó una analítica completa con bioquímica, hemograma y coagulación, donde destacaban neutrófilos de 9,12 x 103/microl, mínima hipoalbuminemia, proteína C reactiva 33,8 mg/l y ferritina 250 ng/ml.
+- La gasometría arterial evidenciaba una alcalosis respiratoria.
+- La orina fue normal y la serología para hepatitis fue negativa, salvo para los anticuerpos frente a la hepatitis B.
+- En el estudio microbiológico, los hemocultivos fueron negativos y en el urocultivo se aisló un Enterococcus faecium sensible a glicopéptidos, linezolid y fosfomicina. Además, en el cultivo de esputo creció Pseudomonas aeruginosa sensible a quinolonas. Y el Mantoux fue positivo.
+- Dentro del estudio inmunológico, destacaban los anti-Ro52 positivo ++ y anti-Pl 7 positivo +++. Además de unos anticuerpos antinucleares (ANA) de patrón granular y anti-ENA SS-A/Ro 20 positivos. Siendo el resto negativos.
+- En la radiografía de tórax se observaba un infiltrado en el lóbulo inferior izquierdo.
+- Posteriormente en la TC se objetivaba una consolidación en la língula y la base pulmonar izquierda en relación con consolidación neumónica. El resto del parénquima mostraba hallazgos sugestivos de bronquiolitis constrictiva postinfecciosa y adenopatías axilares derechas de tamaño en el límite alto de la normalidad, aunque conservaban su morfología y centro graso.
+- En la ecografía Doppler arterial del miembro superior izquierdo no existían signos de estenosis hemodinámicamente significativas.
+- El electrocardiograma y el ecocardiograma transesofágico descartaron endocarditis.
+- Se realizó una broncoscopia, donde en el cultivo se aislaron Pseudomonas aeruginosa y Stenotrophomonas maltophilia sensible a quinolonas. El lavado bronquioalveolar mostraba un incremento del porcentaje de linfocitos a expensas de células T con un 93% de macrófagos, siendo la citología negativa para células malignas. El informe oral de la biopsia pulmonar fue compatible con neumonía organizada criptogénica.
+- La capilaroscopia mostraba un patrón de neoformación vascular con microhemorragias que orientaban a una enfermedad tipo dermatomiositis.
+- En las pruebas de función respiratoria presentaba una capacidad vital funcional disminuida, con aumento del volumen residual y disminución en las pruebas de difusión.
+- El estudio densitométrico fue compatible con osteopenia.
+- Además, el resultado de la biopsia de ganglio axilar era compatible con infiltración por un carcinoma de origen mamario con receptores de estrógenos positivos probablemente de tipo lobulillar. Y la punción de la adenopatía subclavicular mostraba hallazgos concordantes con carcinoma.
+- Se repitieron la mamografía y la ecografía mamaria, donde se visualizaron las adenopatías previamente descritas y se realizó la punción de dos nódulos de 1 cm en conjunto en la región periareolar de la mama derecha, con resultado de estroma fibroso sin signos de malignidad.
+- En la resonancia magnética se volvieron a visualizar las adenopatías previamente conocidas, sin evidencia de patología en ninguna de las dos mamas.
+- Se completó el estudio de extensión con una gammagrafía ósea, donde no se evidenció afectación ósea secundaria, y una PET-TC donde se objetivaban adenopatías axilares con captación patológica, sin evidencia de tejido tumoral viable en otras localizaciones y hallazgos pulmonares en relación con neumonía multilobar conocida.
+
+Diagnóstico
+Carcinoma oculto de mama derecho con afectación axilar y supraclavicular.
+Síndrome antisintetasa (anticuerpos anti-PL7) probablemente paraneoplásico.
+
+Tratamiento
+Durante su ingreso en Medicina Interna recibe tratamiento con prostaglandinas intravenosas (alprostadilo) por Raynaud grave, con buena tolerancia, así como antibioterapia con piperacilina/tazobactam y posteriormente ciprofloxacino.
+Además, de inicia tratamiento con prednisona 30 mg/día y bosentán, que mantiene al alta junto al resto de medicación.
+Es valorada previamente al alta por Ginecología y Oncología médica con decisión de seguimiento ambulatorio.
+
+Evolución
+La afectación pulmonar y las neumonías de repetición mantienen a la enferma en tratamiento antibiótico continuo y oxigenoterapia domiciliaria. Se propone tratamiento hormonal inicial dada la escasa morbilidad asociada a este tratamiento.
+Al mes, la paciente volvió a ingresar por fiebre e infiltrados pulmonares, realizándose una nueva TC, donde se objetivaban lesiones de nueva aparición en los campos pulmonares superiores y medios, con patrón predominante en "vidrio deslustrado", compatible con proceso infeccioso-inflamatorio y mínimo derrame pleural bilateral. Recibió tratamiento con antibioterapia de amplio espectro y se incrementaron las dosis de esteroides dada la evolución tórpida inicial. Además, se le administró un ciclo de inmunoglobulinas. Posteriormente presentó mejoría clínica y radiológica, con resolución del cuadro respiratorio y sin complicaciones durante el ingreso.

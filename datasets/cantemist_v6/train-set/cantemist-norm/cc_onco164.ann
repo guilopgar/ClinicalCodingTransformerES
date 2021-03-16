@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 536 541	Tumor
+#1	AnnotatorNotes T1	8000/1
+T2	MORFOLOGIA_NEOPLASIA 1541 1551	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1256 1291	carcinoma intraductal de alto grado
+#3	AnnotatorNotes T3	8500/24
+T4	MORFOLOGIA_NEOPLASIA 1423 1451	metástasis de acenocarcinoma
+#4	AnnotatorNotes T4	8140/6
+T5	MORFOLOGIA_NEOPLASIA 1703 1724	Carcinoma intraductal
+#5	AnnotatorNotes T5	8500/2
+T6	MORFOLOGIA_NEOPLASIA 1744 1752	cT4dNxM0
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 2327 2336	carcinoma
+#7	AnnotatorNotes T7	8010/3
+T8	MORFOLOGIA_NEOPLASIA 2609 2621	metastásicas
+#8	AnnotatorNotes T8	8000/6

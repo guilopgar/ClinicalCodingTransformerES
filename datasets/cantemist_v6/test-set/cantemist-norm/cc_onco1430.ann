@@ -1,0 +1,8 @@
+T1	MORFOLOGIA_NEOPLASIA 1804 1810	Cáncer
+#1	AnnotatorNotes T1	8000/3
+T2	MORFOLOGIA_NEOPLASIA 1198 1241	adenocarcinoma seroso papilar de alto grado
+#2	AnnotatorNotes T2	8460/34
+T3	MORFOLOGIA_NEOPLASIA 711 735	carcinoma indiferenciado
+#3	AnnotatorNotes T3	8020/3
+T4	MORFOLOGIA_NEOPLASIA 1303 1315	metastatizan
+#4	AnnotatorNotes T4	8000/6

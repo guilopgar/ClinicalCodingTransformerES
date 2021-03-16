@@ -1,0 +1,45 @@
+Anamnesis
+
+Antecedentes personales
+Mujer de 67 años sin alergias conocidas. No presenta antecedentes médicos de interés. Sin hábitos tóxicos. Trabaja como enfermera.
+Antecedentes familiares: abuela materna fallecida de cáncer gástrico a los 49 años. Tía paterna de cáncer de mama a los 91 años. Tía paterna de leucemia a los 46 años.
+
+Historia oncológica
+En octubre de 2010, la paciente debuta con un cuadro de coluria y acolia. En la analítica se apreciaba alteración de pruebas de función hepática junto con elevación de las cifras de amilasa y lipasa. Se realizó TC toracoabdominal donde se objetivó una masa de unos 5 cm en cabeza y cuerpo de páncreas. La carga tumoral hepática basal fue > 50 % con al menos 3 lesiones > 2 cm y adenopatías en rango patológico a varios niveles, principalmente a nivel retroperitoneal.
+La muestra de la biopsia fue insuficiente, ya que no se obtuvo tinción con citoqueratina por lo que se decidió realizar ampliación a cromogranina y sinaptofisina con resultado positivo. El diagnóstico definitivo fue un pan-TNE grado 2 sin poder determinar el índice de Ki67.
+Se realizó gammagrafía con octreótido donde se confirmó la presencia de receptores de somatostatina en el tumor primario y las metástasis.
+Tras valorar el caso en comité de tumores, se consideró que el tumor era irresecable por lo que se decidió derivar a Oncología Médica para iniciar tratamiento sistémico.
+
+Exploración física
+» Peso 63 kg. Talla 1,60 m. Superficie corporal 1,6 m2.
+» Índice de Karnofsky 90 %. Ictericia cutáneo-mucosa.
+» Cabeza y cuello: ictericia conjuntival.
+» Regiones ganglionares: no se palpan adenopatías en rango patológico.
+» Tórax: mamas sin nódulos. Corazón: ruidos cardiacos rítmicos. Pulmón: murmullo vesicular conservado.
+» Abdomen: estrías, no se palpan masas, peristalsis conservada.
+» Extremidades inferiores: fuerza y sensibilidad preservadas, sin varices, flebitis ni edemas.
+
+Pruebas complementarias
+» Hemograma y coagulación normal. Bioquímica con bilirrubina 2,8 mg/dl, FA 186 UI/l, resto normal.
+» TC toracoabdominopélvica (25-10-2010): masa de unos 5 cm en cabeza y cuerpo de páncreas, el cáncer primario y de al menos una Mx. en segmento 7-8 del hígado de 27 x 50 mm, y adenopatías en rango patológico a varios niveles, destacando en retroperitoneo.
+» Gammagrafía con octreótido que confirma la presencia de receptores de somatostatina en el tumor primario y las metástasis.
+
+Diagnóstico
+Pan-TNE grado 2 (ki67 desconocido) estadio IV al diagnóstico en octubre 2010 por metástasis hepáticas y ganglionares.
+
+Tratamiento
+Se inicia análogo de somatostatina (ASS): octreótido lar 30 mg im cada 4 semanas en diciembre de 2010.
+
+Evolución
+Tras el inicio del tratamiento con octreótido lar, en la TC de control realizada a los 3 meses se confirma progresión a nivel pancreático, hepático y retroperitoneal, junto con una ictericia obstructiva por compresión de la vía biliar que obliga a la colocación de una prótesis que se complicó con una colangitis.
+Dada la ausencia de respuesta al tratamiento pautado, se sospecha que podría tratarse de un pan-TNE más agresivo y, por ello, haber sido el ASS un tratamiento subóptimo, por lo que se decide rebiopsia hepática que confirma un Ki67 del 10-15 % (intermedio-alto).
+Se inicia everolimus 10 mg/d vo con mala tolerancia, apreciándose en la TC de control del 31/10/2010 progresión tumoral ganglionar estando en no cambios las lesiones hepáticas.
+Dada la rápida progresión tumoral a 2 líneas de tratamiento sistémico, se decide pautar quimioterapia con carboplatino 5-AUC día 1 y etopósido 100 mg/m2 x 3 días cada 3 semanas en diciembre 2011. El carboplatino se suspendió por toxicidad hematológica.
+Desde la primera TC realizada a los 3 meses (marzo 2012) se confirma respuesta radiológica que se mantuvo durante 2 años.
+El 04/06/2013 se realiza nueva TC que muestra progresión de los ganglios retroperitoneales y pélvicos manteniendo la respuesta a nivel del primario e hígado.
+Ante dicha progresión, inicia 4ª línea de quimioterapia con esquema, capecitabina 750 mg/m²/12h día 1-14 y temozolamida 200 mg/m²/día días 10-14 cada 28 días, alcanzando una importante respuesta radiológica a todos los niveles que se confirma en TC de marzo de 2015.
+En noviembre de 2015, se realizó una nueva valoración del caso con el comité de tumores neuroendocrinos. Tras revisar los estudios de imagen, dado el tiempo de evolución y la histología del tumor, se decidió completar estudios para valorar tratamiento con radiofrecuencia sobre la única lesión hepática que persistía > 2,5 cm con el objetivo de prolongar el intervalo libre de progresión.
+Se realiza radiofrecuencia de la lesión hepática en enero de 2016 sin complicaciones. En la TC de 22/02/2016 en el segmento 7 hepático se identificaba una lesión hipodensa de 30 x 47 mm en relación con metástasis tratadas con microondas con resto de metástasis < 1 cm.
+Se mantuvo tratamiento con capecitabina y se suspendió la temozolamida tras 16 ciclo al haberse alcanzado una respuesta casi completa y al causarle dicho fármaco toxicidad sobre todo hematológica y digestiva. Recibió 11 ciclos de capecitabina en monoterapia entre 16/7/2018 y 11/3/2019.
+En la TC de control del 21/5/2019 se aprecia enfermedad estable con lesión hipervascular en cabeza pancreática de 23 mm compatible con pan-TNE conocido en contacto con duodeno, sin cambios.
+Cambios posradiofrecuencia en segmento VIII hepático, con pequeño realce periférico y sin visualizarse las metástasis hepáticas múltiples subcentimétricas ni las adenopatías en respuesta desde el inicio de este esquema 4 años antes, 9 años desde el diagnóstico del pan-TNE metastásico.

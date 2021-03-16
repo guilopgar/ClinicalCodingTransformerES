@@ -1,0 +1,26 @@
+T1	MORFOLOGIA_NEOPLASIA 3579 3598	Progresión cerebral
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 3535 3553	Progresión pleural
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 3501 3524	Recidiva pleuropulmonar
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 3458 3473	Tumor Phyllodes
+#4	AnnotatorNotes T4	9020/1
+T5	MORFOLOGIA_NEOPLASIA 2888 2898	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 1529 1547	progresión pleural
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1097 1120	recidiva pleuropulmonar
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 446 461	tumor Phyllodes
+#8	AnnotatorNotes T8	9020/1
+T9	MORFOLOGIA_NEOPLASIA 3402 3409	tumoral
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 606 653	tumor de 5,5 x 4,5 cm, histológicamente maligno
+#10	AnnotatorNotes T10	8000/3
+T11	MORFOLOGIA_NEOPLASIA 840 856	tumor pPhyllodes
+#11	AnnotatorNotes T11	9020/1
+T12	MORFOLOGIA_NEOPLASIA 2986 3043	metástasis de tumor Phyllodes de características malignas
+#12	AnnotatorNotes T12	9020/6
+T13	MORFOLOGIA_NEOPLASIA 2724 2796	lesiones ocupantes de espacio de gran tamaño, de localización cerebelosa
+#13	AnnotatorNotes T13	8000/6

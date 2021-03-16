@@ -1,0 +1,85 @@
+Anamnesis
+Sin alergias medicamentosas conocidas.
+No hábitos tóxicos.
+Dislipemia en tratamiento médico. No hipertensión ni diabetes.
+Infarto lacunar en 2009, sin secuelas en la actualidad. Desde entonces en tratamiento antiagregante.
+No cardiopatías ni neumopatías conocidas.
+IQ: resección transuretral.
+Historia oncológica:
+- Primera neoplasia (1999): carcinoma escamoso de cuerda vocal tratado con RDT radical. Sin evidencia de recidiva (no disponemos de informes).
+- Segunda neoplasia (12/2011):
+Primer síntoma: hematuria franca y tenesmo urinario.
+Ecografía urinaria: normal, no se aprecian lesiones exofíticas intravesicales.
+Cistoscopia: tumor exofítico único de 1,5 cm en la parte inferior de la CLD.
+Tratamientos: resección transuretral uretral completa de la lesión.
+Anatomía patológica: carcinoma urotelial papilar de bajo grado, sin invasión. G2a Ta. Realizó mitomicina posquirúrgica.
+- Tercera neoplasia:
+Primer síntoma (12/2012): tenesmo rectal de 2 meses de evolución, que en el último mes asocia rectorragias de sangre fresca. Tendencia al estreñimiento y pérdida de peso (no cuantificada).
+No dolor rectal ni abdominal. No clínica respiratoria.
+
+Examen físico
+Performance status: 1. Normohidratado y normocoloreado.
+Cardiovascular: tonos cardiacos rítmicos sin soplos ni roces. No ingurgitación yugular.
+Respiratorio: eupneico. Murmullo vesicular conservado.
+Abdomen: blando, depresible, no doloroso a la palpación. No se palpan masas o megalias. Peristaltismo audible sin ruidos patológicos.
+Tacto rectal: se palpa una tumoración que afecta a toda la circunferencia a 3-4 cm del margen anal. Discretamente
+
+Estudio diagnóstico:
+- Colonoscopia: ampolla rectal donde se visualiza desde 4 cm del margen una lesión mamelonada, dura al tacto con la pinza, compatible con una neoplasia que ocupa los cuatro cuadrantes de la luz. Se puede proseguir hasta 10 cm, no pudiendo continuar más allá por la marcada estenosis que provoca la neoplasia.
+- Anatomía patológica: adenocarcinoma infiltrante.
+- Analítica (21/5/2013): hemograma y bioquímica normales.
+- CEA: 9,6; CA 19,9: 9.
+
+Estudio de extensión:
+- TC tóraco-abdominal con contraste (5/2013): engrosamiento mural rectal que se extiende hasta la unión recto-sigmoidea, con gran componente exofítico a nivel del recto medio-alto, extendiéndose hacia la grasa perirrectal derecha, en relación con la neoplasia biopsiada.
+Marcado aumento de densidad y traveculación de la grasa perirrectal y adenopatía de 1 x 1 cm en la grasa perirrectal derecha.
+Lesión focal hepática de 16 mm en el segmento VI, muy sugestiva de metástasis, a tener en cuenta que en este estudio no se dispone de una correcta fase portal. Riñón izquierdo con múltiples cicatrices corticales y un pequeño quiste renal.
+Vejiga urinaria con pared engrosada. Enfisema. Nódulos pulmonares de 3 mm en el segmento anterior del LSD y de 5 mm en el segmento anterior del LSI, subpleural, sugestivo de adenopatía intrapulmonar. A valorar evolutivamente.
+Signos de enfermedad pleural por exposición al asbesto.
+- RM pélvica (5/2013): neoplasia rectal a 5 cm, de 6 cm de largo; la mayoría por debajo de la reflexión peritoneal. Infiltra el mesorrecto con una profundidad máxima de 25 mm. Se visualizan adenopatías sospechosas e infiltración vascular.
+Dudosa infiltración de próstata. uT3-4N+.
+- Ecoendoscopia rectal (14/5/2013): exploración no realizada por neoplasia rectal muy estenosante que no permite el paso del transductor. Lesión a 4 cm del margen anal en la cara anterior por rectoscopia.
+- RM hepática (6/2013): hígado de tamaño y morfología normales, sin criterios de esteatosis.
+Lesión nodular de 17 mm en el segmento VI subcapsular, levemente hiperintensa en T2, hipointensa en T1, con signos de restricción de la difusión y captación periférica anular, compatible con metástasis.
+Vasos hepáticos permeables. Vía biliar no dilatada. Vesícula biliar normodistendida, alitiásica. Bazo, páncreas y suprarrenales sin alteraciones valorables.
+
+Diagnóstico
+Se valora en comité multidisciplinar como paciente de 69 años, con antecedente de neoplasia superficial de vejiga y carcinoma de cuerda vocal (ambos tratados sin signos de recidiva). Actualmente diagnosticado de adenocarcinoma de recto bajo T3-4 N+ por RM con M1 hepática sincrónica en el segmento VI resecable, candidato a tratamiento radical.
+
+Tratamiento
+Inicia tratamiento con un ciclo de FOLFOX 6 (19/6/2013), posteriormente inicia tratamiento con radioterapia sobre el recto y quimioterapia con 5-fluorouracilo concomitantes (2/7/2013).
+El tratamiento es bien tolerado, sin toxicidad de interés.
+Finaliza el 9/8/2013, con una dosis total acumulada de 46,8 Gy.
+El 16/10/2014 se realiza resección anterior ultrabaja por laparoscopia asistida, anastomosis colo-anal e ileostomía lateral de protección más hepatectomía parcial.
+Durante el acto quirúrgico se realiza exploración hepática manual y ecográfica: se confirma la lesión sugestiva de metástasis en el segmento VI, y además se visualiza un nódulo subcapsular en el segmento VIII sugestivo de adenoma biliar.
+Resección limitada S VI y exéresis de dicha lesión nodular milimétrica en el segmento VIII.
+Post-operatorio sin incidencias.
+
+Evolución
+Resultados de la anatomía patológica:
+Resección anterior baja de recto:
+- Adenocarcinoma de bajo grado infiltrante. Invasión hasta el tejido adiposo perirrectal. No invasión linfática, venosa ni perineural.
+- Ganglios linfáticos: 0/20 ganglios afectados.
+- Márgenes libres.
+- Conclusión: ypT3 ypN0 (TNM 7.ª ed. UICC; 2009).
+- Grado de respuesta al tratamiento neoadyuvante: grado 3 (respuesta parcial con predominio de fibrosis sobre el tumor).
+Lesión hepática, resección limitada del segmento VI:
+Medida de la pieza: 4 x 4 x 3,3 cm.
+Hepatocarcinoma solitario de 1,7 cm.
+Unifocal.
+Grado de diferenciación histológica: 2/4.
+No signos de necrosis. No signos de invasión vascular, perineural o de la vía biliar.
+Patrón de crecimiento trabecular.
+pT1 pNx Codis SNOMED: 8170/3.
+Lesión hepática, resección limitada del segmento VIII:
+Infiltración por adenocarcinoma, de 0,6 cm, que expresa CK7, CK20 y es negativa para CDX2.
+Tumor a 1 mm del margen de resección.
+La morfología y el perfil inmunohistoquímico del tumor hepático son diferentes del primario de recto, por lo cual se considera que no es una mestástasis y que sí es compatible con un colangiocarcinoma intrahepático.
+Parénquima hepático no tumoral:
+Esteatosis macro-microvesicular: 10%.
+Infiltrados linfocitarios portales leves sin actividad periportal.
+Proliferanción colangiolar leve.
+Tratamiento posterior:
+Valorado por Cirugía, se desestimó reintervención para cirugía reglada de hepatocarcinoma/colangiocarcinoma.
+El paciente realizó tratamiento adyuvante con quimioterapia esquema FOLFOX 6 durante ocho ciclos (fin Marzo de 2014), con buena tolerancia.
+Hasta el momento no hay evidencia de recidiva.

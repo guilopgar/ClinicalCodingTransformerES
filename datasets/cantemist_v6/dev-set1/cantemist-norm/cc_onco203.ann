@@ -1,0 +1,14 @@
+T1	MORFOLOGIA_NEOPLASIA 3026 3032	T4N2M0
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 2980 3001	carcinoma microcítico
+#2	AnnotatorNotes T2	8041/3
+T3	MORFOLOGIA_NEOPLASIA 2922 2932	malignidad
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 2376 2383	tumoral
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 3798 3805	tumoral
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 2282 2329	carcinoma poco diferenciado de células pequeñas
+#6	AnnotatorNotes T6	8041/33
+T7	MORFOLOGIA_NEOPLASIA 2335 2343	oat cell
+#7	AnnotatorNotes T7	8002/3

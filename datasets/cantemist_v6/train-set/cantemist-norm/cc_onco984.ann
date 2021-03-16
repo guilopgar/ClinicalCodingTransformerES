@@ -1,0 +1,44 @@
+T1	MORFOLOGIA_NEOPLASIA 4686 4716	Carcinoma seroso de alto grado
+#1	AnnotatorNotes T1	8441/34
+T2	MORFOLOGIA_NEOPLASIA 497 511	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 1091 1126	adenocarcinoma seroso de alto grado
+#3	AnnotatorNotes T3	8441/34
+T4	MORFOLOGIA_NEOPLASIA 3654 3689	adenocarcinoma seroso de alto grado
+#4	AnnotatorNotes T4	8441/34
+T5	MORFOLOGIA_NEOPLASIA 3946 3981	adenocarcinoma seroso de alto grado
+#5	AnnotatorNotes T5	8441/34
+T6	MORFOLOGIA_NEOPLASIA 4098 4133	adenocarcinoma seroso de alto grado
+#6	AnnotatorNotes T6	8441/34
+T7	MORFOLOGIA_NEOPLASIA 135 141	cáncer
+#7	AnnotatorNotes T7	8000/3
+T8	MORFOLOGIA_NEOPLASIA 2901 2910	neoplasia
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 3694 3703	neoplasia
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 4524 4534	neoplásico
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 2802 2812	tumoración
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 551 562	metastásica
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 583 590	T3cN1M0
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 1019 1028	ypT3cN1M0
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 3512 3555	adenocarcinoma seroso papilar de alto grado
+#15	AnnotatorNotes T15	8460/34
+T16	MORFOLOGIA_NEOPLASIA 2773 2785	Omental Cake
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 2748 2767	implantes omentales
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 3191 3213	implantes peritoneales
+#18	AnnotatorNotes T18	8000/6
+T19	MORFOLOGIA_NEOPLASIA 4208 4230	implantes peritoneales
+#19	AnnotatorNotes T19	8000/6
+T20	MORFOLOGIA_NEOPLASIA 450 471	afectación peritoneal
+#20	AnnotatorNotes T20	8000/6
+T21	MORFOLOGIA_NEOPLASIA 5255 5276	afectación peritoneal
+#21	AnnotatorNotes T21	8000/6
+T22	MORFOLOGIA_NEOPLASIA 1246 1283	enfermedad a nivel pélvico y hepático
+#22	AnnotatorNotes T22	8000/6

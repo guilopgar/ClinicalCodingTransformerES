@@ -1,0 +1,18 @@
+T1	MORFOLOGIA_NEOPLASIA 3335 3345	metástasis
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1598 1605	tumoral
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 912 938	Linfoma cutáneo primario T
+#3	AnnotatorNotes T3	9709/3
+T4	MORFOLOGIA_NEOPLASIA 944 960	micosis fungoide
+#4	AnnotatorNotes T4	9700/3
+T5	MORFOLOGIA_NEOPLASIA 1119 1125	T1N0M0
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 1488 1591	linfoma cutáneo primario T tipo micosis fungoide con nódulos de transformación a células grandes CD30 +
+#6	AnnotatorNotes T6	9718/3
+T7	MORFOLOGIA_NEOPLASIA 1520 1536	micosis fungoide
+#7	AnnotatorNotes T7	9700/3
+T8	MORFOLOGIA_NEOPLASIA 3546 3574	linfoma T de células grandes
+#8	AnnotatorNotes T8	9718/3
+T9	MORFOLOGIA_NEOPLASIA 3289 3308	lesiones pulmonares
+#9	AnnotatorNotes T9	8000/6

@@ -1,0 +1,22 @@
+T1	MORFOLOGIA_NEOPLASIA 3338 3349	metastásica
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 4478 4489	metastásica
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 4025 4035	tumoración
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 2852 2878	adenocarcinoma infiltrante
+#4	AnnotatorNotes T4	8140/3/H
+T5	MORFOLOGIA_NEOPLASIA 3006 3050	adenocarcinoma infiltrante bien diferenciado
+#5	AnnotatorNotes T5	8140/31/H
+T6	MORFOLOGIA_NEOPLASIA 3083 3098	adenoma maligno
+#6	AnnotatorNotes T6	8140/3
+T7	MORFOLOGIA_NEOPLASIA 3555 3557	M1
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 4178 4199	maligna de alto grado
+#8	AnnotatorNotes T8	8000/34
+T9	MORFOLOGIA_NEOPLASIA 4460 4477	infiltración ósea
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 3320 3337	infiltración ósea
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 3801 3812	lesión ósea
+#11	AnnotatorNotes T11	8000/6

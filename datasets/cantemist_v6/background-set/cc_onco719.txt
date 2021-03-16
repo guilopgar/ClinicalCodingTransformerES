@@ -1,0 +1,69 @@
+Anamnesis
+Presentamos el caso de una mujer de 48 años con carcinoma (Ca) ductal infiltrante de mama.
+Antecedentes familiares:
+Madre con Ca de mama diagnosticado a los 38 años. Tías segundas con Ca de mama. Abuelo materno fallecido de Ca gástrico.
+Antecedentes personales:
+» Sin alergias medicamentosas conocidas.
+» Hábitos tóxicos: exfumadora desde septiembre 2011 de 1 paquete-día desde los 15 años.
+» Sin factores de riesgo cardiovascular.
+» Antecedente médicos: Síndrome ansioso-depresivo.
+» Antecedentes quirúrgicos: no.
+» Antecedentes gineco-obstétricos: menarquia a los 12 años. Sin abortos, 2 hijos que lactó 6 y 4 meses. Ingesta de anticonceptivos orales por unos 18 meses.
+Primeros síntomas (abril 2010): la paciente consulta en Ginecología por molestias premenstruales de tres meses de evolución e hinchazón areolar. En la exploración en consulta se halla un nódulo palpable en la mama izquierda.
+Se realiza ecografía, sonografía, biopsia con aguja gruesa (BAG) y resonancia magnética (RM), confirmándose la existencia de dos nódulos en cuadrantes externos de la mama izquierda. Se diagnostica de carcinoma ductal infiltrante de mama izquierda subtipo luminal B (cT2, cN1, cM0), estadio IIB. Inmunohistoquímica (IHQ): Receptores de estrógenos (RE) (+) 81 %, receptores de progesterona (RP) (+) 22 %, Ki 67 (+) 72 %, HER-2 (-).
+Tratamientos recibidos y evolución en el tiempo
+» QT neoadyuvante: tras el diagnóstico por parte de Ginecología se deriva a Oncología Médica, iniciándose antraciclinas + ciclofosfamida por 4 ciclos seguido de docetaxel por 4 ciclos.
+» Intervención quirúrgica (diciembre 2012): se realiza cirugía conservadora (segmentectomía) y vaciamiento axilar izquierdo (niveles I y II de Berg), estudiado como ypT1a ypN1.
+» Hormonoterapia adyuvante: inicia tratamiento hormonal con tamoxifeno (enero 2013) y radioterapia (RT) (marzo-abril 2013) complementaria sobre mama izquierda y niveles axilares con posterior sobreimpresión sobre lecho tumoral (dosis administrada 50 Gy + 17,5 Gy).
+» Progresión de enfermedad (PE) (diciembre 2014): se detecta en pruebas de control un nódulo de 28 mm a nivel retroareolar en la mama izquierda, realizándose BAG con diagnóstico de carcinoma infiltrante subtipo no especial (RE 90-100 %, RP 5 %, Ki 67 20-30 %, HER-2 (-).
+» Mastectomía izquierda (febrero 2015).
+» Segunda línea QT (marzo-junio 2015): inicia carboplatino + TAXOL semanal, completando un total de cuatro ciclos, suspendiéndose finalmente por deterioro general y toxicidad neurológica.
+» Hormonoterapia (agosto 2015): comienza con anastrozol + Ca-D.
+» » PE (octubre 2016): se detecta en TC una masa de tejido blando a nivel de mediastino anterior.
+» Tercera línea de QT (octubre 2016): se inicia capecitabina en ese momento, recibiendo un total de diez ciclos.
+» PE (junio 2017): en TC se objetiva aumento de tamaño de la masa mediastínica, así como aumento de tamaño de adenopatías prevasculares y aparición de signos de trombosis en la subclavia izquierda y de derrame pericárdico.
+» Cuarta línea de QT (junio 2017): se inicia tratamiento con mesilato de eribulina, recibiendo un total de 11 ciclos.
+» PE (enero 2018): se detecta en un control radiológico un aumento de tamaño de las adenopatías prevasculares y de ventana aortopulmonar. Se propone entonces iniciar nueva línea de tratamiento QT: episodio de colitis en relación con eribulina.
+» Quinta línea de QT (marzo 2018): inicia tratamiento con vinorelbina: episodio de colitis en relación con vinorelbina.
+
+Enfermedad actual
+La paciente consulta el día 5 de febrero de 2018 en Urgencias por cuadro consistente en dolor abdominal y estreñimiento absoluto de 3-4 días, apareciendo en las 24 horas previas a consultar vómitos alimenticios y un episodio de numerosas deposiciones líquidas con sangre roja evidente.
+Negaba fiebre y otra sintomatología acompañante por aparatos. La paciente se encontraba anticoagulada en ese momento por el antecedente de trombosis de la vena subclavia.
+Se había administrado el último ciclo de eribulina el pasado día 11 de enero, aunque el día 1 de febrero se decidió suspender dicha QT por PE a nivel ganglionar en ventana aortopulmonar. En aquel momento, la paciente no tomaba como parte de su tratamiento habitual corticoides ni había tomado antibióticos en los meses previos.
+
+Exploración física
+» Estado general: a su llegada a Urgencias, la paciente presentaba mal estado general, se encontraba muy afectada por el dolor. Normocoloreada y bien perfundida, bien hidratada, afebril y estable hemodinámicamente.
+» Sin lesiones de mucosas.
+» Auscultación cardiorrespiratoria: corazón rítmico a buena frecuencia, sin soplos ni ruidos patológicos. Murmullo vesicular conservado sin ruidos patológicos sobreañadidos.
+» Abdomen: blando y depresible, sin masas ni megalias y sin signos de irritación peritoneal, refiriendo molestias generalizadas durante la palpación.
+» Tacto rectal: dedil manchado de sangre roja.
+» Miembros inferiores: sin edemas ni datos de trombosis venosa profunda.
+
+Pruebas complementarias
+» Radiografía de abdomen en Urgencias: anodina.
+» Analítica al ingreso: creatinina 0,86, urea 46, sin otros datos reseñables. Hb 154 g/l y leucocitosis 33.270 con 88 % neutrófilos.
+» TC abdomen (1er informe): se detecta un engrosamiento mural circunferencial de la totalidad del marco cólico y recto, así como hipercaptación de la mucosa y edema submucoso, acompañados de leve cantidad de líquido ascítico en gotieras y pelvis, sugestivas de cuadro de colitis. En un primer momento, dados los antecedentes de QT y el marcado engrosamiento a nivel del hemicolon transverso distal, sugieren como primera posibilidad una colitis pseudomembranosa.
+» TC de abdomen (2º informe): se revisan las imágenes previas donde se ve isquemia de asas colónicas en posible relación a hernia interna que provoca torsión del pedículo vascular de las asas. Toxina C. difficile y antígeno CHG (dos muestras, una al ingreso y otra tras 5 días de ingreso): negativos.
+» Laparotomía exploradora: colitis inflamatoria sin criterios de resecabilidad. No se objetivaron placas necróticas ni datos de isquemia. Colitis en fase reactiva.
+» Cultivo liquido peritoneal: negativo para microorganismos aerobios y anaerobios.
+» Anatomía patológica del intestino grueso: "material fibrinoleucocitario y mucosa de bordes de ulcera", con IHQ negativa para CMV y VHS.
+» PCR CMV en sangre: negativa.
+» Coprocultivo y micobacterias en heces: negativo.
+
+Diagnóstico diferencial
+» Colitis isquémica.
+» Colitis tóxica.
+» Colitis infecciosa.
+Diagnóstico definitivo por exclusión: colitis tóxica asociada al tratamiento con eribulina.
+
+Tratamiento
+Inicialmente, ante la sospecha de infección por C. difficile, se empezó tratamiento con vancomicina oral y metronidazol. Posteriormente, dada la ausencia de mejoría del cuadro, se trató con piperacilina-tazobactam, también con nula respuesta.
+Posteriormente se intentó un manejo quirúrgico por la sospecha de colitis isquémica.
+
+Evolución
+Como parte del estudio realizado en Urgencias, donde volvió a sufrir episodio con exteriorización de sangrado, se sometió a la paciente a TC abdominal, cuyos hallazgos motivaron el ingreso en planta: "Colitis sugestiva como primera posibilidad de colitis pseudomembranosa". En ese momento, se solicitó un estudio para toxina de Clostridium difficile (C. difficile) y se inició tratamiento con vancomicina oral.
+Una vez en planta, se continuó el estudio con más pruebas complementarias y se requirió un enfoque conjunto con otras especialidades como Enfermedades Infecciosas y Cirugía General.
+Por parte de enfermedades infecciosas, dada la ausencia de fiebre, la ausencia de toma previa de antibióticos y corticoides, y la normalidad de todos los estudios solicitados (toxina de C. difficile, antígeno GHD [antígeno glutamato deshidrogenasa para cepas de Clostridium no productoras de toxina], cultivos de sangre y heces, IHQ para CMV y VHS, PCR en sangre de CMV), así como la no respuesta a los tratamientos antibióticos empleados (vancomicina y piperacilina-tazobactam), se acabó concluyendo el origen no infeccioso del proceso de la paciente.
+Por otro lado, se revisaron de manera minuciosa las imágenes de TC con radiólogos expertos, dado el antecedente de la paciente de trombosis y la posibilidad de un origen isquémico del proceso, concluyéndose en un segundo tiempo la existencia de signos de isquemia colónica aparentemente en relación con una hernia interna paraduodenal y una torsión del pedículo vascular.
+Con estos hallazgos fue valorada por Cirugía, quienes decidieron realizar laparotomía exploratoria, en la que concluyeron que se trataba de una colitis inflamatoria sin criterios de resecabilidad en ese momento. Durante la intervención no se observaron placas necróticas ni datos de isquemia que sugirieran una causa vascular del cuadro de colitis. Posteriormente, se sometió a la paciente a una colonoscopia, la cual sugirió etiología infecciosa. En ambas intervenciones se tomaron muestras que fueron enviadas a microbiología para proseguir con el despistaje de patógenos y estudio de la anatomía patológica.
+Posteriormente el cuadro evolucionó lentamente a la resolución espontánea, sin requerimiento de más tratamientos antibióticos ni más procesos diagnósticos/terapéuticos.

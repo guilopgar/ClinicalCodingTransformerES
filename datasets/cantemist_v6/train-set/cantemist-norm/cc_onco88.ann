@@ -1,0 +1,22 @@
+T1	MORFOLOGIA_NEOPLASIA 1684 1693	carcinoma
+#1	AnnotatorNotes T1	8010/3
+T2	MORFOLOGIA_NEOPLASIA 1959 1968	carcinoma
+#2	AnnotatorNotes T2	8010/3
+T3	MORFOLOGIA_NEOPLASIA 175 181	cáncer
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 233 239	cáncer
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 1523 1533	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 1071 1076	tumor
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 2592 2599	tumoral
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 1391 1469	carcinoma renal papilar de células claras y eosinofílicas grado 3-4 de Furhman
+#8	AnnotatorNotes T8	8310/34
+T9	MORFOLOGIA_NEOPLASIA 2179 2190	metastásica
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 1391 1448	carcinoma renal papilar de células claras y eosinofílicas
+#10	AnnotatorNotes T10	8280/3
+T11	MORFOLOGIA_NEOPLASIA 1391 1414	carcinoma renal papilar
+#11	AnnotatorNotes T11	8260/3

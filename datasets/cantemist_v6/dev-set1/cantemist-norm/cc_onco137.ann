@@ -1,0 +1,46 @@
+T1	MORFOLOGIA_NEOPLASIA 1111 1131	Masa retroperitoneal
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 2398 2402	PNET
+#2	AnnotatorNotes T2	9364/3
+T3	MORFOLOGIA_NEOPLASIA 2977 2981	PNET
+#3	AnnotatorNotes T3	9364/3
+T4	MORFOLOGIA_NEOPLASIA 2479 2511	Tumor neuroectodérmico primitivo
+#4	AnnotatorNotes T4	9473/3
+T5	MORFOLOGIA_NEOPLASIA 781 791	Tumoración
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 2236 2257	carcinoma embrionario
+#6	AnnotatorNotes T6	9070/3
+T7	MORFOLOGIA_NEOPLASIA 3363 3383	masa retroperitoneal
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 4080 4100	masa retroperitoneal
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 554 563	neoplasia
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 2261 2269	seminoma
+#10	AnnotatorNotes T10	9061/3
+T11	MORFOLOGIA_NEOPLASIA 1972 1977	tumor
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 1998 2024	tumor del seno endodérmico
+#12	AnnotatorNotes T12	9071/3
+T13	MORFOLOGIA_NEOPLASIA 2289 2339	tumor del seno endodérmico de patrón microquístico
+#13	AnnotatorNotes T13	9071/3/H
+T14	MORFOLOGIA_NEOPLASIA 1430 1460	tumor germinal no seminomatoso
+#14	AnnotatorNotes T14	9065/3
+T15	MORFOLOGIA_NEOPLASIA 1900 1932	tumor neuroectodérmico primitivo
+#15	AnnotatorNotes T15	9473/3
+T16	MORFOLOGIA_NEOPLASIA 3849 3856	tumoral
+#16	AnnotatorNotes T16	8000/1
+T17	MORFOLOGIA_NEOPLASIA 593 614	tumor no seminomatoso
+#17	AnnotatorNotes T17	9065/3
+T18	MORFOLOGIA_NEOPLASIA 1573 1616	tumor de células germinales no seminomatoso
+#18	AnnotatorNotes T18	9065/3
+T19	MORFOLOGIA_NEOPLASIA 1941 1957	meduloepitelioma
+#19	AnnotatorNotes T19	9501/3
+T20	MORFOLOGIA_NEOPLASIA 1998 2069	tumor del seno endodérmico de patrón microquístico y variedad hepatoide
+#20	AnnotatorNotes T20	9071/3/H
+T21	MORFOLOGIA_NEOPLASIA 2357 2375	variedad hepatoide
+#21	AnnotatorNotes T21	9071/3
+T22	MORFOLOGIA_NEOPLASIA 2517 2533	meduloepitelioma
+#22	AnnotatorNotes T22	9501/3
+T23	MORFOLOGIA_NEOPLASIA 2570 2596	afectación retroperitoneal
+#23	AnnotatorNotes T23	8000/6

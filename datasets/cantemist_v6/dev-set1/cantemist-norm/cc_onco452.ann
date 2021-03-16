@@ -1,0 +1,26 @@
+T1	MORFOLOGIA_NEOPLASIA 652 658	cáncer
+#1	AnnotatorNotes T1	8000/3
+T2	MORFOLOGIA_NEOPLASIA 1897 1907	neoplásica
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 295 304	neurinoma
+#3	AnnotatorNotes T3	9560/0
+T4	MORFOLOGIA_NEOPLASIA 3335 3365	nódulos pulmonares bilaterales
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 5631 5636	tumor
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 1308 1331	tumor fibroso solitario
+#6	AnnotatorNotes T6	8815/0
+T7	MORFOLOGIA_NEOPLASIA 2219 2229	tumoración
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 2300 2310	tumoración
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 1678 1709	tumor fibroso solitario maligno
+#9	AnnotatorNotes T9	8815/3
+T10	MORFOLOGIA_NEOPLASIA 2479 2503	recaída pleural múltiple
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 4918 4949	tumor fibroso solitario maligno
+#11	AnnotatorNotes T11	8815/3
+T12	MORFOLOGIA_NEOPLASIA 3093 3111	progresión pleural
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 2770 2804	progresión tumoral a nivel pleural
+#13	AnnotatorNotes T13	8000/6

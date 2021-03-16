@@ -1,0 +1,28 @@
+T1	MORFOLOGIA_NEOPLASIA 409 412	CDI
+#1	AnnotatorNotes T1	8500/3
+T2	MORFOLOGIA_NEOPLASIA 1397 1400	CDI
+#2	AnnotatorNotes T2	8500/3
+T3	MORFOLOGIA_NEOPLASIA 2136 2138	M0
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1719 1747	carcinoma ductal infiltrante
+#4	AnnotatorNotes T4	8500/3
+T5	MORFOLOGIA_NEOPLASIA 2412 2440	carcinoma ductal infiltrante
+#5	AnnotatorNotes T5	8500/3
+T6	MORFOLOGIA_NEOPLASIA 1184 1194	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1852 1862	metástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 138 144	miomas
+#8	AnnotatorNotes T8	8895/0
+T9	MORFOLOGIA_NEOPLASIA 2206 2211	tumor
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 379 447	carcinoma ductal infiltrante (CDI) con diferenciación neuroendocrina
+#10	AnnotatorNotes T10	8574/3
+T11	MORFOLOGIA_NEOPLASIA 1367 1410	carcinoma ductal infiltrante (CDI), grado 2
+#11	AnnotatorNotes T11	8500/32
+T12	MORFOLOGIA_NEOPLASIA 1719 1804	carcinoma ductal infiltrante, pT2 (23 mm), con diferenciación neuroendocrina, grado 2
+#12	AnnotatorNotes T12	8574/32
+T13	MORFOLOGIA_NEOPLASIA 2412 2474	carcinoma ductal infiltrante con diferenciación neuroendocrina
+#13	AnnotatorNotes T13	8574/3
+T14	MORFOLOGIA_NEOPLASIA 1275 1308	proceso infiltrativo a nivel óseo
+#14	AnnotatorNotes T14	8000/6

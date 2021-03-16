@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 2559 2580	carcinoma microcítico
+#1	AnnotatorNotes T1	8041/3
+T2	MORFOLOGIA_NEOPLASIA 2500 2524	carcinoma neuroendocrino
+#2	AnnotatorNotes T2	8246/3
+T3	MORFOLOGIA_NEOPLASIA 2985 3009	carcinoma neuroendocrino
+#3	AnnotatorNotes T3	8246/3
+T4	MORFOLOGIA_NEOPLASIA 3396 3420	carcinoma neuroendocrino
+#4	AnnotatorNotes T4	8246/3
+T5	MORFOLOGIA_NEOPLASIA 2015 2025	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 2053 2062	neoplasia
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 1853 1858	tumor
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 3553 3560	tumoral
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 2500 2545	carcinoma neuroendocrino de célula intermedia
+#9	AnnotatorNotes T9	8044/3
+T10	MORFOLOGIA_NEOPLASIA 4038 4045	tumoral
+#10	AnnotatorNotes T10	8000/1

@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 2896 2898	M0
+T2	MORFOLOGIA_NEOPLASIA 457 471	adenocarcinoma
+T3	MORFOLOGIA_NEOPLASIA 2644 2663	carcinoma urotelial
+T4	MORFOLOGIA_NEOPLASIA 193 203	malignidad
+T5	MORFOLOGIA_NEOPLASIA 3618 3629	metastásica
+T6	MORFOLOGIA_NEOPLASIA 2066 2076	metástasis
+T7	MORFOLOGIA_NEOPLASIA 2026 2038	tumoraciones
+T8	MORFOLOGIA_NEOPLASIA 2350 2360	tumoración
+T9	MORFOLOGIA_NEOPLASIA 316 343	carcinoma urotelial pTa GII
+T10	MORFOLOGIA_NEOPLASIA 427 452	carcinoma mixto urotelial
+T11	MORFOLOGIA_NEOPLASIA 678 743	carcinoma urotelial con diferenciación glandular T1 de bajo grado
+T12	MORFOLOGIA_NEOPLASIA 1322 1366	carcinoma urotelial, de bajo grado de la OMS
+T13	MORFOLOGIA_NEOPLASIA 1152 1170	tumoración papilar
+T14	MORFOLOGIA_NEOPLASIA 1430 1473	variante tipo nested de carcinoma urotelial
+T15	MORFOLOGIA_NEOPLASIA 1530 1548	tumoración papilar
+T16	MORFOLOGIA_NEOPLASIA 1837 1868	carcinoma urotelial tipo nested
+T17	MORFOLOGIA_NEOPLASIA 2192 2245	carcinoma urotelial infiltrante de vejiga tipo nested
+T18	MORFOLOGIA_NEOPLASIA 2428 2485	carcinoma urotelial infiltrante de alto grado tipo nested
+T19	MORFOLOGIA_NEOPLASIA 3045 3100	carcinoma urotelial infiltrante de variante tipo nested
+T20	MORFOLOGIA_NEOPLASIA 3264 3320	variante histológica tipo nested del carcinoma urotelial

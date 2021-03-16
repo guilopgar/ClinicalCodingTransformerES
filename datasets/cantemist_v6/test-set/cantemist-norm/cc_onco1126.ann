@@ -1,0 +1,8 @@
+T1	MORFOLOGIA_NEOPLASIA 1661 1688	Síndrome mieloproliferativo
+#1	AnnotatorNotes T1	9960/3
+T2	MORFOLOGIA_NEOPLASIA 4023 4036	mielofibrosis
+#2	AnnotatorNotes T2	9931/3
+T3	MORFOLOGIA_NEOPLASIA 1461 1485	síndrome mielodisplásico
+#3	AnnotatorNotes T3	9989/3
+T4	MORFOLOGIA_NEOPLASIA 1694 1718	mielofibrosis idiopática
+#4	AnnotatorNotes T4	9961/3

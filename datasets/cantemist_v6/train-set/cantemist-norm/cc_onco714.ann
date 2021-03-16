@@ -1,0 +1,14 @@
+T1	MORFOLOGIA_NEOPLASIA 3508 3536	Leucemia aguda mieloblástica
+#1	AnnotatorNotes T1	9872/3
+T2	MORFOLOGIA_NEOPLASIA 472 485	condrosarcoma
+#2	AnnotatorNotes T2	9220/3
+T3	MORFOLOGIA_NEOPLASIA 720 733	condrosarcoma
+#3	AnnotatorNotes T3	9220/3
+T4	MORFOLOGIA_NEOPLASIA 627 635	sarcomas
+#4	AnnotatorNotes T4	8800/3
+T5	MORFOLOGIA_NEOPLASIA 2681 2691	tumoración
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 3508 3563	Leucemia aguda mieloblástica (fenotipo sugestivo de M3)
+#6	AnnotatorNotes T6	9866/3
+T7	MORFOLOGIA_NEOPLASIA 4141 4172	leucemia aguda mieloblástica M3
+#7	AnnotatorNotes T7	9866/3

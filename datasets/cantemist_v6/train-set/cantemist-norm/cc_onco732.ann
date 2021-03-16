@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 2421 2428	angioma
+#1	AnnotatorNotes T1	9120/0
+T2	MORFOLOGIA_NEOPLASIA 1598 1608	neoplasias
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 4367 4382	progresión ósea
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 337 378	CDI de mama izquierda multifocal, grado 1
+#4	AnnotatorNotes T4	8500/3
+T5	MORFOLOGIA_NEOPLASIA 337 369	CDI de mama izquierda multifocal
+#5	AnnotatorNotes T5	8500/3/H
+T6	MORFOLOGIA_NEOPLASIA 1893 1936	adenoma tubular con displasia de bajo grado
+#6	AnnotatorNotes T6	8211/0/H
+T7	MORFOLOGIA_NEOPLASIA 3150 3230	adenocarcinoma difuso, pobremente diferenciado, con células "en anillo de sello"
+#7	AnnotatorNotes T7	8490/33
+T8	MORFOLOGIA_NEOPLASIA 3150 3171	adenocarcinoma difuso
+#8	AnnotatorNotes T8	8145/3
+T9	MORFOLOGIA_NEOPLASIA 3488 3515	metástasis colónicas de CDI
+#9	AnnotatorNotes T9	8500/6
+T10	MORFOLOGIA_NEOPLASIA 3991 4031	metastásica colónica y ganglionar de CDI
+#10	AnnotatorNotes T10	8500/6
+T11	MORFOLOGIA_NEOPLASIA 4400 4425	lesiones líticas en sacro
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 507 516	pT2pN1aM0
+#12	AnnotatorNotes T12	8000/6

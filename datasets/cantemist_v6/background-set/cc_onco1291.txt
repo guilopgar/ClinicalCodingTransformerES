@@ -1,0 +1,29 @@
+Anamnesis
+Mujer de 45 años, sin antecedentes de interés, fumadora de 7,5 paquetes/año. Como antecedentes familiares destaca una hermana fallecida por cáncer de mama a los 38 años y madre con cáncer de mama estadio IV.
+La paciente, asintomática, acudió al médico por un nódulo en la mama izquierda.
+
+Examen físico
+Presentaba un nódulo pétreo en la zona intercuadrantes superiores, sin otros hallazgos.
+
+Pruebas complementarias
+En la analítica solo destacaba la elevación del antígeno carcinoembrionario (6,4 ng/ml).
+La mamografía mostraba un nódulo espiculado que en la ecografía correspondía a un nódulo sólido de 1 cm. Se biopsió, hallándose un carcinoma infiltrante con receptores hormonales positivos, Ki67 del 5 % y HER2 negativo.
+Se realizó una cuadrantectomía y biopsia de ganglio centinela axilar izquierdo, que fue negativa. Se confirmó la presencia de un carcinoma ductal infiltrante non otherwise specific (NOS) diferenciado de 1 cm, sin componente intraductal, invasión linfática, sanguínea ni perineural.
+El estudio de extensión fue negativo.
+
+Diagnóstico
+Carcinoma ductal infiltrante estadio pT1cN0M0, G1, receptores hormonales positivos y HER2 negativo.
+
+Tratamiento
+La paciente recibió radioterapia sin complicaciones relevantes, salvo radiodermitis local de grado 1 y hormonoterapia con tamoxifeno 20 mg/día.
+
+Evolución
+A los 11 meses de finalizar el tratamiento, en una radiografía de tórax rutinaria aparecen nódulos pulmonares bilaterales. La paciente estaba asintomática y solo destacaba una adenopatía de 1 cm en la fosa supraclavicular derecha.
+La analítica y la gammagrafía ósea no presentaban alteraciones.
+La tomografía por emisión de positrones (PET) mostraba nódulos pulmonares bilaterales de distribución aleatoria y predominio en lóbulos superiores con captación aumentada de 18-FDG en los mismos (SUV 1,7), en adenopatías mediastínicas y en adenopatía supraclavicular derecha, cuya PAAF fue negativa para malignidad.
+Se realizó una biopsia pulmonar, hallándose dos tipos de nódulos, unos pequeños con abundantes celularidad y otros mayores con menor densidad.
+Las células, de escaso citoplasma y núcleo hendido, se entremezclaban con eosinófilos, células plasmáticas y linfocitos.
+Se mostraban positivas para CD1a y S100. Los hallazgos eran compatibles con la histiocitosis de células de Langerhans.
+Las pruebas de función respiratoria (PFR) mostraban disminución de la difusión de monóxido de carbono, siendo el resto de parámetros normales.
+La paciente dejó de fumar y, tras tres meses, las PFR mostraban mejoría de la difusión. La tomografía computarizada (TC) de control demostró estabilidad de los nódulos. La PET mostraba disminución de los nódulos y ausencia de captación de 18-FDG.
+Tras 5 meses, la paciente permanece asintomática y sin progresión.

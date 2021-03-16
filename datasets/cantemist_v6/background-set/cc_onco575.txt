@@ -1,0 +1,38 @@
+Anamnesis
+Mujer de 25 años sin antecedentes personales ni familiares de interés. Es fumadora de 5 cigarrillos-día, sin antecedentes oncológicos familiares.
+Consultó en julio de 1997 por presentar una lesión eccematosa en pezón de la mama izquierda de 4-5 meses de evolución.
+
+Exploración física
+Durante la exploración se observaba una lesión de carácter eccematoso en pezón de mama izquierda sin retracción de piel y se acompañaba de un nódulo de 2 cm en cuadrante inferoexterno (CIE). A nivel axilar izquierdo, existía una adenopatía dura de 2 cm no adherida a planos profundos. Ante estos hallazgos la paciente fue remitida a la Unidad de Patología Mamaria (UPM) de nuestro centro.
+
+Pruebas complementarias
+» Mamografía: objetivándose múltiples microcalcificaciones malignas diseminadas por el CIE de mama izquierda sospechosas de malignidad. Adenopatía axilar izquierda densa, de aspecto metastásico, de 24 x 13 mm asociada a otras adenopatías de menor tamaño.
+» Biopsia con aguja gruesa del nódulo mamario: carcinoma ductal infiltrante (CDI) G2, Scarff-Bloom 6 con invasión vascular linfática. Receptor de estrógeno y progesterona negativos.
+» Citología de lesión en pezón: maligna, muy sugestiva de enfermedad de Paget.
+» PAAF axilar: citología maligna positiva para carcinoma.
+» Estudio de extensión: gammagrafía ósea, radiografía de tórax y ecografía abdominopélvica sin imágenes sugestivas de metástasis.
+» Analítica: sin alteraciones relevantes incluido CEA y CA 15.3.
+
+Diagnóstico
+Carcinoma ductal infiltrante de mama cT2N2M0 (IIIA) RH negativos.
+
+Tratamiento
+Con el diagnóstico de carcinoma de mama cT2N2M0 (IIIA) fue remitida a nuestra consulta. Se planteó tratamiento con esquema de dosis densas de antraciclinas y taxanos. Se administraron 4 ciclos con respuesta clínica parcial. El 11/11/1997 fue intervenida practicándose una mastectomía radical modificada izquierda. La AP mostró la presencia de focos microscópicos de CDI medianamente diferenciado que se localizaban en CSE y CII. No presentaba afectación de piel, aunque sí una diseminación pagetoide en conductos galactóforos del pezón y signos de invasión linfovascular.
+Márgenes quirúrgicos libres de neoplasia. En la linfadenectomía existía afectación de 3 de los 17 ganglios aislados. ypT1miypN1a(3/17). Ante los hallazgos quirúrgicos se planteó tratamiento adyuvante con quimioterapia con 3 ciclos de CMF (ciclofosfamida, metotrexato, 5-FU) seguido de 1 ciclo de paclitaxel. Posteriormente, se administró quimioterapia a altas dosis con esquema STAMP V entre el 11 y el 15/3/1998 seguido de reinfusión de células madre hematopoyéticas. El tratamiento fue bien tolerado y la paciente fue dada de alta el 28/3/1998.
+
+Evolución
+La paciente siguió controles en consultas externas hasta que en septiembre de 1998 ingresó en planta por presentar un cuadro de dolor lumbar progresivo de 1 mes de evolución. Se llevó a cabo estudio:
+» Analítica: fosfatasa alcalina (FA) de 297 UI/l (rango normal 33-230).
+» Gammagrafía ósea: áreas de hipercaptación en columna dorsolumbar, parrilla costal derecha y fémur derecho.
+» RM de columna: lesiones óseas metastásicas en columna dorsolumbar.
+» TC: adenopatías paratraqueales bilaterales pre y subcarínicas en espacio prevascular izquierdo, adenopatías hiliares bilaterales. Engrosamiento de las vainas broncovasculares y de los septos interlobulillares con presencia de pequeños nódulos adyacentes a los mismos sugestiva de linfagitis carcinomatosa. Hígado con al menos 2 nódulos hipodensos compatibles con metástasis.
+» Anatomía patológica: se repitió perfil IHQ en la muestra inicial solicitándose la determinación de HER-2. Se confirmó la ausencia de expresión de receptores de estrógeno y progesterona. Sin embargo, se observó sobreexpresión de HER-2.
+La paciente inició tratamiento con radioterapia paliativa con intención antiálgica con 30 Gy sobre L2-L4 del 11/9/1998 al 16/9/98 y 30 Gy sobre D3-D7 del 14/9/1998 al 18/9/1998. Se decidió iniciar tratamiento sistémico con vinorelbina 35 mg DT iv e infusión de 5FU 2.100 mg DT que recibió hasta diciembre de 1998. En ese momento, la paciente ingresó por progresión del dolor que precisó tratamiento con infusión endovenosa de cloruro mórfico.
+Ante la sospecha de progresión se llevó a cabo nuevo estudio de extensión:
+» Radiografía de pelvis: lesión osteolítica de gran tamaño en isquion izquierdo compatible con metástasis de nueva aparición.
+» TC: afectación intersticial difusa pulmonar, metástasis hepáticas con ejes mayores que oscilan entre los 22 y 9 mm y metástasis óseas múltiples con aparición de lesión lítica en isquion izquierdo.
+» Analítica: destacaban valores de FA de 1.307.
+Dada la progresión clínica y radiológica, así como la sobreexpresión de HER-2, planteó tratamiento con trastuzumab 2 mg/kg ev y paclitaxel 80 mg/m2 semanales que inició el 17/12/1998. La paciente presentó una rápida mejoría clínica siendo posible la retirada de opiáceos tras la 4ª dosis de tratamiento. Se realizó una TC tras 8 semanas de tratamiento que mostró la presencia de una respuesta completa a nivel pulmonar y parcial a nivel hepático. En abril de 1999, se suspendió el paclitaxel por neurotoxicidad grado II-III y continuó con trastuzumab en monoterapia. En la TC de control de junio de 2002 no se apreciaba afectación hepática metastásica. Siguió controles radiológicos periódicos, constatándose resolución completa de las lesiones metastásicas óseas en RM de agosto de 2003. La paciente siguió recibiendo tratamiento con trastuzumab 6 mg/kg trisemanal sin evidencia de progresión de la enfermedad.
+En ecocardiograma de control de febrero de 2009, se detectó una masa en aurícula derecha (AD) de 20 x 10 mm, sugestiva de trombosis asociada al catéter del reservorio. Inició tratamiento con heparina de bajo peso molecular (HBPM) y se suspendió trastuzumab. Se realizó un control ecográfico a las 2 semanas que informó de persistencia de masa trombótica. Se realizó una TC que confirmó la presencia de un trombo en AD, sin evidenciarse imágenes sugestivas de metástasis. Ante esta situación, se planteó el caso con el Servicio de Cirugía Cardiaca que no consideró indicada ningún tipo de maniobra quirúrgica. El 19/03/2009 se llevó a cabo fibrinólisis sin éxito por parte de la sección de Radiología Intervencionista. Se modificó el tratamiento con HBPM por acenocumarol y se reinició trastuzumab ev. La paciente continuó tratamiento sin incidencias. En ecocardiograma de julio de 2012, se observó la desaparición completa del trombo en AD. En ese momento se planteó la retirada del reservorio. En octubre de 2013, se cambia a trastuzumab por vía subcutánea.
+Dada la buena evolución, la paciente solicitó la realización de reconstrucción mamaria que fue llevada a cabo en junio de 2015 mediante colgajo DIEP y pexia mamaria. La paciente ha seguido controles radiológicos con AS, TC, PET-TC, GO y RM sin cambios clínicos hasta marzo de 2019. Que consultó por aumento de dolor lumbar motivo por el cual se realiza RM con resultados de amplia herniación en platillo inferior de D11, hundimiento de L1 y L2, aplastamiento de L3 y ligero hundimiento del platillo superior de L5 y S1 con pequeñas herniaciones intraesponjosas asociadas, todo ello de aspecto crónico y sin variación significativa respecto al estudios previos.
+En la actualidad, continúa tratamiento con trastuzumab subcutáneo. En la última reevaluación, en abril de 2019, persiste respuesta completa y la ecocardiografía muestra una fracción de eyección del ventrículo izquierdo (FEVI) completamente normal.

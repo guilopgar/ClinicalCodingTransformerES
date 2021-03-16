@@ -1,0 +1,40 @@
+T1	MORFOLOGIA_NEOPLASIA 2378 2404	Cáncer de mama metastásico
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 2440 2459	afectación pulmonar
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 81 90	carcinoma
+#3	AnnotatorNotes T3	8010/3
+T4	MORFOLOGIA_NEOPLASIA 1605 1614	carcinoma
+#4	AnnotatorNotes T4	8010/3
+T5	MORFOLOGIA_NEOPLASIA 1640 1649	carcinoma
+#5	AnnotatorNotes T5	8010/3
+T6	MORFOLOGIA_NEOPLASIA 1527 1548	carcinoma infiltrante
+#6	AnnotatorNotes T6	8010/3/H
+T7	MORFOLOGIA_NEOPLASIA 1370 1380	malignidad
+#7	AnnotatorNotes T7	8000/3
+T8	MORFOLOGIA_NEOPLASIA 5572 5584	metastásicas
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 3783 3793	metástasis
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 4260 4270	metástasis
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 4715 4725	metástasis
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 5516 5526	metástasis
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 5000 5009	neoplasia
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 2065 2083	nódulos pulmonares
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 5184 5202	nódulos pulmonares
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 688 706	cáncer infiltrante
+#16	AnnotatorNotes T16	8000/3/H
+T17	MORFOLOGIA_NEOPLASIA 2844 2863	PE a nivel pulmonar
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 3690 3751	afectación linfática axilar, mamaria interna, supraclavicular
+#18	AnnotatorNotes T18	8000/6
+T19	MORFOLOGIA_NEOPLASIA 3870 3897	enfermedad a nivel pulmonar
+#19	AnnotatorNotes T19	8000/6
+T20	MORFOLOGIA_NEOPLASIA 4514 4533	enfermedad torácica
+#20	AnnotatorNotes T20	8000/6

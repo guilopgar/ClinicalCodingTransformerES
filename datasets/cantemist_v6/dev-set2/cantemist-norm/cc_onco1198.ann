@@ -1,0 +1,12 @@
+T1	MORFOLOGIA_NEOPLASIA 1653 1660	tumoral
+#1	AnnotatorNotes T1	8000/1
+T2	MORFOLOGIA_NEOPLASIA 2292 2299	tumoral
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 728 765	tumoración sólida de la región pineal
+#3	AnnotatorNotes T3	9360/1
+T4	MORFOLOGIA_NEOPLASIA 976 1001	tumor de la región pineal
+#4	AnnotatorNotes T4	9360/1
+T5	MORFOLOGIA_NEOPLASIA 1556 1598	tumor pineal tipo pleomórfico grado II-III
+#5	AnnotatorNotes T5	9360/13/H
+T6	MORFOLOGIA_NEOPLASIA 1853 1922	tumor pineal parenquimatoso de diferenciación intermedia grado II-III
+#6	AnnotatorNotes T6	9360/13

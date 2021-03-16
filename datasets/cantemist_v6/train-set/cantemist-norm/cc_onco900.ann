@@ -1,0 +1,52 @@
+T1	MORFOLOGIA_NEOPLASIA 1043 1070	carcinoma de células claras
+#1	AnnotatorNotes T1	8310/3
+T2	MORFOLOGIA_NEOPLASIA 1366 1399	carcinoma renal de células claras
+#2	AnnotatorNotes T2	8310/3
+T3	MORFOLOGIA_NEOPLASIA 718 760	metástasis por carcinoma de células claras
+#3	AnnotatorNotes T3	8310/6
+T4	MORFOLOGIA_NEOPLASIA 3735 3777	metástasis por carcinoma de células claras
+#4	AnnotatorNotes T4	8310/6
+T5	MORFOLOGIA_NEOPLASIA 2187 2196	neoplasia
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 626 631	tumor
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 3831 3836	tumor
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 221 231	Carcinoide
+#8	AnnotatorNotes T8	8240/3
+T9	MORFOLOGIA_NEOPLASIA 295 343	Carcinoma renal de células claras E.II (pT2, G1)
+#9	AnnotatorNotes T9	8310/31
+T10	MORFOLOGIA_NEOPLASIA 1077 1135	carcinoma renal de células claras bilateral con metástasis
+#10	AnnotatorNotes T10	8310/6
+T11	MORFOLOGIA_NEOPLASIA 1262 1289	enfermedad a nivel hepático
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 1475 1486	metastásica
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 2957 3005	metastásica de carcinoma renal de células claras
+#13	AnnotatorNotes T13	8310/6
+T14	MORFOLOGIA_NEOPLASIA 4177 4193	implante tumoral
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 436 477	Melanoma maligno de extensión superficial
+#15	AnnotatorNotes T15	8743/3
+T16	MORFOLOGIA_NEOPLASIA 826 844	lesión suprarrenal
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 596 611	nódulo tiroideo
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 1321 1336	nódulo tiroideo
+#18	AnnotatorNotes T18	8000/6
+T19	MORFOLOGIA_NEOPLASIA 1710 1725	nódulo tiroideo
+#19	AnnotatorNotes T19	8000/6
+T20	MORFOLOGIA_NEOPLASIA 3477 3492	nódulo tiroideo
+#20	AnnotatorNotes T20	8000/6
+T21	MORFOLOGIA_NEOPLASIA 2730 2751	lesiones pancreáticas
+#21	AnnotatorNotes T21	8000/6
+T22	MORFOLOGIA_NEOPLASIA 4082 4120	lesiones en el polo inferior del riñón
+#22	AnnotatorNotes T22	8000/6
+T23	MORFOLOGIA_NEOPLASIA 4134 4163	lesión en segmento 4 hepático
+#23	AnnotatorNotes T23	8000/6
+T24	MORFOLOGIA_NEOPLASIA 4198 4226	lesiones en cola de páncreas
+#24	AnnotatorNotes T24	8000/6
+T25	MORFOLOGIA_NEOPLASIA 4724 4752	lesión milimétrica en hígado
+#25	AnnotatorNotes T25	8000/6
+T26	MORFOLOGIA_NEOPLASIA 4760 4790	lesión milimétrica en páncreas
+#26	AnnotatorNotes T26	8000/6

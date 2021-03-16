@@ -1,0 +1,18 @@
+T1	MORFOLOGIA_NEOPLASIA 2727 2729	M0
+T2	MORFOLOGIA_NEOPLASIA 2476 2497	carcinoma epidermoide
+T3	MORFOLOGIA_NEOPLASIA 2682 2703	carcinoma epidermoide
+T4	MORFOLOGIA_NEOPLASIA 3543 3553	metástasis
+T5	MORFOLOGIA_NEOPLASIA 1376 1385	neoplasia
+T6	MORFOLOGIA_NEOPLASIA 3687 3697	neoplásica
+T7	MORFOLOGIA_NEOPLASIA 3875 3880	tumor
+T8	MORFOLOGIA_NEOPLASIA 85 95	tumoración
+T9	MORFOLOGIA_NEOPLASIA 709 719	tumoración
+T10	MORFOLOGIA_NEOPLASIA 1323 1333	tumoración
+T11	MORFOLOGIA_NEOPLASIA 1540 1598	carcinoma epidermoide pobremente diferenciado, metastásico
+T12	MORFOLOGIA_NEOPLASIA 1771 1835	carcinoma de células escamosas basaloide pobremente diferenciado
+T13	MORFOLOGIA_NEOPLASIA 2143 2185	carcinoma escamoso pobremente diferenciado
+T14	MORFOLOGIA_NEOPLASIA 2514 2521	pT2N1M0
+T15	MORFOLOGIA_NEOPLASIA 4567 4619	carcinoma epidermoide de cabeza y cuello metastásico
+T16	MORFOLOGIA_NEOPLASIA 3755 3782	progresión a nivel pulmonar
+T17	MORFOLOGIA_NEOPLASIA 4292 4319	progresión a nivel pulmonar
+T18	MORFOLOGIA_NEOPLASIA 3419 3454	lesiones nodulares a nivel pulmonar

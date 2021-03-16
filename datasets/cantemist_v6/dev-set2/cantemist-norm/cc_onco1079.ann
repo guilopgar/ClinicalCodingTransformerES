@@ -1,0 +1,18 @@
+T1	MORFOLOGIA_NEOPLASIA 1301 1312	metastásica
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 3517 3527	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1515 1527	tumoraciones
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 591 601	tumoración
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 666 676	tumoración
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 3278 3287	tumorales
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 505 519	tumor estromal
+#7	AnnotatorNotes T7	8935/1
+T8	MORFOLOGIA_NEOPLASIA 1428 1478	sarcoma del estroma gastrointestinal de alto grado
+#8	AnnotatorNotes T8	8936/34
+T9	MORFOLOGIA_NEOPLASIA 3421 3449	tumor estromal de alto grado
+#9	AnnotatorNotes T9	8935/14

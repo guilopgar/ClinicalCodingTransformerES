@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 1558 1582	Carcinoma neuroendocrino
+#1	AnnotatorNotes T1	8246/3
+T2	MORFOLOGIA_NEOPLASIA 1621 1638	carcinoma medular
+#2	AnnotatorNotes T2	8510/3
+T3	MORFOLOGIA_NEOPLASIA 900 917	diseminación ósea
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 918 929	metastásica
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 764 773	neoplasia
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 1036 1048	LOE hepática
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1050 1093	metástasis de carcinoma medular de tiroides
+#7	AnnotatorNotes T7	8510/6
+T8	MORFOLOGIA_NEOPLASIA 1321 1369	afectación ganglionar cervical y supraclavicular
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 1692 1744	Carcinoma medular de tiroides estadio IV (metástasis
+#9	AnnotatorNotes T9	8510/6
+T10	MORFOLOGIA_NEOPLASIA 1922 1977	carcinoma medular de tiroides con diseminación hepática
+#10	AnnotatorNotes T10	8510/6

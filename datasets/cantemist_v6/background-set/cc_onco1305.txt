@@ -1,0 +1,27 @@
+Anamnesis
+Varón de 50 años, corredor de maratones sin antecedentes de interés; consulta por dolor lumbar y en muslo derecho, que le dificulta la marcha desde hace 6 semanas y no cede con antiinflamatorios. Además, pérdida de peso (7 kg) y episodio de rectorragia autolimitado durante 5 días.
+
+Examen físico
+Se realiza tacto rectal sin restos hemáticos ni otros hallazgos. Resto de exploración física anodina.
+
+Pruebas complementarias
+Análisis: destaca lactato deshidrogenasa (LDH) 4217 U/l (313-618), fosfatasa alcalina (FA) 756 U/l (38-126), CEA 9.75 (<5).
+Radiografía de cadera y TC de fémur derecho: lesión lítica en región pertrocantérea y diáfisis proximal del fémur derecho. Incidentalmente, engrosamiento de la pared del recto con adenopatías asociadas y signos de sangrado intestinal.
+RM de columna y cadera: afectación metastásica difusa de columna lumbar (mayor en L4), sacro, pelvis y ambos fémures.
+TC de tórax-abdomen-pelvis: metastásis óseas difusas y adenopatía retroperitoneal interaortocava.
+Colonoscopia: lesión exofítica a 10 cm de margen anal que afecta ¾ partes de la circunferencia y llega hasta los 18 cm.
+Biopsia: adenocarcinoma infiltrante.
+RMN RECTO: Neoplasia de tercio superior de recto/sigma estadio T3bN2; lesión de 10 cm de longitud con margen izquierdo mal definido y espiculado. En la grasa mesorrectal múltiples adenopatías. Dilatación y distorsión vascular en relación con infiltración.
+
+Diagnóstico
+Adenocarcinoma de recto cT3bN2M1b (óseas y ganglionares).
+
+Tratamiento
+Ante la gran afectación femoral derecha se decide enclavado medular profiláctico. Finalmente, no se realiza por presentar el paciente deterioro severo del estado general, pérdida de peso, empeoramiento analítico y síndrome febril.
+Dada esta situación, amenazante para la vida, se pospone la intervención y se plantea inicio de tratamiento quimioterápico buscando una rápida respuesta. Pendiente del estado mutacional de KRAS y BRAF inicia tratamiento con FOLFOXIRI. Tras 48 horas evidente mejoría clínica, analítica y resolución del cuadro febril.
+Recibe radioterapia paliativa sobre lesión lítica L4-L5 (dosis total = 30 Gy) y se asocia ácido zoledrónico. Es dado de alta tras 2.º ciclo de quimioterapia.
+
+Evolución
+Se recibe resultado del estado mutacional de KRAS y BRAF siendo wild type.
+Tras 3 meses de FOLFOXIRI y ácido zoledrónico, presenta ECOG 0, buen perfil de toxicidad, salvo neurotoxicidad de grado 1, y realiza ejercicio físico diario. Normalización de la LDH y FA; y en la TC y la RM se observa respuesta ganglionar con disminución de las metástasis óseas líticas.
+Ante la importante respuesta, se retira oxaliplatino, manteniendo FOLFIRI asociado a bevacizumab. Actualmente está con el 4.º ciclo de FOLFIRI-B, estando asintomático y con excelente tolerancia.

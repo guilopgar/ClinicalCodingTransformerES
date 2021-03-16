@@ -1,0 +1,30 @@
+T1	MORFOLOGIA_NEOPLASIA 599 605	cáncer
+#1	AnnotatorNotes T1	8000/3
+T2	MORFOLOGIA_NEOPLASIA 5353 5359	cáncer
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 4530 4556	diseminación leptomeníngea
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 268 278	malignidad
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 2363 2374	metastásica
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 2733 2740	tumoral
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 742 761	cáncer micropapilar
+#7	AnnotatorNotes T7	8265/3
+T8	MORFOLOGIA_NEOPLASIA 2622 2671	blastoma pleuropulmonar tipo II (sólido-quístico)
+#8	AnnotatorNotes T8	8452/1
+T9	MORFOLOGIA_NEOPLASIA 2622 2645	blastoma pleuropulmonar
+#9	AnnotatorNotes T9	8973/3
+T10	MORFOLOGIA_NEOPLASIA 2822 2845	blastoma pleuropulmonar
+#10	AnnotatorNotes T10	8973/3
+T11	MORFOLOGIA_NEOPLASIA 2822 2853	blastoma pleuropulmonar tipo II
+#11	AnnotatorNotes T11	8452/1
+T12	MORFOLOGIA_NEOPLASIA 3467 3484	metástasis de PPB
+#12	AnnotatorNotes T12	8973/6
+T13	MORFOLOGIA_NEOPLASIA 3382 3405	masa en región parietal
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 3666 3686	recaída intracraneal
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 4481 4525	recaída a nivel del sistema nervioso central
+#15	AnnotatorNotes T15	8000/6

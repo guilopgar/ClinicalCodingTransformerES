@@ -1,0 +1,26 @@
+T1	MORFOLOGIA_NEOPLASIA 3524 3533	carcinoma
+#1	AnnotatorNotes T1	8010/3
+T2	MORFOLOGIA_NEOPLASIA 3590 3609	implantes tumorales
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 2181 2188	maligna
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 306 313	tumoral
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 1660 1667	tumoral
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 2878 2885	tumoral
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 4213 4220	tumoral
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 63 107	ADC endometrioide moderadamente diferenciado
+#8	AnnotatorNotes T8	8380/32
+T9	MORFOLOGIA_NEOPLASIA 187 196	pT1b1N0M0
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 597 624	implante en pared abdominal
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 2932 2996	adenocarcinoma endometrioide en implantes tumorales intestinales
+#11	AnnotatorNotes T11	8380/6
+T12	MORFOLOGIA_NEOPLASIA 1129 1158	adenocarcinoma túbulo-papilar
+#12	AnnotatorNotes T12	8263/3
+T13	MORFOLOGIA_NEOPLASIA 1129 1182	adenocarcinoma túbulo-papilar con metaplasia escamosa
+#13	AnnotatorNotes T13	8570/3

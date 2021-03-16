@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 1262 1272	metástasis
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 3078 3088	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 3315 3325	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2205 2210	tumor
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 1163 1179	tumor carcinoide
+#5	AnnotatorNotes T5	8240/3
+T6	MORFOLOGIA_NEOPLASIA 1556 1566	tumoración
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 2362 2369	tumoral
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 3032 3039	tumoral
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 1452 1463	metastásica
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 1712 1760	metástasis de TNE bien diferenciado grado 1 (OMS
+#10	AnnotatorNotes T10	8240/6
+T11	MORFOLOGIA_NEOPLASIA 1896 1995	Tumor neuroendocrino ileoyeyunal bien diferenciado grado 1 (Ki-67 1-2 %) con afectación metastásica
+#11	AnnotatorNotes T11	8240/6
+T12	MORFOLOGIA_NEOPLASIA 2166 2176	carcinoide
+#12	AnnotatorNotes T12	8240/3

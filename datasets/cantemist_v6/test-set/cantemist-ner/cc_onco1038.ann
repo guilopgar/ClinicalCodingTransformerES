@@ -1,0 +1,21 @@
+T1	MORFOLOGIA_NEOPLASIA 1703 1712	carcinoma
+T2	MORFOLOGIA_NEOPLASIA 3941 3955	carcinomatosis
+T3	MORFOLOGIA_NEOPLASIA 7889 7903	carcinomatosis
+T4	MORFOLOGIA_NEOPLASIA 4517 4563	enfermedad a nivel de sistema nervioso central
+T5	MORFOLOGIA_NEOPLASIA 860 875	lesión cerebral
+T6	MORFOLOGIA_NEOPLASIA 5723 5738	lesión cerebral
+T7	MORFOLOGIA_NEOPLASIA 6518 6528	malignidad
+T8	MORFOLOGIA_NEOPLASIA 4104 4116	metastásicos
+T9	MORFOLOGIA_NEOPLASIA 2344 2354	metástasis
+T10	MORFOLOGIA_NEOPLASIA 3069 3079	metástasis
+T11	MORFOLOGIA_NEOPLASIA 5881 5904	metástasis de carcinoma
+T12	MORFOLOGIA_NEOPLASIA 7369 7388	progresión cerebral
+T13	MORFOLOGIA_NEOPLASIA 1039 1046	tumoral
+T14	MORFOLOGIA_NEOPLASIA 2536 2543	tumoral
+T15	MORFOLOGIA_NEOPLASIA 472 531	carcinoma renal de células claras estadio IV por metástasis
+T16	MORFOLOGIA_NEOPLASIA 1118 1161	carcinoma renal de células claras grado III
+T17	MORFOLOGIA_NEOPLASIA 1462 1515	carcinoma renal de células claras grado II de Furhman
+T18	MORFOLOGIA_NEOPLASIA 2380 2434	carcinoma renal de células claras grado III de Fuhrman
+T19	MORFOLOGIA_NEOPLASIA 3082 3123	tumor primario pancreático neuroendocrino
+T20	MORFOLOGIA_NEOPLASIA 4132 4185	Carcinoma papilar renal estadio IV por cerebral única
+T21	MORFOLOGIA_NEOPLASIA 7134 7159	enfermedad a nivel de SNC

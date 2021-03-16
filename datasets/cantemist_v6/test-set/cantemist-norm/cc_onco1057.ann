@@ -1,0 +1,30 @@
+T1	MORFOLOGIA_NEOPLASIA 2668 2695	infiltración de médula ósea
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 3388 3415	infiltración de médula ósea
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 3927 3954	infiltración de médula ósea
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 6015 6022	maligna
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 2601 2611	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 3839 3897	rabdomiosarcoma alveolar de muy alto riesgo (patrón sólido
+#6	AnnotatorNotes T6	8920/3/H
+T7	MORFOLOGIA_NEOPLASIA 5481 5497	rabdomiosarcomas
+#7	AnnotatorNotes T7	8900/3
+T8	MORFOLOGIA_NEOPLASIA 1880 1929	tumor indiferenciado formado por células redondas
+#8	AnnotatorNotes T8	8000/34/H
+T9	MORFOLOGIA_NEOPLASIA 2295 2308	tumor maligno
+#9	AnnotatorNotes T9	8000/3
+T10	MORFOLOGIA_NEOPLASIA 1394 1406	tumoraciones
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 2522 2553	Rabdomiosarcoma sólido alveolar
+#11	AnnotatorNotes T11	8920/3/H
+T12	MORFOLOGIA_NEOPLASIA 2791 2831	sarcoma desmoplásico de células redondas
+#12	AnnotatorNotes T12	8806/3
+T13	MORFOLOGIA_NEOPLASIA 2791 2831	sarcoma desmoplásico de células redondas
+#13	AnnotatorNotes T13	8803/3
+T14	MORFOLOGIA_NEOPLASIA 3620 3654	tumor de células pequeñas redondas
+#14	AnnotatorNotes T14	8000/1/H
+T15	MORFOLOGIA_NEOPLASIA 3661 3692	rabdomiosarcoma sólido alveolar
+#15	AnnotatorNotes T15	8920/3/H

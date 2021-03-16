@@ -1,0 +1,28 @@
+Anamnesis
+Paciente de 71 años que acude al Servicio de Urgencias en febrero de 2014 por un cuadro de disnea progresiva hasta hacerse de reposo, junto con tos sin expectoración. No presentaba otra sintomatología.
+
+Como antecedentes de interés destaca hipertensión arterial bien controlada e hipotiroidismo subclínico.
+En abril de 2007, tras ser diagnosticada de forma casual de una masa renal izquierda en una ecografía abdominal, se realiza una nefrectomía radical izquierda, cuyo diagnóstico anatomopatológico fue de carcinoma renal de células claras G2-3 de Fuhrman que respeta la cápsula, pero infiltra la vena renal (pT3aNx). La paciente continúa seguimiento hasta que en diciembre de 2008, tras un intervalo libre de enfermedad de 20 meses, se objetiva una recidiva en los ganglios mediastínicos y subcarinal que se confirma tras punción de una adenopatía guiada por ecoendoscopia, con resultado citológico compatible con carcinoma de origen renal. Al tratarse de una paciente de buen pronóstico según los criterios del MSKCC, se inicia tratamiento en enero de 2009 con sunitinib 50 mg al día según el esquema 4/2, recibiendo un total de 33 ciclos, alcanzando una respuesta parcial de la enfermedad adenopática. Desde el ciclo 13, la paciente precisa reducción de un nivel de dosis por neutropenia grado III. En junio de 2013, tras un intervalo libre de progresión de 54 meses, ingresa por un cuadro de inestabilidad, identificándose una lesión cerebral única en la región occipital de 2,9 cm, que es resecada con márgenes libres por el equipo de Neurocirugía, con resultado histológico compatible con origen renal. Se inicia una nueva línea de tratamiento con everolimus 10 mg al día en septiembre de 2013.
+Tres meses después, la paciente requiere valoración urgente por una insuficiencia respiratoria parcial.
+Se inicia pauta de tratamiento esteroideo, se realiza TC de alta resolución con imagen compatible con neumonitis tóxica y se solicitan cultivos microbiológicos, que resultan negativos. Tras la mejoría clínica, se reintroduce everolimus a dosis de 5 mg/24 h, tratamiento que la paciente mantiene hasta su ingreso en febrero de 2014 con sospecha de neumonitis intersticial tóxica grado III. Radiológicamente la paciente presenta estabilidad de la enfermedad tumoral, pero con persistencia de un extenso infiltrado alveolar intersticial.
+
+Exploración física
+En la exploración destaca una taquipnea de 20 rpm y saturación basal de oxígeno 85% y con gafas nasales a 4 lpm 92%. En la auscultación pulmonar se evidencian crepitantes secos basales. Resto de la exploración anodina.
+
+Pruebas complementarias
+» Analíticamente destaca anemia con una hemoglobina de 11,7 g/dl, no leucocitosis ni desviación izquierda.
+» Radiografía de tórax: infiltrado alveolar intersticial bilateral.
+» Angio-TC torácica: no signos de tromboembolismo pulmonar agudo. Adenopatías mediastínicas.
+Extensa afectación pulmonar de predominio intersticial, discretamente aumentada respecto al estudio previo.
+» Ante los hallazgos de la TC, así como la tórpida evolución clínica de la paciente, se decide la realización de una fibrobroncoscopia para descartar otros procesos infecciosos o inflamatorios asociados y confirmar la neumonitis por everolimus. Se realiza la misma, que macroscópicamente identifica signos inflamatorios crónicos, y se envían las muestras obtenidas mediante lavado broncoalveolar para microbiología y mediante biopsia transbronquial para anatomía patológica.
+» Microbiología. Cultivo de esputo: flora bacteriana habitual, cultivo de Nocardia: negativo, Zhiel-auramina: negativo, Aspergillus: negativo, C. pneumoniae: negativo, PCR CMV y virus respiratorios: negativo, antigenuria neumococo y legionela: negativo, hemocultivos y urocultivos negativos.
+» Anatomía patológica: se objetivan émbolos de células epiteliales malignas en vasos de calibre capilar bajo la mucosa bronquial. Las células tienen amplio citoplasma claro y núcleo central con nucleolo prominente. Se realiza estudio inmunohistoquímico con positividad para CD10 y negatividad TTF1, por lo que el resultado es compatible con linfangitis carcinomatosa de origen renal.
+
+Diagnóstico
+Tras descartar origen infeccioso, y con la confirmación histológica de que el infiltrado alveolar pulmonar bilateral que presentaba la paciente no tenía relación con el tratamiento oncológico, sino que era debido a una linfangitis carcinomatosa en relación con una progresión tumoral, se explica la regular evolución y la insuficiente mejoría clínica con el tratamiento esteroideo, antibiótico y soporte de oxigenoterapia que se había pautado.
+
+Tratamiento
+La paciente evoluciona de forma favorable, aunque persistiendo una disnea de moderados esfuerzos, aunque pudo ser dada de alta a su domicilio con corticoterapia y oxigenoterapia.
+
+Evolución
+Dada la progresión de la enfermedad demostrada en la biopsia transbronquial, se inicia una tercera línea de tratamiento con sorafenib 400 mg cada 12 horas en abril de 2014. Desde entonces, la paciente ha presentado mejoría clínica significativa, consiguiendo la suspensión definitiva del tratamiento esteroideo y de la oxigenoterapia en su domicilio. En los estudios radiológicos, la paciente presenta mejoría de la linfangitis carcinomatosa, cumpliendo criterios de estabilidad de la enfermedad oncológica.

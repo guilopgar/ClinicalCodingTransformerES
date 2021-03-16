@@ -1,0 +1,18 @@
+T1	MORFOLOGIA_NEOPLASIA 710 713	TNE
+#1	AnnotatorNotes T1	8240/3
+T2	MORFOLOGIA_NEOPLASIA 125 131	cáncer
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 180 186	cáncer
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 1299 1309	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 731 744	paraganglioma
+#5	AnnotatorNotes T5	8680/1
+T6	MORFOLOGIA_NEOPLASIA 874 887	paraganglioma
+#6	AnnotatorNotes T6	8680/1
+T7	MORFOLOGIA_NEOPLASIA 1141 1154	paraganglioma
+#7	AnnotatorNotes T7	8680/1
+T8	MORFOLOGIA_NEOPLASIA 710 725	TNE funcionante
+#8	AnnotatorNotes T8	8158/1
+T9	MORFOLOGIA_NEOPLASIA 2677 2766	paraganglioma extraadrenal de localización abdominal, funcionante, estadio IV (metástasis
+#9	AnnotatorNotes T9	8693/6

@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 1609 1639	Carcinoma de células de Merkel
+#1	AnnotatorNotes T1	8247/3
+T2	MORFOLOGIA_NEOPLASIA 1963 1974	metastásico
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1398 1408	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1536 1546	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2910 2920	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 1762 1788	tumor de células de Merkel
+#6	AnnotatorNotes T6	8247/3
+T7	MORFOLOGIA_NEOPLASIA 2259 2285	tumor de células de Merkel
+#7	AnnotatorNotes T7	8247/3
+T8	MORFOLOGIA_NEOPLASIA 1326 1344	nódulos pulmonares
+#8	AnnotatorNotes T8	8000/6

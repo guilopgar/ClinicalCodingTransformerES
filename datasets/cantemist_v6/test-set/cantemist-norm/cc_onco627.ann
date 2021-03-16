@@ -1,0 +1,30 @@
+T1	MORFOLOGIA_NEOPLASIA 2105 2123	carcinoma escamoso
+#1	AnnotatorNotes T1	8070/3
+T2	MORFOLOGIA_NEOPLASIA 2870 2888	carcinoma escamoso
+#2	AnnotatorNotes T2	8070/3
+T3	MORFOLOGIA_NEOPLASIA 2992 3014	implantes peritoneales
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2342 2361	implantes tumorales
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2608 2618	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 2973 2983	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1770 1775	tumor
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 4381 4386	tumor
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 592 602	tumoración
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 1489 1499	tumoración
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 2160 2170	tumoración
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 4907 4917	tumoración
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 6045 6052	tumoral
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 2648 2695	afectación tumoral del músculo cuadrado femoral
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 5486 5518	tumoral en relación a metástasis
+#15	AnnotatorNotes T15	8000/6

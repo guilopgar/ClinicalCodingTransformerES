@@ -1,0 +1,28 @@
+T1	MORFOLOGIA_NEOPLASIA 694 735	adenocarcinoma moderadamente diferenciado
+#1	AnnotatorNotes T1	8140/32
+T2	MORFOLOGIA_NEOPLASIA 3010 3029	afectación pulmonar
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1094 1110	carcinoma ductal
+#3	AnnotatorNotes T3	8500/3
+T4	MORFOLOGIA_NEOPLASIA 2714 2724	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 3352 3362	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 402 407	tumor
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 531 536	tumor
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 920 925	tumor
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 2277 2325	adenocarcinoma ductal moderadamente diferenciado
+#9	AnnotatorNotes T9	8500/32
+T10	MORFOLOGIA_NEOPLASIA 2659 2691	nodulares presentes en el pulmón
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 2922 2976	cáncer de páncreas intervenido con extensión abdominal
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 2453 2507	Infiltración del peritoneo parietal por adenocarcinoma
+#12	AnnotatorNotes T12	8140/6
+T13	MORFOLOGIA_NEOPLASIA 3044 3075	Metástasis pulmonares de cáncer
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 3104 3123	extensión abdominal
+#14	AnnotatorNotes T14	8000/6

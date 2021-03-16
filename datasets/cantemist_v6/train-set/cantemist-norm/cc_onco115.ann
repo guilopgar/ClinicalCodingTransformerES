@@ -1,0 +1,18 @@
+T1	MORFOLOGIA_NEOPLASIA 1383 1390	linfoma
+#1	AnnotatorNotes T1	9590/3
+T2	MORFOLOGIA_NEOPLASIA 1393 1401	melanoma
+#2	AnnotatorNotes T2	8720/3
+T3	MORFOLOGIA_NEOPLASIA 1363 1373	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1646 1663	neoplasia maligna
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 2272 2329	neoplasia de células dendríticas plasmocitoides blásticas
+#5	AnnotatorNotes T5	9727/3
+T6	MORFOLOGIA_NEOPLASIA 2423 2453	linfoma de células dendríticas
+#6	AnnotatorNotes T6	9727/3
+T7	MORFOLOGIA_NEOPLASIA 2414 2422	leucemia
+#7	AnnotatorNotes T7	9800/3
+T8	MORFOLOGIA_NEOPLASIA 2515 2572	Neoplasia de células dendríticas plasmocitoides blásticas
+#8	AnnotatorNotes T8	9727/3
+T9	MORFOLOGIA_NEOPLASIA 2574 2579	NCDPB
+#9	AnnotatorNotes T9	9727/3

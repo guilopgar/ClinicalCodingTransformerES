@@ -1,0 +1,44 @@
+T1	MORFOLOGIA_NEOPLASIA 2012 2019	adenoma
+#1	AnnotatorNotes T1	8140/0
+T2	MORFOLOGIA_NEOPLASIA 250 256	cáncer
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 302 308	cáncer
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 350 356	cáncer
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 1996 2010	hepatoblastoma
+#5	AnnotatorNotes T5	8970/3
+T6	MORFOLOGIA_NEOPLASIA 3360 3378	lesiones hepáticas
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1807 1822	lesión hepática
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 395 423	leucemia linfoblástica aguda
+#8	AnnotatorNotes T8	9835/3
+T9	MORFOLOGIA_NEOPLASIA 4135 4148	masa hepática
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 772 785	nefroblastoma
+#10	AnnotatorNotes T10	8960/3
+T11	MORFOLOGIA_NEOPLASIA 603 613	tumoración
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 3071 3081	tumoración
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 4780 4790	tumoración
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 903 910	tumores
+#14	AnnotatorNotes T14	8000/1
+T15	MORFOLOGIA_NEOPLASIA 4651 4658	tumores
+#15	AnnotatorNotes T15	8000/1
+T16	MORFOLOGIA_NEOPLASIA 541 598	hepatoblastoma embrionario con diferenciación colangiolar
+#16	AnnotatorNotes T16	8970/3/H
+T17	MORFOLOGIA_NEOPLASIA 793 801	blastoma
+#17	AnnotatorNotes T17	8000/3
+T18	MORFOLOGIA_NEOPLASIA 1147 1200	hepatoblastoma mixto: epitelial (embrionario y fetal)
+#18	AnnotatorNotes T18	8970/3/H
+T19	MORFOLOGIA_NEOPLASIA 2242 2277	recidiva hepática de hepatoblastoma
+#19	AnnotatorNotes T19	8970/6
+T20	MORFOLOGIA_NEOPLASIA 2960 3017	hepatoblastoma embrionario con diferenciación colangiolar
+#20	AnnotatorNotes T20	8970/3/H
+T21	MORFOLOGIA_NEOPLASIA 4163 4189	Hepatoblastoma embrionario
+#21	AnnotatorNotes T21	8970/3
+T22	MORFOLOGIA_NEOPLASIA 4443 4497	Recidiva hepática tardía de Hepatoblastoma Embrionario
+#22	AnnotatorNotes T22	8970/6

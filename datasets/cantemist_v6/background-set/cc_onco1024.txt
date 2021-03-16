@@ -1,0 +1,30 @@
+Anamnesis
+Mujer de 31 años sin alergias medicamentosas conocidas, fumadora de 20 cigarrillos-día, con antecedentes de anorexia nerviosa diagnosticada en el 2000, y apendicectomía en la infancia.
+Fue remitida a la Unidad de Consejo Genético del ICO-Hospitalet en julio de 2010 para valorar riesgo de cáncer hereditario por la presencia de antecedentes familiares de cáncer gástrico en familiares de 1º y 2º grado (padre y 2 tíos paternos, el más joven de los afectados, fallecido a los 41 años).
+Previamente a la consulta, su tía paterna había sido valorada en una Unidad de Consejo Genético de otro centro, considerándose miembro de familia con criterios clínicos de cáncer gástrico familiar. El estudio genético detectó una mutación patogénica en línea germinal en CDH1 (E-cadherina).
+En septiembre de 2010, se realizó el estudio directo en nuestra paciente cuyo resultado mostró que era portadora de dicha mutación. Se ofrece realizar controles de alto riesgo mediante esofagogastroduodenoscopia (EGD) anual que se mantuvieron normales.
+Ante la asociación de este síndrome con neoplasia de mama de tipo lobulillar, se ofreció iniciar seguimiento de alto riesgo de cáncer de mama (CM) mediante ecomamografía/RMN mamaria semestral.
+En abril de 2015 la paciente presentó molestias abdominales. La EGD mostró un área acrómica plana en incisura angularis con biopsia negativa para neoplasia. Se decidió solicitar TC abdominal para completar estudio que resultó normal.
+Dado el alto riesgo de neoplasia gástrica que le comportaba ser portadora de una mutación en CDH1 y siendo un caso infrecuente, fue presentada en la Unidad Funcional de Tumores Esófago-Gástricos (UTEG) para plantear gastrectomía total profiláctica.
+
+Exploración física
+No presenta hallazgos relevantes.
+
+Pruebas complementarias
+ EGD (17/1/14): a nivel de incisura angularis gástrica, pequeña área de mucosa de coloración levemente blanquecina con varios vasos submucosos, inespecífica. Resto normal. Biopsia: Mucosa gástrica oxíntica sin alteraciones, no hay metaplasia intestinal ni atipias. Sin gérmenes compatibles con Pylori. Expresión de E-Cadherina conservada.
+ EGD (19/3/15): en incisura angularis, área acrómica plana con mucosa preservada de aspecto inespecífico. Biopsias de la incisura angularis y mucosa esofágica supracardial negativas.
+ TC abdominal (5/5/15): se aprecian varias lesiones infracentimétricas hipodensas en fase portal yde equilibrio, una en s. IV de 16 mm, sugestivas de quistes. Cámara gástrica sin alteraciones significativas. El resto dentro de la normalidad.
+
+Diagnóstico
+Síndrome de cáncer gástrico difuso hereditario (CGDH).
+
+Tratamiento
+El 13 de enero de 2016, se realizó gastrectomía total con reconstrucción en Y de Roux, sin observarse alteraciones macroscópicas en mucosa gástrica y sin complicaciones.
+Como aconsejan las guías internacionales, se realizó un examen anatomopatológico exhaustivo de la pieza quirúrgica.
+En el mismo se localizaron 15 focos de adenocarcinoma de tipo difuso multifocal (diámetro máx. de 5 mm, con infiltración hasta lámina propia), pT1apN0 (0/18 ganglios). La tinción de inmunohistoquímica mostró disminución de la expresión de E-cadherina en todos ellos.
+Valorado en el Comité de UTEG, se consideró candidata a controles, sin necesidad de tratamiento adyuvante.
+
+Evolución
+Tras la cirugía, la paciente presentó síndrome de Dumping ocasional, clínica de reflujo gastro-esofágico G1 y pérdida de peso progresiva (7 kg en siete meses), con tolerancia digestiva regular relacionada con las situaciones de estrés, precisando suplementos proteicos, vitamínicos y Ferroprotina®. Actualmente ha conseguido mejoría del estado nutricional, con controles clínico-radiológicos sin signos de recidiva tumoral.
+Los demás miembros de la familia han acudido a la visita de asesoramiento genético, pero aún no han decidido realizarse el estudio.
+En febrero de 2017, la paciente plantea la posibilidad de mastectomía bilateral profiláctica por miedo a padecer cáncer de mama relacionado al CGDH, actualmente pendiente de decisión.

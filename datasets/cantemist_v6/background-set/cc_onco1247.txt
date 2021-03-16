@@ -1,0 +1,32 @@
+Anamnesis
+Varón de 56 años, carpintero, fumador, con un IPA de 114, antecedentes de consumo de alcohol (3 güisqui al día, aumentando la ingesta los fines de semana), criterios clínicos de bronquitis crónica y vasectomía en el 2002.
+Acude a Urgencias el 28/6/2010 por cuadro de dolor abdominal de 4 días de evolución en hipogastrio irradiado a ambas fosas iliacas, sobre todo izquierda, mejorando con el decúbito hacia ese lado. Refiere clínica catarral previa con un pico febril de 38 ºC. En la anamnesis por órganos y aparatos comenta orinas algo colúricas, no espumosas, sin disuria.
+
+Examen físico
+Cabeza y cuello: hipertrofia parotídea, edemas periorbitarios, sin adenopatías. Telagiectasias.
+Abdomen: blando, depresible, dolor en hipogastrio y FII a la palpación superficial y profunda, ruidos presentes.
+Puño-percusión renal: negativa.
+Resto sin hallazgos.
+
+Pruebas complementarias
+- Analítica (28/6/2010): Hb 7,9 g/dl; Cr 6 mg/dl. Esquistocitos en sangre periférica, GOT 82 UI/l; GPT 18 UI/l: LDH 5.237 UI/l; bilirrubina total 6,6 mg/dl; bilirrubina indirecta 5,90 mg/dl; CPK-NAC 99 UI/l.
+- Sedimento: microhematuria y proteinuria en muestra aislada 500 mg/dl.
+- Radiografía de tórax: redistribución vascular a vértices, posible pinzamiento costo-frénico derecho.
+- Ecografía renal: normal.
+
+Diagnóstico
+Con diagnóstico inicial de síndrome hemolítico urémico, se inicia la búsqueda de una causa subyacente:
+- TC (2/7/2010): lesión nodular espiculada en lóbulo superior izquierdo (25 x 23 mm). Adenomegalias mediastínicas (de hasta 25 mm) y retrocrurales (de hasta 19 mm). Derrame pleural bilateral. Lesiones hipodensas hepáticas a valorar con ecografía.
+- Ecografía de abdomen: hígado sin LOES. Sin otros hallazgos patológicos.
+- Fibrobroncoscopia: no se ven lesiones endobronquiales; en aritenoides derecha se observa una imagen milimétrica de aspecto queratinizado. Cepillado + BAS: negativo para malignidad.
+- TC-PAAF de tumor primario (8/7/2010 informada 9/7/2010): abundante celularidad neoplásica compatible con adenocarcinoma de pulmón, EGFR no mutado.
+- Marcadores Tm: CEA: 1,8 ng/ml.
+Diagnóstico final: adenocarcinoma de pulmón cT1bN3M0. Estadio IIIb, no mutado y síndrome hemolítico urémico secundario.
+
+Tratamiento
+Al diagnóstico, el paciente ingresa en la Unidad de Cuidados Intensivos recibiendo tratamiento con plasmaféresis, plasma fresco congelado, diálisis y corticoides. Se estabiliza el síndrome hemolítico y persiste la insuficiencia renal con una Cr de 11 mg/dl, quedando el paciente en diálisis. Se traslada al Servicio de Oncología Médica donde se programa quimioterapia y radioterapia secuencial.
+
+Evolución
+El paciente inicia en julio de 2010 cisplatino-gemcitabina (cisplatino 75mg/m2 [día 1] y gemcitabina 1.250 mg/m2 [días 1 y 8]) y recibe cuatro ciclos. En la TC de evaluación se observa enfermedad estable y se programa radioterapia, alcanzando una dosis total de 61,2 Gy. Tras la misma, se realiza un nuevo escáner de evaluación con respuesta parcial.
+Continúa en seguimiento y el paciente se mantiene asintomático y en diálisis. En septiembre de 2011, presenta progresión con aumento de tamaño de la masa del LSI y aparición de infiltrados de tipo neumonítico múltiples.
+En septiembre de 2011, ante la progresión, inicia segunda línea con Erlotinib. Bien tolerado, presenta toxicidad cutánea tipo dermatitis acneiforme grado 2, que se controla con tratamiento tópico. El paciente continúa con erlotinib y controles por escáner, permaneciendo con enfermedad estable hasta mayo de 2014.

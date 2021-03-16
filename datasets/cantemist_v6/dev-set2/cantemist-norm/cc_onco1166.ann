@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 2906 2915	carcinoma
+#1	AnnotatorNotes T1	8010/3
+T2	MORFOLOGIA_NEOPLASIA 2874 2903	carcinoma medular de tiroides
+#2	AnnotatorNotes T2	8510/3
+T3	MORFOLOGIA_NEOPLASIA 660 676	células malignas
+#3	AnnotatorNotes T3	8001/3
+T4	MORFOLOGIA_NEOPLASIA 602 624	enfermedad a distancia
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2858 2869	metastásico
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 2218 2227	neoplasia
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 2441 2448	pT1N2M0
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 329 339	tumoración
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 2564 2571	tumores
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 226 253	carcinoma decélulas basales
+#10	AnnotatorNotes T10	8090/3
+T11	MORFOLOGIA_NEOPLASIA 2352 2421	Tumor carcinoide atípico neuroendocrino (variante de células grandes)
+#11	AnnotatorNotes T11	8013/3
+T12	MORFOLOGIA_NEOPLASIA 2352 2391	Tumor carcinoide atípico neuroendocrino
+#12	AnnotatorNotes T12	8249/3

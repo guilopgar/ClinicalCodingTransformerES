@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 2442 2451	Carcinoma
+#1	AnnotatorNotes T1	8010/3
+T2	MORFOLOGIA_NEOPLASIA 2498 2513	afectación ósea
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 99 105	cáncer
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 875 890	enfermedad ósea
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2516 2543	infiltración de médula ósea
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 891 902	metastásica
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 984 995	metastásica
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 3903 3913	metástasis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 223 260	carcinoma infiltrante de mama grado 2
+#9	AnnotatorNotes T9	8010/32/H
+T10	MORFOLOGIA_NEOPLASIA 1273 1314	infiltración de médula ósea por carcinoma
+#10	AnnotatorNotes T10	8010/6
+T11	MORFOLOGIA_NEOPLASIA 4180 4201	infiltración hepática
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 4276 4306	infiltración de la médula ósea
+#12	AnnotatorNotes T12	8000/6

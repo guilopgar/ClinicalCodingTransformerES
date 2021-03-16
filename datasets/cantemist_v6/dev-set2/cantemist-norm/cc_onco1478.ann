@@ -1,0 +1,42 @@
+T1	MORFOLOGIA_NEOPLASIA 220 229	Carcinoma
+#1	AnnotatorNotes T1	8010/3
+T2	MORFOLOGIA_NEOPLASIA 802 832	carcinoma de células de Merkel
+#2	AnnotatorNotes T2	8247/3
+T3	MORFOLOGIA_NEOPLASIA 1761 1791	carcinoma de células de Merkel
+#3	AnnotatorNotes T3	8247/3
+T4	MORFOLOGIA_NEOPLASIA 4911 4925	carcinomatosis
+#4	AnnotatorNotes T4	8010/9
+T5	MORFOLOGIA_NEOPLASIA 4938 4957	implantes pleurales
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 2082 2099	lesión subcutánea
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 2110 2119	letálides
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 4374 4384	malignidad
+#8	AnnotatorNotes T8	8000/3
+T9	MORFOLOGIA_NEOPLASIA 1674 1686	metastásicas
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 980 990	metástasis
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 3781 3791	metástasis
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 4959 4969	metástasis
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 4981 4991	metástasis
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 4548 4581	metástasis de carcinoma de Merkel
+#14	AnnotatorNotes T14	8247/6
+T15	MORFOLOGIA_NEOPLASIA 4194 4208	nódulo mamario
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 1575 1580	tumor
+#16	AnnotatorNotes T16	8000/1
+T17	MORFOLOGIA_NEOPLASIA 596 603	tumoral
+#17	AnnotatorNotes T17	8000/1
+T18	MORFOLOGIA_NEOPLASIA 3564 3608	metástasis de carcinoma de células de Merkel
+#18	AnnotatorNotes T18	8247/6
+T19	MORFOLOGIA_NEOPLASIA 3433 3453	lesión en la espalda
+#19	AnnotatorNotes T19	8000/6
+T20	MORFOLOGIA_NEOPLASIA 3940 3957	lesión en espalda
+#20	AnnotatorNotes T20	8000/6
+T21	MORFOLOGIA_NEOPLASIA 5152 5207	metastásica visceral del carcinoma de células de Merkel
+#21	AnnotatorNotes T21	8247/6

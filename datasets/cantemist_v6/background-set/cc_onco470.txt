@@ -1,0 +1,31 @@
+Anamnesis
+Varón de 77 años, sin alergias medicamentosas conocidas. Como antecedentes personales, presenta hiperplasia benigna de próstata. En cuanto a intervenciones quirúrgicas previas: hernioplastia inguinal izquierda en 2007 y extirpación de un carcinoma basocelular en región frontal izquierda en 2015. Respecto a los hábitos tóxicos, no es fumador ni bebedor. Tratamiento habitual: tamsulosina 0,4 mg /24 h vo.
+Vida basal activa e independiente. Actualmente está jubilado, y era trabajador en la construcción. Como antecedentes familiares tiene padre fallecido de enfermedad pulmonar, madre fallecida a edad avanzada sin patología oncológica, posee 10 hermanos de los cuales un varón falleció de cáncer de pulmón a los 73 años, y una mujer falleció de cáncer de colon a los 75 año; el resto, vivos sin enfermedad oncológica; 3 hijos varones sanos.
+El paciente acude a consulta en enero de 2017 por cuadro de disnea de moderados esfuerzos de varios meses de evolución, junto pérdida de peso no cuantificada. Además, refiere tos con expectoración amarillenta, sin fiebre ni otra sintomatología acompañante.
+
+Exploración física
+Durante la exploración física presenta buen estado general, destacando asimetría torácica con retracción de hemitórax derecho, y en la auscultación pulmonar se aprecia disminución de murmullo vesicular en base derecha y disminución de vibraciones vocales.
+
+Pruebas complementarias
+»Radiografía de tórax en la que se evidencia masa pulmonar en base derecha que condicionaretracción de tráquea y pérdida de volumen.
+»Analítica con hallazgos de hemograma, bioquímica y marcadores tumorales dentro de lanormalidad.
+»Ante los hallazgos en la radiografía, con sospecha de una lesión de probable etiología tumoral,se realizan las siguientes pruebas para completar estudio de extensión:
+»TC toracoabdominopélvica (TAP) (05/01/2017): donde destaca la presencia de derrame pleuralderecho de moderada cuantía, que condiciona atelectasia secundaria del parénquima adyacente,engrosamiento y realce difuso de superficie pleural, sugerente de infiltración tumoral. Pérdida devolumen pulmonar derecho con desviación mediastínica ipsilateral. Adenopatía hiliar derecha de1,2 cm. A nivel abdominal, micronodularidad y reticulación en omento mayor a nivel infraumbilicalsugestivo de carcinomatosis peritoneal, el resto sin hallazgos significativos.
+»Toracocentesis diagnóstica + evacuadora (11/01/2017): se extraen 1.000 cc de líquido serosoclaro.
+»Citología del líquido pleural: negativa para células malignas.
+»Biopsia pleural abierta (14/02/2017): hallazgos: derrame pleural derecho, lesiones pleurales lisasy continuas en forma de placas. Colocación de Pleur-X por ausencia de expansión pulmonar.
+
+Diagnóstico
+» El resultado de la biopsia pleural es el siguiente: mesotelioma pleural, estudio inmunohistoquímico: CK5 +; D2-40 +; calretinina +; WT1 + focal y débil; berEP4 -; TTF1 -.
+En marzo de 2017, el paciente es remitido a la consulta de Oncología Médica con el diagnóstico de mesotelioma pleural estadio IV por carcinomatosis peritoneal.
+» El paciente presenta buen estado general, ECOG 1 y mejoría de la disnea tras la colocación de
+Pleur-X.
+
+Tratamiento
+Se decide inicio de tratamiento quimioterápico en primera línea para enfermedad avanzada según esquema carboplatino AUC-5 y pemetrexed 500 mg/m2/21 días, junto con la administración de ácido fólico 400 μg /día y la inyección im de vitamina B12/9 semanas.
+
+Evolución
+Tras el tercer ciclo de quimioterapia, el paciente presenta importante mejoría clínica, con gran disminución del derrame pleural y ausencia de salida de líquido por el Pleur-X.
+En junio de 2017, después 6 ciclos de tratamiento quimioterápico, se realiza estudio de reevaluación con TC-TAP, con disminución del derrame pleural y estabilización del engrosamiento pleural y de la carcinomatosis peritoneal. Comienza entonces tratamiento de mantenimiento con pemetrexed, permaneciendo en respuesta clínica y estabilización radiológica, junto con buena tolerancia al mismo sin toxicidades hasta julio de 2018, cuando se objetiva progresión de la enfermedad con aparición de nuevos nódulos pleurales.
+En agosto de 2018, inicia tratamiento quimioterápico en segunda línea con vinorelbina 25 mg/m2 días 1,8 y 15/28 días, inicialmente bien tolerada pero que precisa ajuste de dosis al 75 % por toxicidad gastrointestinal (diarrea grado 3). A pesar de esto, tras el ciclo 3ºb presenta nuevo episodio de diarrea grado 2, por lo que, dada la toxicidad, se decide suspensión de dicho fármaco, siendo sustituido en octubre de 2018 por gemcitabina 1.500 mg/m2/14 días, con buena tolerancia posterior, así como persistiendo el control de la enfermedad (se mantenía la estabilización).
+En mayo de 2019, se objetiva en nuevo estudio de reevaluación progresión de la carcinomatosis peritoneal con aparición de ascitis leve, permaneciendo estable la afectación pleural, y coincidiendo con mayor astenia del paciente. Se decide entonces inicio de tratamiento quimioterápico en tercera línea con carboplatino en monoterapia (retratamiento, dada la buena respuesta inicial) AUC 5 /21 días, del cual ha recibido un ciclo hasta la actualidad.

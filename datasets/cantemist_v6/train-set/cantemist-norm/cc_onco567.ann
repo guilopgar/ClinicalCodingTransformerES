@@ -1,0 +1,38 @@
+T1	MORFOLOGIA_NEOPLASIA 1401 1403	Mx
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 971 991	lesiones a distancia
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 2823 2842	lesiones pulmonares
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 3056 3075	lesiones pulmonares
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 4436 4455	lesiones pulmonares
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 1681 1728	metástasis de carcinoma renal de células claras
+#6	AnnotatorNotes T6	8310/6
+T7	MORFOLOGIA_NEOPLASIA 3568 3615	metástasis de carcinoma renal de células claras
+#7	AnnotatorNotes T7	8310/6
+T8	MORFOLOGIA_NEOPLASIA 1113 1122	neoplasia
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 1550 1565	nódulo pulmonar
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 1769 1784	nódulo pulmonar
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 3879 3897	nódulos pulmonares
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 1299 1345	carcinoma de células claras grado 2 de Fuhrman
+#12	AnnotatorNotes T12	8310/32
+T13	MORFOLOGIA_NEOPLASIA 1837 1857	nódulos subpleurales
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 3107 3121	masa abdominal
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 2752 2775	masa infradiafragmática
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 3376 3399	masa infradiafragmática
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 4121 4142	lesiones subpleurales
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 4827 4840	masa pulmonar
+#18	AnnotatorNotes T18	8000/6
+T19	MORFOLOGIA_NEOPLASIA 5156 5169	masa pulmonar
+#19	AnnotatorNotes T19	8000/6

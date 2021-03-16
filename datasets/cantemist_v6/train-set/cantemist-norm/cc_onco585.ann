@@ -1,0 +1,12 @@
+T1	MORFOLOGIA_NEOPLASIA 2049 2065	células malignas
+#1	AnnotatorNotes T1	8001/3
+T2	MORFOLOGIA_NEOPLASIA 1951 1961	malignidad
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 2553 2563	malignidad
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 248 290	carcinoma epidermoide de pulmón cT4 N3 M1b
+#4	AnnotatorNotes T4	8070/6
+T5	MORFOLOGIA_NEOPLASIA 3751 3761	neoplásica
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 5182 5192	neoplásica
+#6	AnnotatorNotes T6	8000/3

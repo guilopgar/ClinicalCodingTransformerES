@@ -1,0 +1,42 @@
+T1	MORFOLOGIA_NEOPLASIA 3972 4001	adenopatías supraclaviculares
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 2324 2340	células malignas
+#2	AnnotatorNotes T2	8001/3
+T3	MORFOLOGIA_NEOPLASIA 4052 4070	lesiones pleurales
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1879 1889	malignidad
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 2461 2477	melanoma maligno
+#5	AnnotatorNotes T5	8720/3
+T6	MORFOLOGIA_NEOPLASIA 2762 2778	melanoma maligno
+#6	AnnotatorNotes T6	8720/3
+T7	MORFOLOGIA_NEOPLASIA 3351 3367	melanoma maligno
+#7	AnnotatorNotes T7	8720/3
+T8	MORFOLOGIA_NEOPLASIA 2117 2127	metástasis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 4015 4025	metástasis
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 963 968	tumor
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 3479 3484	tumor
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 3025 3035	tumoración
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 685 710	sarcoma de células claras
+#13	AnnotatorNotes T13	9044/3
+T14	MORFOLOGIA_NEOPLASIA 712 715	SCC
+#14	AnnotatorNotes T14	9044/3
+T15	MORFOLOGIA_NEOPLASIA 1747 1792	adenopatías a nivel cervical, supraclavicular
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 2614 2639	sarcoma de células claras
+#16	AnnotatorNotes T16	9044/3
+T17	MORFOLOGIA_NEOPLASIA 2950 2975	sarcoma de células claras
+#17	AnnotatorNotes T17	9044/3
+T18	MORFOLOGIA_NEOPLASIA 3308 3333	sarcoma de células claras
+#18	AnnotatorNotes T18	9044/3
+T19	MORFOLOGIA_NEOPLASIA 3396 3449	recidiva de sarcoma de células claras a nivel pleural
+#19	AnnotatorNotes T19	9044/6
+T20	MORFOLOGIA_NEOPLASIA 3650 3676	sarcomas de partes blandas
+#20	AnnotatorNotes T20	9044/3
+T21	MORFOLOGIA_NEOPLASIA 2074 2091	nódulos pleurales
+#21	AnnotatorNotes T21	8000/6

@@ -1,0 +1,12 @@
+T1	MORFOLOGIA_NEOPLASIA 2583 2587	MALT
+#1	AnnotatorNotes T1	9699/3
+T2	MORFOLOGIA_NEOPLASIA 2703 2707	MALT
+#2	AnnotatorNotes T2	9699/3
+T3	MORFOLOGIA_NEOPLASIA 2363 2418	signos proliferativos foliculares a células de Hürthle
+#3	AnnotatorNotes T3	8290/0
+T4	MORFOLOGIA_NEOPLASIA 2550 2630	linfoma de la zona marginal tipo MALT con prominente diferenciación plasmocítica
+#4	AnnotatorNotes T4	9671/3
+T5	MORFOLOGIA_NEOPLASIA 2670 2707	Linfoma de la zona marginal tipo MALT
+#5	AnnotatorNotes T5	9699/3
+T6	MORFOLOGIA_NEOPLASIA 2550 2587	linfoma de la zona marginal tipo MALT
+#6	AnnotatorNotes T6	9699/3

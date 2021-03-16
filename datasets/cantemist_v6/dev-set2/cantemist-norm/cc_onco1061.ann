@@ -1,0 +1,10 @@
+T1	MORFOLOGIA_NEOPLASIA 3247 3268	carcinoma infiltrante
+#1	AnnotatorNotes T1	8010/3/H
+T2	MORFOLOGIA_NEOPLASIA 2810 2818	malignas
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 2710 2720	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 3042 3052	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 3610 3630	metástasis de cáncer
+#5	AnnotatorNotes T5	8000/6

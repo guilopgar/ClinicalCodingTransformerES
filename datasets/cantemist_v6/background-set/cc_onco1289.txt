@@ -1,0 +1,29 @@
+Anamnesis
+Mujer de 81 años con mastectomía derecha y linfadenectomía axilar en 1990 por carcinoma medular T2N0, receptores hormonales desconocidos, sin tratamiento adyuvante.
+Consultó en octubre de 2012 por distensión abdominal y síndrome constitucional.
+
+Examen físico
+ECOG 2, peso 50 kg, talla 144 cm. Tumoración en cuadrante superoexterno de mama izquierda sin adenopatías locorregionales. Hipofonesis en bases pulmonares. Semiología de ascitis. Masa en el hemiabdomen izquierdo con implantes palpables en el orificio de la laparoscopia (colecistectomía).
+
+Pruebas complementarias
+Marcadores tumorales: Ca 12,5 340 U/ml, Ca 15,3 145 U/ml.
+Ecografía mamaria: masa sólida de 3,8 cm. No se observan adenopatías.
+PET: captación patológica en mama izquierda. Múltiples lesiones metabólicas hepáticas, mesenterio y epiplón; actividad entre las asas intestinales hasta la pelvis.
+TC: derrame pleural bilateral. Múltiples metástasis hepáticas en segmentos IV-V. Nódulos sólidos en pared abdominal, omento mayor e implantes pélvicos. Quiste ovárico izquierdo.
+Ecografía ginecológica: zona cavitada en anejo izquierdo de 6 cm mal delimitada.
+Biopsia de mama: carcinoma ductal infiltrante (CDI) triple negativo.
+Implante peritoneal: adenocarcinoma papilar pobremente diferenciado.
+Citología del líquido pleural: adenocarcinoma.
+Estudio genético: gen BRCA 1 mutado.
+
+Diagnóstico
+Doble neoplasia sincrónica: CDI mama T2N0M0 triple negativo y adenocarcinoma papilar pobremente diferenciado de ovario con afectación intraabdominal (omental cake, hepáticas) estadio IV con derrame pleural bilateral.
+
+Tratamiento
+La paciente ingresó por suboclusión intestinal, iniciando nutrición parenteral total y tratamiento con quimioterapia (QT) con intención neoadyuvante para ambos tumores sincrónicos con carboplatino-paclitaxel (paclitaxel 175 mg/m2 día +1 seguido de carboplatino AUC 5 día +1, trisemanal). Evolucionó favorablemente con normalización del tránsito digestivo y diarreas de grado 2 como única toxicidad.
+
+Evolución
+Tras 4 ciclos de QT, se objetivó respuesta completa hepática y respuesta parcial de: implantes peritoneales, lesión ovárica, mamaria y derrame pleural.
+Se presentó en sesión multidisciplinar de Onco-Ginecología, decidiendo realizar histerectomía, doble anexectomía, omentectomía menor, esplenectomía y mastectomía izquierda.
+Tras cirugía, completó 4 ciclos de QT adyuvante y radioterapia mamaria, con excelente tolerancia clínica.
+Actualmente se encuentra en seguimiento ambulatorio, con ECOG 1 y asintomática.

@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 3014 3044	Carcinoma seroso de alto grado
+#1	AnnotatorNotes T1	8441/34
+T2	MORFOLOGIA_NEOPLASIA 253 259	cáncer
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 334 340	cáncer
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 2006 2016	malignidad
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 2451 2463	neoformativo
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 1429 1439	tumoración
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 1711 1755	metástasis de carcinoma seroso de alto grado
+#7	AnnotatorNotes T7	8441/64
+T8	MORFOLOGIA_NEOPLASIA 2526 2545	implantes en omento
+#8	AnnotatorNotes T8	8000/6

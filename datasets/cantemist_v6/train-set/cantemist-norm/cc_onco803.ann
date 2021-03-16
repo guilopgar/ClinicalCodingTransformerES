@@ -1,0 +1,48 @@
+T1	MORFOLOGIA_NEOPLASIA 3159 3178	Implantes tumorales
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 628 630	M0
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 885 887	M0
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 486 495	carcinoma
+#4	AnnotatorNotes T4	8010/3
+T5	MORFOLOGIA_NEOPLASIA 592 601	carcinoma
+#5	AnnotatorNotes T5	8010/3
+T6	MORFOLOGIA_NEOPLASIA 1300 1309	carcinoma
+#6	AnnotatorNotes T6	8010/3
+T7	MORFOLOGIA_NEOPLASIA 807 835	carcinoma ductal infiltrante
+#7	AnnotatorNotes T7	8500/3
+T8	MORFOLOGIA_NEOPLASIA 1109 1123	carcinomatosis
+#8	AnnotatorNotes T8	8010/9
+T9	MORFOLOGIA_NEOPLASIA 3443 3457	carcinomatosis
+#9	AnnotatorNotes T9	8010/9
+T10	MORFOLOGIA_NEOPLASIA 3647 3661	carcinomatosis
+#10	AnnotatorNotes T10	8010/9
+T11	MORFOLOGIA_NEOPLASIA 1809 1823	carcinosarcoma
+#11	AnnotatorNotes T11	8980/3
+T12	MORFOLOGIA_NEOPLASIA 3049 3063	carcinosarcoma
+#12	AnnotatorNotes T12	8980/3
+T13	MORFOLOGIA_NEOPLASIA 5083 5097	carcinosarcoma
+#13	AnnotatorNotes T13	8980/3
+T14	MORFOLOGIA_NEOPLASIA 4162 4182	enfermedad sistémica
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 4323 4342	implante peritoneal
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 4943 4962	implante peritoneal
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 1045 1054	neoplasia
+#17	AnnotatorNotes T17	8000/1
+T18	MORFOLOGIA_NEOPLASIA 4090 4111	progresión peritoneal
+#18	AnnotatorNotes T18	8000/6
+T19	MORFOLOGIA_NEOPLASIA 782 787	tumor
+#19	AnnotatorNotes T19	8000/1
+T20	MORFOLOGIA_NEOPLASIA 1192 1205	tumor maligno
+#20	AnnotatorNotes T20	8000/3
+T21	MORFOLOGIA_NEOPLASIA 1825 1856	tumor mülleriano mixto maligno
+#21	AnnotatorNotes T21	8950/3
+T22	MORFOLOGIA_NEOPLASIA 3065 3096	tumor mülleriano mixto maligno
+#22	AnnotatorNotes T22	8950/3
+T23	MORFOLOGIA_NEOPLASIA 3302 3319	nódulos omentales
+#23	AnnotatorNotes T23	8000/6
+T24	MORFOLOGIA_NEOPLASIA 5057 5080	tumor mülleriano mixto
+#24	AnnotatorNotes T24	8950/3

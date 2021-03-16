@@ -1,0 +1,8 @@
+T1	MORFOLOGIA_NEOPLASIA 857 874	células tumorales
+#1	AnnotatorNotes T1	8001/1
+T2	MORFOLOGIA_NEOPLASIA 1480 1511	lesión en pala iliaca izquierda
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 693 762	carcinoma epidermoide de pulmón estadio IV por afectación suprarrenal
+#3	AnnotatorNotes T3	8070/6
+T4	MORFOLOGIA_NEOPLASIA 1433 1455	lesión en pared costal
+#4	AnnotatorNotes T4	8000/6

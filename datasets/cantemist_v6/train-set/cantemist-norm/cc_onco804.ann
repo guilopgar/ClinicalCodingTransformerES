@@ -1,0 +1,28 @@
+T1	MORFOLOGIA_NEOPLASIA 4808 4823	Teratoma maduro
+#1	AnnotatorNotes T1	9080/0
+T2	MORFOLOGIA_NEOPLASIA 2293 2308	hepatocarcinoma
+#2	AnnotatorNotes T2	8170/3
+T3	MORFOLOGIA_NEOPLASIA 3268 3279	metastásico
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1912 1935	metástasis de carcinoma
+#4	AnnotatorNotes T4	8010/6
+T5	MORFOLOGIA_NEOPLASIA 3725 3730	tumor
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 2858 2865	tumoral
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 1941 1970	diferenciación neuroendocrina
+#7	AnnotatorNotes T7	8574/3
+T8	MORFOLOGIA_NEOPLASIA 2196 2229	metástasis de carcinoma hepatoide
+#8	AnnotatorNotes T8	8576/6
+T9	MORFOLOGIA_NEOPLASIA 2315 2373	variante hepatoide de tumor germinal tipo seno endodérmico
+#9	AnnotatorNotes T9	9071/3
+T10	MORFOLOGIA_NEOPLASIA 3184 3203	Carcinoma hepatoide
+#10	AnnotatorNotes T10	8576/3
+T11	MORFOLOGIA_NEOPLASIA 3512 3531	carcinoma hepatoide
+#11	AnnotatorNotes T11	8576/3
+T12	MORFOLOGIA_NEOPLASIA 3534 3570	tumor del seno endodérmico hepatoide
+#12	AnnotatorNotes T12	9071/3
+T13	MORFOLOGIA_NEOPLASIA 3931 3952	enfermedad diseminada
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 3021 3029	teratoma
+#14	AnnotatorNotes T14	9080/1

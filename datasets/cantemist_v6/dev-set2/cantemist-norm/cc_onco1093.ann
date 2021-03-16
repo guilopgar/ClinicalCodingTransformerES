@@ -1,0 +1,18 @@
+T1	MORFOLOGIA_NEOPLASIA 2419 2461	Carcinoma neuroendocrino de célula pequeña
+#1	AnnotatorNotes T1	8041/3
+T2	MORFOLOGIA_NEOPLASIA 657 698	adenopatías cervicales, supraclaviculares
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 3567 3577	malignidad
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 4823 4835	metastásicas
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 3405 3410	tumor
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 748 758	tumoración
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 1252 1283	tumor maligno de célula pequeña
+#7	AnnotatorNotes T7	8002/3
+T8	MORFOLOGIA_NEOPLASIA 2473 2482	cT2-3N3M0
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 3701 3726	recidiva a nivel pulmonar
+#9	AnnotatorNotes T9	8000/6

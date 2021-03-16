@@ -1,0 +1,36 @@
+T1	MORFOLOGIA_NEOPLASIA 3784 3796	Angiosarcoma
+#1	AnnotatorNotes T1	9120/3
+T2	MORFOLOGIA_NEOPLASIA 3843 3862	afectación hepática
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 3594 3606	angiosarcoma
+#3	AnnotatorNotes T3	9120/3
+T4	MORFOLOGIA_NEOPLASIA 591 601	malignidad
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 871 881	malignidad
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 1329 1339	malignidad
+#6	AnnotatorNotes T6	8000/3
+T7	MORFOLOGIA_NEOPLASIA 2844 2854	malignidad
+#7	AnnotatorNotes T7	8000/3
+T8	MORFOLOGIA_NEOPLASIA 3194 3204	metástasis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 3207 3217	metástasis
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 4796 4806	metástasis
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 4973 4983	metástasis
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 226 235	neoplasia
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 3354 3364	neoplásica
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 1004 1014	neoplásico
+#14	AnnotatorNotes T14	8000/1
+T15	MORFOLOGIA_NEOPLASIA 5063 5082	progresión hepática
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 3927 3934	tumoral
+#16	AnnotatorNotes T16	8000/1
+T17	MORFOLOGIA_NEOPLASIA 1573 1611	lesión hipodensa en el lóbulo hepático
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 3140 3179	lesiones ocupantes de espacio hepáticas
+#18	AnnotatorNotes T18	8000/6

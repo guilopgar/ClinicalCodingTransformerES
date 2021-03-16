@@ -1,0 +1,38 @@
+Motivo de consulta
+Mujer de 54 años que acude al servicio de urgencias por dolor brusco en brazo derecho sin traumatismo importante. Se aprecia fractura patológica de húmero distal secundaria a la presencia de una lesión lítica. Ingresa en Traumatología para estabilización quirúrgica de la fractura y se realiza interconsulta a Medicina Interna. No presenta síndrome constitucional y la anamnesis por aparatos es normal.
+
+Antecedentes personales
+Mujer de 54 años. No AMC. Profesión en hostelería. No hábitos tóxicos: No fumadora ni bebedora. No enfermedades de interés. No intervenciones quirúrgicas. 2 cesáreas. No abortos. Menopausia a los 47 años con revisiones ginecológicas según protocolo (última mamografía en 2013 sin hallazgos) No realiza tratamientos habituales. Antecedentes familiares: Madre fallecida de leucemia.
+
+Exploración Física
+Consciente, orientada y colaboradora. Pupilas isocóricas y normorreactivas. Pares craneales conservados. Carótidas rítmicas y simétricas. No se palpan adenopatías. A.C.: Rítmico a 90 lpm. No se auscultan soplos. A.P.: Murmullo vesicular conservado. Sin RHA sobreañadidos. Abdomen: Blando, depresible, no doloroso a la palpación. No se palpan visceromegalias. EEII: No edemas, no signos de TVP, pedios conservados.
+
+Pruebas complementarias
+· Analítica:
+- Sistemático de sangre: Hb 13.9 g/dl, Hto 41%, leucocitos 4000/mm³ (fórmula normal), plaquetas 2060000/mm³. Frotis sin alteraciones. Coagulación: Normal.
+- Bioquímica: Glucemia y función hepatorrenal normales. T3 y T4 libre normales. Ferritina, Vitamina B12 y ácido fólico: Normales. Proteína C reactiva 4.9. Parathormona 35.6 pc/ml, 25 hidroxivitamina D 7.7 ng/ml. Calcio normal. Beta2 microglobulina:2mg/dl.
+- Marcadores tumorales: Negativos.
+- Proteinograma (13/01/14): Albúmina 5 g/dl, alfa1 glob. 0.2 g/dl, alfa2 glob. 0.9 g/dl, beta glob 0.8 g/dl, gamma glob. 0.9 g/dl. No se observan bandas de aspecto monoclonal.
+- Proteinuria de 24 horas: 0.19 g. proteinuria de Bence-Jones: negativa.
+- Inmunofijación en suero y en orina: Negativo.
+· TAC tóracoabdominopélvico: No se evidencia masas ni megalias.
+· Mamografía/ecografía mamaria: sin alteraciones.
+· Ecocardiograma: sin cardiopatía estructural. Fracción de eyección 68%.
+· Serie ósea: Cambios degenerativos en columna cervical. A nivel dorsolumbar cambios degenerativos con colapsos vertebrales grado II de los cuerpos dorsales medios. No hay lesiones líticas en pelvis ni en articulaciones femorotibiales ni en la tibia ni en el peroné. Lesión lítica de tercio distal de húmero derecho.
+
+Evolución
+Paciente que presenta fractura patológica de húmero por lesión lítica SIN partes blandas asociadas. En una primera fase de estudio, no se evidencia neoplasia de órgano sólido con proteinograma e inmunofijación en sangre y orina normal. Según el servicio de traumatología, la paciente no presentaba crecimiento de partes blandas en la lesión del húmero como para realizar biopsia.
+Ante la falta de diagnóstico, se solicita cadenas ligeras y ante su alteración se realiza aspirado de médula ósea y posteriormente FISH en sangre periférica. Durante la estabilización de la fractura programada tras el diagnóstico (dependía del pronóstico del diagnóstico final, un tipo u otro de estabilización), se realizó aspirado celular de la lesión con los resultados expuestos.
+· Cadenas ligeras en suero: Ratio Kappa/Lambda: 182.02. Cadenas ligeras Kappa libre 101.93 mg/dl, cadenas ligeras Lambda libre 0.56 mg/dl.
+- Aspirado de médula ósea: 44% de células plasmáticas de tamaño pequeño y mediano. Cromatina moderadamente condensada con pocas alteraciones morfológicas.
+- Fenotipo de aspirado de médula ósea: 20% de células plasmáticas de las cuales el 98% son patológicas. CD138 +, CD38 +, CD56 -, CD19 -, CD81 + débil, CD27 -.
+- FISH de sangre periférica 69% de células plasmáticas. Presenta traslocación del gen IgH (14q 32) que no implica los genes FGFR3/MMSET ni MAF.
+- Citometría del aspirado de la lesión lítica: Proliferación tumoral maligna por células plasmocitoides CD138 +.
+
+Juicio Diagnóstico
+Mieloma Múltiple oligosecretor ISS I. Debut con fractura patológica del húmero. 
+
+Tratamiento: Inducción con 4 ciclos tipo VTD con respuesta completa (ratio de cadenas ligeras e infiltración de médula ósea). Posteriormente autotrasplante de precursores hematopoyéticos.
+
+Evolución
+Actualmente en remisión completa

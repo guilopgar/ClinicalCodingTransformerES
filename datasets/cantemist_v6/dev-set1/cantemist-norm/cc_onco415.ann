@@ -1,0 +1,46 @@
+T1	MORFOLOGIA_NEOPLASIA 2828 2856	Carcinoma ductal infiltrante
+#1	AnnotatorNotes T1	8500/3
+T2	MORFOLOGIA_NEOPLASIA 670 698	carcinoma ductal infiltrante
+#2	AnnotatorNotes T2	8500/3
+T3	MORFOLOGIA_NEOPLASIA 4539 4545	cáncer
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 2544 2562	lesiones hepáticas
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 5583 5601	lesiones hepáticas
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 7405 7423	lesiones hepáticas
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 2786 2800	lesiones óseas
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 4827 4841	lesiones óseas
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 578 588	malignidad
+#9	AnnotatorNotes T9	8000/3
+T10	MORFOLOGIA_NEOPLASIA 1714 1724	malignidad
+#10	AnnotatorNotes T10	8000/3
+T11	MORFOLOGIA_NEOPLASIA 2801 2813	metastásicas
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 2268 2278	metástasis
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 2590 2600	metástasis
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 4282 4292	metástasis
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 1822 1832	neoplásico
+#15	AnnotatorNotes T15	8000/1
+T16	MORFOLOGIA_NEOPLASIA 6137 6156	progresión hepática
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 819 827	pT4bN+Mx
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 1882 1953	carcinoma ductal infiltrante, grado I de la clasificación de Nottingham
+#18	AnnotatorNotes T18	8500/31
+T19	MORFOLOGIA_NEOPLASIA 2123 2141	lesión osteolítica
+#19	AnnotatorNotes T19	8000/6
+T20	MORFOLOGIA_NEOPLASIA 3772 3781	ypT1bN0M0
+#20	AnnotatorNotes T20	8000/6
+T21	MORFOLOGIA_NEOPLASIA 4202 4220	lesión osteolítica
+#21	AnnotatorNotes T21	8000/6
+T22	MORFOLOGIA_NEOPLASIA 4757 4794	enfermedad, esta vez a nivel hepático
+#22	AnnotatorNotes T22	8000/6
+T23	MORFOLOGIA_NEOPLASIA 5530 5557	enfermedad a nivel de sacro
+#23	AnnotatorNotes T23	8000/6

@@ -1,0 +1,20 @@
+Anamnesis
+Presentamos el caso de un varón de 61 años, sin antecedentes personales conocidos de interés, exfumador con índice paquetes-año acumulado de 30, sin otros hábitos tóxicos. No posee antecedentes familiares de interés. Consulta en Urgencias en marzo de 2018 por malestar general y astenia progresiva de 4 meses de evolución, sin haber acudido por dicho motivo previamente, llegando a presentar a su llegada imposibilidad para la deambulación junto con marcada disnea de reposo.
+Además, refería pérdida de peso y tos no productiva.
+
+Exploración física
+En la exploración destacaba un aspecto físico descuidado y palidez mucocutánea, con lesiones cutáneas violáceas sobreelevadas en varias zonas del cuerpo (cuello, tronco y espalda fundamentalmente), así como en mucosa oral, gingival y glande. Se encontraba bradipsíquico sin focalidad neurológica, y presentaba abolición del murmullo vesicular en hemicampo pulmonar derecho.
+
+Pruebas complementarias
+Se cursó ingreso en Medicina Interna para iniciar estudio, solicitando una analítica de sangre completa con serologías, destacando en los resultados Western-Blot de VIH-1 positivo, carga viral VIH-1 (Taqman): 304.000,00 copias/ml (log.: 5.48), linfopenia con CD4 5,02 %, CD8 77,3 8%. Virus hepatotropos y otras serologías negativas salvo Entamoeba histolytica. En la analítica general destacaba insuficiencia renal moderada (creatinina 1,6 mg/dl) y desnutrición proteico calórica (albúmina de 2,1 g/dl).
+
+Diagnóstico
+Tras la realización de pruebas, el paciente fue diagnosticado de infección avanzada por VIH, estadio C3 (SIDA).
+
+Tratamiento
+Por parte de Medicina Interna Infecciosas, se inició tratamiento antirretroviral con triple terapia así como profilaxis antibiótica para enfermedades oportunistas.
+
+Evolución
+Durante el ingreso se realizó una radiografía de tórax que evidenciaba derrame pleural derecho, por lo que se completó el estudio con una TC completa donde se describían numerosas adenopatías supra e infradiafragmáticas, hepatoesplenomegalia con ascitis y derrame pleural derecho. Se realizó toracocentesis diagnóstica y terapéutica, descartando afectación infecciosa, con micobacterias negativas y con diagnóstico anatomopatológico positivo para células tumorales malignas, con hallazgos morfológicos e inmunohistoquímicos concordantes con linfoma primario de cavidades, herpes virus 8 positivo (VHH-8). Se realizó además biopsia de una de las lesiones cutáneas y de una adenopatía laterocervical, ambas con diagnóstico histológico compatible con sarcoma de Kaposi, asociado a VHH-8 que infiltraba además mucosa esofágica y gástrica evidenciado por endoscopia.
+El paciente presentó mejoría clínica y analítica inicial gracias al tratamiento antirretroviral y al tratamiento de soporte durante las primeras semanas, por lo que ante la recuperación se decidió ingreso a cargo de Oncología Médica para valorar tratamiento tumoral. Sin embargo, a las tres semanas de haber comenzado el tratamiento, apareció de nuevo marcado deterioro clínico, fiebre y empeoramiento analítico, sin hallazgos microbiológicos ni radiológicos que justificaran dicho empeoramiento, en probable relación por tanto con síndrome de reconstitución inmune, aunque sin poder descartar otras opciones (síndrome hemofagocítico, enfermedad venoclusiva, etc.). A pesar del tratamiento, incluso con drogas vasoactivas, el paciente continuó con hipotensión mantenida e insuficiencia hepática progresiva, que produjo un cuadro de encefalopatía hepática grave no reversible, falleciendo pocos días después.
+Se solicitó autopsia clínica, confinada exclusivamente al hígado con resultado final de hepatitis aguda submasiva colestásica de predominio centrolobulillar inespecífica, pudiendo deberse tanto a afectación por VIH como por virus hepatotropos o toxicidad farmacológica, sin poder filiar el origen.

@@ -1,0 +1,49 @@
+Anamnesis
+Paciente derivado desde Atención Primaria a consultas de Urología por bultoma testicular izquierdo.
+Varón de 25 años de edad, sin antecedentes de interés, que refiere molestias en testículo izquierdo de varias semanas de evolución, que no ceden con antiinflamatorios habituales. Describe el dolor como una molestia, de poca intensidad, que no varía con la deambulación ni con la ropa interior ajustada.
+Asociado al cuadro, refiere que, de forma casual, se ha palpado un bulto en la porción inferior del teste izquierdo, duro y levemente doloroso durante la palpación.
+No ha presentado traumatismos escrotales recientes. Tampoco asocia disuria ni exudado uretral y rechaza haber tenido relaciones sexuales de riesgo.
+
+Exploración física
+» No se palpan adenopatías cervicales ni axilares; posible adenopatía supraclavicular izquierda.
+» Auscultación cardiopulmonar normal.
+» Abdomen, depresible, no doloroso a la palpación, no se palpan megalias.
+
+Exploración genital
+» No se aprecian lesiones en el cuerpo del pene; el prepucio se retrae completamente, mostrando el glande y surco balanoprepucial sin apreciarse lesiones. No se aprecia exudado uretral.
+» Ambos testes normoposicionados, no se aprecia enrojecimiento ni signos inflamatorios de bolsa escrotal.
+» Teste derecho; movilizable, de consistencia normal, no doloroso en la palpación del epidídimo; no se aprecian hallazgos de interés.
+» Teste izquierdo, movilizable, aumentado de tamaño y de consistencia algo más dura que el contralateral. Se aprecia en polo inferior lesión ovoidea de consistencia dura.
+» Reflejo cremastérico conservado.
+» No se aprecian adenopatías inguinales a la palpación.
+Ante los hallazgos de la exploración física que generan alta sospecha de tumoración testicular, se solicita de forma preferente analítica con marcadores serológicos y ecografía testicular.
+
+Pruebas complementarias
+MARCADORES SEROLÓGICOS DEL DIAGNÓSTICO
+» LDH 383 U/l; b-HCG 641,5 mUI/ml; AFP 53,7 ng/ml.
+ECOGRAFÍA TESTICULAR
+» Testículo izquierdo aumentado de tamaño a expensas de lesión focal parenquimatosa sólida, hipoecogénica, de dimensiones aproximadas 20 x 30 mm (AP x T). Presenta contornos lobulados con componente cálcico grosero asociado. El estudio de la vascularización interna al Doppler color sugiere neoformación testicular. Asocia leve hidrocele izquierdo.
+» Teste derecho de tamaño normal y parénquima homogéneo con adecuada vascularización.
+» Resto, sin alteraciones ecográficas de interés.
+Los hallazgos de las pruebas complementarias son altamente sugestivos de tumoración testicular maligna, por lo que, de forma programada, el paciente es intervenido mediante Orquiectomía radical izquierda; intervención que se realiza sin incidencias de interés.
+El estudio anatomopatológico de la pieza de orquiectomía radical izquierda informa de tumor no seminomatoso de células germinales mixto (carcinoma embrionario 85 % y tumor de saco vitelino de tipo postpuberal 15 %, clasificación OMS 2006), derivado de neoplasia de células germinales in situ unifocal. Tamaño 3,2 x 2 x 1,75 cm. Invasión linfovascular Rete testis, epidídimo y margen quirúrgico correspondiente a cordón espermático, libres de infiltración tumoral. Estadiaje patológico (AJCC/TNM 8ª edición): pT2 Nx Mx.
+Con diagnóstico de Carcinoma testicular de células germinales mixto no seminomatoso estadio pT2 Nx Mx; el paciente es remitido al Servicio de Oncología para valoración de tratamiento adyuvante.
+El paciente es recibido en primera consulta en Hospital de Día Oncológico, sin haber presentado complicaciones postoperatorias de interés. Se le informa de la naturaleza maligna del proceso que padece, se realiza exploración física completa en la que no se haya alteraciones de interés. Para completar el estadiaje previo al inicio de la adyuvancia, se solicitan marcadores serológicos postorquiectomía y TC toracoabdominopélvica con contraste intravenoso.
+
+PRUEBAS COMPLEMENTARIAS POSTCIRUGÍA
+Marcadores serológicos postorquiectomía:
+» LDH 522 U/l; b-HCG 4.687,3 mUI/ml; AFP 29,5 ng/ml.
+TC toracoabdominopélvica con contraste yodado
+» Tórax: no se observan alteraciones pleuropulmonares ni mediastínicas de interés. Adenopatía supraclavicular izquierda de 27 mm. No se aprecian adenopatías mediastínicas de tamaño significativo. Leve ginecomastia bilateral.
+» Abdomen y pelvis: no se observan lesiones significativas en el esqueleto óseo visualizado en el estudio; hígado, bazo, páncreas, riñones y suprarrenales sin alteraciones de interés. Conglomerado adenopático retroperitoneal paraaórtico izquierdo (4,3 x 5,8 x 10 cm) (TxAPxCC).
+
+Diagnóstico
+Carcinoma testicular de células germinales mixto, no seminomatoso estadio IIIA (pT2 pN3 M1a S1) de bajo riesgo.
+
+Tratamiento
+El paciente recibe tres ciclos de quimioterapia bajo el esquema BEP, sin incidencias de interés.
+
+Evolución
+Tras completar la adyuvancia, el paciente presenta normalización de los marcadores serológicos y reducción significativa del conglomerado adenopático retroperitoneal paraaórtico, presentando unas dimensiones al finalizar el esquema quimioterápico de 13.8 x 15 x 51 mm (TxAPxCC).
+Dada la persistencia de conglomerado adenopático mayor de 1 cm en su diámetro mayor, en presencia de normalización de marcadores serológicos, el paciente es presentado en sesión de Urología para linfadenectomía retroperitoneal posquimioterapia; procedimiento que se realiza sin incidencias.
+El estudio anatomopatológico del conglomerado adenopático resecado informa de una infiltración por componente de teratoma maduro con diferenciación hacia tejido cartilaginoso.

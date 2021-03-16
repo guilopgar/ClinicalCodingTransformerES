@@ -1,0 +1,30 @@
+T1	MORFOLOGIA_NEOPLASIA 314 324	benignidad
+#1	AnnotatorNotes T1	8000/0
+T2	MORFOLOGIA_NEOPLASIA 3081 3117	carcinoma ductal infiltrante grado 2
+#2	AnnotatorNotes T2	8500/32
+T3	MORFOLOGIA_NEOPLASIA 671 707	carcinoma ductal infiltrante grado 3
+#3	AnnotatorNotes T3	8500/33
+T4	MORFOLOGIA_NEOPLASIA 568 589	carcinoma infiltrante
+#4	AnnotatorNotes T4	8010/3/H
+T5	MORFOLOGIA_NEOPLASIA 2930 2936	cáncer
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 1421 1440	lesiones pulmonares
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 3936 3952	lesión occipital
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 1487 1497	metástasis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 2316 2326	metástasis
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 1930 1948	nódulos pulmonares
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 119 129	tumoración
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 445 465	fibroadenoma gigante
+#12	AnnotatorNotes T12	9016/0
+T13	MORFOLOGIA_NEOPLASIA 468 490	cistosarcoma phyloides
+#13	AnnotatorNotes T13	9020/1
+T14	MORFOLOGIA_NEOPLASIA 1556 1623	Carcinoma ductal infiltrante de mama derecha grado 3, pT2N1(2/16)M1
+#14	AnnotatorNotes T14	8500/63
+T15	MORFOLOGIA_NEOPLASIA 3576 3613	lesión descrita previamente occipital
+#15	AnnotatorNotes T15	8000/6

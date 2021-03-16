@@ -1,0 +1,21 @@
+Anamnesis
+Mujer de 54 años, sin antecedentes médicos de interés, que consultó por dolor cervical con la flexión, progresivo, de 15 días de evolución, así como aumento de partes blandas del cuello e imposibilidad para la ingesta en las últimas 24 horas. Asimismo, asociaba parestesias en el miembro superior izquierdo. Ingresó en Traumatología con el diagnóstico de luxación cervical C1-C2 inveterada.
+
+Exploración física
+A la exploración física destacaba una fuerza muscular 5/5, tanto en los miembros superiores como en los inferiores, excepto deltoides y bíceps bilateral 4+/5 artefactado por dolor. Sensibilidad conservada. ROT presentes y simétricos, con hiperreflexia generalizada.
+
+Pruebas complementarias
+» Análisis sanguíneo completo dentro de la normalidad, incluyendo proteinograma y marcadores tumorales.
+» TC de columna cervical: tumoración ósea osteolítica destructiva en C2, apófisis odontoides y pedículos de C2, con signos de agresividad con adelgazamiento, rotura de la cortical y masa de partes blandas que probablemente ocupa el canal. Fractura patológica de los pedículos de C2 con anterolistesis/luxación anterior C2-C3 (fractura del ahorcado patológica), existiendo marcado desplazamiento entre los fragmentos y angulación en el sitio de la fractura. Signos de impactación C1-C2, con angulación craneal más marcada de la lámina derecha de C2 que impronta en el canal a nivel posterolateral derecho de C1.
+» RM de raquis cervical: fractura patológica de C2, osteolítica, con masa de partes blandas que se extiende anteriormente, bordeando el soma, afecta al cuerpo, odontoides y pedículos sin compromiso de la vía aérea. Posteriormente la masa se extiende a través de los pedículos ocupando parcialmente el espacio epidural posterior, de predominio izquierdo. A pesar de ocupar parcialmente el conducto espinal, no provoca alteración significativa morfológica ni de señal del cordón medular.
+» PET-TC de cuerpo entero: lesión lítica hipermetabólica en la vértebra C2 (SUVmáx 5,3), con mayor hipermetabolismo en el pedículo derecho. Resto del estudio sin hallazgos significativos.
+» Biopsia guiada por TC de la vértebra C2: la mayor parte de los cilindros están constituidos por material fibrinohemorrágico con presencia de escasos fragmentos de tejido en los que se observan células de hábito fibrohistiocitario mononucleadas, de citoplasma eosinófilo, sin atipia, entremezcladas con células gigantes multinucleadas tipo osteoclasto, algunas de estas con más de 20 núcleos, y con presencia de hemosiderófagos. No se identifican mitosis. Se reconocen focos de osteoide inmaduro, con ribete osteoblástico, de aspecto reactivo. El índice proliferativo con Ki-67 es del 5%.
+
+Diagnóstico
+Tumor de células gigantes óseo.
+
+Tratamiento
+Tras dicho diagnóstico se inició tratamiento con denosumab, con dosis de carga de 120 mg subcutánea los días 1, 8 y 15, y posteriormente cada 28 días, así como suplementos de calcio y vitamina D.
+
+Evolución
+La paciente ha realizado visitas mensuales en consultas externas de Oncología Médica, con evaluación mediante pruebas de imagen cada 3 meses. En todo momento ha presentado normalidad en el metabolismo cálcico y la tolerancia al tratamiento ha sido excelente. Tras 2 meses de tratamiento, la TC mostraba una buena reducción de la luxación, sin aumento de tamaño de la lesión. En la evaluación tras 5 meses de tratamiento se observaba la formación de un callo óseo bastante organizado entre las porciones anterior y posterior del axis, que sugería evolución hacia la consolidación ósea y estabilización de la columna cervical que permitió la retirada del halo-chaleco. Actualmente, tras 8 meses de tratamiento, en la TC se objetiva una mejoría franca radiológica de la lesión de C2, con mayor mineralización ósea y consolidación de las líneas de fractura, de predominio en la hemivertiente derecha, siendo la zona de menor mineralización la región central e inferior.

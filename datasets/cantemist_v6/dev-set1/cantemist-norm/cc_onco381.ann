@@ -1,0 +1,22 @@
+T1	MORFOLOGIA_NEOPLASIA 3424 3439	afectación ósea
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 3362 3384	masa de partes blandas
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 2420 2431	metastásica
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 3440 3451	metastásica
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 3770 3781	metastásica
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 3818 3827	neoplasia
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 309 324	progresión ósea
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 434 449	progresión ósea
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 112 150	adenocarcinoma de próstata Gleason 3+5
+#9	AnnotatorNotes T9	8140/33
+T10	MORFOLOGIA_NEOPLASIA 2409 2448	afectación metastásica a nivel cerebral
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 2868 2910	lesiones blásticas que afectan a la calota
+#11	AnnotatorNotes T11	8000/6

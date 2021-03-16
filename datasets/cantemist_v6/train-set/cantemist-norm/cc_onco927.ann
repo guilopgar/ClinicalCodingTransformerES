@@ -1,0 +1,14 @@
+T1	MORFOLOGIA_NEOPLASIA 444 450	cáncer
+#1	AnnotatorNotes T1	8000/3
+T2	MORFOLOGIA_NEOPLASIA 529 535	cáncer
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 5076 5095	células neoplásicas
+#3	AnnotatorNotes T3	8001/1
+T4	MORFOLOGIA_NEOPLASIA 184 189	mioma
+#4	AnnotatorNotes T4	8895/0
+T5	MORFOLOGIA_NEOPLASIA 2075 2135	carcinoma renal de células claras grado nuclear 3 de Furhman
+#5	AnnotatorNotes T5	8310/33
+T6	MORFOLOGIA_NEOPLASIA 2275 2306	tumor como estadio IV, pT3aN0M1
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 4336 4350	masa vertebral
+#7	AnnotatorNotes T7	8000/6

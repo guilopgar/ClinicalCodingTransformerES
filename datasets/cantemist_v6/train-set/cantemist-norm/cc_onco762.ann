@@ -1,0 +1,22 @@
+T1	MORFOLOGIA_NEOPLASIA 2560 2570	metástasis
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1438 1447	neoplasia
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 2075 2084	neoplasia
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 2440 2447	tumoral
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 1568 1637	adenocarcinoma gástrico moderadamente diferenciado de tipo intestinal
+#5	AnnotatorNotes T5	8144/32
+T6	MORFOLOGIA_NEOPLASIA 2835 2875	infiltración hepática por adenocarcinoma
+#6	AnnotatorNotes T6	8140/6
+T7	MORFOLOGIA_NEOPLASIA 3133 3146	LOE hepáticas
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 3654 3669	lesión hepática
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 3817 3836	implante peritoneal
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 4296 4329	lesión a nivel de cúpula hepática
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 2332 2373	lesión hipermetabólica en cúpula hepática
+#11	AnnotatorNotes T11	8000/6

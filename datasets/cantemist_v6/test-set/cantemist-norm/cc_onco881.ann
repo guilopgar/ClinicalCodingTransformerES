@@ -1,0 +1,14 @@
+T1	MORFOLOGIA_NEOPLASIA 241 268	carcinoma ducal infiltrante
+#1	AnnotatorNotes T1	8500/3
+T2	MORFOLOGIA_NEOPLASIA 1887 1898	metastásica
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 2047 2058	metastásica
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2682 2694	metastásicas
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2063 2072	neoplasia
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 2743 2748	tumor
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 495 502	tumoral
+#7	AnnotatorNotes T7	8000/1

@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 162 168	cáncer
+#1	AnnotatorNotes T1	8000/3
+T2	MORFOLOGIA_NEOPLASIA 1174 1197	diseminación peritoneal
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 646 656	hemangioma
+#3	AnnotatorNotes T3	9120/0
+T4	MORFOLOGIA_NEOPLASIA 2525 2545	hemangioma cavernoso
+#4	AnnotatorNotes T4	9121/0
+T5	MORFOLOGIA_NEOPLASIA 4837 4846	neoplasia
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 1341 1351	tumoración
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 1116 1123	tumoral
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 1202 1268	implantes de aspecto gelatinoso - mucoide cubriendo asas intestino
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 1512 1574	adenocarcinoma apendicular mucinoso invasivo bien diferenciado
+#9	AnnotatorNotes T9	8480/31
+T10	MORFOLOGIA_NEOPLASIA 1793 1808	quístico-sólida
+#10	AnnotatorNotes T10	8452/1

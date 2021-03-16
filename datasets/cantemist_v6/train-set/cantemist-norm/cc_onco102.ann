@@ -1,0 +1,28 @@
+T1	MORFOLOGIA_NEOPLASIA 701 727	Adenopatía supraclavicular
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1945 1973	Carcinoma de células grandes
+#2	AnnotatorNotes T2	8012/3
+T3	MORFOLOGIA_NEOPLASIA 448 474	adenopatía supraclavicular
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1086 1112	adenopatía supraclavicular
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 1190 1216	adenopatía supraclavicular
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 3396 3427	cáncer de pulmón no microcítico
+#6	AnnotatorNotes T6	8046/3
+T7	MORFOLOGIA_NEOPLASIA 1138 1164	células tumorales malignas
+#7	AnnotatorNotes T7	8001/3
+T8	MORFOLOGIA_NEOPLASIA 1677 1687	malignidad
+#8	AnnotatorNotes T8	8000/3
+T9	MORFOLOGIA_NEOPLASIA 3450 3461	metastásico
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 256 265	neoplasia
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 317 326	neoplasia
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 3285 3294	neoplasia
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 1228 1270	metástasis de carcinoma de células grandes
+#13	AnnotatorNotes T13	8012/6
+T14	MORFOLOGIA_NEOPLASIA 1985 1991	T1N3M0
+#14	AnnotatorNotes T14	8000/6

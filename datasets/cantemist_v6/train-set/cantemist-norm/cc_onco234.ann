@@ -1,0 +1,10 @@
+T1	MORFOLOGIA_NEOPLASIA 2483 2504	Carcinoma microcítico
+#1	AnnotatorNotes T1	8041/3
+T2	MORFOLOGIA_NEOPLASIA 2240 2269	carcinoma de células pequeñas
+#2	AnnotatorNotes T2	8041/3
+T3	MORFOLOGIA_NEOPLASIA 2985 3006	carcinoma microcítico
+#3	AnnotatorNotes T3	8041/3
+T4	MORFOLOGIA_NEOPLASIA 2099 2106	tumoral
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 4526 4548	afectación a distancia
+#5	AnnotatorNotes T5	8000/6

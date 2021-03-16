@@ -1,0 +1,30 @@
+Anamnesis
+Mujer de 70 años, sin antecedentes de interés salvo hipertensión arterial, diabetes mellitus tipo 2 y dislipemia bien controladas farmacológicamente, diagnosticada en diciembre de 2012 de una neoplasia de mama izquierda. Se realizó una cirugía conservadora + biopsia selectiva de ganglio centinela (método OSNA), estadificándose como un carcinoma ductal infiltrante grado 3 pT2 N0sn cM0 con Ki-67 25%, receptores hormonales negativos y sobreexpresión Her2neu (3+). Se planteó QT adyuvante con antraciclinas y taxanos + trastuzumab.
+Recibió 3 ciclos de adriamicina + ciclofosfamida con mala tolerancia (astenia intensa y dos episodios de neutropenia febril), por lo que se suspendió el cuarto ciclo. Posteriormente inició paclitaxel semanal concomitante con trastuzumab trisemanal.
+En junio, a los dos días de la administración del séptimo ciclo de paclitaxel y tercero de trastuzumab, ingresa en Oncología por un cuadro clínico de fiebre, tos no productiva y disnea de 48 horas de evolución.
+
+Examen físico
+Anodino, destaca saturación de oxígeno basal del 88% y temperatura axilar de 38 ºC. Auscultación pulmonar sin hallazgos.
+
+Pruebas complementarias
+- Analítica: como únicas alteraciones destacan: proteína C reactiva 90,3 mg/l; fibrinógeno 728 mg/dl; hemoglobina 8,9 g/dl. Fórmula leucocitaria normal.
+- Gasometría arterial basal: destaca hipoxemia con pO2/FiO2 = 257; pH 7,467; PCO2 39 mmHg; PO2 54,8 mmHg; HCO3 28,2 mmol/l; Sbc 28 mmol/l; TCO2 26,6 mmol/l; Abe 4,1 mmol/l; Sbe 4,5 mmol/l. Saturación de O2 90,1%; lactato 0,7 mmol/l.
+- Radiografía de tórax: no se observan consolidaciones de espacio aéreo.
+- Angio-TC torácica: condensación tenue bilateral y difusa con reticulación, que no corresponde a un edema de origen cardiogénico o no cardiogénico y que es compatible con daño alveolar agudo por probable toxicidad farmacológica como principal posibilidad.
+- Estudios microbiológicos: hemocultivos, serologías respiratorias víricas y bacterianas, urinocultivos, cultivo de esputo negativos.
+- Broncoscopia (lavado bronquioalveolar): linfocitos 45%, leucocitos 10%, linfocitos CD4/CD8: 2,49 (aumentado). Cultivo negativo.
+- Ecocardiografía transtorácica: sin alteraciones valvulares ni de la contractilidad. Fracción de eyección biventricular conservada.
+
+Diagnóstico
+Daño alveolar agudo (neumonitis intersticial) secundario a probable toxicidad farmacológica.
+
+Tratamiento
+A su ingreso se instaura tratamiento antibiótico de amplio espectro y oxigenoterapia, a pesar de lo cual la paciente experimenta un deterioro respiratorio progresivo, tanto clínico como radiológico. Dada la gravedad del cuadro, sin respuesta al tratamiento antibiótico iniciado, y las imágenes de la tomografía compatibles con una neumonitis intersticial aguda, se decide comenzar tratamiento corticoideo (metilprednisolona 1 g intravenoso al día), contemplando la toxicidad farmacológica como posible etiología. Ese mismo día precisó de ingreso en la Unidad de Cuidados Intensivos por claudicación respiratoria, precisando ventilación mecánica invasiva por desarrollo de síndrome de distrés respiratorio grave.
+
+Evolución
+Mejoría clínica durante su estancia en la UCI con soporte ventilatorio, corticoides y antibióticos, con reducción progresiva de las necesidades de FiO2 alta y presiones elevadas en VMNI, permitiendo el reingreso en planta a los 10 días. Posteriormente evoluciona favorablemente, retirándose la antibioterapia tras resultar todos los cultivos negativos, y es dada de alta a las 5 semanas del ingreso con pauta ambulatoria de corticoides lentamente descendente.
+La paciente acude a consulta a las 2 semanas del alta hospitalaria para control clínico, encontrándose asintomática desde el punto de vista respiratorio y habiéndose resuelto el infiltrado intersticial bilateral en la TC de control.
+Asumimos el origen del cuadro respiratorio como toxicidad farmacológica secundaria a la quimioterapia (única medicación introducida recientemente).
+Revisamos la bibliografía y, dado que el paclitaxel está más frecuentementemente relacionado con toxicidades primarias pulmonares que el trastuzumab y teniendo en cuenta el beneficio esperable del trastuzumab en el subtipo tumoral HER2 positivo, se decide proseguir tratamiento adyuvante solo con trastuzumab.
+A los 5 días de la reintroducción del trastuzumab, la paciente comenzó a presentar tos seca persistente y disnea con empeoramiento progresivo, que precisan un nuevo ingreso. Se realizó una TC torácica, objetivándose, de nuevo, empeoramiento radiológico claro con afectación difusa en vidrio esmerilado. Se reanudaron altas dosis de corticoterapia, experimentando una rápida mejoría, siendo dada de alta a los 10 días sin mayores complicaciones hospitalarias.
+Ante la reaparición de la clínica con la reexposición al trastuzumab, decidimos dar por finalizada la terapia dirigida adyuvante y completar el tratamiento con radioterapia. Actualmente, la paciente se encuentra en seguimiento en consultas de Oncología, estando libre de enfermedad, asintomática y con exploraciones radiológicas torácicas normales.

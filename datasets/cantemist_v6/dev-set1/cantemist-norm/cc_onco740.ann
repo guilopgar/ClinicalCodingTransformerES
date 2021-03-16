@@ -1,0 +1,46 @@
+T1	MORFOLOGIA_NEOPLASIA 7427 7431	CPNM
+#1	AnnotatorNotes T1	8046/3
+T2	MORFOLOGIA_NEOPLASIA 2578 2599	Carcinoma epidermoide
+#2	AnnotatorNotes T2	8070/3
+T3	MORFOLOGIA_NEOPLASIA 4308 4317	carcinoma
+#3	AnnotatorNotes T3	8010/3
+T4	MORFOLOGIA_NEOPLASIA 4402 4411	carcinoma
+#4	AnnotatorNotes T4	8010/3
+T5	MORFOLOGIA_NEOPLASIA 3519 3540	carcinoma epidermoide
+#5	AnnotatorNotes T5	8070/3
+T6	MORFOLOGIA_NEOPLASIA 3119 3137	carcinoma escamoso
+#6	AnnotatorNotes T6	8070/3
+T7	MORFOLOGIA_NEOPLASIA 3766 3782	células malignas
+#7	AnnotatorNotes T7	8001/3
+T8	MORFOLOGIA_NEOPLASIA 4049 4065	células malignas
+#8	AnnotatorNotes T8	8001/3
+T9	MORFOLOGIA_NEOPLASIA 3225 3232	maligno
+#9	AnnotatorNotes T9	8000/3
+T10	MORFOLOGIA_NEOPLASIA 4198 4209	metastásica
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 2652 2662	metástasis
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 4487 4497	metástasis
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 6528 6538	metástasis
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 4616 4648	metástasis de carcinoma escamoso
+#14	AnnotatorNotes T14	8070/6
+T15	MORFOLOGIA_NEOPLASIA 2262 2271	neoplasia
+#15	AnnotatorNotes T15	8000/1
+T16	MORFOLOGIA_NEOPLASIA 3609 3614	tumor
+#16	AnnotatorNotes T16	8000/1
+T17	MORFOLOGIA_NEOPLASIA 2528 2563	metástasis de un carcinoma escamoso
+#17	AnnotatorNotes T17	8070/6
+T18	MORFOLOGIA_NEOPLASIA 2289 2309	infiltración pleural
+#18	AnnotatorNotes T18	8000/6
+T19	MORFOLOGIA_NEOPLASIA 2322 2350	lesión tumoral en el músculo
+#19	AnnotatorNotes T19	8000/6
+T20	MORFOLOGIA_NEOPLASIA 4429 4462	infiltración tumoral de la pleura
+#20	AnnotatorNotes T20	8000/6
+T21	MORFOLOGIA_NEOPLASIA 6445 6483	enfermedad a nivel pulmonar y hepático
+#21	AnnotatorNotes T21	8000/6
+T22	MORFOLOGIA_NEOPLASIA 7006 7044	cáncer pulmonar de células no pequeñas
+#22	AnnotatorNotes T22	8046/3
+T23	MORFOLOGIA_NEOPLASIA 7394 7466	cáncer de pulmón no microcítico (CPNM) localmente avanzado o metastásico
+#23	AnnotatorNotes T23	8046/6

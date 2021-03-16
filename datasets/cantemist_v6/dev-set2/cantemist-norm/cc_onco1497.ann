@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 685 706	Sarcoma de bajo grado
+#1	AnnotatorNotes T1	8800/31
+T2	MORFOLOGIA_NEOPLASIA 929 968	lesiones ocupantes de espacio hepáticas
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 898 908	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1807 1841	neoplasia del estroma fibromixoide
+#4	AnnotatorNotes T4	8811/0
+T5	MORFOLOGIA_NEOPLASIA 1244 1265	sarcoma de bajo grado
+#5	AnnotatorNotes T5	8800/31
+T6	MORFOLOGIA_NEOPLASIA 81 91	tumoración
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 2335 2345	tumoración
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 407 492	proliferación fusocelular con patrón de crecimiento infiltrante sobre estroma mixoide
+#8	AnnotatorNotes T8	8811/0
+T9	MORFOLOGIA_NEOPLASIA 2074 2112	hemangioendotelioma epiteloide maligno
+#9	AnnotatorNotes T9	9133/3
+T10	MORFOLOGIA_NEOPLASIA 807 825	nódulos pulmonares
+#10	AnnotatorNotes T10	8000/6

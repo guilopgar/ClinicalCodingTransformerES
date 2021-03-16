@@ -1,0 +1,32 @@
+T1	MORFOLOGIA_NEOPLASIA 530 544	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 946 955	carcinoma
+#2	AnnotatorNotes T2	8010/3
+T3	MORFOLOGIA_NEOPLASIA 876 897	carcinoma epidermoide
+#3	AnnotatorNotes T3	8070/3
+T4	MORFOLOGIA_NEOPLASIA 2615 2625	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 3144 3151	tumoral
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 58 139	linfoma tipo B de la zona marginal extraganglionar (MALT) con afectación gástrica
+#6	AnnotatorNotes T6	9699/6
+T7	MORFOLOGIA_NEOPLASIA 110 114	MALT
+#7	AnnotatorNotes T7	9699/3
+T8	MORFOLOGIA_NEOPLASIA 302 366	adenocarcinoma de endometrio tipo endometroide bien diferenciado
+#8	AnnotatorNotes T8	8380/31
+T9	MORFOLOGIA_NEOPLASIA 855 873	epitelioma sebáceo
+#9	AnnotatorNotes T9	8410/0
+T10	MORFOLOGIA_NEOPLASIA 2280 2291	metastásica
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 1848 1877	lesiones intraparenquimatosas
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 2345 2364	lesiones cerebrales
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 3092 3123	lesiones de parénquima cerebral
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 3334 3382	Xantroastrocitoma pleomórfico grado II de la OMS
+#14	AnnotatorNotes T14	9424/32
+T15	MORFOLOGIA_NEOPLASIA 3728 3747	lesiones cerebrales
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 3292 3307	lesión cerebral
+#16	AnnotatorNotes T16	8000/6

@@ -1,0 +1,30 @@
+T1	MORFOLOGIA_NEOPLASIA 1571 1585	Adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 2265 2279	Adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 996 1043	Adenocarcinoma de Endometrio tipo Endometrioide
+#3	AnnotatorNotes T3	8380/3
+T4	MORFOLOGIA_NEOPLASIA 2450 2492	Carcinoma neuroendocrino de célula pequeña
+#4	AnnotatorNotes T4	8041/3
+T5	MORFOLOGIA_NEOPLASIA 2938 2967	diferenciación neuroendocrina
+#5	AnnotatorNotes T5	8574/3
+T6	MORFOLOGIA_NEOPLASIA 909 931	enfermedad a distancia
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 3161 3183	enfermedad a distancia
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 1461 1471	metástasis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 3141 3151	metástasis
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 2850 2859	neoplasia
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 3005 3014	neoplasia
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 2658 2668	tumoración
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 754 800	Adenocarcinoma endometrioide bien diferenciado
+#13	AnnotatorNotes T13	8380/31
+T14	MORFOLOGIA_NEOPLASIA 1312 1386	Adenocarcinoma de Endometrio tipo Endometrioide moderadamente diferenciado
+#14	AnnotatorNotes T14	8380/32
+T15	MORFOLOGIA_NEOPLASIA 2363 2403	neoplasia sólida pobremente diferenciada
+#15	AnnotatorNotes T15	8000/33

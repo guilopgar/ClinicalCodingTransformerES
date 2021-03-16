@@ -1,0 +1,44 @@
+T1	MORFOLOGIA_NEOPLASIA 3803 3825	carcinoma sarcomatoide
+#1	AnnotatorNotes T1	8033/3
+T2	MORFOLOGIA_NEOPLASIA 4949 4975	lesiones de partes blandas
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 4521 4535	lesiones óseas
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 5520 5534	lesiones óseas
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2685 2709	lesión de partes blandas
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 1270 1280	malignidad
+#6	AnnotatorNotes T6	8000/3
+T7	MORFOLOGIA_NEOPLASIA 2643 2653	malignidad
+#7	AnnotatorNotes T7	8000/3
+T8	MORFOLOGIA_NEOPLASIA 2908 2918	malignidad
+#8	AnnotatorNotes T8	8000/3
+T9	MORFOLOGIA_NEOPLASIA 3000 3010	malignidad
+#9	AnnotatorNotes T9	8000/3
+T10	MORFOLOGIA_NEOPLASIA 4471 4506	progresión radiológica a nivel óseo
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 727 754	síndrome linfoproliferativo
+#11	AnnotatorNotes T11	9970/1
+T12	MORFOLOGIA_NEOPLASIA 3516 3543	tumor de células fusiformes
+#12	AnnotatorNotes T12	8004/3
+T13	MORFOLOGIA_NEOPLASIA 3751 3768	tumor fusocelular
+#13	AnnotatorNotes T13	8032/1
+T14	MORFOLOGIA_NEOPLASIA 5571 5578	tumoral
+#14	AnnotatorNotes T14	8000/1
+T15	MORFOLOGIA_NEOPLASIA 727 803	síndrome linfoproliferativo crónico T variedad linfocitos granulares grandes
+#15	AnnotatorNotes T15	9831/3
+T16	MORFOLOGIA_NEOPLASIA 922 971	adenocarcinoma de pulmón infiltrante tipo papilar
+#16	AnnotatorNotes T16	8503/3
+T17	MORFOLOGIA_NEOPLASIA 3853 3879	metástasis de un carcinoma
+#17	AnnotatorNotes T17	8010/6
+T18	MORFOLOGIA_NEOPLASIA 3990 4044	Carcinoma sarcomatoide de origen pulmonar cTx cNx pM1c
+#18	AnnotatorNotes T18	8033/6
+T19	MORFOLOGIA_NEOPLASIA 4073 4111	afectación múltiple en tejidos blandos
+#19	AnnotatorNotes T19	8000/6
+T20	MORFOLOGIA_NEOPLASIA 4841 4864	progresión a nivel óseo
+#20	AnnotatorNotes T20	8000/6
+T21	MORFOLOGIA_NEOPLASIA 5374 5410	lesiones conocidas de partes blandas
+#21	AnnotatorNotes T21	8000/6
+T22	MORFOLOGIA_NEOPLASIA 2234 2272	lesiones sospechosas en partes blandas
+#22	AnnotatorNotes T22	8000/6

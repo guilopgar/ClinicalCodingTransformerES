@@ -1,0 +1,28 @@
+T1	MORFOLOGIA_NEOPLASIA 5430 5446	carcinoma seroso
+#1	AnnotatorNotes T1	8441/3
+T2	MORFOLOGIA_NEOPLASIA 455 485	carcinoma seroso de alto grado
+#2	AnnotatorNotes T2	8441/34
+T3	MORFOLOGIA_NEOPLASIA 6567 6573	cáncer
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 6276 6295	células neoplásicas
+#4	AnnotatorNotes T4	8001/1
+T5	MORFOLOGIA_NEOPLASIA 3111 3119	malignas
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 1265 1275	malignidad
+#6	AnnotatorNotes T6	8000/3
+T7	MORFOLOGIA_NEOPLASIA 4302 4313	metastásica
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 5868 5879	metastásica
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 4631 4642	metastásico
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 3329 3339	metástasis
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 5516 5523	tumoral
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 6673 6680	tumoral
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 6890 6897	tumoral
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 1532 1572	carcinoma seroso de ovario de alto grado
+#14	AnnotatorNotes T14	8441/34

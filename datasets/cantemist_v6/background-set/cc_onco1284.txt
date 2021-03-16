@@ -1,0 +1,25 @@
+Anamnesis
+Mujer de 53 años, exfumadora e hipertensa, que acude a Urgencias por distensión abdominal de 3 semanas asociada a síndrome constitucional.
+
+Examen físico
+Abdomen globuloso y semiología ascítica.
+
+Pruebas complementarias
+Se realiza una ecografía abdominal, observando una lesión renal sugestiva de neoplasia y ascitis.
+La paciente ingresa para estudio, realizándose una TC toracoabdominopélvica, donde se aprecia una tumoración sólida de 7 cm en el polo superior del riñón derecho, que respeta la cápsula renal. Masa anexial izquierda de 4,3 cm, infiltración del anejo derecho, implantes peritoneales y del epiplón tipo "omental cake", típica del carcinoma de ovario (CO).
+La ecografía ginecologica describe un útero mal definido y un nódulo tumoral de 32 mm en el saco de Douglas. Los ovarios no se visualizan por vía vaginal.
+El antígeno Ca125 es de 3.030,0 U/ml (0,0-35,0).
+La biopsia renal muestra un carcinoma renal de células claras (CRCC). El perfil inmunohistoquímico (IHQ) es: vimentina, CD10 y CK7 positivo; WT1 negativo.
+La biopsia peritoneal es compatible con CO seroso de alto grado, con perfil IHQ positivo para CK7, WT1, CA125, vimentina y estrógenos. Negativo para TTF1, CDX2, alfa-inhibina.
+Se realiza una toracocentesis, y en el líquido pleural se encuentra una citología positiva para células tumorales de CO.
+
+Diagnóstico
+Con diagnóstico de carcinoma seroso de ovario estadio IV y carcinoma renal de células claras estadio II, la paciente comenzó el tratamiento.
+
+Tratamiento
+La paciente recibe 4 ciclos de carboplatino + paclitaxel, con escasa respuesta peritoneal y anexial, con masa renal estable. Se realizó una laparoscopia exploradora con resultado de irresecabilidad por el útero adherido a la vejiga, ovario izquierdo con aspecto tumoral, siembra miliar en el peritoneo y asas intestinales adheridas a la pared abdominal por masas tumorales.
+La respuesta del tumor no es suficiente, por lo que se plantean 6 ciclos de carboplatino, gemcitabina y bevacizumab, de acuerdo al estudio OCEANS (1), que finaliza en 03/2013. La reevaluación muestra respuesta parcial con persistencia de la enfermedad macroscópica en la cavidad abdominal y masa renal estable. El antígeno Ca 125 se negativizó a 10 U/ml.
+
+Evolución
+En el Comité de Tumores se plantea una citorreducción tras la segunda línea de tratamiento. El Servicio de Urología decide de momento no resecar la masa renal, ya que el tumor de ovario es el que marca el pronóstico y la masa renal no ha variado desde el diagnóstico.
+Se opera el 23/05/2013, practicándose una histerectomía, doble anexectomía, omentectomía, resección de implantes peritoneales y linfadenectomía.

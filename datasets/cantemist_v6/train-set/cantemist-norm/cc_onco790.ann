@@ -1,0 +1,26 @@
+T1	MORFOLOGIA_NEOPLASIA 3652 3661	neoplasia
+#1	AnnotatorNotes T1	8000/1
+T2	MORFOLOGIA_NEOPLASIA 3148 3175	tumor de células germinales
+#2	AnnotatorNotes T2	9064/3
+T3	MORFOLOGIA_NEOPLASIA 829 843	tumor germinal
+#3	AnnotatorNotes T3	9064/3
+T4	MORFOLOGIA_NEOPLASIA 3420 3475	tumor del saco vitelino (Yolk sac tumor) tipo glandular
+#4	AnnotatorNotes T4	9071/3/H
+T5	MORFOLOGIA_NEOPLASIA 3560 3571	sarcomatosa
+#5	AnnotatorNotes T5	8800/9
+T6	MORFOLOGIA_NEOPLASIA 4998 5024	tumor germinal no seminoma
+#6	AnnotatorNotes T6	9065/3
+T7	MORFOLOGIA_NEOPLASIA 5026 5030	TGNS
+#7	AnnotatorNotes T7	9065/3
+T8	MORFOLOGIA_NEOPLASIA 3445 3459	Yolk sac tumor
+#8	AnnotatorNotes T8	9071/3
+T9	MORFOLOGIA_NEOPLASIA 3182 3244	tumor del saco vitelino (seno endodérmico), variante glandular
+#9	AnnotatorNotes T9	9071/3/H
+T10	MORFOLOGIA_NEOPLASIA 2812 2819	tumoral
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 3380 3387	tumoral
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 5422 5429	tumoral
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 1759 1775	neoproliferativo
+#13	AnnotatorNotes T13	8000/1

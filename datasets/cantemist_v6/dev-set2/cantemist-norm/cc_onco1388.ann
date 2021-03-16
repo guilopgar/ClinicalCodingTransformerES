@@ -1,0 +1,6 @@
+T1	MORFOLOGIA_NEOPLASIA 2688 2695	linfoma
+#1	AnnotatorNotes T1	9590/3
+T2	MORFOLOGIA_NEOPLASIA 45 63	linfoma no Hodgkin
+#2	AnnotatorNotes T2	9591/3
+T3	MORFOLOGIA_NEOPLASIA 45 87	linfoma no Hodgkin B folicular de grado 3a
+#3	AnnotatorNotes T3	9698/3

@@ -1,0 +1,12 @@
+T1	MORFOLOGIA_NEOPLASIA 1532 1565	adenocarcinoma de tipo intestinal
+#1	AnnotatorNotes T1	8144/3
+T2	MORFOLOGIA_NEOPLASIA 1988 1995	cT3N1M0
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 3628 3638	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 151 160	neoplasia
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 1500 1510	neoplásico
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 1937 1979	adenocarcinoma gástrico de tipo intestinal
+#6	AnnotatorNotes T6	8144/3

@@ -1,0 +1,38 @@
+T1	MORFOLOGIA_NEOPLASIA 1158 1172	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 640 647	cordoma
+#2	AnnotatorNotes T2	9370/3
+T3	MORFOLOGIA_NEOPLASIA 2207 2214	cordoma
+#3	AnnotatorNotes T3	9370/3
+T4	MORFOLOGIA_NEOPLASIA 3481 3488	cordoma
+#4	AnnotatorNotes T4	9370/3
+T5	MORFOLOGIA_NEOPLASIA 3415 3421	cáncer
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 1838 1857	lesiones pulmonares
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 2437 2456	lesiones pulmonares
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 1022 1032	malignidad
+#8	AnnotatorNotes T8	8000/3
+T9	MORFOLOGIA_NEOPLASIA 1316 1334	nódulos pulmonares
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 3233 3251	nódulos pulmonares
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 416 426	tumoración
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 901 911	tumoración
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 2945 2952	tumoral
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 1657 1696	metástasis pulmonares de adenocarcinoma
+#14	AnnotatorNotes T14	8140/6
+T15	MORFOLOGIA_NEOPLASIA 1923 1945	metástasis por cordoma
+#15	AnnotatorNotes T15	9370/6
+T16	MORFOLOGIA_NEOPLASIA 1564 1582	nódulos pulmonares
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 2114 2133	lesiones del pulmón
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 2382 2409	recidiva en el hueso iliaco
+#18	AnnotatorNotes T18	8000/6
+T19	MORFOLOGIA_NEOPLASIA 2607 2634	cordoma con afectación ósea
+#19	AnnotatorNotes T19	9370/6

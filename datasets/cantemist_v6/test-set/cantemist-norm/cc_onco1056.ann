@@ -1,0 +1,36 @@
+T1	MORFOLOGIA_NEOPLASIA 2865 2869	GIST
+#1	AnnotatorNotes T1	8936/3
+T2	MORFOLOGIA_NEOPLASIA 2667 2674	Linfoma
+#2	AnnotatorNotes T2	9590/3
+T3	MORFOLOGIA_NEOPLASIA 2558 2574	Melanoma maligno
+#3	AnnotatorNotes T3	8720/3
+T4	MORFOLOGIA_NEOPLASIA 2697 2716	Mesotelioma maligno
+#4	AnnotatorNotes T4	9050/3
+T5	MORFOLOGIA_NEOPLASIA 2512 2535	Tumor epitelial maligno
+#5	AnnotatorNotes T5	8010/3
+T6	MORFOLOGIA_NEOPLASIA 1954 1968	leiomiosarcoma
+#6	AnnotatorNotes T6	8890/3
+T7	MORFOLOGIA_NEOPLASIA 2620 2635	rabdomiosarcoma
+#7	AnnotatorNotes T7	8900/3
+T8	MORFOLOGIA_NEOPLASIA 1760 1771	sarcomatosa
+#8	AnnotatorNotes T8	8800/1
+T9	MORFOLOGIA_NEOPLASIA 2829 2863	tumor del estroma gastrointestinal
+#9	AnnotatorNotes T9	8936/3
+T10	MORFOLOGIA_NEOPLASIA 1809 1819	tumoración
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 7481 7490	tumorales
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 2063 2112	Tumor maligno poco diferenciado de célula pequeña
+#12	AnnotatorNotes T12	8002/33
+T13	MORFOLOGIA_NEOPLASIA 2605 2618	Leimiosarcoma
+#13	AnnotatorNotes T13	8890/3
+T14	MORFOLOGIA_NEOPLASIA 2788 2804	sarcoma de Ewing
+#14	AnnotatorNotes T14	9260/3
+T15	MORFOLOGIA_NEOPLASIA 4050 4064	tumor de Ewing
+#15	AnnotatorNotes T15	9260/3
+T16	MORFOLOGIA_NEOPLASIA 4914 4930	sarcoma de Ewing
+#16	AnnotatorNotes T16	9260/3
+T17	MORFOLOGIA_NEOPLASIA 5677 5693	sarcoma de Ewing
+#17	AnnotatorNotes T17	9260/3
+T18	MORFOLOGIA_NEOPLASIA 7620 7636	sarcoma de Ewing
+#18	AnnotatorNotes T18	9260/3

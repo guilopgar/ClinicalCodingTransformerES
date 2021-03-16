@@ -1,0 +1,30 @@
+T1	MORFOLOGIA_NEOPLASIA 1954 1964	Metástasis
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 4151 4178	enfermedad a nivel pulmonar
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 3312 3327	enfermedad ósea
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 3851 3866	enfermedad ósea
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 3576 3587	lesión ósea
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 1851 1861	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 3712 3722	metástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 1589 1599	tumoración
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 4109 4116	tumoral
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 2318 2348	carcinoma de ductos colectores
+#10	AnnotatorNotes T10	8319/3
+T11	MORFOLOGIA_NEOPLASIA 2589 2603	metastatizados
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 2608 2638	carcinoma de ductos colectores
+#12	AnnotatorNotes T12	8319/3
+T13	MORFOLOGIA_NEOPLASIA 2653 2717	Carcinoma renal de Bellini estadio IV por afectación metastásica
+#13	AnnotatorNotes T13	8319/6
+T14	MORFOLOGIA_NEOPLASIA 2789 2823	carcinoma de los ductos colectores
+#14	AnnotatorNotes T14	8319/3
+T15	MORFOLOGIA_NEOPLASIA 2984 3016	cáncer de células transicionales
+#15	AnnotatorNotes T15	8120/3

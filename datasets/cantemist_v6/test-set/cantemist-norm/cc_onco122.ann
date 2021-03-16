@@ -1,0 +1,52 @@
+T1	MORFOLOGIA_NEOPLASIA 1245 1259	angiomiolipoma
+#1	AnnotatorNotes T1	8860/0
+T2	MORFOLOGIA_NEOPLASIA 1930 1944	angiomiolipoma
+#2	AnnotatorNotes T2	8860/0
+T3	MORFOLOGIA_NEOPLASIA 2304 2313	carcinoma
+#3	AnnotatorNotes T3	8010/3
+T4	MORFOLOGIA_NEOPLASIA 6957 6966	carcinoma
+#4	AnnotatorNotes T4	8010/3
+T5	MORFOLOGIA_NEOPLASIA 1306 1334	carcinoma de células renales
+#5	AnnotatorNotes T5	8312/3
+T6	MORFOLOGIA_NEOPLASIA 1423 1451	carcinoma de células renales
+#6	AnnotatorNotes T6	8312/3
+T7	MORFOLOGIA_NEOPLASIA 1991 2019	carcinoma de células renales
+#7	AnnotatorNotes T7	8312/3
+T8	MORFOLOGIA_NEOPLASIA 2108 2136	carcinoma de células renales
+#8	AnnotatorNotes T8	8312/3
+T9	MORFOLOGIA_NEOPLASIA 4947 4961	coriocarcinoma
+#9	AnnotatorNotes T9	9100/3
+T10	MORFOLOGIA_NEOPLASIA 8825 8839	coriocarcinoma
+#10	AnnotatorNotes T10	9100/3
+T11	MORFOLOGIA_NEOPLASIA 5223 5234	metastásica
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 1286 1296	oncocitoma
+#12	AnnotatorNotes T12	8290/0
+T13	MORFOLOGIA_NEOPLASIA 1971 1981	oncocitoma
+#13	AnnotatorNotes T13	8290/0
+T14	MORFOLOGIA_NEOPLASIA 4415 4422	tumoral
+#14	AnnotatorNotes T14	8000/1
+T15	MORFOLOGIA_NEOPLASIA 4906 4913	tumoral
+#15	AnnotatorNotes T15	8000/1
+T16	MORFOLOGIA_NEOPLASIA 5497 5504	tumoral
+#16	AnnotatorNotes T16	8000/1
+T17	MORFOLOGIA_NEOPLASIA 5795 5802	tumoral
+#17	AnnotatorNotes T17	8000/1
+T18	MORFOLOGIA_NEOPLASIA 6199 6206	tumoral
+#18	AnnotatorNotes T18	8000/1
+T19	MORFOLOGIA_NEOPLASIA 5176 5185	tumorales
+#19	AnnotatorNotes T19	8000/1
+T20	MORFOLOGIA_NEOPLASIA 1453 1460	T1aNoMx
+#20	AnnotatorNotes T20	8000/6
+T21	MORFOLOGIA_NEOPLASIA 2138 2145	T1aNoMx
+#21	AnnotatorNotes T21	8000/6
+T22	MORFOLOGIA_NEOPLASIA 3291 3349	infiltración por coriocarcinoma, compatible con metástasis
+#22	AnnotatorNotes T22	9100/6
+T23	MORFOLOGIA_NEOPLASIA 6083 6141	Coriocarcinoma estadio IV FIGO (afectación pulmonar, renal
+#23	AnnotatorNotes T23	9100/6
+T24	MORFOLOGIA_NEOPLASIA 7397 7455	infiltración por coriocarcinoma, compatible con metástasis
+#24	AnnotatorNotes T24	9100/6
+T25	MORFOLOGIA_NEOPLASIA 3928 3942	lesión craneal
+#25	AnnotatorNotes T25	8000/6
+T26	MORFOLOGIA_NEOPLASIA 4001 4026	lesión intraaxial frontal
+#26	AnnotatorNotes T26	8000/6

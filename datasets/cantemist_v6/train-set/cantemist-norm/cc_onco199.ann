@@ -1,0 +1,22 @@
+T1	MORFOLOGIA_NEOPLASIA 653 659	T1N0M0
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 2065 2074	carcinoma
+#2	AnnotatorNotes T2	8010/3
+T3	MORFOLOGIA_NEOPLASIA 2322 2332	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2443 2466	metástasis de carcinoma
+#4	AnnotatorNotes T4	8010/6
+T5	MORFOLOGIA_NEOPLASIA 219 228	neoplasia
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 1901 1911	neoplásica
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 672 677	tumor
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 2305 2310	tumor
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 535 632	carcinoma papilar de células claras multifocal con extensas áreas de necrosis, grado de Fuhrman 2
+#9	AnnotatorNotes T9	8050/32/H
+T10	MORFOLOGIA_NEOPLASIA 2557 2593	Metástasis mediastínica de carcinoma
+#10	AnnotatorNotes T10	8010/6
+T11	MORFOLOGIA_NEOPLASIA 3242 3259	masa mediastínica
+#11	AnnotatorNotes T11	8000/6

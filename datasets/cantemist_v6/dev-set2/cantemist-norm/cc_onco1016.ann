@@ -1,0 +1,12 @@
+T1	MORFOLOGIA_NEOPLASIA 1795 1809	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 1979 2006	carcinoma de células claras
+#2	AnnotatorNotes T2	8310/3
+T3	MORFOLOGIA_NEOPLASIA 2052 2079	carcinoma de células claras
+#3	AnnotatorNotes T3	8310/3
+T4	MORFOLOGIA_NEOPLASIA 1729 1741	neoformación
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 2984 2991	tumoral
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 2330 2356	adenocarcinoma mesonéfrico
+#6	AnnotatorNotes T6	9110/3

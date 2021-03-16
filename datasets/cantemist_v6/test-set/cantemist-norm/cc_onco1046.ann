@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 2946 2962	Carcinoma tímico
+#1	AnnotatorNotes T1	8586/3
+T2	MORFOLOGIA_NEOPLASIA 3015 3041	afectación retroperitoneal
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 3780 3806	afectación retroperitoneal
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2561 2585	carcinoma indiferenciado
+#4	AnnotatorNotes T4	8020/3
+T5	MORFOLOGIA_NEOPLASIA 2879 2895	carcinoma tímico
+#5	AnnotatorNotes T5	8586/3
+T6	MORFOLOGIA_NEOPLASIA 1788 1810	lesión retroperitoneal
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 2151 2157	timoma
+#7	AnnotatorNotes T7	8580/1
+T8	MORFOLOGIA_NEOPLASIA 2561 2601	carcinoma indiferenciado, no microcítico
+#8	AnnotatorNotes T8	8046/3

@@ -1,0 +1,10 @@
+T1	MORFOLOGIA_NEOPLASIA 496 510	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 520 527	cT3N0M0
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1659 1670	metastásica
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 346 355	neoplasia
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 379 440	adenocarcinoma gástrico difuso con células en anillo de sello
+#5	AnnotatorNotes T5	8490/3

@@ -1,0 +1,18 @@
+T1	MORFOLOGIA_NEOPLASIA 2017 2031	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 114 134	carcinoma lobulillar
+#2	AnnotatorNotes T2	8520/3
+T3	MORFOLOGIA_NEOPLASIA 1986 2006	carcinoma lobulillar
+#3	AnnotatorNotes T3	8520/3
+T4	MORFOLOGIA_NEOPLASIA 1202 1212	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 1935 1945	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 2075 2085	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1516 1523	tumoral
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 407 446	adenocarcinoma endometrioide de grado 3
+#8	AnnotatorNotes T8	8380/33
+T9	MORFOLOGIA_NEOPLASIA 2443 2461	lesión peripapilar
+#9	AnnotatorNotes T9	8000/6

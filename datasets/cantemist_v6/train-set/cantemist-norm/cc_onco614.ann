@@ -1,0 +1,44 @@
+T1	MORFOLOGIA_NEOPLASIA 1295 1312	Carcinoma in situ
+#1	AnnotatorNotes T1	8010/2
+T2	MORFOLOGIA_NEOPLASIA 354 360	cáncer
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 2855 2866	metastásica
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2782 2792	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 5394 5399	tumor
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 7406 7411	tumor
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 145 154	carcinoma
+#7	AnnotatorNotes T7	8010/3
+T8	MORFOLOGIA_NEOPLASIA 194 203	carcinoma
+#8	AnnotatorNotes T8	8010/3
+T9	MORFOLOGIA_NEOPLASIA 248 257	carcinoma
+#9	AnnotatorNotes T9	8010/3
+T10	MORFOLOGIA_NEOPLASIA 300 309	carcinoma
+#10	AnnotatorNotes T10	8010/3
+T11	MORFOLOGIA_NEOPLASIA 7988 8036	adenocarcinoma de pulmón con afectación cerebral
+#11	AnnotatorNotes T11	8140/6
+T12	MORFOLOGIA_NEOPLASIA 3524 3574	Adenocarcinoma de pulmón estadio IVB (cT2 CN2 M1c)
+#12	AnnotatorNotes T12	8140/6
+T13	MORFOLOGIA_NEOPLASIA 3477 3509	adenocarcinoma de patrón papilar
+#13	AnnotatorNotes T13	8260/3
+T14	MORFOLOGIA_NEOPLASIA 2932 2951	lesiones cerebrales
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 5444 5463	lesiones cerebrales
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 7362 7381	lesiones cerebrales
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 3357 3367	malignidad
+#17	AnnotatorNotes T17	8000/3
+T18	MORFOLOGIA_NEOPLASIA 7874 7893	progresión cerebral
+#18	AnnotatorNotes T18	8000/6
+T19	MORFOLOGIA_NEOPLASIA 2643 2700	lesión ocupante de espacio (LOE) en hemisferio cerebeloso
+#19	AnnotatorNotes T19	8000/6
+T20	MORFOLOGIA_NEOPLASIA 5949 5968	afectación cerebral
+#20	AnnotatorNotes T20	8000/6
+T21	MORFOLOGIA_NEOPLASIA 6792 6836	progresión radiológica (pulmonar y cerebral)
+#21	AnnotatorNotes T21	8000/6
+T22	MORFOLOGIA_NEOPLASIA 8674 8693	afectación cerebral
+#22	AnnotatorNotes T22	8000/6

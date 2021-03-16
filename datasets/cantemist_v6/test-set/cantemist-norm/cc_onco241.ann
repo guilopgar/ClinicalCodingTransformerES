@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 953 979	adenocarcinoma infiltrante
+#1	AnnotatorNotes T1	8140/3/H
+T2	MORFOLOGIA_NEOPLASIA 6274 6281	maligna
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 1356 1366	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1429 1439	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 5650 5660	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 5667 5679	plasmocitoma
+#6	AnnotatorNotes T6	9731/3
+T7	MORFOLOGIA_NEOPLASIA 5921 5926	tumor
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 5682 5707	tumor de células gigantes
+#8	AnnotatorNotes T8	8003/3
+T9	MORFOLOGIA_NEOPLASIA 5123 5133	tumoración
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 1024 1031	tumoral
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 1500 1569	Adenocarcinoma infiltrante de próstata estadio IV con metástasis ósea
+#11	AnnotatorNotes T11	8140/6/H
+T12	MORFOLOGIA_NEOPLASIA 6057 6092	tumor de células gigantes del hueso
+#12	AnnotatorNotes T12	9250/3

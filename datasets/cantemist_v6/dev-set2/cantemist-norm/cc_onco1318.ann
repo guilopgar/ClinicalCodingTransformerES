@@ -1,0 +1,8 @@
+T1	MORFOLOGIA_NEOPLASIA 1403 1405	M0
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 818 839	carcinoma embrionario
+#2	AnnotatorNotes T2	9070/3
+T3	MORFOLOGIA_NEOPLASIA 1362 1383	carcinoma embrionario
+#3	AnnotatorNotes T3	9070/3
+T4	MORFOLOGIA_NEOPLASIA 577 594	tumor embrionario
+#4	AnnotatorNotes T4	8000/1/H

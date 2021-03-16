@@ -1,0 +1,34 @@
+T1	MORFOLOGIA_NEOPLASIA 1873 1892	enfermedad pulmonar
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 5524 5545	infiltración hepática
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 3258 3277	lesiones pulmonares
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 4748 4759	metastásica
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 5379 5390	metastásico
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 1420 1430	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 2751 2761	metástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 3761 3771	metástasis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 3879 3889	metástasis
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 3466 3484	nódulos pulmonares
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 1331 1347	sarcoma sinovial
+#11	AnnotatorNotes T11	9040/3
+T12	MORFOLOGIA_NEOPLASIA 906 911	tumor
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 592 602	tumoración
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 263 280	tumoración blanda
+#14	AnnotatorNotes T14	8800/1
+T15	MORFOLOGIA_NEOPLASIA 1992 2017	sarcoma sinovial bifásico
+#15	AnnotatorNotes T15	9043/3
+T16	MORFOLOGIA_NEOPLASIA 4034 4069	sarcoma sinovial de patrón bifásico
+#16	AnnotatorNotes T16	9043/3
+T17	MORFOLOGIA_NEOPLASIA 4816 4832	masas pulmonares
+#17	AnnotatorNotes T17	8000/6

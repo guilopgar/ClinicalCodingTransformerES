@@ -1,0 +1,22 @@
+Anamnesis
+Paciente mujer de 33 años, sin alergias medicamentosas conocidas ni antecedentes médicos de interés, que consulta en abril de 2010 por palpación de tumoración en ambas mamas desde hacía varios días.
+
+Exploración física
+Normal.
+
+Pruebas complementarias
+El 14/04/2010 se le practica tumorectomía bilateral, con diagnóstico anatomopatológico de linfoma difuso de células grandes B (LDCGB) extranodal.
+Estudio de extensión normal.
+
+Diagnóstico
+LDCGB estadio IIAE (mamas), aaIPI 0.
+
+Tratamiento
+Recibe 6 ciclos de R-CHOP desde mayo a septiembre de 2010. Posteriormente recibió en octubre de 2010 un ciclo de metotrexato a altas dosis, no pudiendo recibir el segundo ciclo por muy mala tolerancia al primero. Esa mala tolerancia consistió en sensación de malestar general, sensación pruriginosa generalizada con lesiones circinadas en zonas de escote y rash generalizado de un mes de evolución a pesar de tratamiento antihistamínico y corticoide, motivo por el que fue estudiada por Medicina Interna, catalogándose de lupus cutáneo subagudo (probablemente inducido por fármacos), síndrome de Sjögren y Raynaud secundario.
+
+Evolución
+En febrero de 2014 la paciente comienza a presentar dolor e induración en cola mamaria derecha con ecografía de mama normal y PET-TC únicamente con aumento de la captación en mama derecha sugerente de infiltración tumoral. Se lleva a cabo biopsia de dicha región, con anatomía patológica compatible con LDCGB. Tras este hallazgo la paciente recibe nueva línea de tratamiento con R-GPD 6 ciclos y radioterapia local.
+Recaída posterior en julio de 2015 en mama izquierda realizando nueva biopsia (anatomía patológica compatible con LDCGB), tratada con radioterapia local exclusiva.
+Comienza seguimiento posterior sin evidencia de enfermedad hasta que en enero de 2016 se palpa nueva tumoración en mama izquierda. Se realiza nueva biopsia con resultado de carcinoma ductal infiltrante triple negativo (uT2 [40 mm] N negativa), con estudio de extensión negativo. La paciente recibe tratamiento quimioterápico neoadyuvante con esquema AC por 2 ciclos seguido de docetaxel por 4 ciclos. Se interviene en agosto de 2016 mediante mastectomía bilateral (por decisión de la paciente), con respuesta patológica completa en mama izquierda y sin evidencia de neoplasia en mama derecha.
+En TC de reevaluación posquirúrgica (octubre 2016) se detectan nuevas lesiones sospechosas de metástasis, con PET-TC concordante: engrosamiento cutáneo nodular en pared torácica izquierda de 1,9 cm (SUVmax 16,9), en lóbulo hepático derecho lesión hipermetabólica de 4,6 x 4,2 cm (SUVmax 14,7), aumento de suprarrenal izquierda de 3 x 2,2 cm (SUVmax 12,1), adenopatía patológica iliaca externa derecha de 1,4 cm (SUVmax 14) y adenopatía en raíz de muslo derecho de 1 cm (SUVmax 8,4), todas ellas de nueva aparición y compatibles con metástasis. Dado la discordancia entre la aparición de metástasis y la excelente respuesta patológica del carcinoma ductal infiltrante a la quimioterapia, se realiza biopsia de la pared torácica izquierda con resultado anatomopatológico de linfoma de células grandes B difuso subtipo ABC. Comienza nueva línea de tratamiento con R-ICE en noviembre de 2016, presentando tras el primer ciclo una excelente respuesta clínica inicial, pero con progresión inmediata previa al segundo ciclo con aparición de una masa de unos 10 cm en muslo derecho indurada, por lo que comienza nueva línea de quimioterapia con R-GEMOX. Tras dos ciclos de tratamiento, presenta progresión de la lesión de pared torácica (con estabilidad del resto de lesiones en TC).
+Se intentó inclusión de la paciente en ensayo clínico fase 1, no siendo incluible finalmente por ausencia de mutaciones específicas en la muestra tumoral. Se solicitó aprobación de nueva línea de tratamiento con rituximab-lenalidomida, no llegando a iniciarla por deterioro respiratorio en relación a probable progresión tumoral vs. neumonía con exitus el 29/04/2017.

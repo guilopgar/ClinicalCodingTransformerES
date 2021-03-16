@@ -1,0 +1,28 @@
+T1	MORFOLOGIA_NEOPLASIA 1818 1820	M0
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1455 1476	carcinoma infiltrante
+#2	AnnotatorNotes T2	8010/3/H
+T3	MORFOLOGIA_NEOPLASIA 1907 1913	cáncer
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 1168 1187	células neoplásicas
+#4	AnnotatorNotes T4	8001/1
+T5	MORFOLOGIA_NEOPLASIA 630 640	malignidad
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 729 739	malignidad
+#6	AnnotatorNotes T6	8000/3
+T7	MORFOLOGIA_NEOPLASIA 264 274	tumoración
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 1008 1078	carcinoma intraductal grupo 3 de Van Nuys con cancerización lobulillar
+#8	AnnotatorNotes T8	8522/33
+T9	MORFOLOGIA_NEOPLASIA 1284 1434	carcinoma intraductal predominantemente grupo 3 de Van Nuys (micropapilar y sólido de alto grado citológico con necrosis) con cancerización lobulillar
+#9	AnnotatorNotes T9	8522/33
+T10	MORFOLOGIA_NEOPLASIA 1284 1357	carcinoma intraductal predominantemente grupo 3 de Van Nuys (micropapilar
+#10	AnnotatorNotes T10	8265/23
+T11	MORFOLOGIA_NEOPLASIA 1284 1366	carcinoma intraductal predominantemente grupo 3 de Van Nuys (micropapilar y sólido
+#11	AnnotatorNotes T11	8230/23
+T12	MORFOLOGIA_NEOPLASIA 1481 1520	Carcinoma ductal infiltrante de 1 cm G1
+#12	AnnotatorNotes T12	8500/31
+T13	MORFOLOGIA_NEOPLASIA 1578 1619	Carcinoma ductal infiltrante de 2,5 mm G3
+#13	AnnotatorNotes T13	8500/33
+T14	MORFOLOGIA_NEOPLASIA 1752 1801	carcinoma de mama ductal infiltrante (multifocal)
+#14	AnnotatorNotes T14	8500/3/H

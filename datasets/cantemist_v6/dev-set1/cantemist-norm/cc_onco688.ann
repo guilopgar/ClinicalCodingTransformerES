@@ -1,0 +1,40 @@
+T1	MORFOLOGIA_NEOPLASIA 206 212	cáncer
+#1	AnnotatorNotes T1	8000/3
+T2	MORFOLOGIA_NEOPLASIA 253 259	cáncer
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 4549 4571	implantes pericárdicos
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 4587 4602	lesión pulmonar
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 1913 1923	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 2565 2575	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 3027 3037	metástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 3821 3831	metástasis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 4294 4304	metástasis
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 3392 3407	progresión ósea
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 4327 4342	progresión ósea
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 2524 2531	sarcoma
+#12	AnnotatorNotes T12	8800/3
+T13	MORFOLOGIA_NEOPLASIA 2418 2439	sarcoma de alto grado
+#13	AnnotatorNotes T13	8800/34
+T14	MORFOLOGIA_NEOPLASIA 1494 1499	tumor
+#14	AnnotatorNotes T14	8000/1
+T15	MORFOLOGIA_NEOPLASIA 2262 2267	tumor
+#15	AnnotatorNotes T15	8000/1
+T16	MORFOLOGIA_NEOPLASIA 4503 4510	tumoral
+#16	AnnotatorNotes T16	8000/1
+T17	MORFOLOGIA_NEOPLASIA 1785 1833	neoplasia cardiaca primaria maligna y metástasis
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 2418 2454	sarcoma de alto grado indiferenciado
+#18	AnnotatorNotes T18	8805/3
+T19	MORFOLOGIA_NEOPLASIA 4214 4234	recidiva pericárdica
+#19	AnnotatorNotes T19	8000/6
+T20	MORFOLOGIA_NEOPLASIA 4605 4628	progresión de las óseas
+#20	AnnotatorNotes T20	8000/6

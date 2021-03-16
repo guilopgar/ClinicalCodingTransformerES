@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 2435 2440	tumor
+#1	AnnotatorNotes T1	8000/1
+T2	MORFOLOGIA_NEOPLASIA 1275 1296	diseminación pulmonar
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1373 1402	neoplasia de estirpe germinal
+#3	AnnotatorNotes T3	9064/3
+T4	MORFOLOGIA_NEOPLASIA 1826 1865	neoplasia de origen germinal diseminada
+#4	AnnotatorNotes T4	9064/6
+T5	MORFOLOGIA_NEOPLASIA 2529 2576	coriocarcinoma primario mediastínico diseminado
+#5	AnnotatorNotes T5	9100/6
+T6	MORFOLOGIA_NEOPLASIA 2821 2838	nódulos hepáticos
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 2713 2754	nódulos tumorales hemorrágicos pulmonares
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 2850 2873	nódulos únicos en riñón
+#8	AnnotatorNotes T8	8000/6

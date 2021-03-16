@@ -1,0 +1,12 @@
+T1	MORFOLOGIA_NEOPLASIA 110 117	adenoma
+#1	AnnotatorNotes T1	8140/0
+T2	MORFOLOGIA_NEOPLASIA 495 502	cT3N0M0
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 288 297	neoplasia
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 434 468	adenocarcinoma de recto de grado 1
+#4	AnnotatorNotes T4	8140/31
+T5	MORFOLOGIA_NEOPLASIA 847 864	adenocarcinoma G3
+#5	AnnotatorNotes T5	8140/33
+T6	MORFOLOGIA_NEOPLASIA 1829 1855	Adenocarcinoma de recto G3
+#6	AnnotatorNotes T6	8140/33

@@ -1,0 +1,36 @@
+T1	MORFOLOGIA_NEOPLASIA 5757 5771	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 617 623	cáncer
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 845 851	cáncer
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 1043 1049	cáncer
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 6987 6998	metastásico
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 1664 1674	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 4363 4372	neoplasia
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 3896 3906	neoplásico
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 2175 2182	tumoral
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 358 365	tumores
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 1161 1181	pólipos adenomatosos
+#11	AnnotatorNotes T11	8210/0
+T12	MORFOLOGIA_NEOPLASIA 1370 1435	adenoma tubular de intestino grueso con displasia moderada-severa
+#12	AnnotatorNotes T12	8211/0/H
+T13	MORFOLOGIA_NEOPLASIA 1554 1593	carcinoma de células de anillo de sello
+#13	AnnotatorNotes T13	8490/3
+T14	MORFOLOGIA_NEOPLASIA 4203 4220	tumor de Klastkin
+#14	AnnotatorNotes T14	8160/3
+T15	MORFOLOGIA_NEOPLASIA 4545 4603	Colangiocarcinoma extrahepático moderadamente diferenciado
+#15	AnnotatorNotes T15	8160/32
+T16	MORFOLOGIA_NEOPLASIA 5506 5528	implantes peritoneales
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 5898 5937	recaída peritoneal de colangiocarcinoma
+#17	AnnotatorNotes T17	8160/6
+T18	MORFOLOGIA_NEOPLASIA 5391 5420	lesiones nodulares en epiplón
+#18	AnnotatorNotes T18	8000/6

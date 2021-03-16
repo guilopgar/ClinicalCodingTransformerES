@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 1438 1448	carcinoide
+#1	AnnotatorNotes T1	8240/3
+T2	MORFOLOGIA_NEOPLASIA 922 932	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 855 860	tumor
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 1190 1206	tumor carcinoide
+#4	AnnotatorNotes T4	8240/3
+T5	MORFOLOGIA_NEOPLASIA 1120 1158	tumor neuroendocrino bien diferenciado
+#5	AnnotatorNotes T5	8240/3
+T6	MORFOLOGIA_NEOPLASIA 2088 2126	tumor neuroendocrino bien diferenciado
+#6	AnnotatorNotes T6	8240/3
+T7	MORFOLOGIA_NEOPLASIA 632 639	tumoral
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 1462 1526	tumor carcinoide funcionante de intestino delgado con metástasis
+#8	AnnotatorNotes T8	8240/6

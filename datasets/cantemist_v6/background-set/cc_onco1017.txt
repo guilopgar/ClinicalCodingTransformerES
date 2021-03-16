@@ -1,0 +1,30 @@
+Anamnesis
+Varón de 57 años.
+ANTECEDENTES PERSONALES:
+Trabajador de una fábrica de colchones, previamente en fabricación de pinturas, sin aparente contacto con amianto. Fumador de 8 puritos diarios (nunca cigarrillos).
+Diagnosticado en septiembre de 2015 de adenocarcinoma mucosecretor de pulmón en estadio cT3N2M1 (diseminación pleural, pulmonar y ganglionar), EGFR no mutado.
+Tras valoración inicial en consultas externas de Oncología Médica se indicó drenaje pleural el 14 de octubre, por disnea de esfuerzo, en relación a derrame pleural conocido. Ante la buena expansión pulmonar tras el procedimiento, se realizó pleurodesis con talco.
+El 26 de octubre de 2015 inició primera línea de quimioterapia a base de cisplatino y pemetrexed, sin incidencias durante el tratamiento.
+ENFERMEDAD ACTUAL:
+El 12 de noviembre de 2015 acudió a consulta para valorar administración de 2º ciclo de quimioterapia, refiriendo empeoramiento de dolor en zona dorsal y en hemitórax derecho, a pesar de reajuste analgésico en los últimos días (en el momento de la valoración: morfina de liberación retardada 90 mg/12 horas y rescates con fentanilo sublingual 200 mcg si precisa). No presentó disnea mayor a la habitual, fiebre, tos ni expectoración. Con intención de control sintomático y a fin de realizar maniobras diagnósticas, se decidió ingreso en planta de hospitalización.
+
+Exploración física
+Tensión arterial (TA): 120/70 mm Hg, frecuencia cardiaca (FC) 100 lpm, saturación de oxígeno basal (SatO2) 95 %. Afebril y hemodinámicamente estable. Muy afectado por el dolor. Auscultación cardiaca: rítmica, sin aparentes soplos ni extratonos. Auscultación pulmonar: hipoventilación basal derecha. Masa de partes blandas en pared costal derecha, en zona de antiguo tubo de drenaje pleural, dolorosa durante la palpación, sin crepitación. Abdomen: blando y depresible. Ruidos hidroaéreos preservados, sin dolor a la palpación profunda. Extremidades: discreta edematización de tercio distal en ambas piernas.
+
+Pruebas complementarias
+Analítica (13/11/2015): función renal e iones sin alteraciones. Hemoglobina 10,2 g/dl, plaquetas 685.000/mm3, leucocitos 8.460/mm3 con fórmula anodina.
+Radiografía de tórax (13/11/2015): cardiomegalia. Derrame pleural derecho de distribución atípica, con componente de atelectasia de lóbulo inferior derecho (LID). Aumento de densidad parahiliar derecho, en relación con neoplasia conocida.
+TC torácica (16/11/2015): proceso infiltrativo hiliar derecho. Infiltración peribroncovascular de los diferentes bronquios y arterias lobares y segmentarias con mayor afectación del lóbulo medio (LM) y lóbulo inferior, determinando atelectasias prácticamente totales de ambos. Implantes pleurales derechos con importante derrame asociado, que actualmente presenta áreas calcificadas en relación a talcaje. Adenopatías mediastínicas de tamaño patológico. Nódulo en LSI de 1,1 cm. Lesiones líticas en tercer y sexto arcos costales derechos, sugestivas de metástasis, no presentes en estudio previo.
+Lesión radiolucente en noveno arco costal posterior derecho, con respeto de la cortical.
+
+Diagnóstico
+El cuadro se valoró como dolor mal controlado, secundario a diseminación tumoral pleural en zona de drenaje torácico previo.
+
+Tratamiento
+Tras valoración por el Servicio de Oncología Radioterápica se indicó tratamiento con radioterapia sobre la pared costal, recibiendo 24 Gy en 6 fracciones, siendo la última el 27 de noviembre de 2015.
+
+Evolución
+Durante su ingreso y tras la mejoría de la clínica que motivó el mismo, el paciente presentó dolor lumbar con irradiación a extremidades inferiores. Con este motivo, se solicitó una resonancia magnética (RM) que evidenció metástasis a nivel de la vértebra L5, en pedículo derecho, con masa de partes blandas de 5,2 cm en contacto con la raíz L5 derecha, sin poderse descartar infiltración radicular. Esto llevó a que el paciente recibiera, previa simulación, nuevo curso de radioterapia antiálgica en dicha localización, a 24 Gys en 6 fracciones, con mejoría del cuadro, por lo que fue dado de alta el 11 de diciembre, terminando el tratamiento de forma ambulante 3 días más tarde.
+El día 18 se valoró al paciente en consultas externas de Oncología Médica. Ante la imposibilidad de retirada de antiinflamatorios no esteroideos (AINE) para continuación de tratamiento quimioterápico, se programó primer ciclo de segunda línea de quimioterapia para el siguiente lunes día 21 (cisplatino + gemcitabina, por contraindicación de tratamiento combinado de AINE con pemetrexed).
+48 horas más tarde, el paciente acudió a Urgencias con marcado empeoramiento clínico, gran aumento de su disnea basal y presencia de abundantes secreciones.
+A su ingreso, se ajustó su tratamiento analgésico de base y se inició tratamiento antibiótico, diurético y corticoide a altas dosis, a pesar de los cuales, presentó progresivo deterioro clínico con disminución del nivel de consciencia y estado comatoso. De acuerdo con la familia y teniendo en cuenta la situación del paciente, así como la enfermedad tumoral de rápida progresión, se decidió sedación paliativa para control sintomático, aconteciendo el exitus el día 21 de diciembre de 2015.

@@ -1,0 +1,8 @@
+T1	MORFOLOGIA_NEOPLASIA 1262 1277	adenoma tubular
+#1	AnnotatorNotes T1	8211/0
+T2	MORFOLOGIA_NEOPLASIA 1775 1804	carcinoma de células pequeñas
+#2	AnnotatorNotes T2	8041/3
+T3	MORFOLOGIA_NEOPLASIA 2168 2206	Carcinoma pulmonar de células pequeñas
+#3	AnnotatorNotes T3	8041/3
+T4	MORFOLOGIA_NEOPLASIA 2208 2215	cTxN2M0
+#4	AnnotatorNotes T4	8000/6

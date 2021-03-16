@@ -1,0 +1,34 @@
+T1	MORFOLOGIA_NEOPLASIA 2035 2049	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 3435 3449	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 4961 4975	adenocarcinoma
+#3	AnnotatorNotes T3	8140/3
+T4	MORFOLOGIA_NEOPLASIA 5380 5394	adenocarcinoma
+#4	AnnotatorNotes T4	8140/3
+T5	MORFOLOGIA_NEOPLASIA 4362 4391	carcinoma de células pequeñas
+#5	AnnotatorNotes T5	8041/3
+T6	MORFOLOGIA_NEOPLASIA 5345 5374	carcinoma de células pequeñas
+#6	AnnotatorNotes T6	8041/3
+T7	MORFOLOGIA_NEOPLASIA 5322 5331	neoplasia
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 4442 4447	tumor
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 2140 2176	adenocarcinoma de pulmón cT2b N3 M1b
+#9	AnnotatorNotes T9	8140/6
+T10	MORFOLOGIA_NEOPLASIA 4020 4065	progresión a nivel local, así como, sistémica
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 4604 4630	progresión a nivel del SNC
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 2208 2227	afectación cerebral
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 2397 2436	afectación del sistema nervioso central
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 2614 2631	lesión cerebelosa
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 1756 1786	nódulos pulmonares bilaterales
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 3737 3755	afectación del SNC
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 4070 4104	afectación en glándula suprarrenal
+#17	AnnotatorNotes T17	8000/6

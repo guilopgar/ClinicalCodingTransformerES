@@ -1,0 +1,14 @@
+T1	MORFOLOGIA_NEOPLASIA 1983 1985	M0
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 2049 2071	enfermedad a distancia
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 2578 2588	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1325 1379	carcinoma indiferenciado de célula pequeña infiltrante
+#4	AnnotatorNotes T4	8041/34/H
+T5	MORFOLOGIA_NEOPLASIA 1879 1923	carcinoma neuroendocrino de células pequeñas
+#5	AnnotatorNotes T5	8041/3
+T6	MORFOLOGIA_NEOPLASIA 2253 2297	carcinoma neuroendocrino de células pequeñas
+#6	AnnotatorNotes T6	8041/3
+T7	MORFOLOGIA_NEOPLASIA 2646 2690	Carcinoma neuroendocrino de células pequeñas
+#7	AnnotatorNotes T7	8041/3

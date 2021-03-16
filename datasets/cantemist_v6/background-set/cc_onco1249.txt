@@ -1,0 +1,40 @@
+Anamnesis
+Mujer de 42 años que, en julio de 1997, acude a la consulta por hematuria y dolor lumbar.
+Antecedentes personales y/o familiares: hipertensión arterial en tratamiento. No tiene otros antecedentes de interés ni antecedentes familiares de cáncer.
+Historia oncológica: tras realizar pruebas complementarias, consistentes en una citología de orina, una ecografía abdominal y una tomografía axial computarizada (TC), se evidencia una masa renal izquierda, por lo que en agosto de 1997 se realiza cirugía del tumor primarios con nefrectomía izquierda. El diagnóstico anatomopatológico es compatible con carcinoma renal de células claras, pT2N0M0, grado I de Fuhrman. En enero de 2006, la paciente acude al hospital por cefalea y cansancio. Mediante estudios radiológicos, se sospecha de la existencia de metástasis en el sistema nervioso central, hígado, páncreas y retroperitoneo. Los resultados de la biopsia con aguja en el hígado establecen que la lesión es compatible con una metástasis del tumor primario de riñón.
+
+Examen físico
+Consciente, orientada y colaboradora, Karnofsky del 70%, pálida, bien hidratada. Orofaringe normal. Pupilas isocóricas, fotorreactivas, sin alteraciones en pares craneales, Romberg positivo, aumento de la base de sustentación en marcha, nistagmos indiferente. No presenta alteraciones en fuerza muscular ni sensibilidad. Sin adenopatias palpables, cuello móvil no doloroso. Auscultación cardiopulmonar normal.
+Abdomen blando, depresible, dolor a la palpación en hipocondrio derecho con discreta hepatomegalia de 2cm por debajo de reborde costal, peristalsis presente, cicatriz quirúrgica. No signos de irritación peritoneal, puño percusión renal y vertebral negativa.
+Extremidades inferiores sin edemas y sin signos de TVP.
+
+Pruebas complementarias
+- Analítica: Hb 9,7 g/dl.
+- RGB 7,500. Neutrófilos 86%; PLT 275,000.
+- Ca y resto iones: normales.
+- LDH: normal.
+- TC del SNC y toracoabdominal: imágenes compatibles con metástasis en SNC, hepático, páncreas y retroperitoneo.
+
+Diagnóstico
+Estadio IV: recidiva de cáncer renal de histología de células claras no quirúrgico con intervalo libre de enfermedad de diez años. De intermedio riesgo.
+Como factores pronósticos adversos: anemia y Karnoffsky del 70%, por lo que se trata de una enfermedad de intermedio riesgo según los criterios de Motzer.
+
+Tratamiento
+Evolución clínica y tratamiento:
+- Radioterapia: en enero de 2006, se administra radioterapia para tratar las lesiones del sistema nervioso central (holocraneal 20 Gy en diez sesiones de 2 Gy).
+- 1.ª línea de tratamiento para enfermedad avanzada: a continuación, se trata a la paciente interferón-alfa
+En marzo de 2006, se observa progresión de la enfermedad tumoral.
+- 2.ª línea de tratamiento para enfermedad avanzada: en marzo de 2006, se trata al paciente con gemcitabina semanal (1.000 mg/m2/semanal/3 semanas/repetido cada 4 semanas).
+En junio de 2007, mediante tomografía computarizada (TC), se observa la progresión de la enfermedad.
+- 3.ª línea de tratamiento para enfermedad avanzada: en junio de 2007, la paciente inicia tratamiento con sunitinib, a 50 mg/día por vía oral durante 4 de cada 6 semanas.
+
+Evolución
+Tras introducción de sunitinib se observa una mejora del cansancio y la corrección de la anemia. La paciente desarrolla toxicidad palmo-plantar e hipertensión arterial grado 2.
+En septiembre de 2007, mediante TC, se observa una respuesta completa a nivel del sistema nervioso central y una respuesta parcial a nivel periférico.
+Se reduce la dosis de sunitinib a 37,5 mg/día, sin descanso.
+En diciembre de 2007, mediante TC, se observa que la respuesta alcanzada por la paciente se mantiene. Persiste la toxicidad cutánea y la hipertensión arterial.
+- Se reduce la dosis de sunitinib a 37,5 mg/día, con 1-2 semanas de descanso cada 4 semanas.
+En diciembre de 2009, mantiene la respuesta, pero presenta HTA no controlada, así como hipotiroidismo sintomático.
+- Se reduce la dosis de sunitinib a 25 mg/día, sin descanso.
+En junio de 2010, la paciente continúa el tratamiento con sunitinib, a 25 mg/día sin descanso por astenia y diarrea grado 2; se mantiene la respuesta completa a nivel del sistema nervioso central y la respuesta parcial a nivel periférico.
+Continua seguimiento en Oncología Médica; última revisión en febrero del 2014 mantiene respuesta sin toxicidades.

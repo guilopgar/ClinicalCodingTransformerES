@@ -1,0 +1,14 @@
+T1	MORFOLOGIA_NEOPLASIA 1070 1098	carcinoma de células renales
+#1	AnnotatorNotes T1	8312/3
+T2	MORFOLOGIA_NEOPLASIA 1672 1678	cáncer
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 1288 1310	enfermedad a distancia
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 5301 5311	neoplásica
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 5157 5164	tumoral
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 1485 1534	tumor renal, variante histológica, células claras
+#6	AnnotatorNotes T6	8005/0
+T7	MORFOLOGIA_NEOPLASIA 1535 1543	pT3aN0M0
+#7	AnnotatorNotes T7	8000/6

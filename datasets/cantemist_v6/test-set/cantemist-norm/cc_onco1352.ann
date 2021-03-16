@@ -1,0 +1,18 @@
+T1	MORFOLOGIA_NEOPLASIA 2171 2186	Hepatocarcinoma
+#1	AnnotatorNotes T1	8170/3
+T2	MORFOLOGIA_NEOPLASIA 460 476	células malignas
+#2	AnnotatorNotes T2	8001/3
+T3	MORFOLOGIA_NEOPLASIA 533 548	hepatocarcinoma
+#3	AnnotatorNotes T3	8170/3
+T4	MORFOLOGIA_NEOPLASIA 1678 1693	hepatocarcinoma
+#4	AnnotatorNotes T4	8170/3
+T5	MORFOLOGIA_NEOPLASIA 1547 1569	implantes peritoneales
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 1652 1662	malignidad
+#6	AnnotatorNotes T6	8000/3
+T7	MORFOLOGIA_NEOPLASIA 2053 2073	nódulos peritoneales
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 368 397	hepatocarcinoma multicéntrico
+#8	AnnotatorNotes T8	8170/3/H
+T9	MORFOLOGIA_NEOPLASIA 1046 1093	hepatocarcinoma hepatocelular bien diferenciado
+#9	AnnotatorNotes T9	8170/31

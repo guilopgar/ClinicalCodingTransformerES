@@ -1,0 +1,36 @@
+T1	MORFOLOGIA_NEOPLASIA 1297 1321	carcinoma indiferenciado
+#1	AnnotatorNotes T1	8020/3
+T2	MORFOLOGIA_NEOPLASIA 4244 4282	carcinoma neuroendocrino de alto grado
+#2	AnnotatorNotes T2	8240/34
+T3	MORFOLOGIA_NEOPLASIA 4373 4411	carcinoma neuroendocrino de alto grado
+#3	AnnotatorNotes T3	8240/34
+T4	MORFOLOGIA_NEOPLASIA 4621 4659	carcinoma neuroendocrino de alto grado
+#4	AnnotatorNotes T4	8240/34
+T5	MORFOLOGIA_NEOPLASIA 4350 4370	estesioneuroblastoma
+#5	AnnotatorNotes T5	9522/3
+T6	MORFOLOGIA_NEOPLASIA 4216 4226	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 464 474	tumoración
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 1271 1281	tumoración
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 2882 2892	tumoración
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 2977 2987	tumoración
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 3329 3339	tumoración
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 3479 3489	tumoración
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 1433 1440	tumoral
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 1717 1724	tumoral
+#14	AnnotatorNotes T14	8000/1
+T15	MORFOLOGIA_NEOPLASIA 2407 2414	tumoral
+#15	AnnotatorNotes T15	8000/1
+T16	MORFOLOGIA_NEOPLASIA 2068 2107	Estesioneuroblastoma grado III de Hyams
+#16	AnnotatorNotes T16	9522/33
+T17	MORFOLOGIA_NEOPLASIA 2144 2183	estesioneuroblastoma grado III de Hyams
+#17	AnnotatorNotes T17	9522/33
+T18	MORFOLOGIA_NEOPLASIA 3519 3574	metástasis de tumor poco diferenciado de célula pequeña
+#18	AnnotatorNotes T18	8002/63

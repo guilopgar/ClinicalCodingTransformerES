@@ -1,0 +1,15 @@
+T1	MORFOLOGIA_NEOPLASIA 5176 5200	afectación leptomeníngea
+T2	MORFOLOGIA_NEOPLASIA 2135 2149	carcinomatosis
+T3	MORFOLOGIA_NEOPLASIA 2654 2665	metastásica
+T4	MORFOLOGIA_NEOPLASIA 4612 4623	metastásica
+T5	MORFOLOGIA_NEOPLASIA 2042 2052	metástasis
+T6	MORFOLOGIA_NEOPLASIA 603 646	carcinoma mal diferenciado de célula grande
+T7	MORFOLOGIA_NEOPLASIA 823 890	carcinoma de pulmón de célula no pequeña (CPCNP) extendido a pleura
+T8	MORFOLOGIA_NEOPLASIA 865 870	CPCNP
+T9	MORFOLOGIA_NEOPLASIA 1030 1080	carcinoma de célula grande LSD pulmón G3 cT1bN1M1a
+T10	MORFOLOGIA_NEOPLASIA 751 769	afectación pleural
+T11	MORFOLOGIA_NEOPLASIA 1952 1991	afectación del sistema nervioso central
+T12	MORFOLOGIA_NEOPLASIA 2183 2229	progresión pulmonar (basal derecha) y meníngea
+T13	MORFOLOGIA_NEOPLASIA 2752 2771	progresión meníngea
+T14	MORFOLOGIA_NEOPLASIA 3073 3097	adenocarcinoma acinar G2
+T15	MORFOLOGIA_NEOPLASIA 5230 5290	Adenocarcinoma LSD pulmón Estadio IV por afectación meníngea

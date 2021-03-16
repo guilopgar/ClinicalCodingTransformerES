@@ -1,0 +1,34 @@
+T1	MORFOLOGIA_NEOPLASIA 3423 3451	Metástasis de adenocarcinoma
+#1	AnnotatorNotes T1	8140/6
+T2	MORFOLOGIA_NEOPLASIA 180 194	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 3214 3224	malignidad
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 3411 3421	malignidad
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 8112 8122	malignidad
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 7976 7983	maligno
+#6	AnnotatorNotes T6	8000/3
+T7	MORFOLOGIA_NEOPLASIA 8693 8700	maligno
+#7	AnnotatorNotes T7	8000/3
+T8	MORFOLOGIA_NEOPLASIA 415 420	mioma
+#8	AnnotatorNotes T8	8895/0
+T9	MORFOLOGIA_NEOPLASIA 2330 2335	tumor
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 2040 2050	tumoración
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 3815 3825	tumoración
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 212 219	pT3N1M0
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 1248 1267	implante secundario
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 2095 2148	metástasis de adenocarcinoma con diferención mucinosa
+#14	AnnotatorNotes T14	8480/6
+T15	MORFOLOGIA_NEOPLASIA 2359 2425	Carcinoma epitelial maligno indiferenciado con componente mucinoso
+#15	AnnotatorNotes T15	8070/34/H
+T16	MORFOLOGIA_NEOPLASIA 4020 4087	tumoración epitelial maligna indiferenciada con componente mucinoso
+#16	AnnotatorNotes T16	8070/34/H
+T17	MORFOLOGIA_NEOPLASIA 4172 4238	carcinoma epitelial maligno indiferenciado con componente mucinoso
+#17	AnnotatorNotes T17	8070/34/H

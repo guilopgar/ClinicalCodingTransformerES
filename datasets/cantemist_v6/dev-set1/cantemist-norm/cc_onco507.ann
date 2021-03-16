@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 637 652	afectación ósea
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 754 765	metastásica
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1732 1737	tumor
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 1932 1939	tumoral
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 3160 3167	tumoral
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 8795 8802	tumoral
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 552 607	adenocarcinoma de vía biliar con afectación pancreática
+#7	AnnotatorNotes T7	8160/6
+T8	MORFOLOGIA_NEOPLASIA 2184 2213	cáncer avanzado de vía biliar
+#8	AnnotatorNotes T8	8160/3

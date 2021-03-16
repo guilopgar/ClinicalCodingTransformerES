@@ -1,0 +1,14 @@
+T1	MORFOLOGIA_NEOPLASIA 2091 2129	adenocarcinoma pobremente diferenciado
+#1	AnnotatorNotes T1	8140/33
+T2	MORFOLOGIA_NEOPLASIA 2607 2636	carcinoma de células pequeñas
+#2	AnnotatorNotes T2	8041/3
+T3	MORFOLOGIA_NEOPLASIA 98 104	cáncer
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 1816 1826	malignidad
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 456 461	tumor
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 1076 1091	sólido-quística
+#6	AnnotatorNotes T6	8452/1
+T7	MORFOLOGIA_NEOPLASIA 1493 1508	sólido-quística
+#7	AnnotatorNotes T7	8452/1

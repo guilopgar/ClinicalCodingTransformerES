@@ -1,0 +1,28 @@
+T1	MORFOLOGIA_NEOPLASIA 3177 3197	Carcinoma lobulillar
+#1	AnnotatorNotes T1	8520/3
+T2	MORFOLOGIA_NEOPLASIA 3228 3238	Metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 2048 2065	células tumorales
+#3	AnnotatorNotes T3	8001/1
+T4	MORFOLOGIA_NEOPLASIA 2276 2293	células tumorales
+#4	AnnotatorNotes T4	8001/1
+T5	MORFOLOGIA_NEOPLASIA 1419 1429	malignidad
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 1099 1112	metastatizado
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 2924 2935	metastásica
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 2973 2985	metastásicas
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 1128 1145	carcinoma lobular
+#9	AnnotatorNotes T9	8520/3
+T10	MORFOLOGIA_NEOPLASIA 1879 1908	carcinoma de mama infiltrante
+#10	AnnotatorNotes T10	8010/3/H
+T11	MORFOLOGIA_NEOPLASIA 1931 1960	carcinoma lobular infiltrante
+#11	AnnotatorNotes T11	8520/3
+T12	MORFOLOGIA_NEOPLASIA 1715 1724	LOE óseas
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 2361 2395	carcinoma lobular tipo pleomórfico
+#13	AnnotatorNotes T13	8022/3
+T14	MORFOLOGIA_NEOPLASIA 2361 2378	carcinoma lobular
+#14	AnnotatorNotes T14	8520/3

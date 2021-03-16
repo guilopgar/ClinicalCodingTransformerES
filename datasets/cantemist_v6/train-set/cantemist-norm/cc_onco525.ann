@@ -1,0 +1,18 @@
+T1	MORFOLOGIA_NEOPLASIA 886 896	Metástasis
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 48 54	cáncer
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 573 578	tumor
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 3407 3414	tumoral
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 649 691	adenocarcinoma enteroide bien diferenciado
+#5	AnnotatorNotes T5	8140/31
+T6	MORFOLOGIA_NEOPLASIA 649 727	adenocarcinoma enteroide bien diferenciado con 10 % de componente mucosecretor
+#6	AnnotatorNotes T6	8481/3
+T7	MORFOLOGIA_NEOPLASIA 761 803	adenocarcinoma enteroide bien diferenciado
+#7	AnnotatorNotes T7	8140/31
+T8	MORFOLOGIA_NEOPLASIA 975 986	metastásica
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 2909 2929	diseminación tumoral
+#9	AnnotatorNotes T9	8000/6

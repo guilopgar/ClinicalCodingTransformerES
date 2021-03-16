@@ -1,0 +1,30 @@
+Anamnesis
+Paciente de 68 años, intervenido (fuera de nuestro centro) quirúrgicamente de melanoma en la espalda en 2005 con anatomía patológica (AP): melanoma de extensión superficial. Breslow 0,88, Clark III.
+El 31/9/2005 se realiza la ampliación de márgenes, con resultado negativo.
+En diciembre de 2007 presenta una nueva lesión cutánea en el cuero cabelludo de 6 meses de evolución. AP: Breslow 0,9, Clark III, T1a. Se realiza ampliación de márgenes, siendo negativo para malignidad.
+En enero de 2012 se objetiva un nódulo subcutáneo retroauricular izquierdo, con AP: invasión por un melanoma.? En febrero de 2012 se realiza ampliación de márgenes y ganglio centinela (GC). AP: presencia de dos nidos en la dermis y el tejido adiposo de melanoma maligno en el borde superior. Resto de márgenes libres de lesión y ausencia de metástasis ganglionares (0/7).
+En junio de 2012 se diagnostica de recidiva cutánea en la región axilar izquierda, procediendo al vaciamiento axilar izquierdo con AP: invasión por un melanoma maligno de 3 x 3 cm, se aíslan 0/22 ganglios linfáticos sin evidencia de metástasis.
+Siguió controles por parte de Dermatología hasta abril de 2013, cuando es diagnosticado de recidiva en forma de M1 pulmonar y carcinomatosis peritoneal asociado a una proteína S100 de 4,060 ng/ml. Normal hasta 0,20 ng/ml.
+
+Examen físico
+Peso 82 kg, talla 172 cm.
+Paciente en buenas condiciones generales, sin focalidad neurológica. ECOG: 0. No se palpan adenopatías periféricas, cicatrices quirúrgicas de buen aspecto y sin signos de sospecha. Ruidos cardiacos rítmicos sin soplos, pulmones claros normoventilados sin agregados. Abdomen blando, depresible, levemente doloroso a la palpación profunda en el mesogastrio. No megalias. Extremidades eutróficas sin edemas.
+
+Pruebas complementarias
+- TC abril 2013: nódulo en el segmento 6 del LID, que ha aumentado de tamaño (mide 3,6 cm, anteriormente era subcentimétrico). Resto del parénquima pulmonar de características normales con correcta atenuación. Mediastino dentro de la normalidad, adenopatías no valorables. Hilios, árbol bronquial y cavidad pleural dentro de la normalidad. Cambios poscirugía en la axila izquierda. Múltiples implantes peritoneales de nueva aparición (el mayor de 2,5 cm anterior al hilio renal izquierdo). Hígado de tamaño normal sin evidencia de lesiones focales. Granuloma calcificado en el segmento IV. Vía biliar intra y extrahepática de calibre normal. Colelitiasis múltiples. Páncreas, bazo y suprarrenales normales. Riñones funcionantes sin evidencia de lesiones focales ni dilatación de la vía excretora. Aorta de calibre normal. Adenopatías en la raíz del mesenterio. No se observan adenopatías retroperitoneales. Cortes pélvicos sin hallazgos significativos. Conclusión: control melanoma con nódulo en el segmento 6 del LID pulmonar, que ha aumentado de tamaño respecto a la TC previa de octubre de 2012 y múltiples implantes peritoneales de nueva aparición.
+- TC agosto 2013: corazón de tamaño y configuración normales. No adenopatías mediastínicas de calibre significativo. Disminución marcada de tamaño del nódulo pulmonar paravertebral derecho, que en la actualidad mide aproximadamente 11 mm. Granuloma calcificado en el LSI y LM. Glándulas suprarrenales sin alteraciones significativas. Hígado y bazo de tamaño y densidad conservadas. No LOE. Granulomas hepáticos calcificados. Colelitiasis múltiples. Marcada disminución de tamaño con prácticamente desaparición de los implantes peritoneales, quedando un mínimo resto. Páncreas de tamaño y densidad conservada. Riñones de tamaño, morfología y situación normales. Pequeños quistes corticales bilaterales. No se observan adenopatías retroperitoneales de tamaño significativo. Adenopatías en la raíz del mesenterio < 1 cm. Vejiga sin alteraciones valorables. Diverticulosis. Conclusión: respuesta parcial radiológica.
+- TC enero 2014: estructuras mediastínicas dentro de la normalidad. Granuloma calcificado en el LMD. Árbol bronquial y resto del parénquima pulmonar sin alteraciones. Espacios pleurales libres. Pared torácica sin alteraciones. No se observan adenopatías de tamaño significativo. Hígado de tamaño normal, sin alteraciones tomodensitométricas valorables; no evidencia de lesiones focales. Granulomas calcificados hepáticos. Colelitiasis múltiple. Eje esplenoportal permeable. Vía biliar intra y extrahepática de calibre normal. Páncreas, bazo y suprarrenales normales. Paniculitis mesentérica. Riñones funcionantes sin evidencia de lesiones focales ni dilatación de la vía excretora. Aorta de calibre normal. No se observan adenopatías retroperitoneales ni iliacas de tamaño valorable. Cortes pélvicos sin hallazgos significativos. Conclusión: colelitiasis. Respuesta completa radiológica.
+- Proteína S-100 (junio 2013): 4,060 ug/l. Hasta 0,20 ng/ml.
+- Proteína S-100 (enero 2014): < 0,080. Hasta 0,20 ng/ml.
+
+Diagnóstico
+Melanoma metastásico estadio IV, con M1 pulmonares y carcinomatosis peritoneal.
+
+Tratamiento
+Dabrafenib 150 mg cada 12 horas + trametenib 2 mg cada 24 horas por uso compasivo.
+
+Evolución
+Es remitido a Oncología Médica, donde se realiza determinación del BRAF sobre biopsia ganglionar previa, con resultado mutado tipo V600E, por lo que en junio de 2013 inicia tratamiento con dabrafenib150 mg cada 12 horas + ttrametenib 2 mg cada 24 horas (dab/tram).
+Un mes después de iniciado el tratamiento sistémico, se objetiva respuesta radiológica parcial por TC, desaparición de los síntomas abdominales, y no se detectan efectos adversos.
+El paciente sigue tratamiento con dab/tram sin incidencias hasta enero de 2014, cuando se realiza control radiológico y bioquímico, encontrando normalización en la proteína S-100 y respuesta completa radiológica.
+Actualmente se mantiene, con casi 12 meses de tratamiento, en respuesta radiológica y bioquímica completa, con tratamiento oncoespecífico en esquema dabrafenib 150 mg cada 12 horas + trametenib 2 mg cada 24 horas.

@@ -1,0 +1,10 @@
+T1	MORFOLOGIA_NEOPLASIA 2944 2948	GIST
+#1	AnnotatorNotes T1	8936/3
+T2	MORFOLOGIA_NEOPLASIA 1852 1866	carcinomatosis
+#2	AnnotatorNotes T2	8010/9
+T3	MORFOLOGIA_NEOPLASIA 2016 2027	metastásica
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2908 2942	tumor del estroma gastrointestinal
+#4	AnnotatorNotes T4	8936/3
+T5	MORFOLOGIA_NEOPLASIA 2104 2117	tumor maligno
+#5	AnnotatorNotes T5	8000/3

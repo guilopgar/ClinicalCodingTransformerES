@@ -1,0 +1,26 @@
+T1	MORFOLOGIA_NEOPLASIA 2939 2949	neoplásica
+#1	AnnotatorNotes T1	8000/1
+T2	MORFOLOGIA_NEOPLASIA 1143 1155	osteosarcoma
+#2	AnnotatorNotes T2	9180/3
+T3	MORFOLOGIA_NEOPLASIA 1332 1344	osteosarcoma
+#3	AnnotatorNotes T3	9180/3
+T4	MORFOLOGIA_NEOPLASIA 2264 2275	peritumoral
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 2580 2585	tumor
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 968 975	tumoral
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 2233 2240	tumoral
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 2496 2503	tumoral
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 1160 1176	sarcoma de Ewing
+#9	AnnotatorNotes T9	9260/3
+T10	MORFOLOGIA_NEOPLASIA 1374 1421	neoplasia mesodérmica de alto grado pleomórfica
+#10	AnnotatorNotes T10	8802/34
+T11	MORFOLOGIA_NEOPLASIA 1570 1607	Sarcoma pleomorfo óseo con metástasis
+#11	AnnotatorNotes T11	8802/6
+T12	MORFOLOGIA_NEOPLASIA 1374 1433	neoplasia mesodérmica de alto grado pleomórfica fusocelular
+#12	AnnotatorNotes T12	8801/3
+T13	MORFOLOGIA_NEOPLASIA 1701 1726	osteosarcoma convencional
+#13	AnnotatorNotes T13	9186/3

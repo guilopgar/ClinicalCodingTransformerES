@@ -1,0 +1,28 @@
+T1	MORFOLOGIA_NEOPLASIA 1428 1442	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 1702 1716	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 3771 3785	adenocarcinoma
+#3	AnnotatorNotes T3	8140/3
+T4	MORFOLOGIA_NEOPLASIA 5416 5430	adenocarcinoma
+#4	AnnotatorNotes T4	8140/3
+T5	MORFOLOGIA_NEOPLASIA 3929 3939	malignidad
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 4040 4050	malignidad
+#6	AnnotatorNotes T6	8000/3
+T7	MORFOLOGIA_NEOPLASIA 690 700	metástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 5192 5202	metástasis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 1493 1526	adenocarcinoma de pulmón T4 N2 M1
+#9	AnnotatorNotes T9	8140/6
+T10	MORFOLOGIA_NEOPLASIA 3321 3356	progresión mínima en pulmón y hueso
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 4433 4448	progresión ósea
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 4878 4904	progresión pulmonar y ósea
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 1532 1547	afectación ósea
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 3504 3519	enfermedad ósea
+#14	AnnotatorNotes T14	8000/6

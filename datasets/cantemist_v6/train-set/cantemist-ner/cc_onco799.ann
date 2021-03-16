@@ -1,0 +1,6 @@
+T1	MORFOLOGIA_NEOPLASIA 3233 3262	carcinoma de células pequeñas
+T2	MORFOLOGIA_NEOPLASIA 2245 2266	carcinoma microcítico
+T3	MORFOLOGIA_NEOPLASIA 2567 2577	metástasis
+T4	MORFOLOGIA_NEOPLASIA 2417 2435	lesiones hepáticas
+T5	MORFOLOGIA_NEOPLASIA 2481 2501	focos osteoblásticos
+T6	MORFOLOGIA_NEOPLASIA 2616 2671	carcinoma microcítico estadio IV (enfermedad extendida)

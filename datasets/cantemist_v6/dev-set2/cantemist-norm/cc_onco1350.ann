@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 2317 2335	Cáncer infiltrante
+#1	AnnotatorNotes T1	8000/3/H
+T2	MORFOLOGIA_NEOPLASIA 887 896	carcinoma
+#2	AnnotatorNotes T2	8010/3
+T3	MORFOLOGIA_NEOPLASIA 582 610	carcinoma ductal Infiltrante
+#3	AnnotatorNotes T3	8500/3
+T4	MORFOLOGIA_NEOPLASIA 35 48	fibroadenomas
+#4	AnnotatorNotes T4	9010/0
+T5	MORFOLOGIA_NEOPLASIA 88 93	mioma
+#5	AnnotatorNotes T5	8895/0
+T6	MORFOLOGIA_NEOPLASIA 160 169	neoplasia
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 2721 2731	neoplasias
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 302 309	pT3N1M0
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 822 829	tumoral
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 187 251	carcinoma infiltrante con componente mixto (ductal y lobulillar)
+#10	AnnotatorNotes T10	8522/3
+T11	MORFOLOGIA_NEOPLASIA 1311 1343	leucemia aguda promielocítica M3
+#11	AnnotatorNotes T11	9866/3
+T12	MORFOLOGIA_NEOPLASIA 2281 2315	Leucemia aguda no linfoblástica M3
+#12	AnnotatorNotes T12	9866/3

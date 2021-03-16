@@ -1,0 +1,10 @@
+T1	MORFOLOGIA_NEOPLASIA 1121 1136	lesión hepática
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1138 1166	metástasis de adenocarcinoma
+#2	AnnotatorNotes T2	8140/6
+T3	MORFOLOGIA_NEOPLASIA 800 818	nódulos pulmonares
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 845 852	tumoral
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 1344 1400	Adenocarcinoma de origen intestinal estadio IV (pulmonar
+#5	AnnotatorNotes T5	8140/6

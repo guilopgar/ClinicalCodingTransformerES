@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 1921 1935	Carcinomatosis
+#1	AnnotatorNotes T1	8010/9
+T2	MORFOLOGIA_NEOPLASIA 2008 2022	Carcinomatosis
+#2	AnnotatorNotes T2	8010/9
+T3	MORFOLOGIA_NEOPLASIA 1624 1648	afectación leptomeningea
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1759 1785	diseminación leptomeningea
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 1536 1555	lesiones cerebrales
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 1611 1621	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 220 271	adenocarcinoma de pulmón derecho estadio IV (pleura
+#7	AnnotatorNotes T7	8140/6
+T8	MORFOLOGIA_NEOPLASIA 1813 1860	Adenocarcinoma de pulmón derecho con metástasis
+#8	AnnotatorNotes T8	8140/6

@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 1284 1292	melanoma
+#1	AnnotatorNotes T1	8720/3
+T2	MORFOLOGIA_NEOPLASIA 6764 6774	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 6890 6900	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 184 200	melanoma maligno
+#4	AnnotatorNotes T4	8720/3
+T5	MORFOLOGIA_NEOPLASIA 1161 1179	nódulos pulmonares
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 3903 3921	nódulos pulmonares
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 6723 6742	progresión cerebral
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 615 634	progresión pulmonar
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 369 385	recaída pulmonar
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 7085 7143	progresión franca de la enfermedad adenopática, peritoneal
+#10	AnnotatorNotes T10	8000/6

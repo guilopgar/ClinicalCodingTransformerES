@@ -1,0 +1,18 @@
+T1	MORFOLOGIA_NEOPLASIA 3327 3344	células tumorales
+#1	AnnotatorNotes T1	8001/1
+T2	MORFOLOGIA_NEOPLASIA 3991 4001	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 990 997	tumoral
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 2682 2689	maligna
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 4015 4039	afectación leptomeníngea
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 875 893	lesiones hepáticas
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 2905 2923	lesiones hepáticas
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 1073 1088	lesión hepática
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 1100 1150	adenocarcinoma de probable origen pancreato-biliar
+#9	AnnotatorNotes T9	8163/3

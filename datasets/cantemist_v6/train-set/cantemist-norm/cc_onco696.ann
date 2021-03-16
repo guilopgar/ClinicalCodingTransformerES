@@ -1,0 +1,48 @@
+T1	MORFOLOGIA_NEOPLASIA 3433 3455	afectación a distancia
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 5201 5210	carcinoma
+#2	AnnotatorNotes T2	8010/3
+T3	MORFOLOGIA_NEOPLASIA 5762 5771	carcinoma
+#3	AnnotatorNotes T3	8010/3
+T4	MORFOLOGIA_NEOPLASIA 5907 5927	carcinoma lobulillar
+#4	AnnotatorNotes T4	8520/3
+T5	MORFOLOGIA_NEOPLASIA 2251 2283	carcinoma lobulillar infiltrante
+#5	AnnotatorNotes T5	8520/3
+T6	MORFOLOGIA_NEOPLASIA 766 772	cáncer
+#6	AnnotatorNotes T6	8000/3
+T7	MORFOLOGIA_NEOPLASIA 4657 4663	cáncer
+#7	AnnotatorNotes T7	8000/3
+T8	MORFOLOGIA_NEOPLASIA 656 674	lesiones hepáticas
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 3456 3467	metastásica
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 675 687	metastásicas
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 5015 5020	tumor
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 5186 5191	tumor
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 5358 5363	tumor
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 5541 5546	tumor
+#14	AnnotatorNotes T14	8000/1
+T15	MORFOLOGIA_NEOPLASIA 5874 5879	tumor
+#15	AnnotatorNotes T15	8000/1
+T16	MORFOLOGIA_NEOPLASIA 1989 1996	tumoral
+#16	AnnotatorNotes T16	8000/1
+T17	MORFOLOGIA_NEOPLASIA 5326 5333	tumoral
+#17	AnnotatorNotes T17	8000/1
+T18	MORFOLOGIA_NEOPLASIA 4210 4229	tumoral a distancia
+#18	AnnotatorNotes T18	8000/6
+T19	MORFOLOGIA_NEOPLASIA 2148 2173	metastásica por carcinoma
+#19	AnnotatorNotes T19	8010/6
+T20	MORFOLOGIA_NEOPLASIA 2285 2288	CLI
+#20	AnnotatorNotes T20	8520/3
+T21	MORFOLOGIA_NEOPLASIA 4025 4066	adenopatías en regiones supraclaviculares
+#21	AnnotatorNotes T21	8000/6
+T22	MORFOLOGIA_NEOPLASIA 4319 4335	lesión orbitaria
+#22	AnnotatorNotes T22	8000/6
+T23	MORFOLOGIA_NEOPLASIA 4383 4453	Carcinoma lobulillar infiltrante estadio IV (por afectación orbitaria)
+#23	AnnotatorNotes T23	8520/6
+T24	MORFOLOGIA_NEOPLASIA 5390 5418	cáncer de origen desconocido
+#24	AnnotatorNotes T24	8000/9

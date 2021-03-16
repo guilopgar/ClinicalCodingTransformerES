@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 3319 3331	angiosarcoma
+#1	AnnotatorNotes T1	9120/3
+T2	MORFOLOGIA_NEOPLASIA 59 75	carcinoma ductal
+#2	AnnotatorNotes T2	8500/3
+T3	MORFOLOGIA_NEOPLASIA 4241 4257	implante tumoral
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1032 1042	malignidad
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 1237 1249	neoformación
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 2228 2237	neoplasia
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 2312 2322	neoplásica
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 1782 1818	Angiosarcoma pobremente diferenciado
+#8	AnnotatorNotes T8	9120/33

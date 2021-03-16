@@ -1,0 +1,29 @@
+Anamnesis
+Varón de 52 años, con antecedentes personales: fumador de 33 paquetes/años; herniorrafia inguinal hace 11 años; fractura de muñeca y clavícula derecha.
+Asintomático hasta noviembre de 2012, que comienza con hiporexia sin clara pérdida de peso y tos con expectoración verdosa, lo que motiva ingreso para estudio.
+Durante el período de hospitalización se detectan cifras de tensión elevadas, hiperglucemia y niveles de potasio bajos persistentes a pesar de tratamiento adecuado, lo que motiva la evaluación de los niveles de cortisol en plasma, en orina y los niveles de ACTH.
+
+Examen físico
+TA 140/70; afebril; ECOG 1.
+Destaca a la auscultación pulmonar: sibilantes inspiratorios con crepitantes gruesos en bases y roncus, sobre todo en el hemitórax derecho. Resto anodino.
+
+Pruebas complementarias
+Hemograma: leucocitos 10.100 (9.700 neutrófilos); Hb 10,1 g/dl; plaquetas 126.000/mm3.
+Bioquímica: glucosa 158 mg/dl; Na 149 mEq/l; K 1,9 mEq/l; LDH 530 U/l; GPT 140 U/l.
+Cortisoluria: 149 microg/dl (10-100); cortisolemia: 150 microg/dl (tarde 3,09-16,66) y ACTH 311 picog/ml (<50).
+ECG: normal.
+TAC corporal: masa hiliar derecha con extensión mediastínica, en contacto con la carina, arteria y vena pulmonar derecha, vena cava superior y bronquio principal; además, se observa un patrón sugestivo de neumonitis postobstructiva; adenopatías de 2 cm en espacio prevascular, paratraqueal, grasa pericárdica y subcarinal y lesiones hepáticas en segmento VI y VIII sugestivas de metástasis.
+Broncoscopia : En la entrada de LSD y bronquio superior derecho masa necrótica que obstruye el bronquio segmentario anterior y superior del LSD de la que se toman muestras para estudio
+Anatomía Patológica: Carcinoma anaplásico de células pequeñas
+TAC craneal sin hallazgos.
+
+Diagnóstico
+Carcinoma microcítico de pulmón derecho T4N3M1 (hígado), estadio IV.
+Síndrome paraneoplásico productor de ACTH.
+
+Tratamiento
+Se instaura tratamiento sintomático con el objeto de controlar la tensión arterial y las alteraciones metabólicas: glucemia e iones, con diuréticos, insulina y potasio con respuesta inicial satisfactoria, salvo por persistencia de hipopotasemia. Se inicia quimioterapia basada en carboplatino y etopósido con una reducción de dosis del 20 % por ECOG 2 con buena tolerancia, por lo que es dado de alta.
+
+Evolución
+En día +6 acude a Urgencias por fiebre, detectándose neutropenia de grado 4, anemia y trombopenia de grado 3, iniciándose soporte con antibióticoterapia de amplio espectro, G-CSF, transfusión de hemoderivados y oxigenoterapia, evolucionando favorablemente. En los hemocultivos se aísla S. Aureus meticilin resistente.
+En las semanas posteriores presenta un episodio de broncoaspiración, que, a pesar de tratamiento intensivo, evoluciona desfavorablemente y el paciente fallece.

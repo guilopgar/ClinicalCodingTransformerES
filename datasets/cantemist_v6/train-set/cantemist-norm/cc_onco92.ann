@@ -1,0 +1,6 @@
+T1	MORFOLOGIA_NEOPLASIA 995 1002	tumoral
+#1	AnnotatorNotes T1	8000/1
+T2	MORFOLOGIA_NEOPLASIA 702 743	adenopatías cervicales, supraclaviculares
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1272 1289	metástasis de ADC
+#3	AnnotatorNotes T3	8140/6

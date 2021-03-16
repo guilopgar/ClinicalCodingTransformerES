@@ -1,0 +1,38 @@
+T1	MORFOLOGIA_NEOPLASIA 1716 1728	cistoadenoma
+#1	AnnotatorNotes T1	8440/0
+T2	MORFOLOGIA_NEOPLASIA 1686 1697	hemangiomas
+#2	AnnotatorNotes T2	9120/0
+T3	MORFOLOGIA_NEOPLASIA 2054 2076	implantes peritoneales
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1850 1860	tumoración
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 1532 1540	teratoma
+#5	AnnotatorNotes T5	9080/1
+T6	MORFOLOGIA_NEOPLASIA 1749 1757	teratoma
+#6	AnnotatorNotes T6	9080/1
+T7	MORFOLOGIA_NEOPLASIA 1970 1978	teratoma
+#7	AnnotatorNotes T7	9080/1
+T8	MORFOLOGIA_NEOPLASIA 2036 2051	tumor folicular
+#8	AnnotatorNotes T8	8330/1
+T9	MORFOLOGIA_NEOPLASIA 2093 2115	Struma ovárico maligno
+#9	AnnotatorNotes T9	9090/3
+T10	MORFOLOGIA_NEOPLASIA 2763 2791	Struma ovárico metastatizado
+#10	AnnotatorNotes T10	9090/6
+T11	MORFOLOGIA_NEOPLASIA 2853 2866	Struma ovarii
+#11	AnnotatorNotes T11	9090/1
+T12	MORFOLOGIA_NEOPLASIA 2806 2891	Teratoma maligno con diferenciación folicular (Struma ovarii) con afectación hepática
+#12	AnnotatorNotes T12	9090/6
+T13	MORFOLOGIA_NEOPLASIA 3644 3665	lesión focal hepática
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 3799 3836	foco hipermetabólico a nivel hepático
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 4441 4478	metástasis de estruma ovárico maligno
+#15	AnnotatorNotes T15	9090/6
+T16	MORFOLOGIA_NEOPLASIA 2236 2251	lesión hepática
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 3239 3251	LOE hepática
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 4058 4122	lesiones ocupantes de espacio localizadas en parénquima hepático
+#18	AnnotatorNotes T18	8000/6
+T19	MORFOLOGIA_NEOPLASIA 763 781	lesiones hepáticas
+#19	AnnotatorNotes T19	8000/6

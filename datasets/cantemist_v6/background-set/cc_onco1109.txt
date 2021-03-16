@@ -1,0 +1,29 @@
+Anamnesis
+Varón de 63 años, sin alergias medicamentosas conocidas, DM tipo 2, HTA, hipercolesterolemia, cardiopatía isquémica con doble bypass coronario, colecistectomía y hernioplastia.
+Antecedente oncológico: nefrectomía radical derecha hace 16 años por carcinoma renal, en remisión completa.
+Durante el seguimiento de un adenoma suprarrenal por Urología, es derivado para su estudio y tratamiento por el hallazgo casual de una imagen nodular pancreática en la TC de control. El paciente estaba asintomático.
+
+Examen físico
+En la exploración física presenta un buen estado general, normocoloreado, sin ictericia, sin hallazgos patológicos en la auscultación cardiopulmonar, cicatriz de lumbotomía derecha y colecistectomía previa; abdomen globuloso, blando, depresible e indoloro, no impresiona la presencia de masas ni megalias a la palpación.
+
+Pruebas complementarias
+- En la analítica destacaba la mínima anemia normocítica normocrómica (hemoglobina 12,4 g/dl), aumento de la creatinina (1,8 mg/dl), hiperuricemia (82 mg/dl), disminución del filtrado glomerular estimado (43 ml/min); el resto de los parámetros eran normales. Los marcadores tumorales CA19.9 y CEA fueron negativos. Las concentraciones sanguíneas de beta-2-microglobulina, glucagón, somatostatina y los valores en orina de ácido 5-hidroxiindolacético estaban dentro de la normalidad. El valor de la cromogranina estaba elevado (589,7 mg/dl).
+- La TC de abdomen describe: una masa sólida en el cuerpo del páncreas de 4 x 3,7 cm con forma redondeada y bordes bien definidos, que capta contraste en la fase arterial de predominio periférico, dejando su centro un área hipodensa compatible con necrosis, y en la fase portal mantiene el realce de forma similar al páncreas. Riñón izquierdo sin alteraciones, salvo pequeños quistes simples. Adenoma suprarrenal derecho de 2 cm.
+
+Diagnóstico
+Tumor pancreático de naturaleza hipervascular, que por las características de la imagen es compatible en primer lugar con tumor neuroendocrino, sin poder descartar la posibilidad de metástasis de cáncer renal.
+
+Tratamiento
+Se discute el caso en sesión clínica multidisciplinar, dada la sospecha de tumor neuroendocrino versus metástasis única de carcinoma renal, y se decide realizar una esplenopancreatectomía corporocaudal.
+El resultado anatomopatológico fue: lesión nodular de consistencia firme de 3,5 cm compatible con metástasis de carcinoma de células claras renales. El estudio IHQ demuestra positividad de estas células para CD10 y anhidrasa carbónica.
+
+Evolución
+Evoluciona favorablemente en el postoperatorio y desde entonces está en seguimiento por Oncología Médica. Inició tratamiento con sunitinib y tras 10 meses de seguimiento no ha evidenciado recurrencias.
+La mayoría de los tumores pancreáticos son primarios, siendo las metástasis (METS) pancreáticas extremadamente infrecuentes, ya que representan entre el 2% y el 5% del total1-3. Los focos primarios más frecuentes suelen ser pulmón, colon, mama, piel y cerebro. Las METS debido a carcinoma renal (CR) son raras, entre el 1% y el 2,8%, ya que los lugares más frecuentes de METS de este tumor son: pulmón (50-60%), hueso (30-40%), hígado (30-40%), suprarrenales y cerebro (5%)1-4.
+El CR de células claras es el tipo histológico más reportado (representa el 70-80% del total). Las METS pancreáticas por CR pueden presentarse en forma sincrónica (20%) o metacrónica (40-50%); incluso el 10% de los casos pueden recurrir después de 10 años de la cirugía del tumor primario, describiéndose un caso tras 32 años de realizada la nefrectomía radical.
+La vía de diseminación es controvertida, la hematógena puede ocurrir a través de las venas colaterales de un tumor hipervascularizado y la linfática por flujo retrógrado o infiltración de los ganglios retroperitoneales.
+El cuadro clínico es variable y dependerá de la ubicación de la neoplasia, siendo indistinguibles de los primarios. Sin embargo, aproximadamente la mitad de los pacientes suelen estar asintomáticos siendo diagnosticados casualmente durante los estudios de control.
+En la TC los tumores altamente vascularizados (como nuestro paciente) son más representativos de tumores neuroendocrinos (TNE) o METS, pero no existen elementos que permitan realizar el diagnóstico diferencial desde el punto de vista radiológico; no obstante, el antecedente de CR nos hizo pensar en la posibilidad de recidiva.
+Actualmente se recomienda el tratamiento quirúrgico para las METS pancreáticas únicas y asintomáticas, cuando el tumor primario está controlado, porque mejora la supervivencia e incluso la calidad de vida de los pacientes (para las lesiones de cuerpo o cola, la técnica de elección es la pancreatectomía distal con o sin esplenectomía).
+Consideramos importante resaltar que el comportamiento de las METS pancreáticas del CR es similar al de los TNE, y, tal como ocurrió en nuestro caso, el diagnóstico diferencial fue complicado. No obstante, debemos realizarlo porque se trata de dos entidades totalmente diferentes, tanto en el manejo como en el pronóstico. Por ello, la historia clínica, las pruebas complementarias y la anatomía patológica fueron de vital importancia para completar el estudio.
+A pesar de la escasa evidencia en la literatura médica del empleo de sunitinib en "adyuvancia" de metastectomía de CR, se decidió en sesión del Servicio administrarla, siendo controvertido el momento de la retirada del fármaco en caso de no progresión.

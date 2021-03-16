@@ -1,0 +1,18 @@
+T1	MORFOLOGIA_NEOPLASIA 1842 1870	carcinoma ductal infiltrante
+#1	AnnotatorNotes T1	8500/3
+T2	MORFOLOGIA_NEOPLASIA 5749 5777	carcinoma ductal infiltrante
+#2	AnnotatorNotes T2	8500/3
+T3	MORFOLOGIA_NEOPLASIA 1637 1658	extensión a distancia
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1394 1404	malignidad
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 1599 1609	malignidad
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 1771 1793	malignidad a distancia
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 779 789	neoplásico
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 1085 1130	carcinoma ductal infiltrante de mama, grado 2
+#8	AnnotatorNotes T8	8500/32
+T9	MORFOLOGIA_NEOPLASIA 1901 1908	cT2N2M0
+#9	AnnotatorNotes T9	8000/6

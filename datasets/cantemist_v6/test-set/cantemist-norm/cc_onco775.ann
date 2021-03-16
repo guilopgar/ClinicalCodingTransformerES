@@ -1,0 +1,32 @@
+T1	MORFOLOGIA_NEOPLASIA 3661 3675	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 164 211	adenocarcinoma de endometrio tipo endometrioide
+#2	AnnotatorNotes T2	8380/3
+T3	MORFOLOGIA_NEOPLASIA 3546 3563	células tumorales
+#3	AnnotatorNotes T3	8001/1
+T4	MORFOLOGIA_NEOPLASIA 2587 2597	leiomiomas
+#4	AnnotatorNotes T4	8890/0
+T5	MORFOLOGIA_NEOPLASIA 4691 4701	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 2518 2528	neoplasias
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 2877 2890	tumor benigno
+#7	AnnotatorNotes T7	8000/0
+T8	MORFOLOGIA_NEOPLASIA 2599 2613	tumor desmoide
+#8	AnnotatorNotes T8	8821/1
+T9	MORFOLOGIA_NEOPLASIA 580 603	tumor fibroso solitario
+#9	AnnotatorNotes T9	8815/0
+T10	MORFOLOGIA_NEOPLASIA 1776 1799	tumor fibroso solitario
+#10	AnnotatorNotes T10	8815/0
+T11	MORFOLOGIA_NEOPLASIA 2467 2490	tumor fibroso solitario
+#11	AnnotatorNotes T11	8815/0
+T12	MORFOLOGIA_NEOPLASIA 236 243	T3aN0M0
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 3089 3120	infiltración de lóbulo hepático
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 3189 3217	adenocarcinoma de alto grado
+#14	AnnotatorNotes T14	8140/34
+T15	MORFOLOGIA_NEOPLASIA 4789 4829	afectación tumoral de la cúpula hepática
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 4882 4922	enfermedad a nivel ganglionar y hepática
+#16	AnnotatorNotes T16	8000/6

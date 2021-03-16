@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 1051 1080	adenopatías supraclaviculares
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 88 109	carcinoma epidermoide
+#2	AnnotatorNotes T2	8070/3
+T3	MORFOLOGIA_NEOPLASIA 1811 1832	carcinoma epidermoide
+#3	AnnotatorNotes T3	8070/3
+T4	MORFOLOGIA_NEOPLASIA 1503 1519	células malignas
+#4	AnnotatorNotes T4	8001/3
+T5	MORFOLOGIA_NEOPLASIA 860 883	metástasis de carcinoma
+#5	AnnotatorNotes T5	8010/6
+T6	MORFOLOGIA_NEOPLASIA 205 238	neoplasia urotelial de bajo grado
+#6	AnnotatorNotes T6	8000/11
+T7	MORFOLOGIA_NEOPLASIA 1691 1740	metástasis de carcinoma, sugerente de epidermoide
+#7	AnnotatorNotes T7	8070/6
+T8	MORFOLOGIA_NEOPLASIA 1924 1953	tumor urotelial de bajo grado
+#8	AnnotatorNotes T8	8000/11

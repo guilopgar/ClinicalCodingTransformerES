@@ -1,0 +1,32 @@
+T1	MORFOLOGIA_NEOPLASIA 1795 1801	T3N1M0
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1742 1756	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 1047 1077	carcinoma de células escamosas
+#3	AnnotatorNotes T3	8070/3
+T4	MORFOLOGIA_NEOPLASIA 1166 1183	células tumorales
+#4	AnnotatorNotes T4	8001/1
+T5	MORFOLOGIA_NEOPLASIA 1235 1252	células tumorales
+#5	AnnotatorNotes T5	8001/1
+T6	MORFOLOGIA_NEOPLASIA 2318 2337	implantes pleurales
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 4026 4036	malignidad
+#7	AnnotatorNotes T7	8000/3
+T8	MORFOLOGIA_NEOPLASIA 840 850	metástasis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 650 660	tumoración
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 796 814	lesiones pleurales
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 1362 1378	carcinoma tímico
+#11	AnnotatorNotes T11	8586/3
+T12	MORFOLOGIA_NEOPLASIA 1556 1572	carcinoma tímico
+#12	AnnotatorNotes T12	8586/3
+T13	MORFOLOGIA_NEOPLASIA 1616 1657	adenocarcinoma de colon bien diferenciado
+#13	AnnotatorNotes T13	8140/31
+T14	MORFOLOGIA_NEOPLASIA 1927 1966	carcinoma escamoso pulmonar metastásico
+#14	AnnotatorNotes T14	8070/6
+T15	MORFOLOGIA_NEOPLASIA 1808 1856	carcinoma tímico escamoso con afectación pleural
+#15	AnnotatorNotes T15	8586/6
+T16	MORFOLOGIA_NEOPLASIA 1411 1426	lesión pulmonar
+#16	AnnotatorNotes T16	8000/6

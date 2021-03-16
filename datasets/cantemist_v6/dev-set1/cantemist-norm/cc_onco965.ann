@@ -1,0 +1,28 @@
+T1	MORFOLOGIA_NEOPLASIA 2711 2731	Melanoma metastásico
+#1	AnnotatorNotes T1	8720/6
+T2	MORFOLOGIA_NEOPLASIA 2271 2291	focos osteoblásticos
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 3973 3987	lesiones óseas
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2050 2066	masa suprarrenal
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2091 2101	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 2748 2758	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 2542 2573	metástasis por melanoma maligno
+#7	AnnotatorNotes T7	8720/6
+T8	MORFOLOGIA_NEOPLASIA 277 286	neoplasia
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 2103 2129	lesión en cuerpo vertebral
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 2163 2173	metástasis
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 3932 3947	masa pararrenal
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 4410 4425	masa pararrenal
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 4951 4977	lesión residual pararrenal
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 5357 5383	lesión residual pararrenal
+#14	AnnotatorNotes T14	8000/6

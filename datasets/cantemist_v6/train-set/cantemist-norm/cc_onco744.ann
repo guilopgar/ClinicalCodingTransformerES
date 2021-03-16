@@ -1,0 +1,10 @@
+T1	MORFOLOGIA_NEOPLASIA 1486 1513	carcinoma de célula pequeña
+#1	AnnotatorNotes T1	8041/3
+T2	MORFOLOGIA_NEOPLASIA 1408 1419	metastásica
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1161 1173	neoformación
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 1579 1638	carcinoma microcítico de pulmón, enfermedad extensa (hígado
+#4	AnnotatorNotes T4	8041/6
+T5	MORFOLOGIA_NEOPLASIA 2619 2659	cáncer de pulmón microcítico metastásico
+#5	AnnotatorNotes T5	8041/6

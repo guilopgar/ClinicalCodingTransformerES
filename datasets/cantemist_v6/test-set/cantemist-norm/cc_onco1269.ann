@@ -1,0 +1,26 @@
+T1	MORFOLOGIA_NEOPLASIA 1304 1319	Hepatocarcinoma
+#1	AnnotatorNotes T1	8170/3
+T2	MORFOLOGIA_NEOPLASIA 199 209	hemangioma
+#2	AnnotatorNotes T2	9120/0
+T3	MORFOLOGIA_NEOPLASIA 936 946	hemangioma
+#3	AnnotatorNotes T3	9120/0
+T4	MORFOLOGIA_NEOPLASIA 1710 1725	hepatocarcinoma
+#4	AnnotatorNotes T4	8170/3
+T5	MORFOLOGIA_NEOPLASIA 2318 2333	hepatocarcinoma
+#5	AnnotatorNotes T5	8170/3
+T6	MORFOLOGIA_NEOPLASIA 296 306	malignidad
+#6	AnnotatorNotes T6	8000/3
+T7	MORFOLOGIA_NEOPLASIA 1579 1589	malignidad
+#7	AnnotatorNotes T7	8000/3
+T8	MORFOLOGIA_NEOPLASIA 2168 2179	metastásica
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 1326 1333	pT3NxMx
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 846 851	tumor
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 1020 1075	hepatocarcinoma multinodular moderadamente diferenciado
+#11	AnnotatorNotes T11	8170/32
+T12	MORFOLOGIA_NEOPLASIA 1020 1127	hepatocarcinoma multinodular moderadamente diferenciado con patrón histológico predominantemente trabecular
+#12	AnnotatorNotes T12	8190/3
+T13	MORFOLOGIA_NEOPLASIA 1923 1946	progresión metastástica
+#13	AnnotatorNotes T13	8000/6

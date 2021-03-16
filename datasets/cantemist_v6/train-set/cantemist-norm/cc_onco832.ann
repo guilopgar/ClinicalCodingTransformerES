@@ -1,0 +1,36 @@
+T1	MORFOLOGIA_NEOPLASIA 555 557	M0
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1968 1970	M0
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1627 1641	adenocarcinoma
+#3	AnnotatorNotes T3	8140/3
+T4	MORFOLOGIA_NEOPLASIA 4224 4238	adenocarcinoma
+#4	AnnotatorNotes T4	8140/3
+T5	MORFOLOGIA_NEOPLASIA 6851 6865	adenocarcinoma
+#5	AnnotatorNotes T5	8140/3
+T6	MORFOLOGIA_NEOPLASIA 458 499	adenocarcinoma moderadamente diferenciado
+#6	AnnotatorNotes T6	8140/32
+T7	MORFOLOGIA_NEOPLASIA 4122 4138	células malignas
+#7	AnnotatorNotes T7	8001/3
+T8	MORFOLOGIA_NEOPLASIA 4183 4209	células tumorales malignas
+#8	AnnotatorNotes T8	8001/3
+T9	MORFOLOGIA_NEOPLASIA 3876 3886	hemangioma
+#9	AnnotatorNotes T9	9120/0
+T10	MORFOLOGIA_NEOPLASIA 3728 3738	metástasis
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 1880 1889	neoplasia
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 5548 5558	neoplásico
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 3586 3593	tumoral
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 4439 4446	tumoral
+#14	AnnotatorNotes T14	8000/1
+T15	MORFOLOGIA_NEOPLASIA 679 714	progresión locorregional y hepática
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 1891 1923	adenocarcinoma bien diferenciado
+#16	AnnotatorNotes T16	8140/32
+T17	MORFOLOGIA_NEOPLASIA 4968 5014	adenopatías hipermetabólicas supraclaviculares
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 5861 5930	adenocarcinoma de pulmón, con presencia de células en anillo de sello
+#18	AnnotatorNotes T18	8490/3

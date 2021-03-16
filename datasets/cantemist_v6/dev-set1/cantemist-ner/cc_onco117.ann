@@ -1,0 +1,22 @@
+T1	MORFOLOGIA_NEOPLASIA 3835 3839	PNET
+T2	MORFOLOGIA_NEOPLASIA 3378 3397	celularidad tumoral
+T3	MORFOLOGIA_NEOPLASIA 500 522	enfermedad a distancia
+T4	MORFOLOGIA_NEOPLASIA 5780 5805	implantes en el peritoneo
+T5	MORFOLOGIA_NEOPLASIA 4040 4062	implantes peritoneales
+T6	MORFOLOGIA_NEOPLASIA 4508 4530	implantes peritoneales
+T7	MORFOLOGIA_NEOPLASIA 2480 2490	neoplásica
+T8	MORFOLOGIA_NEOPLASIA 5266 5286	nódulos peritoneales
+T9	MORFOLOGIA_NEOPLASIA 2759 2766	tumoral
+T10	MORFOLOGIA_NEOPLASIA 798 822	neuroblastoma anaplásico
+T11	MORFOLOGIA_NEOPLASIA 923 947	neuroblastoma anaplásico
+T12	MORFOLOGIA_NEOPLASIA 1738 1773	implantes en la superficie del bazo
+T13	MORFOLOGIA_NEOPLASIA 3031 3076	implantes de tumor neuroectodérmico primitivo
+T14	MORFOLOGIA_NEOPLASIA 3116 3158	implantes en la grasa perihiliar esplénica
+T15	MORFOLOGIA_NEOPLASIA 3818 3834	sarcoma de Ewing
+T16	MORFOLOGIA_NEOPLASIA 3841 3874	tumor neuroectodérmico periférico
+T17	MORFOLOGIA_NEOPLASIA 3931 3955	recaída precoz esplénica
+T18	MORFOLOGIA_NEOPLASIA 3999 4027	enfermedad a nivel abdominal
+T19	MORFOLOGIA_NEOPLASIA 4118 4142	neuroblastoma anaplásico
+T20	MORFOLOGIA_NEOPLASIA 4355 4381	recidiva precoz peritoneal
+T21	MORFOLOGIA_NEOPLASIA 4621 4637	sarcoma de Ewing
+T22	MORFOLOGIA_NEOPLASIA 5507 5521	nódulo pélvico

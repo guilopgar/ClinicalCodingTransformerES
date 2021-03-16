@@ -1,0 +1,27 @@
+Anamnesis
+Paciente de 71 años, sin alergias medicamentosas conocidas, exfumador desde los 53 años con un hábito tabáquico acumulado de 50 paquetes-año, con múltiples factores de riesgo cardiovascular, que había trabajado de encofrador.
+Como antecedentes patológicos, refiere una fibrilación auricular, una nefrectomía por traumatismo abdominal y un tromboembolismo pulmonar bilateral previo. Su historia oncológica se inicia en 2008, con dolor costal izquierdo. Una tomografía computarizada (TC) pulmonar donde objetiva la presencia de un nódulo de 9 mm en el lóbulo inferior derecho del que se realizan controles posteriores, sin cambios significativos. En abril de 2011, se observa aumento de tamaño de dicho nódulo (23 x 14 mm), presentando en ese momento bordes espiculados. Por el aspecto sugestivo de malignidad, se realiza una lobectomía inferior derecha (con márgenes libres) y una linfadenectomía. El informe patológico resulta compatible con adenocarcinoma de pulmón pobremente diferenciado pT1bN2 (adenopatías subcarinales) M0 (estadio IIIa). Realiza tratamiento adyuvante con quimioterapia (cisplatino 75 mg/m2 + gemcitabina 1.250 mg/m2, días 1 y 8 cada 21 días, durante cuatro ciclos, dentro de un ensayo clínico) y radioterapia (50 Gy en 25 fracciones) finalizando en diciembre de 2012. En octubre de 2013 realiza el último control clínico-radiológico, sin evidencia de recidiva tras 28 meses desde la cirugía.
+Acude a Urgencias en marzo de 2014 por un episodio sincopal y traumatismo craneoencefálico, explicando asimismo un cuadro de cefalea bitemporal y vómitos en escopetazo de meses de evolución, junto con inestabilidad cefálica.
+
+Examen físico
+Paciente consciente y orientado, con deshidratación de mucosas. ECOG PS 3 (postración por inestabilidad cefálica).
+Hematoma periorbital derecho. Hipofonesis basal derecha (secundaria a lobectomía). Exploración neurológica: Romberg positivo, atáxico, con lateralización de la marcha hacia la derecha, desviación de la comisura labial derecha, ptosis derecha, fuerza y sensibilidad conservadas en ambas extremidades. Resto de la exploración sin alteraciones.
+
+Pruebas complementarias
+- TC craneal: presencia de dos lesiones ocupantes de espacio, una en el ventrículo lateral izquierdo y otra en el cuarto ventrículo.
+- Resonancia magnética (RM) craneal: dos lesiones expansivas sólidas intraventriculares, con hidrocefalia no comunicante secundaria, con leves signos de actividad por reabsorción transependimaria.
+- No se objetivaron lesiones intraparenquimatosas en la TC o la RM craneal.
+- Citología del líquido cefalorraquideo: acelular.
+Por sospecha de progresión de la enfermedad neoplásica y para completar el estudio de extensión, se llevan a cabo:
+- TC torácica: recidiva y nódulos contralaterales infracentimétricos, sugerentes de metástasis.
+- Gammagrafía ósea: focos hipercaptantes sugestivos de metástasis en ambas sacroiliacas y tercio proximal del fémur derecho.
+- Determinación molecular: EGFR wild-type.
+
+Diagnóstico
+Hipertensión intracraneal secundaria a metástasis intraventriculares en el ventrículo lateral izquierdo y cuarto ventrículo en un paciente con progresión local y a distancia (óseas e intraventriculares) de adenocarcinoma de pulmón.
+
+Tratamiento
+Se inicia tratamiento con esteroides a altas dosis y acetazolamida, con mejoría parcial de la clínica, pero con persistencia de la clínica vertiginosa, que limita la deambulación. Finalmente, por persistencia de la sintomatología, se realiza una derivación ventrículo-peritoneal.
+
+Evolución
+Pasadas 24 horas tras la intervención, el paciente presenta mejoría progresiva de la clínica, con remisión completa de la cefalea y los vómitos. A las 48 horas el paciente es capaz de ponerse en posición de bipedestación e inicia deambulación progresiva.

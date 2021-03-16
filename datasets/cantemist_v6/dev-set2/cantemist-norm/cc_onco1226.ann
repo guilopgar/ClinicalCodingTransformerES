@@ -1,0 +1,14 @@
+T1	MORFOLOGIA_NEOPLASIA 1712 1726	carcinomatosis
+#1	AnnotatorNotes T1	8010/9
+T2	MORFOLOGIA_NEOPLASIA 1555 1574	implante peritoneal
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1657 1669	neoformación
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 1801 1863	adenocarcinoma de células caliciformes con componente mucinoso
+#4	AnnotatorNotes T4	8480/3
+T5	MORFOLOGIA_NEOPLASIA 2074 2138	Adenocarcinoide apendicular estadio IV por afectación peritoneal
+#5	AnnotatorNotes T5	8245/6
+T6	MORFOLOGIA_NEOPLASIA 2176 2240	adenocarcinoide apendicular estadio IV por afectación peritoneal
+#6	AnnotatorNotes T6	8245/6
+T7	MORFOLOGIA_NEOPLASIA 2799 2863	implantes peritoneales múltiples por adenocarcinoma mucosecretor
+#7	AnnotatorNotes T7	8481/6

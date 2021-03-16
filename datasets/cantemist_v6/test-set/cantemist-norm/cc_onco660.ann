@@ -1,0 +1,10 @@
+T1	MORFOLOGIA_NEOPLASIA 971 981	carcinoide
+#1	AnnotatorNotes T1	8240/3
+T2	MORFOLOGIA_NEOPLASIA 318 328	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1468 1478	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 208 228	tumor neuroendocrino
+#4	AnnotatorNotes T4	8240/3
+T5	MORFOLOGIA_NEOPLASIA 1112 1119	tumoral
+#5	AnnotatorNotes T5	8000/1

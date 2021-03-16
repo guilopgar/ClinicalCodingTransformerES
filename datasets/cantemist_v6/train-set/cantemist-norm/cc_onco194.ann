@@ -1,0 +1,30 @@
+T1	MORFOLOGIA_NEOPLASIA 2200 2214	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 235 256	carcinoma basocelular
+#2	AnnotatorNotes T2	8090/3
+T3	MORFOLOGIA_NEOPLASIA 2823 2847	carcinoma neuroendocrino
+#3	AnnotatorNotes T3	8246/3
+T4	MORFOLOGIA_NEOPLASIA 2044 2069	linfangitis carcinomatosa
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 2137 2148	metastásica
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 1347 1357	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1229 1234	tumor
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 2738 2749	tumor mixto
+#8	AnnotatorNotes T8	8000/1/H
+T9	MORFOLOGIA_NEOPLASIA 1112 1141	adenocarcinoma indiferenciado
+#9	AnnotatorNotes T9	8140/34
+T10	MORFOLOGIA_NEOPLASIA 1504 1531	adecarcinoma indiferenciado
+#10	AnnotatorNotes T10	8140/34
+T11	MORFOLOGIA_NEOPLASIA 1876 1960	adenocarcinoma pobremente diferenciado grado 3 difuso con células en anillo de sello
+#11	AnnotatorNotes T11	8490/33
+T12	MORFOLOGIA_NEOPLASIA 2593 2632	tumor una diferenciación neuroendocrina
+#12	AnnotatorNotes T12	8240/3
+T13	MORFOLOGIA_NEOPLASIA 2751 2820	adenocarcinoma pobremente diferenciado con células en anillo de sello
+#13	AnnotatorNotes T13	8490/33
+T14	MORFOLOGIA_NEOPLASIA 1876 1929	adenocarcinoma pobremente diferenciado grado 3 difuso
+#14	AnnotatorNotes T14	8145/33
+T15	MORFOLOGIA_NEOPLASIA 2738 2847	tumor mixto: adenocarcinoma pobremente diferenciado con células en anillo de sello y carcinoma neuroendocrino
+#15	AnnotatorNotes T15	8244/3

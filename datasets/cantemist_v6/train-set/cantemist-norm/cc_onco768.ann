@@ -1,0 +1,34 @@
+T1	MORFOLOGIA_NEOPLASIA 2196 2200	TGNS
+#1	AnnotatorNotes T1	9065/3
+T2	MORFOLOGIA_NEOPLASIA 1984 1998	coriocarcinoma
+#2	AnnotatorNotes T2	9100/3
+T3	MORFOLOGIA_NEOPLASIA 2246 2260	coriocarcinoma
+#3	AnnotatorNotes T3	9100/3
+T4	MORFOLOGIA_NEOPLASIA 2311 2321	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 5008 5018	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 2006 2014	teratoma
+#6	AnnotatorNotes T6	9080/1
+T7	MORFOLOGIA_NEOPLASIA 2060 2068	teratoma
+#7	AnnotatorNotes T7	9080/1
+T8	MORFOLOGIA_NEOPLASIA 2268 2276	teratoma
+#8	AnnotatorNotes T8	9080/1
+T9	MORFOLOGIA_NEOPLASIA 386 402	suelta de globos
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 1522 1537	tumor primitivo
+#10	AnnotatorNotes T10	8000/1/H
+T11	MORFOLOGIA_NEOPLASIA 1551 1593	carcinoma escamoso pobremente diferenciado
+#11	AnnotatorNotes T11	8070/33
+T12	MORFOLOGIA_NEOPLASIA 1596 1665	metástasis de tumor con diferenciación germinal de tipo trofoblástico
+#12	AnnotatorNotes T12	9064/6/H
+T13	MORFOLOGIA_NEOPLASIA 1905 1941	tumor germinal no seminomatoso mixto
+#13	AnnotatorNotes T13	9065/3/H
+T14	MORFOLOGIA_NEOPLASIA 1952 1977	tumor de seno endodérmico
+#14	AnnotatorNotes T14	9071/3
+T15	MORFOLOGIA_NEOPLASIA 2164 2207	Tumor germinal no seminomatoso (TGNS) mixto
+#15	AnnotatorNotes T15	9065/3/H
+T16	MORFOLOGIA_NEOPLASIA 2214 2239	tumor de seno endodérmico
+#16	AnnotatorNotes T16	9071/3
+T17	MORFOLOGIA_NEOPLASIA 1330 1348	nódulos pulmonares
+#17	AnnotatorNotes T17	8000/6

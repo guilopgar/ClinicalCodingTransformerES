@@ -1,0 +1,88 @@
+Sexo: varón
+
+Edad: 48 años
+
+Antecedentes: Hipertensión arterial. En 2007: trombosis venosa profunda seguida de tromboembolismo agudo de pulmón. Recibió anticoagulación oral por 6 meses. En 2009: nuevo episodio de tromboembolismo agudo de pulmón. Retoma anticoagulación oral. Disnea progresiva desde 2010, actualmente CF IV
+
+ 
+Enfermedad actual
+
+Paciente que se hospitaliza en enero de 2014 por cuadro de insuficiencia cardíaca (IC) derecha. 
+
+ Examen físico: Signos de IC derecha con edemas, ascitis, hepatomegalia, ingurgitación yugular y soplo de insuficiencia tricuspídea severa.
+
+ ECG: Ritmo sinusal con eje a 150 grados e hipertrofia ventricular derecha con T negativas hasta V6 
+ 
+ Estudios previos (octubre de 2011)
+
+ AngioTC: No se observaron defectos de relleno en las ramas principales de la arteria pulmonar.
+
+ Eco Doppler cardiaco: VI conservado con leve hipertrofia, aplanamiento del septum, cavidades derechas severamente dilatadas y con función sistólica moderada a severamente deprimida, TAPSE 13 mm, presión sistólica de la arteria pulmonar (PSAP) 75 mmHg. 
+
+ Ecocardiograma Transesofágico: descarta CIA / FOP / CIV. Conclusión: Hipertrofia del VI leve. Hipertensión pulmonar (HP) severa con dilatación y deterioro de la función del ventrículo derecho, sin evidencia de cortocircuito intracardiaco.
+
+ En ese momento (2011) se interpretó el caso como Hipertensión Arterial Pulmonar (HAP) Idiopática. Se le indicó tratamiento con sildenafil y a los 12 meses se sumó bosentán por progresión de la disnea y desarrollo de IC derecha.
+ 
+Tratamiento
+
+ Ecocardiograma Doppler realizado en esta internación (2014)
+
+• Ventrículo izquierdo con función conservada, reducción de su cavidad
+
+• Septum interventricular aplanado 
+
+• Cavidades derechas dilatadas, TAPSE estimado en 14 mm
+
+• Insuficiencia tricuspídea severa con PAP: 94 mmHg 
+
+• Derrame pericárdico moderado.
+
+Se observa progresión de la HP y se confirman la dilatación severa de las cavidades derechas. La disfunción sistólica severa del VD, el aplanamiento del SIV y la presencia de derrame pericárdico son signos de mal pronóstico.
+
+ Centellograma VQ: Múltiples defectos de perfusión con ventilación conservada. Alta probabilidad de TEP.
+ 
+ Tratamiento
+
+ Cateterismo Cardíaco Derecho:
+
+• PAS: 125/70 (88) mmHg 
+
+• PAP: 85/35 (51) mmHg 
+
+• PAD: 18 mmHg
+
+• PCP: 14 mmHg
+
+• RVP: 1125 dinas/cm-5 
+
+• IC: 2,5 L/min/m2
+
+• PAS: presión arterial sistémica, PAP: presión de arteria pulmonar. 
+
+PAD: presión de aurícula derecha, PCP: presión capilar pulmonar RVP: Resistencia vascular pulmonar. IC: índice cardiaco.
+
+ Angiografía pulmonar: Obstrucciones de las arterias pulmonares del lóbulo superior e inferior derecho y del lóbulo medio e inferior izquierdo
+ 
+ Se realiza diagnóstico de Hipertensión Pulmonar Tromboembólica Crónica (HPTEC) 
+
+La tromboendarterectomía es el único tratamiento potencialmente curativo. Por esto, la evaluación para endarterectomia debe realizarse en todos los pacientes con evidencia de enfermedad tromboembólica crónica. La correlación entre el grado de Hipertension pulmonar y el de la "carga trombótica" es un factor importante para definir la elegibilidad y el pronóstico. Sin embargo entre un 30 a 40% de los pacientes no son candidatos por enfermedad distal o presencia de comorbilidades. Estos pacientes y aquellos con recurrencia o persistencia de la HP después de la cirugía, son candidatos a recibir tratamiento farmacológico específico con riociguat, un estimulador de la guanilato ciclasa soluble, hasta el momento el único fármaco que ha demostrado eficacia a corto y largo plazo en el tratamiento de este grupo de pacientes y que cuenta con la aprobación tanto de EMA, FDA y ANMAT (estudios CHEST-1 y CHEST-2).
+
+Riociguat ha demostrado mejorar no sólo parámetros funcionales y de ejercicio como la Clase Funcional de la OMS y el Test de caminata de 6 minutos, sino una serie de parámetros hemodinámicos como la RVP y el Índice Cardíaco, así como los niveles de biomarcadores (NT pro BNP).
+
+ 
+
+ Conducta tomada:
+
+Se colocó filtro en vena cava inferior y tromboendarterectomía pulmonar. 
+
+Obsérvese el material extraído del árbol pulmonar constituido por trombos organizados a nivel de las arterias segmentarios y subsegmentarias bilaterales.
+
+La presión media de la arteria pulmonar (PAPm) cayó a 28 mmHg y la RVP a 370 dinas en el posoperatorio inmediato.
+
+Observemos los ecocardiogramas comparativos del pre y post trombendarterectomia pulmonar que muestran la caída de las presiones pulmonares y la normalización del movimiento del septum interventricular (SIV) al resolverse la sobrecarga de presión del ventrículo derecho (VD). 
+
+Se rotó suspendió sildenafil y se inició tratamiento con riociguat.
+
+ Posterior al inicio del tratamiento farmacológico el paciente evoluciona con mejoría de su clase funcional (actualmente en CF I) y mejoría de la distancia recorrida en el test de marcha de los 6 minutos (con distancias > 440 metros), con buena tolerancia. 
+
+ Continúa manteniendo este perfil a 2 años de haber iniciado el tratamiento farmacológico con riociguat.

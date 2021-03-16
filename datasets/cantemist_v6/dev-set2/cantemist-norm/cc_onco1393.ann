@@ -1,0 +1,8 @@
+T1	MORFOLOGIA_NEOPLASIA 428 438	malignidad
+#1	AnnotatorNotes T1	8000/3
+T2	MORFOLOGIA_NEOPLASIA 548 583	tumor miofibroblastico inflamatorio
+#2	AnnotatorNotes T2	8825/1
+T3	MORFOLOGIA_NEOPLASIA 585 588	TMI
+#3	AnnotatorNotes T3	8825/1
+T4	MORFOLOGIA_NEOPLASIA 1304 1307	TMI
+#4	AnnotatorNotes T4	8825/1

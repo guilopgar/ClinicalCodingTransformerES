@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 2103 2112	Carcinoma
+#1	AnnotatorNotes T1	8010/3
+T2	MORFOLOGIA_NEOPLASIA 2169 2178	Carcinoma
+#2	AnnotatorNotes T2	8010/3
+T3	MORFOLOGIA_NEOPLASIA 2129 2135	T2N0M0
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 227 248	carcinoma intraductal
+#4	AnnotatorNotes T4	8500/2
+T5	MORFOLOGIA_NEOPLASIA 821 837	carcinoma seroso
+#5	AnnotatorNotes T5	8441/3
+T6	MORFOLOGIA_NEOPLASIA 952 986	cistoadenocarcinoma seroso papilar
+#6	AnnotatorNotes T6	8460/3
+T7	MORFOLOGIA_NEOPLASIA 2988 2994	cáncer
+#7	AnnotatorNotes T7	8000/3
+T8	MORFOLOGIA_NEOPLASIA 1478 1488	malignidad
+#8	AnnotatorNotes T8	8000/3
+T9	MORFOLOGIA_NEOPLASIA 2074 2086	metastásicas
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 258 266	pT2pN0M0
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 157 215	carcinoma ductal infiltrante de mama derecha multicéntrico
+#11	AnnotatorNotes T11	8500/3/H
+T12	MORFOLOGIA_NEOPLASIA 682 699	quístico y sólido
+#12	AnnotatorNotes T12	8452/1

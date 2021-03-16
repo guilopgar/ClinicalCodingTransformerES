@@ -1,0 +1,10 @@
+T1	MORFOLOGIA_NEOPLASIA 2077 2086	carcinoma
+T2	MORFOLOGIA_NEOPLASIA 2416 2425	carcinoma
+T3	MORFOLOGIA_NEOPLASIA 2567 2656	Recaída múltiple a nivel de tracto digestivo (esofágica y rectal) de carcinoma lobulillar
+T4	MORFOLOGIA_NEOPLASIA 2461 2495	metástasis de carcinoma lobulillar
+T5	MORFOLOGIA_NEOPLASIA 343 348	tumor
+T6	MORFOLOGIA_NEOPLASIA 192 202	tumoración
+T7	MORFOLOGIA_NEOPLASIA 314 324	tumoración
+T8	MORFOLOGIA_NEOPLASIA 1087 1127	adenopatías axilares o supraclaviculares
+T9	MORFOLOGIA_NEOPLASIA 2684 2703	afectación visceral
+T10	MORFOLOGIA_NEOPLASIA 2897 2917	progresión esofágica

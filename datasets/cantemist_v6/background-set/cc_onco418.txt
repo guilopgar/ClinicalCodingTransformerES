@@ -1,0 +1,29 @@
+Anamnesis
+Nuestra paciente es una mujer caucásica de 74 años sin hábitos tóxicos conocidos.
+Presenta factores de riesgo cardiovascular (hipertensión arterial y dislipemia) e hipotiroidismo autoinmune.
+Como antecedentes quirúrgicos destacan: cirugía de varices en miembros inferiores a los 24 años, histerectomía por leiomioma a los 35 años e implantación de prótesis de cadera en 2004 por artrosis.
+Como antecedentes oncológicos familiares: padre fallecido a los 60 años por hepatocarcinoma, tía paterna a los 60 años por cáncer de pulmón y otra tía paterna a los 39 años por leucemia.
+La paciente consulta en diciembre de 2015 por disfonía de un mes de evolución.
+
+Exploración física
+En la exploración física, nuestra paciente presenta un buen performance status, ECOG 0. No se palpan adenopatías axilares ni supraclaviculares. La auscultación cardiaca es normal, rítmica, sin soplos, y con murmullo vesicular conservado. El abdomen no muestra puntos dolorosos y no se palpan masas ni megalias. No hay edema en las extremidades inferiores, así como signos de trombosis venosa. La exploración neurológica no muestra focalidad.
+
+Pruebas complementarias
+Al realizar una radiografía de tórax se evidencia un nódulo en el lóbulo inferior derecho, por lo que se decide completar el estudio con una tomografía axial computarizada toracoabdominopélvica (TC-TAP), que confirma la presencia de una masa en lóbulo inferior derecho con diseminación ganglionar y pulmonar bilateral compatible con un tumor primario de pulmón cT2aN3M1a (estadio IVa de la 8ª clasificación TNM de la UICC).
+La biopsia bronquial confirma el diagnóstico de adenocarcinoma, portador de la mutación EGFR tipo L858R y la coexistencia de T790M (COBAS 4800 EGFR MUTATION TEST).
+
+Diagnóstico
+En definitiva, nuestra paciente presenta un adenocarcinoma de pulmón, estadio clínico IVa, (cT2aN3M1a: estadio IVa de la 8ª clasificación TNM de la UICC), con doble mutación puntual del EGFR L858R en exón 21 y T790M en exón 20, con ECOG 0 al diagnóstico, y sin ninguna contraindicación para recibir TKI.
+
+Tratamiento
+En febrero de 2016, comienza tratamiento de 1ª línea frente a enfermedad metastática con osimertinib 80 mg cada 24 horas dentro de ensayo clínico, recibiendo un total de 29 ciclos, con excelente control de síntomas y toxicidades grado 1: astenia, anorexia, sequedad ocular, tendinitis rotuliana y rash cutáneo facial.
+En septiembre de 2017 se detecta progresión pulmonar bilateral asintomática, con biopsia líquida negativa para T790M (COBAS).
+Continúa tratamiento con osimertinib hasta noviembre del 2017, con empeoramiento moderado de sintomatología respiratoria (tos), motivo, por el que se realiza segmentectomía atípica del lóbulo inferior derecho, guiada por cirugía videoasistida (VATS). El estudio anatomopatológico objetiva un tumor mixto, con áreas de adenocarcinoma de patrón lepídico y de carcinoma neuroendocrino tipo células pequeñas, ambos sin mutaciones de EGFR.
+En ese momento, inicia 2ª línea de tratamiento con carboplatino y etopósido, que recibe por un total de 6 ciclos con respuesta parcial radiológica.
+En marzo de 2018, se confirma nueva progresión pulmonar, detectándose en biopsia líquida la mutación de resistencia T790M (COBAS), pero ante la estabilidad clínica y por deseo de la paciente mantenemos seguimiento activo. En agosto de 2018, la paciente refiere disnea de moderados esfuerzos, confirmándose nueva progresión pulmonar en estudio de imagen, por lo que se inicia tratamiento con erlotinib + bevacizumab por un total de 4 ciclos.
+En octubre de 2018, se evidencia nueva progresión pulmonar, detectándose en biopsia líquida (panel de secuenciación masiva GUARDANT360) doble mutación de EGFR T790M y L858R, por lo que se decide rechallenge con osimertinib en 4ª cuarta línea, con excelente tolerancia y respuesta parcial pulmonar que mantiene hasta abril del 2019, cuando se evidencia progresión hepática y pulmonar, manteniendo la paciente ECOG 1.
+Se obtiene nuevo material tumoral mediante biopsia hepática, que confirma la presencia de carcinoma neuroendocrino de alto tipo, con expresión fuertemente positiva inmunohistoquímica de ALK (determinada con el clon D5F3), y persistencia de mutación EGFR L858R y T790M (COBAS).
+A la espera de la confirmación de la positividad de ALK mediante FISH y NGS, y ante rápido deterioro clínico, se decide iniciar tratamiento con alectinib en abril de 2019.
+
+Evolución
+Nuestra paciente presenta una supervivencia global de 40 meses, durante los cuales mantiene un ECOG 1 y buena calidad de vida. En las últimas semanas, experimenta un rápido deterioro clínico, que le lleva a requerir ingreso por insuficiencia respiratoria aguda, dolor torácico pleurítico y síndrome de secreción inadecuada de ADH (SIADH) paraneoplásico. En el estudio de imagen que se realiza se muestra nueva progresión pulmonar, acompañado de importante deterioro clínico, con resultado final de exitus.

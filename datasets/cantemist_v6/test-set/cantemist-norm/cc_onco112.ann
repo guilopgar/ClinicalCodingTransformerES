@@ -1,0 +1,40 @@
+T1	MORFOLOGIA_NEOPLASIA 680 684	CCRc
+#1	AnnotatorNotes T1	8310/3
+T2	MORFOLOGIA_NEOPLASIA 738 742	CCRc
+#2	AnnotatorNotes T2	8310/3
+T3	MORFOLOGIA_NEOPLASIA 3353 3369	células malignas
+#3	AnnotatorNotes T3	8001/3
+T4	MORFOLOGIA_NEOPLASIA 170 186	hemangioblastoma
+#4	AnnotatorNotes T4	9161/1
+T5	MORFOLOGIA_NEOPLASIA 126 143	hemangioblastomas
+#5	AnnotatorNotes T5	9161/1
+T6	MORFOLOGIA_NEOPLASIA 912 929	hemangioblastomas
+#6	AnnotatorNotes T6	9161/1
+T7	MORFOLOGIA_NEOPLASIA 1096 1113	hemangioblastomas
+#7	AnnotatorNotes T7	9161/1
+T8	MORFOLOGIA_NEOPLASIA 3150 3161	hemangiomas
+#8	AnnotatorNotes T8	9120/0
+T9	MORFOLOGIA_NEOPLASIA 3197 3207	metástasis
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 3288 3298	metástasis
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 278 287	neoplasia
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 646 655	neoplasia
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 789 798	neoplasia
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 995 1005	tumoración
+#14	AnnotatorNotes T14	8000/1
+T15	MORFOLOGIA_NEOPLASIA 1436 1446	tumoración
+#15	AnnotatorNotes T15	8000/1
+T16	MORFOLOGIA_NEOPLASIA 2089 2099	tumoración
+#16	AnnotatorNotes T16	8000/1
+T17	MORFOLOGIA_NEOPLASIA 330 383	carcinoma renal de células claras, grado 2 de Fhurman
+#17	AnnotatorNotes T17	8310/32
+T18	MORFOLOGIA_NEOPLASIA 2231 2279	metástasis por carcinoma renal de células claras
+#18	AnnotatorNotes T18	8310/6
+T19	MORFOLOGIA_NEOPLASIA 2537 2590	Carcinoma renal de células claras E-IV por metástasis
+#19	AnnotatorNotes T19	8310/6
+T20	MORFOLOGIA_NEOPLASIA 2643 2693	carcinoma renal de células claras E-IV (metástasis
+#20	AnnotatorNotes T20	8310/6

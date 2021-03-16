@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 3376 3382	timoma
+#1	AnnotatorNotes T1	8580/1
+T2	MORFOLOGIA_NEOPLASIA 3419 3424	tumor
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 1920 1963	timoma de fenotipo e inmunofenotipo tipo B2
+#3	AnnotatorNotes T3	8584/1
+T4	MORFOLOGIA_NEOPLASIA 2972 3032	leucemia mielomonocítica crónica (LMMC) tipo mielodisplásica
+#4	AnnotatorNotes T4	9945/3
+T5	MORFOLOGIA_NEOPLASIA 3006 3010	LMMC
+#5	AnnotatorNotes T5	9945/3
+T6	MORFOLOGIA_NEOPLASIA 3055 3061	LMMC-1
+#6	AnnotatorNotes T6	9945/3
+T7	MORFOLOGIA_NEOPLASIA 3232 3246	Timoma tipo B2
+#7	AnnotatorNotes T7	8584/1
+T8	MORFOLOGIA_NEOPLASIA 3298 3330	Leucemia mielomonocítica crónica
+#8	AnnotatorNotes T8	9945/3
+T9	MORFOLOGIA_NEOPLASIA 3332 3336	LMMC
+#9	AnnotatorNotes T9	9945/3
+T10	MORFOLOGIA_NEOPLASIA 3658 3690	leucemia mielomonocítica crónica
+#10	AnnotatorNotes T10	9945/3

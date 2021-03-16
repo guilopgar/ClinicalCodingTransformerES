@@ -1,0 +1,21 @@
+T1	MORFOLOGIA_NEOPLASIA 311 317	cáncer
+T2	MORFOLOGIA_NEOPLASIA 353 359	cáncer
+T3	MORFOLOGIA_NEOPLASIA 400 406	cáncer
+T4	MORFOLOGIA_NEOPLASIA 4762 4789	enfermedad a nivel pulmonar
+T5	MORFOLOGIA_NEOPLASIA 2361 2371	metástasis
+T6	MORFOLOGIA_NEOPLASIA 3236 3246	metástasis
+T7	MORFOLOGIA_NEOPLASIA 4485 4526	metástasis de carcinoma de células claras
+T8	MORFOLOGIA_NEOPLASIA 1727 1736	neoplasia
+T9	MORFOLOGIA_NEOPLASIA 604 619	nódulo pulmonar
+T10	MORFOLOGIA_NEOPLASIA 1057 1072	nódulo pulmonar
+T11	MORFOLOGIA_NEOPLASIA 5552 5567	nódulo pulmonar
+T12	MORFOLOGIA_NEOPLASIA 1657 1662	tumor
+T13	MORFOLOGIA_NEOPLASIA 4543 4548	tumor
+T14	MORFOLOGIA_NEOPLASIA 1152 1175	tumor de células claras
+T15	MORFOLOGIA_NEOPLASIA 1870 1912	Cáncer renal de células claras metastásico
+T16	MORFOLOGIA_NEOPLASIA 2088 2137	tumor renal de células claras, grado 3 de Fuhrman
+T17	MORFOLOGIA_NEOPLASIA 2303 2321	nódulos pulmonares
+T18	MORFOLOGIA_NEOPLASIA 2595 2606	metastásica
+T19	MORFOLOGIA_NEOPLASIA 2696 2754	metástasis pulmonares de un cáncer renal de células claras
+T20	MORFOLOGIA_NEOPLASIA 4360 4388	lesión en el cuerpo gástrico
+T21	MORFOLOGIA_NEOPLASIA 5250 5316	metástasis en la mucosa gástrica de cáncer renal de células claras

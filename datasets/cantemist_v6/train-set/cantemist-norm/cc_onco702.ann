@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 1022 1032	Metástasis
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1212 1222	malignidad
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 2002 2009	tumoral
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 1242 1256	adenocarcinoma
+#4	AnnotatorNotes T4	8140/3
+T5	MORFOLOGIA_NEOPLASIA 1369 1410	Adenocarcinoma de pulmón E-IV (cT3cN2cM1)
+#5	AnnotatorNotes T5	8140/6
+T6	MORFOLOGIA_NEOPLASIA 1466 1480	adenocarcinoma
+#6	AnnotatorNotes T6	8140/3
+T7	MORFOLOGIA_NEOPLASIA 3109 3123	adenocarcinoma
+#7	AnnotatorNotes T7	8140/3
+T8	MORFOLOGIA_NEOPLASIA 976 1020	Diseminación micronodular pulmonar bilateral
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 3954 3972	lesiones hepáticas
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 2840 2867	lesión a nivel de la calota
+#10	AnnotatorNotes T10	8000/6

@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 345 359	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 2306 2332	adenopatía supraclavicular
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 2124 2144	enfermedad sistémica
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 3922 3932	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 4055 4065	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 183 192	neoplasia
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 370 376	T4N3M0
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 381 458	afectación mediastínica y ganglionar mediastínica bilateral y supraclavicular
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 3789 3831	lesión nodular corticosubcortical parietal
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 4335 4381	progresión tumoral en el SNC de adenocarcinoma
+#10	AnnotatorNotes T10	8140/6
+T11	MORFOLOGIA_NEOPLASIA 4408 4414	T4N3M0
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 4806 4824	afectación del SNC
+#12	AnnotatorNotes T12	8000/6

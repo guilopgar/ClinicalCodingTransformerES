@@ -1,0 +1,44 @@
+T1	MORFOLOGIA_NEOPLASIA 255 257	M0
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 134 148	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 2763 2777	adenocarcinoma
+#3	AnnotatorNotes T3	8140/3
+T4	MORFOLOGIA_NEOPLASIA 1416 1457	adenocarcinoma moderadamente diferenciado
+#4	AnnotatorNotes T4	8140/32
+T5	MORFOLOGIA_NEOPLASIA 6298 6336	histiocitosis de células de Langerhans
+#5	AnnotatorNotes T5	9751/3
+T6	MORFOLOGIA_NEOPLASIA 6688 6726	histiocitosis de células de Langerhans
+#6	AnnotatorNotes T6	9751/3
+T7	MORFOLOGIA_NEOPLASIA 1785 1803	lesiones hepáticas
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 2163 2181	lesiones hepáticas
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 4319 4329	malignidad
+#9	AnnotatorNotes T9	8000/3
+T10	MORFOLOGIA_NEOPLASIA 1887 1898	metastásica
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 1743 1754	metastásico
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 3491 3502	metastásico
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 2611 2621	metástasis
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 2898 2908	metástasis
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 2810 2848	metástasis hepáticas de adenocarcinoma
+#15	AnnotatorNotes T15	8140/6
+T16	MORFOLOGIA_NEOPLASIA 2139 2144	tumor
+#16	AnnotatorNotes T16	8000/1
+T17	MORFOLOGIA_NEOPLASIA 3481 3486	tumor
+#17	AnnotatorNotes T17	8000/1
+T18	MORFOLOGIA_NEOPLASIA 3680 3685	tumor
+#18	AnnotatorNotes T18	8000/1
+T19	MORFOLOGIA_NEOPLASIA 5725 5732	tumoral
+#19	AnnotatorNotes T19	8000/1
+T20	MORFOLOGIA_NEOPLASIA 6544 6551	tumoral
+#20	AnnotatorNotes T20	8000/1
+T21	MORFOLOGIA_NEOPLASIA 1935 2002	adenocarcinoma de recto localmente avanzado con afectación hepática
+#21	AnnotatorNotes T21	8140/6
+T22	MORFOLOGIA_NEOPLASIA 5804 5822	cáncer metastásico
+#22	AnnotatorNotes T22	8000/6

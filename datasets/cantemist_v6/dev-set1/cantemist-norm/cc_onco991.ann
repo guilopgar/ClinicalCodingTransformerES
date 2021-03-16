@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 999 1020	adenocarcinoma ductal
+#1	AnnotatorNotes T1	8500/3
+T2	MORFOLOGIA_NEOPLASIA 3411 3421	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 507 516	neoplasia
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 1821 1830	neoplasia
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 2277 2286	neoplasia
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 1949 1959	neoplásico
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 1857 1864	tumoral
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 742 783	adenocarcinoma ductal de páncreas grado 2
+#8	AnnotatorNotes T8	8500/32
+T9	MORFOLOGIA_NEOPLASIA 1033 1042	pT3pN0pMx
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 2474 2515	Adenocarcinoma ductal de páncreas grado 2
+#10	AnnotatorNotes T10	8500/32
+T11	MORFOLOGIA_NEOPLASIA 2604 2613	pT3pN0cM0
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 3355 3394	lesiones ocupantes de espacio hepáticas
+#12	AnnotatorNotes T12	8000/6

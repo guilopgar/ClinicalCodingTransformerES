@@ -1,0 +1,46 @@
+T1	MORFOLOGIA_NEOPLASIA 4130 4158	Carcinoma ductal infiltrante
+#1	AnnotatorNotes T1	8500/3
+T2	MORFOLOGIA_NEOPLASIA 1001 1003	M0
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 3861 3870	carcinoma
+#3	AnnotatorNotes T3	8010/3
+T4	MORFOLOGIA_NEOPLASIA 199 227	carcinoma ductal infiltrante
+#4	AnnotatorNotes T4	8500/3
+T5	MORFOLOGIA_NEOPLASIA 938 966	carcinoma ductal infiltrante
+#5	AnnotatorNotes T5	8500/3
+T6	MORFOLOGIA_NEOPLASIA 2399 2413	carcinomatosis
+#6	AnnotatorNotes T6	8010/9
+T7	MORFOLOGIA_NEOPLASIA 3688 3702	carcinomatosis
+#7	AnnotatorNotes T7	8010/9
+T8	MORFOLOGIA_NEOPLASIA 4325 4331	cáncer
+#8	AnnotatorNotes T8	8000/3
+T9	MORFOLOGIA_NEOPLASIA 4765 4775	metástasis
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 95 112	neoplasia maligna
+#10	AnnotatorNotes T10	8000/3
+T11	MORFOLOGIA_NEOPLASIA 274 283	cT1cN2aM0
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 362 398	metástasis por carcinoma infiltrante
+#12	AnnotatorNotes T12	8010/6/H
+T13	MORFOLOGIA_NEOPLASIA 1384 1399	recaída cutánea
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 1511 1536	afectación pleuropulmonar
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 1847 1873	enfermedad a nivel cutáneo
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 2103 2120	lesiones cutáneas
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 2372 2397	afectación pleuropulmonar
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 2587 2630	metástasis por carcinoma ductal infiltrante
+#18	AnnotatorNotes T18	8500/6
+T19	MORFOLOGIA_NEOPLASIA 4056 4099	metástasis por carcinoma ductal infiltrante
+#19	AnnotatorNotes T19	8500/6
+T20	MORFOLOGIA_NEOPLASIA 4215 4267	Metástasis en colon por carcinoma ductal infiltrante
+#20	AnnotatorNotes T20	8500/6
+T21	MORFOLOGIA_NEOPLASIA 4500 4526	enfermedad a nivel cutáneo
+#21	AnnotatorNotes T21	8000/6
+T22	MORFOLOGIA_NEOPLASIA 4627 4645	enfermedad cutánea
+#22	AnnotatorNotes T22	8000/6
+T23	MORFOLOGIA_NEOPLASIA 4723 4750	progresión a nivel pulmonar
+#23	AnnotatorNotes T23	8000/6

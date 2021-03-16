@@ -1,0 +1,34 @@
+T1	MORFOLOGIA_NEOPLASIA 3702 3757	metástasis ósea con masa de partes blandas de Carcinoma
+#1	AnnotatorNotes T1	8010/6
+T2	MORFOLOGIA_NEOPLASIA 3690 3697	Tumoral
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 932 947	afectación ósea
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 5162 5177	afectación ósea
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 972 981	carcinoma
+#5	AnnotatorNotes T5	8010/3
+T6	MORFOLOGIA_NEOPLASIA 1945 1959	lesiones óseas
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 5003 5014	metastásica
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 5178 5189	metastásica
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 1906 1916	metástasis
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 4807 4817	metástasis
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 2510 2517	tumoral
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 735 791	Carcinoma (ca.) renal de células claras, estadio pT1b G2
+#12	AnnotatorNotes T12	8310/32
+T13	MORFOLOGIA_NEOPLASIA 746 749	ca.
+#13	AnnotatorNotes T13	8010/3
+T14	MORFOLOGIA_NEOPLASIA 882 901	recaída a distancia
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 903 920	masa prevertebral
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 1244 1256	lesión en L2
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 5283 5350	Recaída a distancia con ILE 5.9 años de Ca. renal de células claras
+#17	AnnotatorNotes T17	8310/6

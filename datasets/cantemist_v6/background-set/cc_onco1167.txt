@@ -1,0 +1,22 @@
+Anamnesis
+Paciente varón de 61 años, sin alergias medicamentosas conocidas, exfumador con índice de 60 paquetes/año, exhábito enólico severo (+100 g/día), con antecedentes de diabetes mellitus tipo 2, no cardiopatías ni broncopatía, apendicectomía y vasectomía. Ha trabajado en una fábrica de muebles durante 20 años, aunque trabaja como conserje desde hace 15 años. Como antecedentes familiares destacan madre con neoplasia de colon y padre con carcinoma de laringe.
+Consulta en diciembre de 2012 por primera vez por debilidad y parestesias en los miembros inferiores de 2 meses de evolución, asociando astenia e hiporexia sin pérdida de peso cuantificada. No refiere fiebre, disnea, tos ni expectoración, tampoco clínica digestiva, urinaria ni alteración cognitiva.
+
+Examen físico
+En la exploración destaca palidez cutáneo-mucosa; hipofonesis generalizada sin ruidos sobreañadidos en la auscultación respiratoria; ritmo cardiaco sin soplos en la exploración cardiaca; abdomen depresible, no doloroso, hepatomegalia de 2 cm, sin signos de irritación peritoneal ni ascitis, con ruidos hidroaéreos presentes; no se palpan adenopatías, pulsos presentes y simétricos y no hay edemas en los miembros inferiores.
+
+Pruebas complementarias
+- En las pruebas complementarias, tanto en la radiografía simple de tórax como en la TC tóraco-abdómino-pélvica se observa una consolidación del espacio aéreo y áreas en vidrio deslustrado en el lóbulo inferior izquierdo, sin adenopatías. No hay alteraciones analíticas, resaltando únicamente un CEA de 6,9 ng/ml.
+Se hace control radiológico tras un mes, persistiendo la consolidación en el lóbulo inferior izquierdo, por lo que en febrero de 2013 se realizan las siguientes pruebas:
+- Fibrobroncoscopia: no lesiones endobronquiales en el árbol bronquial derecho ni izquierdo. La citología del aspirado broncoalveolar (BAS) resulta compatible con adenocarcinoma.
+- PET-TC corporal: donde se observa discreto metabolismo en el área de consolidación (SUV 2,2).
+
+Diagnóstico
+Ante dichos hallazgos, en julio de 2013 se realiza una lobectomía inferior izquierda más muestreo ganglionar que, tras el estudio histológico, se diagnostica de "adenocarcinoma infiltrante con patrón micropapilar, con un 5% de diferenciación de células en anillo de sello, que infiltra la pleura sin rebasarla, resultando el estadio posquirúrgico o patológico de pT3pN0M0". Se realiza determinación de la mutación del EGFR, siendo negativa ( wild type), y determinación de la traslocación ALK-EML4, que no se observa.
+
+Tratamiento
+Del 21 de agosto al 31 de octubre de 2013 se administran cuatro ciclos de quimioterapia adyuvante con cisplatino (75 mg/m2) + vinorelbina oral (80 mg/m2) día y 8 cada 21 días, presentando mínima toxicidad con astenia y anorexia grado 1.
+
+Evolución
+Tras finalizar la quimioterapia adyuvante, en la TC torácica de noviembre de 2013 se objetivan micronódulos (< 5 mm) en ambos parénquimas pulmonares en forma de un patrón de diseminación miliar, de predominio en los lóbulos superiores, algunos de ellos cavitados.
+Se completa el estudio con una fibrobroncoscopia con PAAF transbronquial: no se observan BAAR ni flora bacteriana; la PCR para Mycobacterium tuberculosis fue negativa, así como el cultivo de Löwenstein-Jensen; la carga viral de citomegalovirus fue negativa (< 20 copias/ml). La citología transbronquial de la língula y del lóbulo superior izquierdo fueron positivas para malignidad compatibles con adenocarcinoma, así como las citologías del BAS y lavado broncoalveolar (BAL).

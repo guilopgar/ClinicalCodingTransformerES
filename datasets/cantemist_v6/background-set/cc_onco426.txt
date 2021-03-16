@@ -1,0 +1,34 @@
+Anamnesis
+Varón de 53 años sin hipertensión, diabetes ni dislipemia, exfumador de 10 cigarrillos-día, con luxación crónica recidivante de hombro izquierdo, motivo por el cual se encontraba en seguimiento por el servicio de Traumatología. En tratamiento actual con paracetamol 1 g, metamizol 575 mg y pregabalina 75 mg.
+Empezó a ser estudiado por clínica de disfagia progresiva diagnosticándose en abril de 2013 de adenocarcinoma de cardias moderadamente diferenciado uT3N3MO.
+Inició tratamiento con quimioterapia neoadyuvante según el esquema epirrubicina, oxaliplatino y capecitabina (EOX) durante 3 ciclos, hasta junio de 2013, fue intervenido el 17/07/2013 realizándose esofagectomía subtotal y gastrectomía polar con linfadenectomía D2 (con Anatomía Patológica definitiva: pT4aN1). Posteriormente completó quimioterapia adyuvante (capecitabina por 4 ciclos) hasta noviembre de 2013.
+Durante el seguimiento y tras un intervalo libre de enfermedad de 10 meses presentó una crisis generalizada tónico-clónica, objetivándose una metástasis única cerebral en septiembre de 2014 (en lóbulo frontal superior izquierdo de 21 x 17 x 15 mm), siendo intervenida ese mismo mes con radioterapia holocraneal posterior (30 Gy en noviembre 2014).
+Como toxicidades reseñables posteriores presentó cefalea ocasional y pérdida de memoria, la cual interfiere en sus actividades diarias.
+Tras 4 años libres de enfermedad después de la resección de la metástasis cerebral, fue remitido desde Traumatología por evidenciarse en resonancia magnética (RM) de miembro superior izquierdo, al estudiar la aparición de dolor e inflamación en antebrazo, una extensa afectación tumoral del vientre muscular extensor largo del pulgar (20 x 15 x 75 mm) con signos radiográficos de malignidad.
+
+Exploración física
+» ECOG 0.
+» Tumoración en antebrazo izquierdo de 2 cm de diámetro con edema en dicha zona, de consistencia firme y adherida a planos profundos con difícil movilización.
+
+Pruebas complementarias
+RM de miembro superior izquierdo
+Masa fusiforme sólida (diámetros 20 x 15 x 75 mm en sus ejes TR, AP y LG) con señal isointensa en T1 respecto del músculo e hiperintensa de forma heterogénea en secuencia T2, en relación al tendón extensor largo del primer dedo de la mano izquierda mostrando captación moderada del contraste intravenoso. Edema difuso de las partes blandas adyacentes que se extiende hasta la porción distal.
+Gammagrafía ósea
+Aumento de la actividad osteogénica con hiperemia asociada al tercio distal de radio izquierdo, en relación a cambios por contigüidad y sin aparente invasión local; sin signos sugestivos de afectación ósea a distancia.
+PET-TC
+Incremento patológico del índice glucídico de acusada intensidad en lesión hipodensa ya conocida, de morfología alargada, en tercio medio-distal del comportamiento anterior del antebrazo izquierdo, en contacto con el radio. Cranealmente y en el tercio medio-superior del compartimento posterior del antebrazo, se visualiza asimismo otro incremento patológico del índice glucídico de acusada intensidad y de carácter focal también en contacto con el radio.
+
+Anatomía Patológica
+» Tejido fibromuscular infiltrado por adenocarcinoma. CK7 positivo y negativa para CK20, CDX2, napsina A, TTF1 y fosfatasa ácida protática negativo.
+» Podría ser compatible con metástasis de tumor de origen digestivo alto (gástrico o pancreático biliar).
+» Sobreexpresión de oncogén HER-2/neu mediante inmunohistoquímica negativa. El estudio inmunohistoquímico frente a PAX8 ha resultado negativo.
+
+Diagnóstico
+Adenocarcinoma de unión gastro-esofágica estadio IV (recaída tardía a nivel musculo-esquelético).
+
+Tratamiento
+El paciente fue valorado en el centro de referencia, teniendo en cuenta las posibilidades terapéuticas y con decisión del paciente de tratamiento conservador de la extremidad.
+Se le propone comenzar en enero 2019 con 1ª Línea de quimioterapia con XELOX (oxaliplatino, capecitabina) durante 3 meses con reevaluación y posibilidad de radioterapia local posterior.
+
+Evolución
+Hasta el momento, buena tolerancia clínica sin toxicidades, con última TC/TAP realizada en mayo de 2019 donde no se evidencia nuevos datos de enfermedad. Queda pendiente la realización de RM.

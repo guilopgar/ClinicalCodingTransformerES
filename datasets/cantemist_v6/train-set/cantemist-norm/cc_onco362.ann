@@ -1,0 +1,38 @@
+T1	MORFOLOGIA_NEOPLASIA 2572 2595	Metastasis de carcinoma
+#1	AnnotatorNotes T1	8010/6
+T2	MORFOLOGIA_NEOPLASIA 3398 3407	carcinoma
+#2	AnnotatorNotes T2	8010/3
+T3	MORFOLOGIA_NEOPLASIA 2982 2993	metastásica
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2079 2089	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2255 2265	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 3159 3171	neoformación
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 3226 3238	neoformación
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 2139 2148	neoplasia
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 2351 2361	neoplásica
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 2960 2967	maligna
+#10	AnnotatorNotes T10	8000/3
+T11	MORFOLOGIA_NEOPLASIA 3354 3381	carcinoma no queratinizante
+#11	AnnotatorNotes T11	8010/3/H
+T12	MORFOLOGIA_NEOPLASIA 3441 3489	Carcinoma nasofaríngeo estadio IV con metástasis
+#12	AnnotatorNotes T12	8010/6
+T13	MORFOLOGIA_NEOPLASIA 3628 3676	carcinoma nasofaríngeo estadio IV con metástasis
+#13	AnnotatorNotes T13	8010/6
+T14	MORFOLOGIA_NEOPLASIA 1823 1852	proceso medular proliferativo
+#14	AnnotatorNotes T14	9970/1
+T15	MORFOLOGIA_NEOPLASIA 954 983	adenopatías supraclaviculares
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 4017 4035	lesiones hepáticas
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 2044 2058	LOEs hepáticas
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 2175 2201	focos blasticos en columna
+#18	AnnotatorNotes T18	8000/6
+T19	MORFOLOGIA_NEOPLASIA 4089 4110	focos blasticos oseos
+#19	AnnotatorNotes T19	8000/6

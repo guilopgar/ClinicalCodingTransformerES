@@ -1,0 +1,36 @@
+T1	MORFOLOGIA_NEOPLASIA 6319 6328	carcinoma
+#1	AnnotatorNotes T1	8010/3
+T2	MORFOLOGIA_NEOPLASIA 5942 5975	carcinoma pobremente diferenciado
+#2	AnnotatorNotes T2	8010/33
+T3	MORFOLOGIA_NEOPLASIA 664 670	cáncer
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 2009 2018	letálides
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 7274 7283	letálides
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 2515 2526	metastásica
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 6822 6833	metastásica
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 1455 1465	metástasis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 2055 2078	metástasis de carcinoma
+#9	AnnotatorNotes T9	8010/6
+T10	MORFOLOGIA_NEOPLASIA 6023 6046	metástasis de carcinoma
+#10	AnnotatorNotes T10	8010/6
+T11	MORFOLOGIA_NEOPLASIA 2381 2386	tumor
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 1388 1395	tumoral
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 296 321	cáncer ductal infiltrante
+#13	AnnotatorNotes T13	8500/3
+T14	MORFOLOGIA_NEOPLASIA 404 412	cT4bN1M0
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 1259 1347	carcinoma ductal infiltrante residual multifocal, grado 2 de Bloom-Richardson Modificada
+#15	AnnotatorNotes T15	8500/32/H
+T16	MORFOLOGIA_NEOPLASIA 5887 5901	lesión en oído
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 6263 6301	cáncer de mama avanzado por metástasis
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 7686 7700	lesión de oído
+#18	AnnotatorNotes T18	8000/6

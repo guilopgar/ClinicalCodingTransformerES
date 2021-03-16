@@ -1,0 +1,15 @@
+T1	MORFOLOGIA_NEOPLASIA 1220 1240	diseminación tumoral
+T2	MORFOLOGIA_NEOPLASIA 290 297	tumoral
+T3	MORFOLOGIA_NEOPLASIA 45 64	Sarcoma osteogénico
+T4	MORFOLOGIA_NEOPLASIA 550 569	progresión pulmonar
+T5	MORFOLOGIA_NEOPLASIA 670 689	lesiones pulmonares
+T6	MORFOLOGIA_NEOPLASIA 721 746	progresión pleuropulmonar
+T7	MORFOLOGIA_NEOPLASIA 871 890	progresión pulmonar
+T8	MORFOLOGIA_NEOPLASIA 1372 1405	metástasis de Sarcoma osteogénico
+T9	MORFOLOGIA_NEOPLASIA 1525 1546	progresión peritoneal
+T10	MORFOLOGIA_NEOPLASIA 2367 2413	implantes calcificados en ángulo cardiofrénico
+T11	MORFOLOGIA_NEOPLASIA 3748 3800	progresión peritoneal extensa de sarcoma osteogénico
+T12	MORFOLOGIA_NEOPLASIA 2673 2699	afectación hiliar hepática
+T13	MORFOLOGIA_NEOPLASIA 424 442	nódulos pulmonares
+T14	MORFOLOGIA_NEOPLASIA 2019 2039	nódulos peritoneales
+T15	MORFOLOGIA_NEOPLASIA 2492 2526	afectación calcificante peritoneal

@@ -1,0 +1,36 @@
+T1	MORFOLOGIA_NEOPLASIA 1885 1894	Carcinoma
+#1	AnnotatorNotes T1	8010/3
+T2	MORFOLOGIA_NEOPLASIA 1661 1664	LNH
+#2	AnnotatorNotes T2	9591/3
+T3	MORFOLOGIA_NEOPLASIA 1490 1500	Tumoración
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 3277 3301	carcinoma indiferenciado
+#4	AnnotatorNotes T4	8020/3
+T5	MORFOLOGIA_NEOPLASIA 2612 2645	carcinoma pobremente diferenciado
+#5	AnnotatorNotes T5	8010/33
+T6	MORFOLOGIA_NEOPLASIA 1938 1965	carcinoma poco diferenciado
+#6	AnnotatorNotes T6	8010/33
+T7	MORFOLOGIA_NEOPLASIA 1867 1883	células malignas
+#7	AnnotatorNotes T7	8001/3
+T8	MORFOLOGIA_NEOPLASIA 2170 2187	células tumorales
+#8	AnnotatorNotes T8	8001/1
+T9	MORFOLOGIA_NEOPLASIA 1753 1763	metástasis
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 2781 2791	metástasis
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 2124 2164	metástasis de carcinoma mal diferenciado
+#11	AnnotatorNotes T11	8010/63
+T12	MORFOLOGIA_NEOPLASIA 1620 1646	proceso linfoproliferativo
+#12	AnnotatorNotes T12	9970/1
+T13	MORFOLOGIA_NEOPLASIA 1984 1989	tumor
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 2409 2414	tumor
+#14	AnnotatorNotes T14	8000/1
+T15	MORFOLOGIA_NEOPLASIA 1716 1728	tumoraciones
+#15	AnnotatorNotes T15	8000/1
+T16	MORFOLOGIA_NEOPLASIA 1348 1358	tumoración
+#16	AnnotatorNotes T16	8000/1
+T17	MORFOLOGIA_NEOPLASIA 2450 2457	tumoral
+#17	AnnotatorNotes T17	8000/1
+T18	MORFOLOGIA_NEOPLASIA 157 171	meduloblastoma
+#18	AnnotatorNotes T18	9470/3

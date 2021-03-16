@@ -1,0 +1,36 @@
+T1	MORFOLOGIA_NEOPLASIA 2205 2227	implantes peritoneales
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 806 825	implantes tumorales
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 2662 2681	implantes tumorales
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 4233 4252	implantes tumorales
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 5158 5177	implantes tumorales
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 2682 2694	metastásicos
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 978 983	tumor
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 1042 1047	tumor
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 2630 2637	tumoral
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 3250 3257	tumoral
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 5119 5126	tumoral
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 2514 2521	tumores
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 2242 2333	Tumor desmoplásico abdominal de células pequeñas y redondas estadio IV (afectación hepática
+#13	AnnotatorNotes T13	8806/6
+T14	MORFOLOGIA_NEOPLASIA 2811 2826	(LOE) hepáticas
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 2829 2845	masa suprarrenal
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 3615 3627	masa pélvica
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 3927 3939	masa pélvica
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 4105 4117	masa pélvica
+#18	AnnotatorNotes T18	8000/6

@@ -1,0 +1,25 @@
+Anamnesis
+Paciente de 30 años, fumador de 5 cigarrillos/día desde los 17 años, sin otros antecedentes. Presenta un cuadro de un año de evolución de dolor lumbar bajo irradiado a miembros inferiores, sin otra clínica.
+
+Examen físico
+Molestias a la palpación lumbar. Disminución de la sensibilidad en la cara anterior de las piernas. Lassègue y Braggard positivos. Resto anodino.
+
+Pruebas complementarias
+Analítica, alfa-fetoproteína, ?-HCG y ?2-microglobulina: normales. Catecolaminas en orina 24 horas: ácido homovanílico 75 mg (normal < 6 mg), ácido vanilmandélico 54 mg (normal < 8 mg), dopamina 639 μg (normal 61-482 μg). Resto normal.
+RM: lesión extradural (12 x 12 x 45 mm) en L5-S1, que comprime el saco tecal y llega al psoas. Hay 3 lesiones similares en L4-L5, T11-T12 y C6-C7. Masa presacra (49 x 49 x 58 mm).
+PET: neoplasia con extensión a médula ósea, retroperitoneo, canal medular y zona paravertebral.
+Biopsia de médula ósea: metástasis de tumor maligno de estirpe neuroendocrina.
+Se realiza laminectomía descompresiva L5-S1 en mayo de 2012.
+Anatomía patológica: rosetas de Homer-Wright. Expresión de cromogranina, sinaptofisina, enolasa neuronal específica, NB84, tirosinhidroxilasa y neurofilamentos. Ki67 del 70 %.
+
+Diagnóstico
+Neuroblastoma anaplásico estadio IV.
+
+Tratamiento
+Puesto que el diagnóstico es excepcional, dada la edad del paciente y el tipo histológico, se comenta el caso con Oncología Pediátrica.
+Descartada la inclusión en ensayo clínico, dado que no existen para este tumor en este grupo de edad, se hace una analogía con los pacientes pediátricos. Junio de 2012comienza con esquema alternante de inducción: ciclofosfamida, doxorrubicina y vincristina (CAV) con etopósido y cisplatino (VP-16-CDDP) cada 21 días por 7 ciclos con dosis ajustadas para adultos y G-CSF. Dependiendo de la respuesta, se valoraría consolidación con trasplante autólogo.
+
+Evolución
+Previo a la quimioterapia, al tratarse de un varón joven, sin descendencia y pronóstico incierto, se realiza criopreservación de esperma.
+Como toxicidades, presenta mucositis de grado 3 con el CDDP-VP16 y un episodio de fiebre con neutropenia, por lo que se disminuye la dosis de ciclofosfamida al 80 %. Tras 4 ciclos hay enfermedad estable (EE) versus respuesta parcial menor. El resto se administra sin incidencias. En la evaluación final, en diciembre de 2012, la masa pélvica se encuentra en EE. Sin embargo, continúa la infiltración de la médula, lo que contraindica el trasplante.
+En la actualidad se encuentra en seguimiento sin tratamiento. El paciente es consciente de la situación: presencia de una masa residual, atipicidad del cuadro y la naturaleza del tratamiento pautado para conseguir estabilidad de la enfermedad que, de momento, se mantiene desde hace 6 meses.

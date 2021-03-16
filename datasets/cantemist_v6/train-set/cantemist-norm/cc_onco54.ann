@@ -1,0 +1,6 @@
+T1	MORFOLOGIA_NEOPLASIA 329 343	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 956 974	lesiones hepáticas
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 389 410	diseminación hepática
+#3	AnnotatorNotes T3	8000/6

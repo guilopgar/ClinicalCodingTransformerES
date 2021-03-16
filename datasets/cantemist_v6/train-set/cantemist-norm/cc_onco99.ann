@@ -1,0 +1,48 @@
+T1	MORFOLOGIA_NEOPLASIA 1679 1695	Carcinoma ductal
+#1	AnnotatorNotes T1	8500/3
+T2	MORFOLOGIA_NEOPLASIA 1884 1900	carcinoma ductal
+#2	AnnotatorNotes T2	8500/3
+T3	MORFOLOGIA_NEOPLASIA 2453 2481	carcinoma ductal infiltrante
+#3	AnnotatorNotes T3	8500/3
+T4	MORFOLOGIA_NEOPLASIA 3112 3147	carcinoma intraductal de alto grado
+#4	AnnotatorNotes T4	8500/24
+T5	MORFOLOGIA_NEOPLASIA 1421 1433	fibroadenoma
+#5	AnnotatorNotes T5	9010/0
+T6	MORFOLOGIA_NEOPLASIA 3576 3581	tumor
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 2565 2572	tumoral
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 2676 2683	tumoral
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 2842 2849	tumoral
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 3004 3011	tumoral
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 3101 3108	tumoral
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 3502 3509	tumoral
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 961 1001	carcinoma ductal pobremente diferenciado
+#13	AnnotatorNotes T13	8500/33
+T14	MORFOLOGIA_NEOPLASIA 1003 1025	carcinoma inflamatorio
+#14	AnnotatorNotes T14	8530/3
+T15	MORFOLOGIA_NEOPLASIA 1244 1266	carcinoma inflamatorio
+#15	AnnotatorNotes T15	8530/3
+T16	MORFOLOGIA_NEOPLASIA 1494 1536	carcinoma intraductal sólido de alto grado
+#16	AnnotatorNotes T16	8230/24
+T17	MORFOLOGIA_NEOPLASIA 1543 1584	tumor phyllodes, histológicamente benigno
+#17	AnnotatorNotes T17	9020/0
+T18	MORFOLOGIA_NEOPLASIA 1727 1735	pT4cN1M0
+#18	AnnotatorNotes T18	8000/6
+T19	MORFOLOGIA_NEOPLASIA 1679 1708	Carcinoma ductal inflamatorio
+#19	AnnotatorNotes T19	8530/3
+T20	MORFOLOGIA_NEOPLASIA 1753 1776	Tumor phyllodes benigno
+#20	AnnotatorNotes T20	9020/0
+T21	MORFOLOGIA_NEOPLASIA 1805 1847	carcinoma intraductal sólido de alto grado
+#21	AnnotatorNotes T21	8230/24
+T22	MORFOLOGIA_NEOPLASIA 1884 1913	carcinoma ductal inflamatorio
+#22	AnnotatorNotes T22	8530/3
+T23	MORFOLOGIA_NEOPLASIA 1932 1940	pT4cN1M0
+#23	AnnotatorNotes T23	8000/6
+T24	MORFOLOGIA_NEOPLASIA 3266 3289	tumor phyllodes benigno
+#24	AnnotatorNotes T24	9020/0

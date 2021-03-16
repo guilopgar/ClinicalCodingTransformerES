@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 1757 1786	adenopatías supraclaviculares
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1390 1401	hemangiomas
+#2	AnnotatorNotes T2	9120/0
+T3	MORFOLOGIA_NEOPLASIA 953 978	linfangitis carcinomatosa
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 4856 4881	linfangitis carcinomatosa
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 5693 5703	malignidad
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 1253 1264	metastático
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 2340 2350	metástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 7656 7673	nódulo subpleural
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 905 912	tumoral
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 5063 5070	tumoral
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 1650 1695	adenocarcinoma con células en anillo de sello
+#11	AnnotatorNotes T11	8490/3
+T12	MORFOLOGIA_NEOPLASIA 2436 2442	T3N3Mx
+#12	AnnotatorNotes T12	8000/6

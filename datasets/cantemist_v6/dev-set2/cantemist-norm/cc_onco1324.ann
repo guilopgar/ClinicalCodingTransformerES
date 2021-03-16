@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 643 646	CLI
+#1	AnnotatorNotes T1	8520/3
+T2	MORFOLOGIA_NEOPLASIA 815 818	CLI
+#2	AnnotatorNotes T2	8520/3
+T3	MORFOLOGIA_NEOPLASIA 1521 1524	CLI
+#3	AnnotatorNotes T3	8520/3
+T4	MORFOLOGIA_NEOPLASIA 346 365	celularidad maligna
+#4	AnnotatorNotes T4	8001/3
+T5	MORFOLOGIA_NEOPLASIA 506 522	células malignas
+#5	AnnotatorNotes T5	8001/3
+T6	MORFOLOGIA_NEOPLASIA 1543 1562	células neoplásicas
+#6	AnnotatorNotes T6	8001/1
+T7	MORFOLOGIA_NEOPLASIA 2054 2065	metastásica
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 2808 2818	metastásis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 1882 1892	metástasis
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 1985 1995	metástasis
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 592 641	metástasis de un carcinoma lobulillar infiltrante
+#11	AnnotatorNotes T11	8520/6
+T12	MORFOLOGIA_NEOPLASIA 1923 1971	Carcinoma lobulillar infiltrante de mama cT2N1M1
+#12	AnnotatorNotes T12	8520/6

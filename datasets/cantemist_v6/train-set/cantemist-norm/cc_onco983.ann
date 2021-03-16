@@ -1,0 +1,30 @@
+T1	MORFOLOGIA_NEOPLASIA 4576 4590	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 341 356	afectación ósea
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 357 368	metastásica
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2901 2911	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 3677 3686	neoplasia
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 640 643	CPT
+#6	AnnotatorNotes T6	8260/3
+T7	MORFOLOGIA_NEOPLASIA 678 712	CPT estadio IV por afectación ósea
+#7	AnnotatorNotes T7	8260/6
+T8	MORFOLOGIA_NEOPLASIA 968 983	progresión ósea
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 1277 1292	enfermedad ósea
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 1686 1701	progresión ósea
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 2930 2954	síndrome mielodisplásico
+#11	AnnotatorNotes T11	9989/3
+T12	MORFOLOGIA_NEOPLASIA 3281 3305	síndrome mielodisplásico
+#12	AnnotatorNotes T12	9989/3
+T13	MORFOLOGIA_NEOPLASIA 3754 3778	síndrome mielodisplásico
+#13	AnnotatorNotes T13	9989/3
+T14	MORFOLOGIA_NEOPLASIA 4121 4145	síndrome mielodisplásico
+#14	AnnotatorNotes T14	9989/3
+T15	MORFOLOGIA_NEOPLASIA 4785 4809	síndrome mielodisplásico
+#15	AnnotatorNotes T15	9989/3

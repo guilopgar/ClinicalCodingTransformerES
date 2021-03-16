@@ -1,0 +1,40 @@
+T1	MORFOLOGIA_NEOPLASIA 2582 2601	afectación pulmonar
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 3178 3205	carcinoma adenoide quístico
+#2	AnnotatorNotes T2	8200/3
+T3	MORFOLOGIA_NEOPLASIA 1980 1999	implantes tumorales
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1880 1890	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2215 2225	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 2814 2824	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1081 1096	micrometástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 2406 2415	neoplasia
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 1823 1841	nódulos pulmonares
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 125 160	síndrome mieloproliferativo crónico
+#10	AnnotatorNotes T10	9960/3
+T11	MORFOLOGIA_NEOPLASIA 171 193	trombocitemia esencial
+#11	AnnotatorNotes T11	9962/3
+T12	MORFOLOGIA_NEOPLASIA 2718 2723	tumor
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 2743 2748	tumor
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 969 1004	carcinoma adenoide quístico grado 2
+#14	AnnotatorNotes T14	8200/32
+T15	MORFOLOGIA_NEOPLASIA 1158 1167	pT2N1miM0
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 1893 1915	nódulos diafragmáticos
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 2160 2199	pleura visceral y parietal con lesiones
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 2442 2459	adenoide quístico
+#18	AnnotatorNotes T18	8200/3
+T19	MORFOLOGIA_NEOPLASIA 2519 2558	carcinoma adenoide quístico metastásico
+#19	AnnotatorNotes T19	8200/6
+T20	MORFOLOGIA_NEOPLASIA 2959 2976	recaída sistémica
+#20	AnnotatorNotes T20	8000/6

@@ -1,0 +1,34 @@
+T1	MORFOLOGIA_NEOPLASIA 926 940	Adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 1093 1119	adenocarcinoma infiltrante
+#2	AnnotatorNotes T2	8140/3/H
+T3	MORFOLOGIA_NEOPLASIA 2976 3002	adenocarcinoma infiltrante
+#3	AnnotatorNotes T3	8140/3/H
+T4	MORFOLOGIA_NEOPLASIA 1525 1528	cM0
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 832 852	diseminación tumoral
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 1995 2014	implantes tumorales
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 2264 2279	lesión pulmonar
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 1372 1382	malignidad
+#8	AnnotatorNotes T8	8000/3
+T9	MORFOLOGIA_NEOPLASIA 2315 2325	metástasis
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 2742 2761	metástasis de tumor
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 2840 2855	nódulo pulmonar
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 865 911	adenocarcinoma endometrioide bien diferenciado
+#12	AnnotatorNotes T12	8380/31
+T13	MORFOLOGIA_NEOPLASIA 955 962	cTxN0M0
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 1257 1271	túbulo-papilar
+#14	AnnotatorNotes T14	8263/3
+T15	MORFOLOGIA_NEOPLASIA 1433 1491	Adenocarcinoma de endometrio de tipo endometrioide grado 2
+#15	AnnotatorNotes T15	8380/32
+T16	MORFOLOGIA_NEOPLASIA 2678 2724	adenocarcinoma endometrioide bien diferenciado
+#16	AnnotatorNotes T16	8380/31
+T17	MORFOLOGIA_NEOPLASIA 3049 3129	metástasis de adenocarcinoma endometrial de tipo endometrioide bien diferenciado
+#17	AnnotatorNotes T17	8380/61

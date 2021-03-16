@@ -1,0 +1,26 @@
+T1	MORFOLOGIA_NEOPLASIA 2275 2289	lesiones óseas
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 2675 2689	lesiones óseas
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 384 390	lipoma
+#3	AnnotatorNotes T3	8850/0
+T4	MORFOLOGIA_NEOPLASIA 2690 2702	metastásicas
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 993 1003	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 1376 1386	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1647 1657	metástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 2591 2601	metástasis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 76 106	cáncer de próstata metastásico
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 1580 1619	adenocarcinoma de próstata Gleason 8/10
+#10	AnnotatorNotes T10	8140/34
+T11	MORFOLOGIA_NEOPLASIA 1819 1837	lesiones en raquis
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 2967 2995	lesiones en diáfisis femoral
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 5055 5091	cáncer de próstata estadio IV (óseas
+#13	AnnotatorNotes T13	8000/6

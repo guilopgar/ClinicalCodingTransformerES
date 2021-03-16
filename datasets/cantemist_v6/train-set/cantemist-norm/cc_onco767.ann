@@ -1,0 +1,32 @@
+T1	MORFOLOGIA_NEOPLASIA 119 129	metástasis
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 803 813	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1498 1503	tumor
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 1298 1318	tumor neuroendocrino
+#4	AnnotatorNotes T4	8240/3
+T5	MORFOLOGIA_NEOPLASIA 865 883	lesiones hepáticas
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 979 1017	tumor neuroendocrino bien diferenciado
+#6	AnnotatorNotes T6	8240/3
+T7	MORFOLOGIA_NEOPLASIA 1320 1338	carcinoide atípico
+#7	AnnotatorNotes T7	8249/3
+T8	MORFOLOGIA_NEOPLASIA 1474 1492	lesiones hepáticas
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 1572 1638	tumor carcinoide atípico pulmonar bien diferenciado con metástasis
+#9	AnnotatorNotes T9	8249/61
+T10	MORFOLOGIA_NEOPLASIA 1703 1713	carcinoide
+#10	AnnotatorNotes T10	8240/3
+T11	MORFOLOGIA_NEOPLASIA 2376 2395	progresión hepática
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 2596 2606	carcinoide
+#12	AnnotatorNotes T12	8240/3
+T13	MORFOLOGIA_NEOPLASIA 2790 2842	metástasis de tumor neuroendocrino bien diferenciado
+#13	AnnotatorNotes T13	8240/6
+T14	MORFOLOGIA_NEOPLASIA 2901 2911	carcinoide
+#14	AnnotatorNotes T14	8240/3
+T15	MORFOLOGIA_NEOPLASIA 2965 2983	lesiones hepáticas
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 3276 3295	progresión hepática
+#16	AnnotatorNotes T16	8000/6

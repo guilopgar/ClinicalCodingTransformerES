@@ -1,0 +1,38 @@
+T1	MORFOLOGIA_NEOPLASIA 4219 4225	T4N2M1
+T2	MORFOLOGIA_NEOPLASIA 2633 2659	adenopatía supraclavicular
+T3	MORFOLOGIA_NEOPLASIA 4242 4271	afectación pulmonar bilateral
+T4	MORFOLOGIA_NEOPLASIA 6492 6521	afectación pulmonar bilateral
+T5	MORFOLOGIA_NEOPLASIA 3240 3249	carcinoma
+T6	MORFOLOGIA_NEOPLASIA 6051 6060	carcinoma
+T7	MORFOLOGIA_NEOPLASIA 3627 3656	carcinoma medular de tiroides
+T8	MORFOLOGIA_NEOPLASIA 2388 2412	carcinoma neuroendocrino
+T9	MORFOLOGIA_NEOPLASIA 5530 5554	carcinoma neuroendocrino
+T10	MORFOLOGIA_NEOPLASIA 3841 3874	carcinoma pobremente diferenciado
+T11	MORFOLOGIA_NEOPLASIA 5663 5682	células neoplásicas
+T12	MORFOLOGIA_NEOPLASIA 3367 3393	células tumorales malignas
+T13	MORFOLOGIA_NEOPLASIA 7045 7074	lesiones nodulares pulmonares
+T14	MORFOLOGIA_NEOPLASIA 6761 6780	lesiones pulmonares
+T15	MORFOLOGIA_NEOPLASIA 7138 7157	lesiones pulmonares
+T16	MORFOLOGIA_NEOPLASIA 2702 2712	malignidad
+T17	MORFOLOGIA_NEOPLASIA 2900 2910	malignidad
+T18	MORFOLOGIA_NEOPLASIA 3216 3226	malignidad
+T19	MORFOLOGIA_NEOPLASIA 1875 1885	metástasis
+T20	MORFOLOGIA_NEOPLASIA 3591 3600	neoplasia
+T21	MORFOLOGIA_NEOPLASIA 4085 4094	neoplasia
+T22	MORFOLOGIA_NEOPLASIA 2141 2151	neoplásico
+T23	MORFOLOGIA_NEOPLASIA 4653 4671	nódulos pulmonares
+T24	MORFOLOGIA_NEOPLASIA 2922 2952	nódulos pulmonares bilaterales
+T25	MORFOLOGIA_NEOPLASIA 1925 1930	tumor
+T26	MORFOLOGIA_NEOPLASIA 2439 2444	tumor
+T27	MORFOLOGIA_NEOPLASIA 2550 2570	tumor neuroendocrino
+T28	MORFOLOGIA_NEOPLASIA 4866 4876	tumoración
+T29	MORFOLOGIA_NEOPLASIA 2388 2434	carcinoma neuroendocrino (no células pequeñas)
+T30	MORFOLOGIA_NEOPLASIA 3395 3431	Carcinoma con rasgos neuroendocrinos
+T31	MORFOLOGIA_NEOPLASIA 3810 3827	carcinoma insular
+T32	MORFOLOGIA_NEOPLASIA 4131 4225	Carcinoma de pulmón de célula grande con componente neuroendocrino (no célula pequeña), T4N2M1
+T33	MORFOLOGIA_NEOPLASIA 5600 5624	carcinoma indiferenciado
+T34	MORFOLOGIA_NEOPLASIA 5600 5635	carcinoma indiferenciado/anaplásico
+T35	MORFOLOGIA_NEOPLASIA 6186 6254	carcinoma de alto grado con rasgos neuroendocrinos (patrón organoide
+T36	MORFOLOGIA_NEOPLASIA 6319 6343	carcinoma indiferenciado
+T37	MORFOLOGIA_NEOPLASIA 6319 6354	carcinoma indiferenciado/anaplásico
+T38	MORFOLOGIA_NEOPLASIA 6400 6426	carcinomas neuroendocrinos

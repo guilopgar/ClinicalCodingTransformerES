@@ -1,0 +1,28 @@
+T1	MORFOLOGIA_NEOPLASIA 1699 1708	Carcinoma
+#1	AnnotatorNotes T1	8010/3
+T2	MORFOLOGIA_NEOPLASIA 1450 1482	adenocarcinoma bien diferenciado
+#2	AnnotatorNotes T2	8140/31
+T3	MORFOLOGIA_NEOPLASIA 1226 1244	afectación pleural
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1802 1820	afectación pleural
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 1717 1724	cT1N0M0
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 519 547	carcinoma ductal infiltrante
+#6	AnnotatorNotes T6	8500/3
+T7	MORFOLOGIA_NEOPLASIA 2073 2109	carcinoma ductal infiltrante grado 2
+#7	AnnotatorNotes T7	8500/32
+T8	MORFOLOGIA_NEOPLASIA 199 205	cáncer
+#8	AnnotatorNotes T8	8000/3
+T9	MORFOLOGIA_NEOPLASIA 2307 2313	cáncer
+#9	AnnotatorNotes T9	8000/3
+T10	MORFOLOGIA_NEOPLASIA 1662 1684	enfermedad a distancia
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 1032 1050	lesiones hepáticas
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 1873 1878	tumor
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 1987 1992	tumor
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 1727 1758	adenocarcinoma pulmonar cT3N2M1
+#14	AnnotatorNotes T14	8140/6

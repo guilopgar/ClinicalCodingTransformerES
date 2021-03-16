@@ -1,0 +1,48 @@
+T1	MORFOLOGIA_NEOPLASIA 3949 3968	afectación hepática
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1238 1247	carcinoma
+#2	AnnotatorNotes T2	8010/3
+T3	MORFOLOGIA_NEOPLASIA 1489 1498	carcinoma
+#3	AnnotatorNotes T3	8010/3
+T4	MORFOLOGIA_NEOPLASIA 3353 3359	cáncer
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 4393 4399	cáncer
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 2923 2937	lesiones oseas
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 3109 3123	lesiones óseas
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 3605 3619	lesiones óseas
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 899 909	malignidad
+#9	AnnotatorNotes T9	8000/3
+T10	MORFOLOGIA_NEOPLASIA 4082 4089	mieloma
+#10	AnnotatorNotes T10	9732/3
+T11	MORFOLOGIA_NEOPLASIA 3752 3768	mieloma múltiple
+#11	AnnotatorNotes T11	9732/3
+T12	MORFOLOGIA_NEOPLASIA 4371 4387	mieloma múltiple
+#12	AnnotatorNotes T12	9732/3
+T13	MORFOLOGIA_NEOPLASIA 3300 3316	recaída hepática
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 4194 4203	tumorales
+#14	AnnotatorNotes T14	8000/1
+T15	MORFOLOGIA_NEOPLASIA 1043 1099	carcinoma ductal infiltrante de mama izquierda grado III
+#15	AnnotatorNotes T15	8500/33
+T16	MORFOLOGIA_NEOPLASIA 1287 1343	carcinoma ductal infiltrante de mama izquierda grado III
+#16	AnnotatorNotes T16	8500/33
+T17	MORFOLOGIA_NEOPLASIA 2177 2215	carcinoma ductal infiltrante grado III
+#17	AnnotatorNotes T17	8500/33
+T18	MORFOLOGIA_NEOPLASIA 2218 2227	pT3ypN2M0
+#18	AnnotatorNotes T18	8000/6
+T19	MORFOLOGIA_NEOPLASIA 3045 3081	lesiones hipodensas a nivel hepático
+#19	AnnotatorNotes T19	8000/6
+T20	MORFOLOGIA_NEOPLASIA 3083 3106	micronódulos pulmonares
+#20	AnnotatorNotes T20	8000/6
+T21	MORFOLOGIA_NEOPLASIA 4003 4015	LOE hepática
+#21	AnnotatorNotes T21	8000/6
+T22	MORFOLOGIA_NEOPLASIA 4043 4081	infiltración hepática por plasmocitoma
+#22	AnnotatorNotes T22	9731/6
+T23	MORFOLOGIA_NEOPLASIA 1435 1442	cT3N1M0
+#23	AnnotatorNotes T23	8000/6
+T24	MORFOLOGIA_NEOPLASIA 3155 3172	afectación iliaca
+#24	AnnotatorNotes T24	8000/6

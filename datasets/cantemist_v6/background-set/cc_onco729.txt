@@ -1,0 +1,27 @@
+Anamnesis
+Varón de 54 años sin antecedentes personales, familiares ni sociales de interés con una buena calidad de vida (PS-0), sin tratamiento domiciliario relevante, que comienza con cuadro clínico consistente en cefalea hemicraneal izquierda de más de dos meses de evolución, con sensación de opresión a dicho nivel que, de forma ocasional, es pulsátil asociada a náuseas y sonofotofobia intensa.
+
+Exploración física
+» Hemodinámicamente estable y afebril. Ligera taquicardia con auscultación cardiorrespiratoria, en la que destacaba hipofonesis generalizada sin ruidos patológicos presentes.
+» Sin soplos. Resto de exploración anodina, sin palpación de adenopatías patológicas.
+
+Pruebas complementarias
+» Analítica sin alteraciones significativas: con buena función renal, hepática y cifras de hemograma normales.
+» Se realiza TC de tórax y RM cerebral en abril de 2012.
+
+Diagnóstico
+Se objetiva masa en parénquima pulmonar derecho, sospechosa de cáncer de pulmón, confirmándose en biopsia pulmonar obtenida por fibrobroncoscopia un adenocarcinoma de pulmón estadio IV, cT3N0M1b (metástasis cerebrales múltiples).
+Se amplía el estudio molecular, con resultado de mutación en el exón 19 de EGFR.
+
+Tratamiento
+Recibe radioterapia (RT) craneal paliativa (5 sesiones) y comienza tratamiento con erlotinib 150 mg vía oral diario en junio de 2012. Mantiene enfermedad estable a nivel torácico con respuesta cerebral completa hasta septiembre de 2014, que comienza con clínica neurológica de diplopía, desviación de comisura bucal, hipoestesia facial izquierda, y parestesias en extremidades. Se evidencia paresia de pares craneales IV, V, VII y XII izquierdos con progresión en forma de carcinomatosis leptomeníngea. Estudio de TC craneal y RM cerebral sin datos de afectación metastásica, continuando en remisión completa de las metástasis cerebrales del debut, estando a nivel torácico la enfermedad estable (progresión del 10 %).
+Se decide mantener erlotinib e iniciar quimioterapia (QT) intratecal con metotrexato 12 mg, en pauta inicial semanal, luego quincenal y luego mensual.
+En marzo de 2015 se objetiva lenta progresión asintomática a nivel torácico (T3N2), y se administra RT a nivel torácico sobre masa pulmonar y áreas mediastínicas afectas (DT 60 Gy; 2 Gy/día), que finaliza el 14/5/15, continuando con erlotinib y metotrexato intratecal (LCR negativizado, mejoría leve de afectación de pares craneales).
+En octubre de 2015 mantiene respuesta en sistema nervioso central (SNC) y estabilización torácica sin toxicidad relevante al tratamiento salvo xerosis y rash cutáneo grado 1 secundario a erlotinib.
+En noviembre de 2015, se constata reaparición de citologías positivas en LCR, por lo que se cambia a QT intratecal triple (metotrexato, Ara-C, y prednisolona), 4 dosis semanales con negativización del LCR tras la 3ª, seguida de dosis bisemanal y posterior mensual, persistiendo similar sintomatología neurológica y general con PS-1, y sin toxicidad relevante al tratamiento.
+En diciembre de 2015, TC craneal en respuesta completa con TC tórax-abdomen con enfermedad estable (sólo masa LSD 3,9 cm). Sigue erlotinib 150 mg día, y QT intratecal triple mensual hasta última dosis en junio de 2016 por progresión clínica neurológica, por lo que se para la QT intratecal.
+En octubre de 2016, comienza con dolor no controlado con analgesia en cadera derecha objetivándose en gammagrafía ósea metástasis óseas a nivel de hemipelvis derecha, acetábulo, tercio proximal de fémur izquierdo y 11º arco costal izquierdo, recibiendo RT paliativa antiálgica sobre hemipelvis derecha (DT 20 Gy; 5 Gy/fracción) durante 4 sesiones asociada a hipertermia (2 sesiones de 60 minutos utilizando antenas grandes en AP/PA, no bolus. Potencia máxima: 400 W).
+
+Evolución
+En noviembre de 2016, sufre episodio de trombosis venosa profunda poplítea derecha y de troncos tibio peroneos, iniciando heparina de bajo peso molecular a dosis de 80 mg/día vía subcutánea, y suspendiéndose erlotinib.
+En diciembre de 2016, ingresa en Unidad de Cuidados Paliativos por deterioro clínico importante en forma de carcinomatosis meníngea, caquexia y disnea a mínimos esfuerzos. La evolución clínica durante el ingreso hospitalario no es adecuada produciéndose el exitus el 22 de enero de 2017.

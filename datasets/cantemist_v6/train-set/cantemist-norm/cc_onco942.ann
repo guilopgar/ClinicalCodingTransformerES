@@ -1,0 +1,32 @@
+T1	MORFOLOGIA_NEOPLASIA 1349 1363	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 841 851	leiomiomas
+#2	AnnotatorNotes T2	8890/0
+T3	MORFOLOGIA_NEOPLASIA 1829 1839	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1985 1995	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2499 2509	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 319 329	tumoración
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 559 595	metástasis ovárica de adenocarcinoma
+#7	AnnotatorNotes T7	8140/6
+T8	MORFOLOGIA_NEOPLASIA 919 970	adenocarcinoma intestinal medianamente diferenciado
+#8	AnnotatorNotes T8	8140/32
+T9	MORFOLOGIA_NEOPLASIA 1318 1335	citología maligna
+#9	AnnotatorNotes T9	8001/3
+T10	MORFOLOGIA_NEOPLASIA 1478 1524	metástasis en ovario derecho de adenocarcinoma
+#10	AnnotatorNotes T10	8140/6
+T11	MORFOLOGIA_NEOPLASIA 1578 1633	adenocarcinoma de colon sigmoide estadio IV (metástasis
+#11	AnnotatorNotes T11	8140/6
+T12	MORFOLOGIA_NEOPLASIA 1773 1789	recaída pulmonar
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 2135 2147	recaída ósea
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 2787 2806	progresión pulmonar
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 2913 2932	progresión pulmonar
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 3174 3193	progresión pulmonar
+#16	AnnotatorNotes T16	8000/6

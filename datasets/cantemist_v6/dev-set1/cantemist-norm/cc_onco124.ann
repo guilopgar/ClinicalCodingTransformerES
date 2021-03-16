@@ -1,0 +1,26 @@
+T1	MORFOLOGIA_NEOPLASIA 1516 1533	Teratoma inmaduro
+#1	AnnotatorNotes T1	9080/3
+T2	MORFOLOGIA_NEOPLASIA 3093 3109	implante tumoral
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1688 1710	implantes peritoneales
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2953 2963	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 707 715	teratoma
+#5	AnnotatorNotes T5	9080/1
+T6	MORFOLOGIA_NEOPLASIA 395 405	tumoración
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 1101 1111	tumoración
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 1196 1211	quístico-sólido
+#8	AnnotatorNotes T8	8452/1
+T9	MORFOLOGIA_NEOPLASIA 1783 1846	teratoma inmaduro de ovario grado 3 con implantes en el epiplón
+#9	AnnotatorNotes T9	9080/63
+T10	MORFOLOGIA_NEOPLASIA 1954 1977	implantes perihepáticos
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 3370 3400	implante en el saco de Douglas
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 3602 3661	tejido adiposo metastatizado por tejido teratomatoso maduro
+#12	AnnotatorNotes T12	9080/3/H
+T13	MORFOLOGIA_NEOPLASIA 3680 3705	teratoma inmaduro grado 0
+#13	AnnotatorNotes T13	9080/3/H

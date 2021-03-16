@@ -1,0 +1,44 @@
+T1	MORFOLOGIA_NEOPLASIA 4495 4516	Carcinoma infiltrante
+#1	AnnotatorNotes T1	8010/3/H
+T2	MORFOLOGIA_NEOPLASIA 1896 1901	LDCGB
+#2	AnnotatorNotes T2	9680/3
+T3	MORFOLOGIA_NEOPLASIA 3202 3207	LDCGB
+#3	AnnotatorNotes T3	9680/3
+T4	MORFOLOGIA_NEOPLASIA 292 306	adenocarcinoma
+#4	AnnotatorNotes T4	8140/3
+T5	MORFOLOGIA_NEOPLASIA 1973 1980	linfoma
+#5	AnnotatorNotes T5	9590/3
+T6	MORFOLOGIA_NEOPLASIA 2373 2380	linfoma
+#6	AnnotatorNotes T6	9590/3
+T7	MORFOLOGIA_NEOPLASIA 1311 1321	malignidad
+#7	AnnotatorNotes T7	8000/3
+T8	MORFOLOGIA_NEOPLASIA 184 193	neoplasia
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 1040 1049	neoplasia
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 5213 5222	neoplasia
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 563 573	neoplásica
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 3787 3813	proceso linfoproliferativo
+#12	AnnotatorNotes T12	9970/1
+T13	MORFOLOGIA_NEOPLASIA 4204 4230	proceso linfoproliferativo
+#13	AnnotatorNotes T13	9970/1
+T14	MORFOLOGIA_NEOPLASIA 900 912	tumoraciones
+#14	AnnotatorNotes T14	8000/1
+T15	MORFOLOGIA_NEOPLASIA 73 90	síndrome de Lynch
+#15	AnnotatorNotes T15	8000/3
+T16	MORFOLOGIA_NEOPLASIA 1751 1779	proceso linfoproliferativo B
+#16	AnnotatorNotes T16	9970/1/H
+T17	MORFOLOGIA_NEOPLASIA 1809 1874	linfoma difuso de célula grande B con fenotipo no centro germinal
+#17	AnnotatorNotes T17	9680/3/H
+T18	MORFOLOGIA_NEOPLASIA 3508 3549	carcinoma infiltrante grado histológico I
+#18	AnnotatorNotes T18	8010/31/H
+T19	MORFOLOGIA_NEOPLASIA 3979 3998	neoplasia epitelial
+#19	AnnotatorNotes T19	8000/1/H
+T20	MORFOLOGIA_NEOPLASIA 4051 4103	linfoma difuso de célula grande B no centro germinal
+#20	AnnotatorNotes T20	9680/3/H
+T21	MORFOLOGIA_NEOPLASIA 4313 4330	Ca infiltrante GI
+#21	AnnotatorNotes T21	8010/31/H
+T22	MORFOLOGIA_NEOPLASIA 4789 4852	Linfoma no Hodgkin difuso de célula grande B no centro germinal
+#22	AnnotatorNotes T22	9680/3/H

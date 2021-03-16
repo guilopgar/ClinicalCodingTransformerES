@@ -1,0 +1,12 @@
+T1	MORFOLOGIA_NEOPLASIA 1913 1936	carcinoma escamocelular
+#1	AnnotatorNotes T1	8070/3
+T2	MORFOLOGIA_NEOPLASIA 2079 2156	carcinoma pulmonar no microcítico (CPNM) de tipo escamoso Estadio IV (T4N3M1)
+#2	AnnotatorNotes T2	8046/6
+T3	MORFOLOGIA_NEOPLASIA 2114 2118	CPNM
+#3	AnnotatorNotes T3	8046/3
+T4	MORFOLOGIA_NEOPLASIA 2079 2136	carcinoma pulmonar no microcítico (CPNM) de tipo escamoso
+#4	AnnotatorNotes T4	8070/3
+T5	MORFOLOGIA_NEOPLASIA 1580 1620	nódulos pulmonares múltiples bilaterales
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 2639 2669	nódulos pulmonares bilaterales
+#6	AnnotatorNotes T6	8000/6

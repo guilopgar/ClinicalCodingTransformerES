@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 1238 1266	adenocarcinoma endometrioide
+#1	AnnotatorNotes T1	8380/3
+T2	MORFOLOGIA_NEOPLASIA 2501 2529	adenocarcinoma endometrioide
+#2	AnnotatorNotes T2	8380/3
+T3	MORFOLOGIA_NEOPLASIA 1165 1189	carcinoma indiferenciado
+#3	AnnotatorNotes T3	8020/3
+T4	MORFOLOGIA_NEOPLASIA 1133 1146	tumor maligno
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 1931 1941	tumoración
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 1165 1221	carcinoma indiferenciado de células pequeñas-intermedias
+#6	AnnotatorNotes T6	8044/34
+T7	MORFOLOGIA_NEOPLASIA 1238 1291	adenocarcinoma endometrioide de patrón villoglandular
+#7	AnnotatorNotes T7	8263/3
+T8	MORFOLOGIA_NEOPLASIA 1326 1342	estromal maligno
+#8	AnnotatorNotes T8	8930/3
+T9	MORFOLOGIA_NEOPLASIA 2423 2469	sarcoma del estroma endometrial indiferenciado
+#9	AnnotatorNotes T9	8930/34
+T10	MORFOLOGIA_NEOPLASIA 2626 2648	tumoral indiferenciado
+#10	AnnotatorNotes T10	8000/34

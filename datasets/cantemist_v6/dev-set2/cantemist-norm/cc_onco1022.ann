@@ -1,0 +1,36 @@
+T1	MORFOLOGIA_NEOPLASIA 989 993	PNET
+#1	AnnotatorNotes T1	9364/3
+T2	MORFOLOGIA_NEOPLASIA 5888 5892	PNET
+#2	AnnotatorNotes T2	9473/3
+T3	MORFOLOGIA_NEOPLASIA 5776 5786	malignidad
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 2531 2542	metastásica
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2877 2888	metastásica
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 4788 4799	metastásica
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 7295 7313	nódulos pulmonares
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 8585 8605	nódulos subpleurales
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 7202 7221	progresión pulmonar
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 8493 8512	progresión pulmonar
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 3830 3840	tumoración
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 957 970	Sarcoma Ewing
+#12	AnnotatorNotes T12	9260/3
+T13	MORFOLOGIA_NEOPLASIA 2447 2466	enfermedad de Paget
+#13	AnnotatorNotes T13	9184/3
+T14	MORFOLOGIA_NEOPLASIA 4679 4698	enfermedad de Paget
+#14	AnnotatorNotes T14	9184/3
+T15	MORFOLOGIA_NEOPLASIA 4827 4846	enfermedad de Paget
+#15	AnnotatorNotes T15	9184/3
+T16	MORFOLOGIA_NEOPLASIA 5315 5357	neoplásica infiltrante de células pequeñas
+#16	AnnotatorNotes T16	8002/1/H
+T17	MORFOLOGIA_NEOPLASIA 5820 5836	sarcoma de Ewing
+#17	AnnotatorNotes T17	9260/3
+T18	MORFOLOGIA_NEOPLASIA 5854 5886	tumor neuroectodérmico primitivo
+#18	AnnotatorNotes T18	9473/3

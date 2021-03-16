@@ -1,0 +1,8 @@
+T1	MORFOLOGIA_NEOPLASIA 772 779	maligna
+#1	AnnotatorNotes T1	8000/3
+T2	MORFOLOGIA_NEOPLASIA 53 71	timoma linfocítico
+#2	AnnotatorNotes T2	8583/1
+T3	MORFOLOGIA_NEOPLASIA 666 718	timoma de predominio linfocítico (compatible con B1)
+#3	AnnotatorNotes T3	8583/3
+T4	MORFOLOGIA_NEOPLASIA 908 931	timoma linfocítico (B1)
+#4	AnnotatorNotes T4	8583/3

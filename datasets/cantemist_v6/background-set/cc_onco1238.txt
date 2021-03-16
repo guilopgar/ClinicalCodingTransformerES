@@ -1,0 +1,34 @@
+Anamnesis
+Mujer de 57 años, sin alergias medicamentosas conocidas, no fumadora. Sin antecedentes patológicos de interés.
+Diagnosticada en marzo de 2012 de adenocarcinoma de origen pulmonar con afectación ganglionar mediastínica y síndrome de vena cava superior en el momento del diagnóstico (TxN3M0).
+Inició tratamiento con carboplatino AUC5-paclitaxel 175 mg/m2 día 1 cada 21 días concomitante a radioterapia, que finalizó en agosto de 2012, obteniendo una respuesta completa al tratamiento. En enero de 2013, por progresión de la enfermedad a nivel ganglionar, se reinició tratamiento con carboplatino-paclitaxel a las mismas dosis que había recibido con anterioridad, debido a que se trataba de una paciente platino sensibe, realizando un total de 10 ciclos con respuesta parcial como mejor respuesta.
+En junio de 2013 se objetiva nueva progresión con aparición de letálides cutáneas y adenopatías patológicas cervicales.
+Se realizó biopsia de las letálides cutáneas con resultado compatible con metástasis de adenocarcinoma de probable origen pulmonar. Estudio molecular: con resultado EGFR no mutado, ALK no traslocado y ROS1 reordenado. Se derivó a nuestro centro para valorar inclusión en ensayo clínico.
+En nuestra primera visita la paciente refería astenia grado 1 y anorexia grado 1. No refería disnea ni otras alteraciones.
+
+Examen físico
+ECOG 1. Peso 67 kg. Consciente y orientada, sin focalidades neurológicas agudas. AC: ruidos cardiacos rítmicos, sin auscultar soplos ni roces. Murmullo vesicular conservado a la auscultación respiratoria, sin ruidos patológicos.
+Adenopatías laterocervicales de 1,5 cm aproximadamente. Lesión eritematosa violácea en mama derecha.
+
+Pruebas complementarias
+- PET-TC (1/8/2013): adenopatías patológicas en las dos cadenas ganglionares laterocervicales, la mayor de 14 mm, fosas claviculares, axilares y retroperitoneales.
+- TC SNC (1/8/2013): sin evidencia de metástasis.
+- TC cervical (1/8/2013): múltiples adenopatías laterocervicales bilaterales de predominio derecho.
+- TC de tórax (1/8/2013): imagen sugestiva de masa neoplásica pulmonar en LSD de 43 mm de diámetro máximo; adenopatía laterocervical bilateral, supraclavicular, axilar derecha y retroperitoneal.
+- Analitica: 29.000 plaquetas; hemoglobina 10 g/dl.
+
+Diagnóstico
+Se valoró como mujer caucásica no fumadora con diagnóstico de adenocarcinoma de pulmón estadio IV con reordenamiento de ROS-1.
+
+Tratamiento
+A la espera del inicio de tratamiento dentro de ensayo clínico, la paciente presenta como complicaciones accidente vascular cerebral de cápsula interna derecha en julio de 2013 con recuperación ad integrum, orientándose como secundario a coagulopatía en contexto de enfermedad oncológica de base.
+Además, también destacaba plaquetopenia grado 4, valorándose inicialmente como secundaria a toxicidad hematológica, que, ante la persistencia, fue estudiada por Servicio de Hematología con biopsia de medula ósea compatible con plaquetopenia periférica, que se orientó como púrpura trombocitopénica idiopática, por lo que se inició corticoterapia a dosis de 1,5 mg/kg/día. Ante la escasa respuesta al tratamiento corticoide, se pautó tratamiento con inmunoglobulinas a dosis de 1 g/kg. Debido a la plaquetopenia grado 4 no pudo ser incluida en el ensayo clínico con inhibidores de ALK/ROS.
+La paciente consulta a Urgencias en septiembre de 2014 por disnea progresiva de un mes de evolución hasta hacerse de mínimos esfuerzos, ortopnea y disnea paroxística nocturna, sin fiebre ni clínica infecciosa acompañante. En la exploración clínica, destacaba hipofonesis de tercio inferior de ambos campos pulmonares, taquicardia, taquipnea, roce pericárdico y signos de taponamiento cardiaco. En las exploraciones complementarias, se objetivó gasometría con hipoxemia normocapnica, 14.000 plaquetas y radiografía de tórax con cardiomegalia y derrame pleural bilateral de predominio izquierdo, por lo que se realizó toracocentesis evacuadora. Se realizó ecocardiograma transtorácico, objetivándose derrame pleural masivo con signos de taponamiento cardiaco, por lo que se realizó pericardiocentesis con colocación de drenaje pericárdico. Ante la recidiva del derrame pleural, se colocó drenaje torácico izquierdo.
+Ante la situación de la paciente con múltiples complicaciones relacionadas con la enfermedad oncológica, con plaquetopenia grado 4 y asumiendo el riesgo de complicaciones de acuerdo con la paciente, se solicitó uso compasivo de crizotinib a 250 mg/día que inició el 17 de septiembre de 2013.
+
+Evolución
+Se realizó radiografía de control durante el ingreso donde se observó presencia de atelectasia y abundante derrame pleural derecho, por lo que se colocó segundo drenaje torácico con resultado compatible con quilotórax. Se inició dieta rica en grasas y ante la ausencia de mejoría de las características del líquido pleural, se decidió iniciar nutrición parenteral total, con mejoría progresiva hasta que finalmente se realizó pleurodesis con doxiciclina.
+Durante el ingreso, ante la ausencia de mejoría de la plaquetopenia, se inició tratamiento con romiplostin, de acuerdo con el Servicio de Hematología clínica.
+Como otras complicaciones, presentó neumotórax leve que no precisó colocación de derrame pleural y trombosis de la vena subclavia derecha confirmado con flebografía.
+La paciente presento mejoría clínica, con signos de respuesta clínica con disminución de las adenopatías y del tamaño de las letálides. Después de 27 días de tratamiento, la paciente presentó empeoramiento rápidamente progresivo, con aumento de la disnea, por lo que se realizó angio-TC, que descartó presencia de tromboembolismo pulmonar, y en el que se pudo observar una respuesta parcial de la masa del lóbulo superior derecho. La paciente presentó una evolución tórpida, con disminución del nivel de conciencia, siendo finalmente éxitus en octubre de 2013, después de 1 mes de inicio de tratamiento con crizotinib.
+Se realizó necropsia, obteniendo como diagnóstico infección micótica invasiva compatible con aspergilosis, afectando a pulmones, mucosa traqueal y riñones. En cuanto a la enfermedad oncológica, se observaba celularidad compatible con adenocarcinoma residual en adenopatía supraclavicular derecha (1 cm), pleura derecha y esclerosis y cambios compatibles con tumor en regresión en tejidos blandos rodeando troncos supraaórticos y afectación parenquimatosa en lóbulo medio.

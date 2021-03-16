@@ -1,0 +1,35 @@
+Anamnesis
+Mujer de 57 años de edad, con antecedentes personales de diabetes mellitus no insulina dependiente, dislipemia y cáncer de mama metastático en tratamiento actual con capecitabina 1.250 mg/m2 vía oral cada 12 horas durante 14 días cada 21 días.
+Se realizó el diagnóstico de cáncer de mama derecha en 1996 (RH + Her-2–), inicialmente tratado con mastectomía radical más vaciamiento axilar (5 de 12 ganglios positivos) y posterior quimioterapia adyuvante (esquema FAC x3), seguido de radioterapia y a continuación otros tres ciclos de quimioterapia (esquema FAC).
+Continuó con tratamiento hormonal con tamoxifeno durante cinco años. En febrero de 2007 se evidencia progresión tumoral a nivel óseo y se inicia tratamiento con exemestano y zometa. En abril de 2011 se observa progresión de la afectación metastásica ósea e infiltración cutánea en región torácica y supraclavicular (anatomía patológica: carcinoma mamario de tipo infiltrante ductal usual no específico, grado nuclear 2 e histológico 7/9. Perfil IHQ: receptores de estrógenos 100%; receptores de progesterona 10%; Her-2 negativo). En diciembre de 2011 se inicia tratamiento con capecitabina, recibiendo hasta la fecha de la consulta cuatro ciclos completos y actualmente recibiendo el 5.º ciclo (inició el día 27 de marzo de 2012).
+Consulta el día 12 de abril de 2012 por exantema de inicio subagudo en abdomen de aproximadamente siete días de evolución, con posterior extensión a miembros inferiores y superiores. Es valorada por Dermatología y se interpreta el cuadro como un exantema papuloeritematoso/purpúrico y, con la sospecha de toxicodermia, se inicia tratamiento sintomático con hidratación cutánea y antihistamínicos.
+En control posterior se observa que el exantema se extiende de forma caudal a las extremidades, con áreas purpúricas extensas, respetando plantas, palmas y mucosas. Niega síntomas digestivos, respiratorios o urinarios. No presenta síndrome febril asociado.
+
+Exploracion física
+PS ECOG 0. Bien perfundida, hidratada y nutrida.
+TA 134/61 mm Hg; FC 93 lpm; 36,4 ºC; Sat. O2 98%. Eupneica en reposos. CyOx3. Cabeza y cuello: metástasis cutáneas en la región supraclavicular izquierda. Sin adenopatías. Mucosas sin lesiones.
+Piel: púrpura muy violácea y extensas con centro necrótico en dorso de pies y pìernas. Vesículas y pústulas iniciales en su superficie. Exantema maculoso eritemato purpúrico en miebros inferiores, abdomen, tórax y miembros superiores. No afectación de mucosas. No zonas de despegamiento epidérmico.
+Auscultación cardíaca: rítmico, no soplos. Auscultación pulmonar: murmullo vesicular conservado sin ruidos agregados. Abdomen: blando, depresible, indoloro. RHA+. Sin signos de irritación peritoneal. No se palpan masas ni megalias. Neurológico: lúcida, no focalidad neuroógica.
+
+Pruebas complementarias
+• Hemograma: Hb 9,7 g/dL; Hto 29,2 %; plaquetas 206 10E3/μL; leucocitos 10,80 10E3/μL fórmula normal.
+• Hemostasia: normal; fibrinógeno 761 mg/dL.
+• Bioquímica: perfil hepático normal salvo GGT 107 U/L; fosfatasa alcalina 240 U/L; LDH 371 U/L. Función renal normal. CK 171 U/L; albúmina 3,5 g/dL; proteína C reactiva 11,0 mg/dL; procalcitonina 0,1 μg/L.
+• Sedimiento de orina: normal.
+• Autoinmunidad: Ac. anticitoplasma de neutrófilos (ANCA) C-ANCA negativo, P-ANCA Negativo, A-ANCA Negativo, Ac. antinucleares ELISA negativo.
+• Inmunoproteínas: complemento C3 y C4 normales.
+• Radiografía de tórax: sin alteraciones pleuroparenquimatosas significativas.
+• Anatomía patológica: histológicamente, muestra en la dermis reticular superficial y media, un denso infiltrado inflamatorio constituido por polimorfonucleares neutrófilos y frecuentes fragmentos nucleares alrededor de los vasos presentes en la misma. Se observan asimismo frecuentes imágenes de necrosis fibrinoide de la pared vascular.
+La epidermis muestra un área de despegamiento y ulceración sin otras alteraciones significativas en ninguna de sus capas. Las técnicas de IFD muestranpositividad de fibrinogeno en la pared de los vasos y negatividad del resto de anticuerpos (IgG, IgM, IgA, C3).
+Conclusión: vasculitis aguda y dermatosis purpúrica.
+
+Diagnóstico
+Cáncer de mama E IV (metástasis óseas, cutáneas) en tratamiento con primera línea quimioterápica paliativa (5.º ciclo de capecitabina, FUC 23 de marzo de 2012).
+Vasculitis cutánea sin afectación sistémica, en relación con capecitabina.
+
+Tratamiento
+Se suspende el tratamiento con capecitabina y se inicia tratamiento con prednisona 30 mg por vía oral con adecuada tolerancia. A las 24 horas se observa mejoría leve de las lesiones. Continúa con el tratamiento durante diez días con adecuada tolerancia y respuesta. Luego se desescaló hasta dosis de mantenimiento de 7,5 mg cada 24 horas.
+
+Evolución
+La paciente inicia el tratamiento pautado y evoluciona favorablemente, sin compromiso sistémico.
+Las lesiones de vasculitis y exantema eritematopurpúrico fueron remitiendo paulatinamente. Se descartaron otras etiologias posibles de vasculitis inmunológica y dado su relación con el tratamiento oncologico y remisión una vez discotinuado el mismo, se interpreta como secundario a este. Está pendiente de iniciar nueva línea de quimioterapia paliativa.

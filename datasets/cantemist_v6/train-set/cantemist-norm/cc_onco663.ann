@@ -1,0 +1,30 @@
+T1	MORFOLOGIA_NEOPLASIA 2126 2158	Carcinoma lobulillar infiltrante
+#1	AnnotatorNotes T1	8520/3
+T2	MORFOLOGIA_NEOPLASIA 1399 1419	carcinoma lobulillar
+#2	AnnotatorNotes T2	8520/3
+T3	MORFOLOGIA_NEOPLASIA 3090 3122	carcinoma lobulillar infiltrante
+#3	AnnotatorNotes T3	8520/3
+T4	MORFOLOGIA_NEOPLASIA 445 451	cáncer
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 498 504	cáncer
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 564 570	cáncer
+#6	AnnotatorNotes T6	8000/3
+T7	MORFOLOGIA_NEOPLASIA 2378 2384	cáncer
+#7	AnnotatorNotes T7	8000/3
+T8	MORFOLOGIA_NEOPLASIA 2437 2443	cáncer
+#8	AnnotatorNotes T8	8000/3
+T9	MORFOLOGIA_NEOPLASIA 2927 2933	cáncer
+#9	AnnotatorNotes T9	8000/3
+T10	MORFOLOGIA_NEOPLASIA 3025 3031	cáncer
+#10	AnnotatorNotes T10	8000/3
+T11	MORFOLOGIA_NEOPLASIA 1229 1246	células tumorales
+#11	AnnotatorNotes T11	8001/1
+T12	MORFOLOGIA_NEOPLASIA 2026 2031	tumor
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 1447 1454	tumoral
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 996 1042	carcinoma lobulillar de mama izquierda grado 2
+#14	AnnotatorNotes T14	8520/32
+T15	MORFOLOGIA_NEOPLASIA 3406 3417	neoplásicos
+#15	AnnotatorNotes T15	8000/1

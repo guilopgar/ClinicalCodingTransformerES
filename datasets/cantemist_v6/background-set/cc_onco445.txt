@@ -1,0 +1,41 @@
+Anamnesis
+Mujer de 52 años de edad. Diagnosticada en mayo de 2014 de un adenocarcinoma de recto superior, estadio III C, KRAS mutado, pendiente de iniciar tratamiento neoadyuvante.
+Acude a primera hora de la mañana para la planificación del tratamiento en el Servicio de Oncología Radioterápica, para el cual se recomienda una importante hidratación. La paciente había bebido más de 3 l de agua. A las dos horas, comienza con malestar general acompañado de dispepsia, náuseas, vómitos repetidos y abundantes acompañado de deposiciones líquidas sin productos patológicos. Una hora más tarde presenta, desorientación, disminución del nivel de conciencia y desconexión con el medio, siendo trasladada al Servicio de Urgencias, asociando una crisis convulsiva tónico-clónica.
+
+Exploración física
+Mal estado general. Tensión arterial: 85/60 mm Hg. No responde a órdenes verbales. Agitación con desconexión del medio. Pupilas isocóricas y normorreactivas. Movimientos mioclónicos en las cuatro extremidades, siendo más intensas en hemicuerpo derecho. Escala de Glasgow 7.
+
+Pruebas complementarias
+ANALÍTICA
+Fecha	23/07/2014	23/07/2014	23/07/14
+Hora	08:30	18:36	23:02 
+Lugar	Consulta externa	BOX 0	UCI
+Hemoglobina	14,2 g/dl	13,4 g/dl	11,6 g/Dl
+Leucocitos	6.600 /ul	11.700 /ul	10.100 /Ul
+Neutrófilos	46,2 %	86,6 %	92 %
+Linfocitos	40,5 %	10,9 %	5,3 %
+Plaquetas	209.000 /ul	214.000 /ul	156.000 /ul
+INR		1	1,2
+Glucosa	85 mg/dl	138 mg/dl	140 mg/Dl
+Urea	29 mg/dl	25 mg/dl	18 mg/Dl
+Creatinina	0,77 mg/dl	0,60 mg/dl	0,96 mg/dl
+Cloro	104 meq/l	86 meq/l	100 meq/l
+Sodio	143 meq/l	124 meq/l	129 meq/l
+Potasio	4,2 meq/l	3,5 meq/l	3,6 meq/l
+PCR	< 1 mg/dl		
+Osmolaridad en plasma			262 mOsm/l
+CPK			70.684 U/l
+
+Electrocardiograma y radiografía de tórax: sin alteraciones.
+Tomografía computarizada de cráneo (TC): edema cerebral difuso. Sin lesiones isquémicas ni hemorrágicas. Sin signos de metástasis.
+
+Diagnóstico
+»Hiponatremia grave aguda secundaria a pérdidas digestivas e hidratación excesiva.
+»Crisis comicial secundaria a edema cerebral difuso.
+»Rabdomiolisis secundaria a crisis comiciales.
+
+Tratamiento
+La paciente precisó ingreso en la UCI, donde se instaura el tratamiento de soporte con sueroterapia hipertónica e intubación orotraqueal.
+
+Evolución
+Tras 4 días en UCI, permanece estable desde el punto de vista hemodinámico y es trasladada a planta donde evoluciona favorablemente, encontrándose asintomática con buen estado general y mejoría de los valores analíticos. Posteriormente, recibe tratamiento neoadyuvante con capecitabina y radioterapia, con buena tolerancia. Es intervenida, realizándose resección anterior baja, sin complicaciones con diagnóstico anatomopatológico de adenocarcinoma de Recto G1 pT3pN1AcMo. Completa el tratamiento adyuvante con esquema XELOX, recibiendo un total de 8 ciclos, con buena tolerancia y sin complicaciones. Actualmente, se encuentra en seguimiento con un intervalo libre de enfermedad de 4 años y 7 meses.

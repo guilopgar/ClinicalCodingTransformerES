@@ -1,0 +1,43 @@
+Anamnesis
+Varón de 26 años de edad, sin antecedentes de interés que acude al Servicio de Urgencias, tras varias ocasiones, por dolor en hipogastrio, irradiado a zona FID y lumbar. Lo relaciona con estreñimiento pertinaz que requiere enemas y laxantes, de 2-3 semanas de evolución. Comenta pérdida de unos 5 kg de peso en los últimos 2 meses. No tiene otros síntomas B.
+
+Exploración física
+Sin hallazgos físicos relevantes, salvo en la palpación abdominal con dolor generalizado. Reborde hepático de entre 2-3 cm con nodulaciones, indurado. También se palpa masa a nivel de FID. Resto de la exploración sin hallazgos relevantes.
+Por todo ello, se cursa ingreso hospitalario para continuar estudio.
+
+Pruebas complementarias
+» Bioquímica destaca: BT 1,34, GOT 81, GPT 140, GGT 246, FA 154, LDH 716.
+» Hemograma: Hb 15,8, leucocitos 11.620, PMN 74 %, plaquetas 238.000. Coagulación: TP 51 %, INR 1,62.
+» Perfil tiroideo normal. Serología VIH, IGRA y virus hepatotropos negativo. betaHCG < 1,2.
+» MT: elevación CA 125 121,1 (0,5-35); AFP, CEA, CA 15,3 CA 19,9, proteína S-100b y PSA dentro de la normalidad.
+» Proteinograma dentro de la normalidad. Discreta elevación de IgE.
+» Respecto a las pruebas de imagen, en la ecografía abdominal realizada se podían apreciar múltiples lesiones compatibles con enfermedad metastásica hepática, pélvica, probablemente ganglionar y en hilio hepático secundaria a neoplasia no identificada.
+» En TC de tórax, abdomen y pelvis se observaban varias masas peritoneales pélvicas, así como lesiones con anillo de captación periférico sugerentes de metástasis hepáticas.
+» Se realiza biopsia por punción aguja gruesa de la masa inguinal que fue finalmente informada de tumor desmoplásico de células pequeñas y redondas.
+» Se observan cilindros infiltrados por una proliferación neoplásica que forma nidos y trabéculas de células redondas indiferenciadas pequeñas de citoplasma escaso eosinófilo, en un estroma fibroso desmoplásico con cambio mixoide.
+» Las células tienen inmunofenotipo positivo frente a desmina (con patrón en punto perinuclear), vimentina, enolasa débil, CK AE1/AE3 y CD99 débil, y negativo frente a proteína miogenina, S100, CD56 y sinaptofisina.
+» El estudio de biología molecular, informado posteriormente, tiene resultado positivo para la translocación EWSR1.
+» El estudio por técnica FISH es positivo para la translocación del locus del gen EWSR1 (22q12.2).
+» El estudio inmunohistoquímico de WT1 muestra positividad intensa.
+» Posteriormente, el paciente es dado de alta domiciliaria tras la realización de biopsia.
+» Ingresa nuevamente por clínica álgica abdominal, refractaria a tratamiento analgésico. Se procede por ello al control sintomático y a completar el estudio de extensión.
+» Gammagrafía ósea sin evidencia de afectación ósea metastásica. Ventriculografía con FEVI en límite de normalidad.
+
+Diagnóstico
+Tumor desmoplásico de células pequeñas y redondas.
+
+Tratamiento
+Se propone como estrategia inicio de tratamiento quimioterápico con esquema de ciclofosfamida, adriamicina y vincristina por seis ciclos. Tras tres ciclos, el paciente requiere ingreso hospitalario por amigdalitis pultácea, neutropenia febril GIV, trombopenia GIII, y oromucositis GI. Finalmente, completa los tres ciclos restantes
+En la evaluación radiológica a los seis meses, destacan:
+» RM abdomen y pelvis: marcada respuesta parcial de la lesión peritoneal, así como de las metástasis hepáticas.
+» TC de tórax, abdomen y pelvis: importante reducción en número y tamaño de las lesiones primarias pélvicas y de las metástasis hepáticas. Desaparición de las adenopatías mesentéricas y retroperitoneales. Respuesta parcial al tratamiento según criterios RECIST 1.1 de la enfermedad primaria y metastásica.
+
+Evolución
+Dada la respuesta al tratamiento, se presenta el caso en Comité Multidisciplinar para valoración quirúrgica. No se garantiza una cirugía R0, por lo que se decide continuar tratamiento quimioterápico con esquema ifosfamida-etopósido por tres ciclos más.
+Tras completarlos, se decide consultar con el Grupo Español de Investigación en Sarcomas (GEIS), recomendando completar el año de tratamiento con quimioterapia y reevaluar e intentar técnicas locales.
+Tras completar esquema ifosfamida-etopósido, se procede a realización de cirugía de rescate. Evolución favorable postoperatoria, procediéndose al alta domiciliaria tras una semana de ingreso hospitalario.
+El caso se presenta nuevamente en Comité de Tumores, especificándose que la resección ha sido R2 dejando toda la enfermedad hepática que es irresecable y una pastilla tumoral en cara pélvica derecha.
+Tres meses más tarde, el paciente ingresa nuevamente a cargo de Oncología Médica por deterioro del estado general, ascitis a tensión y fallo hepático por progresión tumoral.
+PET-TC: diseminación de metástasis hepáticas, peritoneales, adenopatías retroperitoneales, y pulmonares incipientes, todo ello sugerente de progresión tumoral.
+TC de tórax, abdomen y pelvis: progresión tumoral con metástasis hepáticas. Evidencia de implantes peritoneales y presencia de adenopatía necrótica en grasa pararrectal.
+Finalmente, dado el estado del paciente, se decide iniciar medidas de confort, con realización de paracentesis evacuadora e inicio de perfusión analgésica para control de clínica álgica. Una semana más tarde se produce el fallecimiento del paciente.

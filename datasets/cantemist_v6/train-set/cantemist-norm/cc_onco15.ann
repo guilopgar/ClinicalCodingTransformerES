@@ -1,0 +1,22 @@
+T1	MORFOLOGIA_NEOPLASIA 3512 3524	Hipernefroma
+#1	AnnotatorNotes T1	8312/3
+T2	MORFOLOGIA_NEOPLASIA 528 560	adenocarcinoma de células claras
+#2	AnnotatorNotes T2	8310/3
+T3	MORFOLOGIA_NEOPLASIA 291 329	adenocarcinoma renal de células claras
+#3	AnnotatorNotes T3	8310/3
+T4	MORFOLOGIA_NEOPLASIA 1096 1106	malignidad
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 1566 1577	metastásica
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 1404 1414	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 969 979	neoplásico
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 662 669	tumoral
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 861 868	tumoral
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 3615 3622	tumoral
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 592 599	pT3NxMx
+#11	AnnotatorNotes T11	8000/6

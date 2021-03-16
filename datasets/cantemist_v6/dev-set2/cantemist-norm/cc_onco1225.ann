@@ -1,0 +1,6 @@
+T1	MORFOLOGIA_NEOPLASIA 1327 1334	linfoma
+#1	AnnotatorNotes T1	9590/3
+T2	MORFOLOGIA_NEOPLASIA 287 322	linfoma B difuso de células grandes
+#2	AnnotatorNotes T2	9680/3
+T3	MORFOLOGIA_NEOPLASIA 1562 1630	Linfoma no Hodking B difuso de células grandes CD 20 + de alto grado
+#3	AnnotatorNotes T3	9680/34

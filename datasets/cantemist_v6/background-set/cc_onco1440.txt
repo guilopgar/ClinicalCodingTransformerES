@@ -1,0 +1,22 @@
+Anamnesis
+Varón de 66 años, exfumador y con diagnóstico de carcinoma sarcomatoide de pulmón, estadio IV, por metástasis subcutáneas, pulmonares, cervicales, abdominales y óseas. Inicia primera línea de quimioterapia paliativa con docetaxel-gemcitabina que se sustituye por cisplatino-gemcitabina por reacción alérgica tras la segunda infusión de docetaxel.
+Acude a Urgencias tras el tercer ciclo de quimioterapia por hemoptisis franca y disnea de 24 horas de evolución.
+
+Examen físico
+TA 105/52 mm Hg, FC 98 lpm, Tª 35,8 ºC. ECOG-PS 3. Taquipneico sin oxigenoterapia. Adenopatías cervicales derechas empastadas y pétreas. Auscultación cardíaca: rítmica y sin soplos. Auscultación pulmonar: disminución del murmullo en hemitórax derecho. Resto de la exploración sin hallazgos.
+
+Pruebas complementarias
+Gasometría arterial basal: pH 7,52, pO2 49, pCO2 31, sat. O2 91 %.
+Electrocardiograma: ritmo sinusal normal a 92 latidos por minuto (lpm).
+Analítica de sangre: 34.240 leucocitos/μl (neutrófilos 68,8 %, cayados 14 %), Hb 9,9 g/dL, plaquetas 1.484.000/μL, K 6,4 mmol/l; resto normal.
+Radiografía de tórax: opacidad en mitad inferior del hemitórax derecho, con empeoramiento de la lesión circular ya descrita.
+Tomografía computarizada (TC) toracoabdominopélvica: progresión a nivel de masa cavitada en el lóbulo inferior derecho (LID) con nivel hidroaéreo y de masa en segmento apical del lóbulo superior derecho (LSD). Aneurisma de la arteria interlobar inferior derecha. Adenopatías mediastínicas. Derrame pleural derecho. Extensa afectación metastásica en tejido muscular y celular subcutáneo. Carcinomatosis peritoneal. Afectación de la apófisis espinosa de D1 con masa de partes blandas. Infantos esplénicos y renal.
+
+Diagnóstico
+Progresión pulmonar y pseudoaneurisma secundario.
+
+Tratamiento
+Se administra ácido aminocaproico, pero se suspende por reacción alérgica. Persiste el sangrado, requiriendo transfusión de hemoderivados, por lo que se administra radioterapia hemostásica con buena respuesta.
+
+Evolución
+Se decide iniciar segunda línea con pemetrexed con buena tolerancia. Tras el tercer ciclo, acude a Urgencias por palpitaciones, hallándose una taquicardia ventricular a 230 lpm. Se inicia cardioversión farmacológica con amiodarona intravenosa y necesita cardioversión eléctrica en 8 ocasiones por inestabilización. Tras 24 horas de perfusión de amiodarona en ritmo sinusal es dado de alta. Al día siguiente, el paciente acude de nuevo por taquicardia ventricular. Se realiza cardioversión farmacológica y posteriormente eléctrica, alcanzando ritmo sinusal. En el ecocardiograma no se confirma infiltración miocárdica tumoral como causa de la arritmia, solicitando resonancia magnética (RM) cardíaca por alta sospecha que no se realizar por el fallecimiento del paciente tras taquicardia ventricular refractaria a cardioversión.

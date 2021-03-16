@@ -1,0 +1,10 @@
+T1	MORFOLOGIA_NEOPLASIA 842 852	malignidad
+#1	AnnotatorNotes T1	8000/3
+T2	MORFOLOGIA_NEOPLASIA 1196 1206	malignidad
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 1430 1440	malignidad
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 511 519	melanoma
+#4	AnnotatorNotes T4	8720/3
+T5	MORFOLOGIA_NEOPLASIA 1846 1874	linfoma folicular grado IIIA
+#5	AnnotatorNotes T5	9698/3

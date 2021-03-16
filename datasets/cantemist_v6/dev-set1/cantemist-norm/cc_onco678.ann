@@ -1,0 +1,32 @@
+T1	MORFOLOGIA_NEOPLASIA 2788 2802	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 1065 1093	carcinoma ductal infiltrante
+#2	AnnotatorNotes T2	8500/3
+T3	MORFOLOGIA_NEOPLASIA 2758 2782	carcinoma no microcítico
+#3	AnnotatorNotes T3	8046/3
+T4	MORFOLOGIA_NEOPLASIA 284 290	cáncer
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 316 322	cáncer
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 985 995	malignidad
+#6	AnnotatorNotes T6	8000/3
+T7	MORFOLOGIA_NEOPLASIA 3069 3079	malignidad
+#7	AnnotatorNotes T7	8000/3
+T8	MORFOLOGIA_NEOPLASIA 2409 2419	metástasis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 3398 3421	metástasis de carcinoma
+#9	AnnotatorNotes T9	8010/6
+T10	MORFOLOGIA_NEOPLASIA 3178 3220	metástasis de carcinoma ductal infiltrante
+#10	AnnotatorNotes T10	8500/6
+T11	MORFOLOGIA_NEOPLASIA 701 706	mioma
+#11	AnnotatorNotes T11	8895/0
+T12	MORFOLOGIA_NEOPLASIA 1218 1226	pT1bN0M0
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 478 485	pT2N0M0
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 370 395	carcinoma medular atípico
+#14	AnnotatorNotes T14	8513/3
+T15	MORFOLOGIA_NEOPLASIA 1189 1237	carcinoma ductal infiltrante pT1bN0M0, grado III
+#15	AnnotatorNotes T15	8500/33
+T16	MORFOLOGIA_NEOPLASIA 3137 3173	Adenocarcinoma de pulmón metastásico
+#16	AnnotatorNotes T16	8140/6

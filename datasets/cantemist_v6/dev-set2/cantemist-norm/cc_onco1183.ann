@@ -1,0 +1,28 @@
+T1	MORFOLOGIA_NEOPLASIA 1252 1254	M0
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1151 1177	Melanoma lentiginoso acral
+#2	AnnotatorNotes T2	8744/3
+T3	MORFOLOGIA_NEOPLASIA 3412 3434	afectación a distancia
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 3317 3337	lesiones subcutáneas
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 3614 3634	lesiones subcutáneas
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 649 657	melanoma
+#6	AnnotatorNotes T6	8720/3
+T7	MORFOLOGIA_NEOPLASIA 689 697	melanoma
+#7	AnnotatorNotes T7	8720/3
+T8	MORFOLOGIA_NEOPLASIA 921 929	melanoma
+#8	AnnotatorNotes T8	8720/3
+T9	MORFOLOGIA_NEOPLASIA 1949 1957	melanoma
+#9	AnnotatorNotes T9	8720/3
+T10	MORFOLOGIA_NEOPLASIA 3484 3492	melanoma
+#10	AnnotatorNotes T10	8720/3
+T11	MORFOLOGIA_NEOPLASIA 699 725	melanoma lentiginoso acral
+#11	AnnotatorNotes T11	8744/3
+T12	MORFOLOGIA_NEOPLASIA 3458 3468	metástasis
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 1081 1103	metástasis de melanoma
+#13	AnnotatorNotes T13	8720/6
+T14	MORFOLOGIA_NEOPLASIA 4073 4092	progresión inguinal
+#14	AnnotatorNotes T14	8000/6

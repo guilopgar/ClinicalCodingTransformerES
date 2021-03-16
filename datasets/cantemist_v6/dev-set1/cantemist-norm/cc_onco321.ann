@@ -1,0 +1,34 @@
+T1	MORFOLOGIA_NEOPLASIA 2049 2070	Carcinoma infiltrante
+#1	AnnotatorNotes T1	8010/3/H
+T2	MORFOLOGIA_NEOPLASIA 2134 2153	afectación hepática
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 2114 2117	cM1
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1187 1208	carcinoma infiltrante
+#4	AnnotatorNotes T4	8010/3/H
+T5	MORFOLOGIA_NEOPLASIA 227 233	cáncer
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 1932 1950	lesiones hepáticas
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 2628 2646	lesiones hepáticas
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 2948 2966	lesiones hepáticas
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 585 595	malignidad
+#9	AnnotatorNotes T9	8000/3
+T10	MORFOLOGIA_NEOPLASIA 1116 1126	malignidad
+#10	AnnotatorNotes T10	8000/3
+T11	MORFOLOGIA_NEOPLASIA 1584 1594	malignidad
+#11	AnnotatorNotes T11	8000/3
+T12	MORFOLOGIA_NEOPLASIA 1698 1708	malignidad
+#12	AnnotatorNotes T12	8000/3
+T13	MORFOLOGIA_NEOPLASIA 1813 1823	malignidad
+#13	AnnotatorNotes T13	8000/3
+T14	MORFOLOGIA_NEOPLASIA 4137 4149	metastásicas
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 3461 3468	tumoral
+#15	AnnotatorNotes T15	8000/1
+T16	MORFOLOGIA_NEOPLASIA 3678 3685	tumoral
+#16	AnnotatorNotes T16	8000/1
+T17	MORFOLOGIA_NEOPLASIA 612 663	adenopatías sospechosas axilares, supraclaviculares
+#17	AnnotatorNotes T17	8000/6

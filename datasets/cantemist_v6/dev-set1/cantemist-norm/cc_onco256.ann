@@ -1,0 +1,22 @@
+T1	MORFOLOGIA_NEOPLASIA 845 874	Carcinoma Medular de tiroides
+#1	AnnotatorNotes T1	8510/3
+T2	MORFOLOGIA_NEOPLASIA 2188 2217	Carcinoma medular de tiroides
+#2	AnnotatorNotes T2	8510/3
+T3	MORFOLOGIA_NEOPLASIA 2452 2481	Carcinoma medular de tiroides
+#3	AnnotatorNotes T3	8510/3
+T4	MORFOLOGIA_NEOPLASIA 4063 4088	Leucemia mieloide crónica
+#4	AnnotatorNotes T4	9863/3
+T5	MORFOLOGIA_NEOPLASIA 701 710	carcinoma
+#5	AnnotatorNotes T5	8010/3
+T6	MORFOLOGIA_NEOPLASIA 2256 2266	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 3384 3394	metástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 4336 4345	neoplasia
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 4199 4206	tumoral
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 4241 4248	tumores
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 2331 2336	MEN 2
+#11	AnnotatorNotes T11	8000/3

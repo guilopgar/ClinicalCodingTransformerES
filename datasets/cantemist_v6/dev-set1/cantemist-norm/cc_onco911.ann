@@ -1,0 +1,38 @@
+T1	MORFOLOGIA_NEOPLASIA 55 72	colangiocarcinoma
+#1	AnnotatorNotes T1	8160/3
+T2	MORFOLOGIA_NEOPLASIA 95 101	cáncer
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 5985 5991	cáncer
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 6360 6380	infiltración medular
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2793 2807	leucemia aguda
+#5	AnnotatorNotes T5	9801/3
+T6	MORFOLOGIA_NEOPLASIA 1579 1591	masa anexial
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 5673 5683	metástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 535 537	M0
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 436 474	adenocarcinoma gástrico de tipo difuso
+#9	AnnotatorNotes T9	8145/3
+T10	MORFOLOGIA_NEOPLASIA 436 513	adenocarcinoma gástrico de tipo difuso antral, con células en anillo de sello
+#10	AnnotatorNotes T10	8490/3
+T11	MORFOLOGIA_NEOPLASIA 834 900	adenocarcinoma gástrico de tipo difuso con células en anillo sello
+#11	AnnotatorNotes T11	8490/3
+T12	MORFOLOGIA_NEOPLASIA 834 872	adenocarcinoma gástrico de tipo difuso
+#12	AnnotatorNotes T12	8145/3
+T13	MORFOLOGIA_NEOPLASIA 901 909	ypT3N0M0
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 1397 1405	ypT4N0M0
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 1697 1741	recidiva ovárica bilateral de adenocarcinoma
+#15	AnnotatorNotes T15	8140/6
+T16	MORFOLOGIA_NEOPLASIA 5748 5841	infiltración masiva de médula ósea por adenocarcinoma gástrico con células en anillo de sello
+#16	AnnotatorNotes T16	8490/6
+T17	MORFOLOGIA_NEOPLASIA 6280 6308	progresión ganglionar y ósea
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 6441 6532	infiltración masiva difusa de médula ósea por adenocarcinoma con células en anillo de sello
+#18	AnnotatorNotes T18	8490/6
+T19	MORFOLOGIA_NEOPLASIA 6713 6797	infiltración masiva de médula ósea por adenocarcinoma con células en anillo de sello
+#19	AnnotatorNotes T19	8490/6

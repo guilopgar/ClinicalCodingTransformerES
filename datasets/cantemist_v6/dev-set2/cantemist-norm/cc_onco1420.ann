@@ -1,0 +1,6 @@
+T1	MORFOLOGIA_NEOPLASIA 2230 2244	Adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 126 173	adenocarcinoma unión gastroesofágica uT3uN2 cM1
+#2	AnnotatorNotes T2	8140/6
+T3	MORFOLOGIA_NEOPLASIA 177 190	lesión costal
+#3	AnnotatorNotes T3	8000/6

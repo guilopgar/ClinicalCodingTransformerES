@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 276 303	carcinoma de células claras
+#1	AnnotatorNotes T1	8310/3
+T2	MORFOLOGIA_NEOPLASIA 313 325	hipernefroma
+#2	AnnotatorNotes T2	8312/3
+T3	MORFOLOGIA_NEOPLASIA 1602 1612	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1971 1981	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 1671 1678	sarcoma
+#5	AnnotatorNotes T5	8800/3
+T6	MORFOLOGIA_NEOPLASIA 173 178	tumor
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 1655 1660	tumor
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 276 311	carcinoma de células claras renales
+#8	AnnotatorNotes T8	8312/3
+T9	MORFOLOGIA_NEOPLASIA 1362 1382	masa intramiocárdica
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 1916 1937	Neoformación cardíaca
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 2991 3015	tumoración intracardíaca
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 2284 2311	tumoración intraventricular
+#12	AnnotatorNotes T12	8000/6

@@ -1,0 +1,30 @@
+T1	MORFOLOGIA_NEOPLASIA 1833 1857	Carcinoma indiferenciado
+#1	AnnotatorNotes T1	8020/3
+T2	MORFOLOGIA_NEOPLASIA 1207 1229	Implantes peritoneales
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 184 193	carcinoma
+#3	AnnotatorNotes T3	8010/3
+T4	MORFOLOGIA_NEOPLASIA 228 237	carcinoma
+#4	AnnotatorNotes T4	8010/3
+T5	MORFOLOGIA_NEOPLASIA 4889 4898	carcinoma
+#5	AnnotatorNotes T5	8010/3
+T6	MORFOLOGIA_NEOPLASIA 307 335	carcinoma ductal infiltrante
+#6	AnnotatorNotes T6	8500/3
+T7	MORFOLOGIA_NEOPLASIA 2808 2832	carcinoma indiferenciado
+#7	AnnotatorNotes T7	8020/3
+T8	MORFOLOGIA_NEOPLASIA 1449 1476	carcinoma poco diferenciado
+#8	AnnotatorNotes T8	8010/33
+T9	MORFOLOGIA_NEOPLASIA 4026 4056	carcinoma seroso de alto grado
+#9	AnnotatorNotes T9	8441/34
+T10	MORFOLOGIA_NEOPLASIA 2201 2223	enfermedad a distancia
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 2851 2861	malignidad
+#11	AnnotatorNotes T11	8000/3
+T12	MORFOLOGIA_NEOPLASIA 2876 2899	metástasis de carcinoma
+#12	AnnotatorNotes T12	8010/6
+T13	MORFOLOGIA_NEOPLASIA 3797 3804	tumoral
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 2461 2471	neoplásica
+#14	AnnotatorNotes T14	8000/1
+T15	MORFOLOGIA_NEOPLASIA 3950 3977	lesión sospechosa en hígado
+#15	AnnotatorNotes T15	8000/6

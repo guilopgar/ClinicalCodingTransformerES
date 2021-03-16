@@ -1,0 +1,12 @@
+T1	MORFOLOGIA_NEOPLASIA 1204 1225	Carcinoma epidermoide
+#1	AnnotatorNotes T1	8070/3
+T2	MORFOLOGIA_NEOPLASIA 1168 1189	carcinoma epidermoide
+#2	AnnotatorNotes T2	8070/3
+T3	MORFOLOGIA_NEOPLASIA 1099 1109	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 920 929	neoplasia
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 2441 2450	neoplasia
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 1919 1961	carcinoma epidermoide de pulmón diseminado
+#6	AnnotatorNotes T6	8070/6

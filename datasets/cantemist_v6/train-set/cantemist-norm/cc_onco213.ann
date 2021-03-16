@@ -1,0 +1,38 @@
+T1	MORFOLOGIA_NEOPLASIA 4310 4324	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 933 940	maligna
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 1421 1431	malignidad
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 1436 1446	malignidad
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 2392 2402	malignidad
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 5999 6009	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 5163 5191	metástasis de adenocarcinoma
+#7	AnnotatorNotes T7	8140/6
+T8	MORFOLOGIA_NEOPLASIA 1160 1175	nódulo pulmonar
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 5975 5994	progresión pulmonar
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 697 707	tumoración
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 5087 5094	tumoral
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 1649 1681	carcinoma no de células pequeñas
+#12	AnnotatorNotes T12	8046/3
+T13	MORFOLOGIA_NEOPLASIA 1940 1977	metástasis pulmonar de adenocarcinoma
+#13	AnnotatorNotes T13	8140/6
+T14	MORFOLOGIA_NEOPLASIA 2537 2577	adenocarcinoma compatible con metástasis
+#14	AnnotatorNotes T14	8140/6
+T15	MORFOLOGIA_NEOPLASIA 4572 4614	Metástasis intratraqueal de adenocarcinoma
+#15	AnnotatorNotes T15	8140/6
+T16	MORFOLOGIA_NEOPLASIA 1263 1289	nódulo de 2,3 cm en el LSD
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 3906 3929	lesión en intratraqueal
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 3870 3885	lesión pulmonar
+#18	AnnotatorNotes T18	8000/6
+T19	MORFOLOGIA_NEOPLASIA 6314 6329	lesión traqueal
+#19	AnnotatorNotes T19	8000/6

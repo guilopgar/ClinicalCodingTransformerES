@@ -1,0 +1,22 @@
+T1	MORFOLOGIA_NEOPLASIA 1351 1353	M0
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1267 1289	carcinoma inflamatorio
+#2	AnnotatorNotes T2	8530/3
+T3	MORFOLOGIA_NEOPLASIA 2871 2884	carcinomatosa
+#3	AnnotatorNotes T3	8010/9
+T4	MORFOLOGIA_NEOPLASIA 487 535	cistoadenocarcinoma seroso papilar de alto grado
+#4	AnnotatorNotes T4	8460/34
+T5	MORFOLOGIA_NEOPLASIA 2839 2856	lesiones cutáneas
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 4105 4114	letálides
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 627 637	metástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 2517 2540	metástasis de carcinoma
+#8	AnnotatorNotes T8	8010/6
+T9	MORFOLOGIA_NEOPLASIA 2085 2097	tumoraciones
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 2417 2465	carcinoma de alto grado de patrón seroso papilar
+#10	AnnotatorNotes T10	8460/34
+T11	MORFOLOGIA_NEOPLASIA 3275 3333	metastásica dérmica de mama bilateral por carcinoma seroso
+#11	AnnotatorNotes T11	8441/6

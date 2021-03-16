@@ -1,0 +1,40 @@
+T1	MORFOLOGIA_NEOPLASIA 588 593	Tumor
+#1	AnnotatorNotes T1	8000/1
+T2	MORFOLOGIA_NEOPLASIA 785 812	carcinoma de células claras
+#2	AnnotatorNotes T2	8310/3
+T3	MORFOLOGIA_NEOPLASIA 1989 2016	carcinoma de células claras
+#3	AnnotatorNotes T3	8310/3
+T4	MORFOLOGIA_NEOPLASIA 2678 2705	carcinoma de células claras
+#4	AnnotatorNotes T4	8310/3
+T5	MORFOLOGIA_NEOPLASIA 551 573	enfermedad a distancia
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 1514 1536	enfermedad a distancia
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1896 1918	enfermedad a distancia
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 2477 2487	metástasis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 3496 3506	metástasis
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 858 867	neoplasia
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 657 662	tumor
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 1869 1874	tumor
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 1261 1268	tumoral
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 1623 1630	tumoral
+#14	AnnotatorNotes T14	8000/1
+T15	MORFOLOGIA_NEOPLASIA 2105 2112	tumoral
+#15	AnnotatorNotes T15	8000/1
+T16	MORFOLOGIA_NEOPLASIA 628 636	CT1AN0M0
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 970 979	pT1aN0cM0
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 1363 1437	carcinoma de células claras de 1,2 cm de diámetro, grado de Fuhrman II-III
+#18	AnnotatorNotes T18	8310/33
+T19	MORFOLOGIA_NEOPLASIA 1755 1806	carcinoma de células claras con grado II de Fuhrman
+#19	AnnotatorNotes T19	8310/32
+T20	MORFOLOGIA_NEOPLASIA 2712 2769	recaída pleural y pulmonar de carcinoma de células claras
+#20	AnnotatorNotes T20	8310/6

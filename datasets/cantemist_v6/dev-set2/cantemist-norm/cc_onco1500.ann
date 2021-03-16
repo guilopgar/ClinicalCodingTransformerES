@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 4786 4798	angiosarcoma
+#1	AnnotatorNotes T1	9120/3
+T2	MORFOLOGIA_NEOPLASIA 2580 2606	angiosarcoma de alto grado
+#2	AnnotatorNotes T2	9120/34
+T3	MORFOLOGIA_NEOPLASIA 2926 2937	metastásica
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 3611 3621	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2103 2110	tumoral
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 2857 2875	nódulos pulmonares
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 3554 3572	nódulos pulmonares
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 4700 4719	lesiones pulmonares
+#8	AnnotatorNotes T8	8000/6

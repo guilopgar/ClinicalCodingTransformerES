@@ -1,0 +1,22 @@
+T1	MORFOLOGIA_NEOPLASIA 1225 1228	cM0
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1119 1141	enfermedad a distancia
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 521 537	melanoma maligno
+#3	AnnotatorNotes T3	8720/3
+T4	MORFOLOGIA_NEOPLASIA 1178 1194	melanoma maligno
+#4	AnnotatorNotes T4	8720/3
+T5	MORFOLOGIA_NEOPLASIA 2373 2383	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 3605 3615	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 2328 2347	nódulos subcutáneos
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 1797 1820	metastásico de melanoma
+#8	AnnotatorNotes T8	8720/6
+T9	MORFOLOGIA_NEOPLASIA 3465 3486	nodulares subcutáneas
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 3680 3702	nodulillos subcutáneos
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 612 623	satelitosis
+#11	AnnotatorNotes T11	8001/1

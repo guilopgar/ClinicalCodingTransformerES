@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 1608 1657	adenocarcinoma moderadamente diferenciado invasor
+#1	AnnotatorNotes T1	8140/32/H
+T2	MORFOLOGIA_NEOPLASIA 279 285	cáncer
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 1278 1297	implante peritoneal
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 3388 3407	lesiones pulmonares
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 1086 1096	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 977 992	nódulo pulmonar
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1758 1773	nódulo pulmonar
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 1836 1843	tumoral
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 2539 2594	metástasis de adenocarcinoma moderadamente diferenciado
+#9	AnnotatorNotes T9	8140/62
+T10	MORFOLOGIA_NEOPLASIA 2775 2821	adenocarcinoma de colon estadio IV (metástasis
+#10	AnnotatorNotes T10	8140/6
+T11	MORFOLOGIA_NEOPLASIA 2314 2352	lesión vegetante rugosa en aritenoides
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 595 648	lesión vegetante, sésil e irregular sobre aritenoides
+#12	AnnotatorNotes T12	8000/6

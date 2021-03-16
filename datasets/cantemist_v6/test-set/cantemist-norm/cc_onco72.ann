@@ -1,0 +1,42 @@
+T1	MORFOLOGIA_NEOPLASIA 6163 6181	lesiones hepáticas
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1601 1611	malignidad
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 2331 2341	malignidad
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 2447 2457	malignidad
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 2516 2527	metastásico
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 1391 1401	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1823 1833	metástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 4117 4124	sarcoma
+#8	AnnotatorNotes T8	8800/3
+T9	MORFOLOGIA_NEOPLASIA 272 282	tumoración
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 4346 4356	tumoración
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 1892 1926	neoplasia del estroma fibromixoide
+#11	AnnotatorNotes T11	8811/0
+T12	MORFOLOGIA_NEOPLASIA 2177 2214	hemangioendotelioma epitelial maligno
+#12	AnnotatorNotes T12	9133/3
+T13	MORFOLOGIA_NEOPLASIA 2224 2227	HEE
+#13	AnnotatorNotes T13	9133/1
+T14	MORFOLOGIA_NEOPLASIA 2291 2325	tumores de partes blandas malignos
+#14	AnnotatorNotes T14	8800/3
+T15	MORFOLOGIA_NEOPLASIA 2377 2380	HEE
+#15	AnnotatorNotes T15	9133/1
+T16	MORFOLOGIA_NEOPLASIA 2407 2443	tumores vasculares de partes blandas
+#16	AnnotatorNotes T16	8800/3
+T17	MORFOLOGIA_NEOPLASIA 3728 3763	nódulos subcentimétricos pulmonares
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 1265 1283	nódulos pulmonares
+#18	AnnotatorNotes T18	8000/6
+T19	MORFOLOGIA_NEOPLASIA 3891 3928	hemangioendotelioma epitelial maligno
+#19	AnnotatorNotes T19	9133/3
+T20	MORFOLOGIA_NEOPLASIA 3938 3941	HEE
+#20	AnnotatorNotes T20	9133/1
+T21	MORFOLOGIA_NEOPLASIA 5806 5818	LOE hepática
+#21	AnnotatorNotes T21	8000/6

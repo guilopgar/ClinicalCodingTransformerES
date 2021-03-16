@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 2905 2915	metástasis
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 2200 2212	neoformativo
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 4930 4947	teratoma quístico
+#3	AnnotatorNotes T3	9080/0
+T4	MORFOLOGIA_NEOPLASIA 2779 2828	teratoma con degeneración maligna, con metástasis
+#4	AnnotatorNotes T4	9080/6
+T5	MORFOLOGIA_NEOPLASIA 3092 3144	teratoma maligno mediastínico estadio IV (metástasis
+#5	AnnotatorNotes T5	9080/6
+T6	MORFOLOGIA_NEOPLASIA 2064 2090	lesiones focales hepáticas
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 2378 2404	lesiones focales hepáticas
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 4148 4166	lesiones hepáticas
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 4396 4414	lesiones hepáticas
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 2876 2890	lesiones óseas
+#10	AnnotatorNotes T10	8000/6

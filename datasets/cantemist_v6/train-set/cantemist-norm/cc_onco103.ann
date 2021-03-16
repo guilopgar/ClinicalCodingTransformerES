@@ -1,0 +1,28 @@
+T1	MORFOLOGIA_NEOPLASIA 2805 2814	tumorales
+#1	AnnotatorNotes T1	8000/1
+T2	MORFOLOGIA_NEOPLASIA 3741 3750	tumorales
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 300 341	carcinoma urotelial papilar de bajo grado
+#3	AnnotatorNotes T3	8120/31
+T4	MORFOLOGIA_NEOPLASIA 1565 1585	tumor neuroendocrino
+#4	AnnotatorNotes T4	8240/3
+T5	MORFOLOGIA_NEOPLASIA 1721 1742	mesotelioma epitelial
+#5	AnnotatorNotes T5	9052/3
+T6	MORFOLOGIA_NEOPLASIA 2058 2099	carcinoma neuroendocrino de célula grande
+#6	AnnotatorNotes T6	8013/3
+T7	MORFOLOGIA_NEOPLASIA 4241 4296	carcinoma neuroendocrino de células grandes metastásico
+#7	AnnotatorNotes T7	8013/6
+T8	MORFOLOGIA_NEOPLASIA 1270 1297	mesotelioma pleural maligno
+#8	AnnotatorNotes T8	9050/3
+T9	MORFOLOGIA_NEOPLASIA 2006 2028	afectación a distancia
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 4389 4407	afectación pleural
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 3290 3308	lesiones pleurales
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 1985 1995	malignidad
+#12	AnnotatorNotes T12	8000/3
+T13	MORFOLOGIA_NEOPLASIA 2609 2616	tumoral
+#13	AnnotatorNotes T13	8000/3
+T14	MORFOLOGIA_NEOPLASIA 3449 3475	progresión a nivel pleural
+#14	AnnotatorNotes T14	8000/6

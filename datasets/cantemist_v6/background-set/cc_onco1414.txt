@@ -1,0 +1,21 @@
+Anamnesis
+Paciente de 67 años, diagnosticado de un carcinoma epidermoide de base de la lengua pT4apN2cM0, estadio IV, tratado con cirugía, RT y QT concomitante con carboplatino, presentando como toxicidad mucositis de grado 3 y trombopenia de grado 2. A los 25 dias de finalizar la RT, comenzó con lesiones eritemato-descamativas en cara, cuello y tórax, siendo diagnosticado en Dermatología de radiodermitis post-RT vs. toxicodermia. La medicación en ese momento era ibuprofeno, metamizol, laxante y fentanilo transdérmico. Se realizó biopsia cutánea y se pautan corticoides. Dada la mala evolución, el paciente ingresa.
+
+Examen físico
+Eritema generalizado con lesiones de rascado y descamación cutánea. No presenta afectación de la mucosa oral ni genital. Muguet en cavidad oral. Edema y erosiones en cuello. Auscultación cardiopulmonar, abdomen y EEII: sin alteraciones.
+
+Pruebas complementarias
+Biquímica, hemograma y coagulación: normales.
+Radiografía de torax: pequeña consolidación alveolar en lóbulo superior derecho con derrame pleural escaso.
+Biopsia de piel: espongiosis con algún queratinocito necrótico, infiltrado inflamatorio con presencia de eosinofilos en dermis. Compatible con toxicodermia.
+Serología: ADN virus herpes simplex 1 en piel: positivo.
+Tomografía computarizada de tórax: no se visualizan signos que sugieran TEP agudo. Opacidades en vidrio deslustrado con áreas de consolidación en ambas bases y derrame pleural asociado en probable relación con proceso inflamatorio/infeccioso en el contexto clínico de un paciente con broncopatía crónica de base.
+
+Diagnóstico
+Eritrodermia exfoliativa generalizada secundaria a opiáceos en paciente con carcinoma epidermoide de la base de la lengua pT4apN2cM0.
+
+Tratamiento
+Se inició sueroterapia, metilprednisolona y dexclorfeniramina. Se retiraron todos los fármacos escalonadamente. Al cuarto día, presentó episodio de insuficiencia respiratoria.
+
+Evolución
+Se solicitó TC por sospecha de TEP, pero los hallazgos eran compatibles con neumonía. Se inició antibioterapia de amplio espectro y oxigenoterapia con mejoría clínica. Tras la retirada de la morfina, comienza la mejoría de las lesiones dérmicas.

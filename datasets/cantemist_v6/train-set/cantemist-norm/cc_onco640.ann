@@ -1,0 +1,52 @@
+T1	MORFOLOGIA_NEOPLASIA 2325 2336	metastásica
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 3626 3636	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 3925 3935	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2943 2952	neoplasia
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 4566 4575	neoplasia
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 4992 5002	neoplásica
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 2991 3001	neoplásico
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 2903 2910	tumoral
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 6210 6217	tumoral
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 8151 8158	tumoral
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 2730 2753	metástasis de neoplasia
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 3778 3847	adenocarcinoma pobremente diferenciado con células en anillo de sello
+#12	AnnotatorNotes T12	8490/33
+T13	MORFOLOGIA_NEOPLASIA 4247 4353	metástasis por un carcinoma pobremente diferenciado con presencia de abundantes células en anillo de sello
+#13	AnnotatorNotes T13	8490/63
+T14	MORFOLOGIA_NEOPLASIA 4460 4501	neoplásica con células en anillo de sello
+#14	AnnotatorNotes T14	8490/3
+T15	MORFOLOGIA_NEOPLASIA 5870 5948	adenocarcinoma de colon pobremente diferenciado con células en anillo de sello
+#15	AnnotatorNotes T15	8490/33
+T16	MORFOLOGIA_NEOPLASIA 6048 6063	afectación ósea
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 5448 5477	lesiones intraparenquimatosas
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 7586 7604	lesión suprarrenal
+#18	AnnotatorNotes T18	8000/6
+T19	MORFOLOGIA_NEOPLASIA 7960 7978	lesión suprarrenal
+#19	AnnotatorNotes T19	8000/6
+T20	MORFOLOGIA_NEOPLASIA 8301 8319	lesión suprarrenal
+#20	AnnotatorNotes T20	8000/6
+T21	MORFOLOGIA_NEOPLASIA 9218 9233	progresión ósea
+#21	AnnotatorNotes T21	8000/6
+T22	MORFOLOGIA_NEOPLASIA 1384 1433	adenomegalias laterocervicales, supraclaviculares
+#22	AnnotatorNotes T22	8000/6
+T23	MORFOLOGIA_NEOPLASIA 2309 2324	afectación ósea
+#23	AnnotatorNotes T23	8000/6
+T24	MORFOLOGIA_NEOPLASIA 2358 2378	infiltración medular
+#24	AnnotatorNotes T24	8000/6
+T25	MORFOLOGIA_NEOPLASIA 5480 5499	afectación meníngea
+#25	AnnotatorNotes T25	8000/6
+T26	MORFOLOGIA_NEOPLASIA 6102 6132	infiltración de la médula ósea
+#26	AnnotatorNotes T26	8000/6

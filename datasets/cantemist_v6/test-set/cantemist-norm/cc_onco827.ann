@@ -1,0 +1,14 @@
+T1	MORFOLOGIA_NEOPLASIA 157 181	carcinomas basocelulares
+#1	AnnotatorNotes T1	8090/3
+T2	MORFOLOGIA_NEOPLASIA 357 381	carcinomas basocelulares
+#2	AnnotatorNotes T2	8090/3
+T3	MORFOLOGIA_NEOPLASIA 813 837	carcinomas basocelulares
+#3	AnnotatorNotes T3	8090/3
+T4	MORFOLOGIA_NEOPLASIA 7629 7653	carcinomas basocelulares
+#4	AnnotatorNotes T4	8090/3
+T5	MORFOLOGIA_NEOPLASIA 91 109	síndrome de Gorlin
+#5	AnnotatorNotes T5	8090/3
+T6	MORFOLOGIA_NEOPLASIA 592 601	desmoides
+#6	AnnotatorNotes T6	8821/1
+T7	MORFOLOGIA_NEOPLASIA 7475 7495	enfermedad de Gorlin
+#7	AnnotatorNotes T7	8090/3

@@ -1,0 +1,26 @@
+T1	MORFOLOGIA_NEOPLASIA 2049 2053	TGNS
+#1	AnnotatorNotes T1	9065/3
+T2	MORFOLOGIA_NEOPLASIA 1842 1863	carcinoma embrionario
+#2	AnnotatorNotes T2	9070/3
+T3	MORFOLOGIA_NEOPLASIA 1177 1187	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1591 1626	metástasis de carcinoma embrionario
+#4	AnnotatorNotes T4	9070/6
+T5	MORFOLOGIA_NEOPLASIA 3670 3680	neoplásico
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 1894 1902	seminoma
+#6	AnnotatorNotes T6	9061/3
+T7	MORFOLOGIA_NEOPLASIA 1911 1919	teratoma
+#7	AnnotatorNotes T7	9080/1
+T8	MORFOLOGIA_NEOPLASIA 4327 4342	teratoma maduro
+#8	AnnotatorNotes T8	9080/0
+T9	MORFOLOGIA_NEOPLASIA 2017 2047	tumor germinal no seminomatoso
+#9	AnnotatorNotes T9	9065/3
+T10	MORFOLOGIA_NEOPLASIA 372 392	masa supraclavicular
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 1063 1107	adenopática múltiple a nivel supraclavicular
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 1354 1405	adenopática a nivel laterocervical, supraclavicular
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 1641 1677	Carcinoma embrionario con metástasis
+#13	AnnotatorNotes T13	9070/6

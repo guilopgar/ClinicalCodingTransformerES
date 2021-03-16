@@ -1,0 +1,44 @@
+T1	MORFOLOGIA_NEOPLASIA 1631 1645	coriocarcinoma
+#1	AnnotatorNotes T1	9100/3
+T2	MORFOLOGIA_NEOPLASIA 5097 5113	hemangioblastoma
+#2	AnnotatorNotes T2	9161/1
+T3	MORFOLOGIA_NEOPLASIA 1321 1331	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2607 2617	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2998 3008	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 3582 3592	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1648 1679	neoplasia germinal intratubular
+#7	AnnotatorNotes T7	9064/2
+T8	MORFOLOGIA_NEOPLASIA 5381 5389	teratoma
+#8	AnnotatorNotes T8	9080/1
+T9	MORFOLOGIA_NEOPLASIA 3026 3031	tumor
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 5324 5329	tumor
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 4302 4309	tumoral
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 4529 4536	tumoral
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 94 124	nevus melanocítico lentiginoso
+#13	AnnotatorNotes T13	8720/0/H
+T14	MORFOLOGIA_NEOPLASIA 1333 1337	N0M0
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 1353 1400	Carcinoma germinal de testículo no seminomatoso
+#15	AnnotatorNotes T15	9065/3
+T16	MORFOLOGIA_NEOPLASIA 1401 1408	pT1N0M0
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 1620 1628	yolk-sac
+#17	AnnotatorNotes T17	9071/3
+T18	MORFOLOGIA_NEOPLASIA 3371 3405	tumores de estirpe germinal mixtos
+#18	AnnotatorNotes T18	9085/3
+T19	MORFOLOGIA_NEOPLASIA 3436 3456	metástasis del tumor
+#19	AnnotatorNotes T19	8000/6
+T20	MORFOLOGIA_NEOPLASIA 3485 3518	tumor primario de origen germinal
+#20	AnnotatorNotes T20	9064/3
+T21	MORFOLOGIA_NEOPLASIA 3898 3907	tumorales
+#21	AnnotatorNotes T21	8000/1
+T22	MORFOLOGIA_NEOPLASIA 1561 1618	teratoma maligno mixto con áreas de carcinoma embrionario
+#22	AnnotatorNotes T22	9081/3

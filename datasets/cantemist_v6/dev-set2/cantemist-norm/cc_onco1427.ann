@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 1670 1697	adenocarcinoma mucosecretor
+#1	AnnotatorNotes T1	8481/3
+T2	MORFOLOGIA_NEOPLASIA 308 314	cáncer
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 2350 2361	metastásica
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1789 1817	metástasis de adenocarcinoma
+#4	AnnotatorNotes T4	8140/6
+T5	MORFOLOGIA_NEOPLASIA 351 360	neoplasia
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 1332 1342	neoplasias
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 1439 1475	adenocarcinoma de colon mucosecretor
+#7	AnnotatorNotes T7	8481/3
+T8	MORFOLOGIA_NEOPLASIA 1873 1928	adenocarcinoma sincrónico (colon ascendente y ciego) G3
+#8	AnnotatorNotes T8	8140/33
+T9	MORFOLOGIA_NEOPLASIA 1928 1935	pT3N2Mx
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 2189 2238	adenocarcinoma de colon estadio IV por metástasis
+#10	AnnotatorNotes T10	8140/6

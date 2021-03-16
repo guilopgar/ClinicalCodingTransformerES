@@ -1,0 +1,6 @@
+T1	MORFOLOGIA_NEOPLASIA 2339 2345	Cáncer
+#1	AnnotatorNotes T1	8000/3
+T2	MORFOLOGIA_NEOPLASIA 323 325	M0
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 211 239	carcinoma ductal infiltrante
+#3	AnnotatorNotes T3	8500/3

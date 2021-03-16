@@ -1,0 +1,32 @@
+Anamnesis
+Varón de 74 años, exfumador desde hace 9 años, con antecedentes de hipertensión de larga evolución con buen control domiciliario, insuficiencia renal crónica con cifras de creatinina basales en torno a 1,8 mg/dl y un episodio de accidente cerebrovascular isquémico en 2011 sin secuelas posteriores. No muestra antecedentes oncológicos personales ni familiares de interés. El paciente era profesor jubilado, tenía una buena situación basal, Eastern Cooperative Oncology Group (ECOG) de 0, independiente para actividades básicas de la vida diaria y funciones superiores conservadas.
+Tratamiento domiciliario:
+Amlodipino 10 mg, torasemida 10 mg, bromazepam 1,5 mg, omeprazol 20 mg, rosuvastatina 10 mg, alopurinol 100 mg, morfina de liberación prolongada 5 mg, citicolina 1 g.
+Historia oncológica:
+En enero de 2012, a raíz de un cuadro de neumonía adquirido en la comunidad, es diagnosticado de adenocarcinoma de pulmón pT3N0MO. El estudio mutacional presenta negatividad para EGFR, BRAF y ROS-1. ALK no reordenado.
+Dado que se trataba de un estadio localizado, se decidió tratamiento quirúrgico mediante lobectomía superior izquierda ampliada seguido de quimioterapia adyuvante esquema CDDP-vinorelbina por 4 ciclos (inicio: 28/02/2012 fin: 14/05/2012). No toxicidad quimioterápica destacable. En controles posteriores por TC no se evidenciaron signos de enfermedad neoplásica hasta octubre de 2015, donde se objetivaron adenopatías mediastínicas y nódulo en LII sospechoso de malignidad, por lo que se realiza PET-TC, confirmándose dichos hallazgos así como enfermedad metastásica ósea, suprarrenal izquierda y ganglionar retroperitoneal.
+A pesar de la recidiva de la enfermedad neoplásica, el paciente persistía con buena clase funcional, ECOG-1, iniciándose tratamiento de 1º línea metastásica con carboplatino (AUC6) y paclitaxel (200 mg/m2) que se suspende tras sólo un ciclo (18/01/2016) por toxicidad hematológica y gastrointestinal G3 con deterioro de la función renal.
+Ante la mala tolerancia al tratamiento, se decide solicitar nivolumab como uso compasivo para continuar con segunda línea de enfermedad metastásica, iniciándose nivolumab a 3 mg/kg cada dos semanas en febrero de 2016. Como toxicidad inicial, únicamente destaca astenia grado I.
+Tomando como control basal de esta línea de tratamiento PET-TC de marzo/16, tras un único ciclo de nivolumab, se realizan controles posteriores evidenciándose importante mejoría radiológica con respuesta parcial en junio de 2016, cuyas imágenes se adjuntan comparativamente al final del caso.
+En febrero de 2017, el paciente se encontraba en respuesta completa por PET-TC, habiendo recibido un total de 23 ciclos de nivolumab hasta entonces. En este punto, acude a consulta refiriendo clínica de aumento progresivo de disnea basal de semanas de evolución, haciéndose de mínimos esfuerzos en los últimos días. Niega aumento de secreciones respiratorias o tos. No ha presentado fiebre en domicilio. Describe cierta sensación persistente de opresión centro-torácica sin cortejo vegetativo, o sensación de palpitaciones acompañantes. No hay episodios claros de dolor. Sin aumento de edemas distales.
+
+Exploración física
+Buen estado general, con disnea a moderados esfuerzos. Durante la auscultación destacaba marcada disminución de tonos cardiacos, presentando buen murmullo vesicular en campos pulmonares con crepitantes en ambas bases. Edema bimaleolar con fóvea en miembros inferiores. El resto de la exploración resultaba anodina.
+
+Pruebas complementarias
+Se solicita de forma urgente analítica sanguínea, sin alteración de parámetros analíticos ni datos de infección. En radiografía de tórax, se aprecian signos de redistribución vascular, destacando importante aumento de silueta cardiaca. Finalmente, se hizo electrocardiograma, en el que presentaba ritmo sinusal a 60 lpm, con QRS estrecho, eje normal, ondas con voltajes disminuidos y alternancia eléctrica. Sin alteraciones del segmento ST ni signos de isquemia aguda.
+
+Diagnóstico
+Estos hallazgos nos orientaban hacia la posible presencia de derrame pericárdico, solicitando la realización de ecocardiografía transtorácica (15/02/17), en la que se describe derrame pericárdico grave, de distribución global pero con predominio a nivel posterior (21 mm) e inferolateral (20 mm) y ligero colapso de la aurícula derecha.
+No se evidencia afectación del llenado del ventrículo derecho ni compromiso hemodinámico.
+
+Tratamiento
+El paciente queda ingresado en nuestra Unidad. Ante la sospecha inicial de origen neoplásico, se solicita PET y valoración por parte de Cirugía Torácica, que planifica realización de ventana pericárdica.
+En la PET, realizada previamente al drenaje del líquido pericárdico, no se visualizan signos de actividad metabólica, presentando respuesta completa. Llegado a este punto, nos planteamos el probable origen autoinmune del proceso, iniciando corticoterapia con metilprednisolona 1,5 mg/kg/día, tras cual lo cual presenta cierta mejoría clínica. El tratamiento esteroideo se prolongaría durante un mes, con un descenso paulatino de la dosis.
+Al realizar la ventana pericárdica, se tomaron muestras de tejido pericárdico, describiéndose en la anatomía patológica signos de inflamación crónica inespecífica, sin evidencia de malignidad.
+Por tanto, atribuimos la etiología del derrame a una toxicidad grado III secundaria al tratamiento con nivolumab, fenómeno poco frecuente, pero descrito en la literatura.
+
+Evolución
+Una vez realizada la ventana pericárdica, el paciente mejoró clínicamente, con desaparición drástica de la disnea y mejorando su estado general.
+Posteriormente, en marzo/17, dado que se trataba de una toxicidad grado III, se reintrodujo la inmunoterapia con un total de 4 ciclos hasta abril/17. En ecocardiograma posterior de control no se aprecian signos de derrame pericárdico, y en la última PET de mayo únicamente se describe dudosa captación suprarrenal derecha para la que se recomienda seguimiento
+A día de hoy, el paciente continúa en seguimiento con controles periódicos en situación de enfermedad estable sin tratamiento oncológico activo.

@@ -1,0 +1,10 @@
+T1	MORFOLOGIA_NEOPLASIA 1652 1659	tumoral
+#1	AnnotatorNotes T1	8000/1
+T2	MORFOLOGIA_NEOPLASIA 944 1003	neoplasia sin signos de diferenciación, de origen epitelial
+#2	AnnotatorNotes T2	8000/1/H
+T3	MORFOLOGIA_NEOPLASIA 1721 1765	mesotelioma maligno difuso de tipo epitelial
+#3	AnnotatorNotes T3	9052/3/H
+T4	MORFOLOGIA_NEOPLASIA 3695 3721	Mesotelioma difuso maligno
+#4	AnnotatorNotes T4	9050/3/H
+T5	MORFOLOGIA_NEOPLASIA 4162 4188	mesotelioma difuso maligno
+#5	AnnotatorNotes T5	9050/3/H

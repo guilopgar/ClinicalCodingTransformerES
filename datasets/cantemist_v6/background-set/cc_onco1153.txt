@@ -1,0 +1,21 @@
+Anamnesis
+Varón de 42 años que acude a su médico refiriendo dolor abdominal intenso y aumento progresivo del perímetro abdominal en los últimos 3-4 días. En un principio, y ante la normalidad analítica y radiográfica, se decide tratamiento conservador, pero en días posteriores vuelve a acudir a su médico habitual, quien constata un claro aumento del perímetro abdominal con respecto a la exploración previa, por lo que se deriva al paciente a Urgencias de nuestro hospital, iniciándose el siguiente poceso diagnóstico.
+
+Examen físico
+ECOG 2. Eupneico en reposo. La auscultación cardiorrespiratoria mostró tonos rítmicos y sin soplos, así como una buena ventilación pulmonar sin ruidos patológicos. Abdomen distendido y doloroso de forma generalizada, con palpación de una masa sólida en el hemiabdomen izquierdo. No se palpaban adenopatías inguinales patológicas.
+
+Pruebas complementarias
+- Analítica: sin hallazgos significativos.
+- TC de abdomen: gran masa abdominal de aproximadamente 21 cm de extensión latero-lateral x 13 cm anteroposterior x 23 cm craneocaudal, que se extiende desde el hipocondrio izquierdo a la pelvis, de aspecto sólido-quística y lobulada, que ocupa desde el ciego hasta el colon izquierdo, contactando con sigma y vejiga.
+
+Diagnóstico
+Masa abdominal de gran volumen a filiar.
+
+Tratamiento
+Ante la evidencia del rápido crecimiento de la masa identificada en la TC, se decide intervención quirúrgica urgente mediante laparotomía, con exéresis total de la tumoración y comprobándose intraoperatoriamente la dependencia de la cara antero-lateral del ciego.
+
+Evolución
+La biopsia de la pieza de hemicolectomía derecha y del implante en la raíz de meso mostró un tumor maligno de células epitelioides claras, con marcadores melanocíticos. La histología observada en el tumor era bastante homogénea, con un índice mitótico muy bajo, siendo raras las zonas donde se observaban más de 1 o 2 mitosis por 10 campos de gran aumento. El nivel de proliferación medido por Ki 67 fue del 1-2%. Revisando la inmunohistoquímica se observó positividad difusa para S-100, HMB-45 y Melan-A, CD117 positivo en células aisladas, CD34 negativo, actina positiva en el 50% de las células. Calponina difusamente positiva, caldesmón y desmina negativas. CK, neurofilamentos, enolasa, calretinina, EMA, cd31, sinaptofisina y cromogranina negativos. La determinación de ESWR1 y mutación de BRAF fueron negativas.
+Con estos datos inmunohistoquímicos se sugiere como probable diagnóstico un sarcoma de células claras de tipo clásico, aunque otras posibilidades iniciales a considerar fueron el tumor gastrointestinal neuroectodérmico (sarcoma de células claras-like gastrointestinal), el melanoma metastásico a pesar de no presentar el paciente otras lesiones sugestivas de melanoma, la metástasis de carcinoma renal y el PEComa (neoplasia de células epitelioides perivasculares).
+Con estos datos, y ante la elevada heterogeneidad en el tratamiento y pronóstico del paciente dentro de las distintas posibilidades, se decide una segunda revisón de la muestra. Finalmente, se establece el diagnóstico definitivo mediante inmunohistoquímica. Se descartó la posibilidad de metástasis de melanoma (AML, caldesmón y desmina fueron positivas). Asimismo, se descartó el sarcoma de células claras gastrointestinal (S100 negativo y AML, caldesmón y desmina positivos) y también se excluyó el diagnóstico de metástasis de carcinoma renal (CK negativo, HMB45, melan A, desmina y caldesmón positivos).
+Por todo ello, se concluye finalmente el diagnóstico definivo de PEComa del tracto gastrointestinal, con exéresis quirúrgica completa y sin evidencia de enfermedad residual ni a otros niveles, por lo que se decidió en comité multidisciplinar su seguimiento.

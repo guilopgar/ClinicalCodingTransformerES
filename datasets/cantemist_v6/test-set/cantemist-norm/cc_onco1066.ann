@@ -1,0 +1,18 @@
+T1	MORFOLOGIA_NEOPLASIA 873 899	Adenopatía supraclavicular
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 3719 3741	carcinoma inflamatorio
+#2	AnnotatorNotes T2	8530/3
+T3	MORFOLOGIA_NEOPLASIA 1656 1666	malignidad
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 1240 1278	metástasis de carcinoma indiferenciado
+#4	AnnotatorNotes T4	8020/6
+T5	MORFOLOGIA_NEOPLASIA 2450 2455	tumor
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 1849 1901	carcinoma de mama izquierdo en estadio metabólico M1
+#6	AnnotatorNotes T6	8010/6
+T7	MORFOLOGIA_NEOPLASIA 1916 1952	Carcinoma indiferenciado metastásico
+#7	AnnotatorNotes T7	8020/6
+T8	MORFOLOGIA_NEOPLASIA 2018 2062	afectación axilar izquierda, supraclavicular
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 2769 2803	enfermedad a nivel supraclavicular
+#9	AnnotatorNotes T9	8000/6

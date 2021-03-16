@@ -1,0 +1,11 @@
+T1	MORFOLOGIA_NEOPLASIA 623 659	adenocarcinoma de próstata Gleason 6
+T2	MORFOLOGIA_NEOPLASIA 1157 1193	adenocarcinoma de próstata Gleason 8
+T3	MORFOLOGIA_NEOPLASIA 3186 3227	adenopatías cervicales, supraclaviculares
+T4	MORFOLOGIA_NEOPLASIA 4876 4889	mielofibrosis
+T5	MORFOLOGIA_NEOPLASIA 2106 2121	progresión ósea
+T6	MORFOLOGIA_NEOPLASIA 77 134	adenocarcinoma de próstata estadio IV por afectación ósea
+T7	MORFOLOGIA_NEOPLASIA 2411 2449	progresión exclusivamente a nivel óseo
+T8	MORFOLOGIA_NEOPLASIA 2770 2797	progresión a nivel hepático
+T9	MORFOLOGIA_NEOPLASIA 4477 4493	fibrosis medular
+T10	MORFOLOGIA_NEOPLASIA 5528 5555	progresión a nivel hepático
+T11	MORFOLOGIA_NEOPLASIA 807 836	lesiones blásticas en columna

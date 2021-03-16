@@ -1,0 +1,37 @@
+Anamnesis
+Mujer de 58 años, sin alergia medicamentosa conocida, con antecedentes personales de hipertensión arterial, sin otros de interés.
+Hábitos tóxicos: exfumadora desde hace 15 años de 6 paquetes/año.
+Su historia oncológica comienza en octubre del 2006, tras el hallazgo casual de una alteración pigmentaria en la región lumbar, siendo diagnosticada de melanoma de crecimiento vertical, de 1,4 mm de profundidad, perteneciente a la clasificación de Breslow nivel I, de Clark nivel IV, TNM: estadio pT2aN0M0.
+Tras dicho diagnostico, en febrero del 2007, se procede a la exéresis de la lesión con ampliación de márgenes y estudio de ganglio centinela. También se resecan un nevus melanocítico intradérmico en el mentón y un nevus lentiginoso en la región periumbilical.
+Sigue revisiones en consulta de dermatología, sin evidencia de recaída hasta enero del 2012, momento en que la paciente refiere cambios de carácter, con mayor labilidad emocional, sensibilidad a los olores y cefalea. Por dicha clínica se realizan una TC y una RM cerebral, que muestran una lesión en la región temporal derecha de 5 cm, con aparentes signos de sangrado y con importante efecto masa. Con este hallazgo, se procede a la extirpación quirúrgica de dicha lesión, cuya anatomía patológica informa de metástasis de melanoma con hemorragia intratumoral: S-100, MIAN, HMB 45 positivos. Mutación patológica activadora del exón 15 del gen B-RAF c1796SA>T Pv600E. No mutaciones del exón 9,11,13 y 17 del gen c-KIT y de exones 12 y 18 de gen PDGFRA.
+Se realiza también estudio de extensión por PET-TC, que informa de dos lesiones pulmonares en el lóbulo inferior derecho compatibles con metástasis, que, dadas sus características radiográficas, fue subsidiaria de resección quirúrgica.
+Se realizó posteriormente radioterapia exterotáxica fraccionada sobre la lesión cerebral, que finalizó en septiembre del mismo año.
+En octubre se reevalúa nuevamente la enfermedad por PET-TC, que objetiva una masa a nivel del canal medular L2, con SUV de 3,1 sugestivo de metástasis. Se realizó posteriormente una RM, que confirmódichos hallazgos, observando una masa nodular posterior a nivel de L2, intradural, extraespinal, de 14 x 20 mm, por lo que se somete a tratamiento con RDT.
+En esos momentos la paciente también refería palparse un nódulo subcutáneo en la región cervical anterior de aproximadamente 1 cm, la cual se somete a extirpación quirúrgica y el informe anatomopatológico confirma el origen metastásico de melanoma.
+Encontrándonos ahora en enero del 2013 se deriva a la paciente a consultas de Oncología Médica para la valoración del tratamiento sistémico. En ese momento, se encontraba con ánimo depresivo.
+
+Examen físico
+ECOG:1, KPS: 90%, con exploración física dentro de la normalidad.
+
+Pruebas complementarias
+Sin hallazgos reseñables en la analítica.
+
+Diagnóstico
+Melanoma estadio IV.
+
+Tratamiento
+De esta manera, nos encontramos ante un melanoma estadio IV y atendiendo a su historia oncológica, histología tumoral como análisis mutacional, se inicia tratamiento con vemurafenib, dado que el tumor presentaba la mutación B-RAF V600E. En febrero del 2013 se reevalua la enfermedad, presentando respuesta parcial. No obstante, desde los 12 días de inicio del tratamiento la paciente presenta toxicidad con astenia grado 3, hepatotoxicidad grado 2, artropatía grado 3 y eritema nodoso que obligaron a la retirada de dicho medicamento tras la reaparición de la toxicidad grado 3 a pesar de reducciones de dosis y periodos de descanso.
+
+Evolución
+La paciente continúa en revisión, sin tratamiento quimioterápico, hasta la reevaluación por PET-TC, en julio del 2013, en el cual se informa de captación patológica de varios nódulos a nivel subcutáneo en varias localizaciones: tórax superior derecho de 1 cm con SUV 3,2; dorsal izquierdo de 1,2 cm con SUV de 3,5; tórax lateral izquierdo adyacente a la mama de 6 mm con SUV de 1; glúteo derecho milimétrico con SUV de 1. Todas ellas sugestivas de metástasis.
+Ante dicha progresión se inicia nueva línea de quimioterapia con ipilimumab, que mantiene hasta septiembre del 2013, cuando la reevaluación por PET-TC informa de estabilidad de las lesiones anteriormente descritas, pero se observa progresión por un nódulo a nivel pélvico, en el músculo iliaco, de 1,2 cm y con SUV de 3,7 y también a nivel intracardiaco se visualiza un incremento focal en el septum con SUV 6,7, hallazgos que no permitían descartar etiología maligna.
+Ante el hallazgo cardiológico se realiza una ecocardiografía urgente, que informa de una masa intracavitaria de 2,5 x 2,2 cm, de aspecto trilobulado y móvil, adherida al segmento basal del septo anterior, con base amplia de implantación, sobre el que puede existir componente trombótico asociado. Mantiene buena función ventricular, con FEVI: 64%.
+La paciente en esos momentos se encuentra asintomática, ECOG 1, Karnofky 90%. Con auscultación cardiopulmonar normal, correspondiendo a una clasificación de Killip clase I.
+- En el ECG se objetiva ritmo sinusal a 60 lpm, eje eléctrico a 0º, QRS estrecho y PR normal. Supradesnivelación de 1 mm cóncava en V2
+- Analítica sin hallazgos. Enzimas cardiacas: CK 62 mg/dl.
+- Radiografía de tórax: normal.
+Tras valorar dichas pruebas se decide anticoagular a la paciente con HNF. A las 48 horas del inicio del tratamiento anticoagulante se realizan una ecocardiografia de control, encontrando los mismos hallazgos, y una RM cardiaca, la cual informa de una masa de 24 x 17 mm intracavitaria con pedículo de implantación ancho (14 mm) fijado en el segmento medio del septo posterior. La masa presenta cierta movilidad en su extremo, sin condicionar obstrucción medioventricular ni subaórtica. No se hallan imágenes sugestivas de componente trombótico. De esta manera, ante dichos datos de estabilidad de la lesión y por el alto riesgo de sangrado debido a la naturaleza de la enfermedad tumoral, se decide suspender la anticoagulación.
+Posteriormente se valoró la posibilidad de intervención quirúrgica a nivel cardiaco, pero en este contexto de enfermedad metastásica en progresión a varios niveles se decide el inicio de tratamiento dirigido.
+Teniendo en cuenta la respuesta que fue objetivada con el tratamiento con vemurafenib, se decide comenzar una segunda línea de tratamiento dirigido con la combinación de los anticuerpos monoclonales dabrafenib y trametinib. De esta manera, en octubre del 2013 comienza dicho tratamiento, presentando como toxicidad astenia, náuseas y mucositis grado 2, que obligó a una reducción de dosis del 50%.
+A los 6 meses de tratamiento, marzo del 2014, la PET-TC de reevaluación informa que las lesiones subcutáneas se encuentran desvitalizadas y a nivel intracardiaco no se visualiza incremento significativo del SUV (SUV 3) atribuible a lesión desvitalizada. También se realiza una ecocardiografía de control, en la cual la masa intracardiaca presenta una importante disminución del tamaño, con una base de implantación actual en el septum anterior de 1 cm y longitud máxima de 13 mm, conservando una buena función sistólica biventricular.
+De esta manera, se encuentra con respuesta completa de la enfermedad, por lo que la paciente continúa con el mismo tratamiento sistémico hasta la actualidad.

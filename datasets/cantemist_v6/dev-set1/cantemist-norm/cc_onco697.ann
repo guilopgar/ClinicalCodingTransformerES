@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 3512 3545	adenocarcinoma de tipo intestinal
+#1	AnnotatorNotes T1	8144/3
+T2	MORFOLOGIA_NEOPLASIA 3940 3965	adenocarcinoma intestinal
+#2	AnnotatorNotes T2	8144/3
+T3	MORFOLOGIA_NEOPLASIA 1186 1207	carcinoma embrionario
+#3	AnnotatorNotes T3	9070/3
+T4	MORFOLOGIA_NEOPLASIA 3014 3031	masa mediastínica
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 1158 1177	seminoma anaplásico
+#5	AnnotatorNotes T5	9062/3
+T6	MORFOLOGIA_NEOPLASIA 3292 3299	tumoral
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 593 602	tumorales
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 1209 1217	T2N2M0S1
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 3455 3498	metástasis mediastínica por teratoma maduro
+#9	AnnotatorNotes T9	9080/6
+T10	MORFOLOGIA_NEOPLASIA 2520 2550	lesión hipodensa en mediastino
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 1293 1362	teratoma histológicamente maduro con un foco de carcinoma embrionario
+#11	AnnotatorNotes T11	9081/3
+T12	MORFOLOGIA_NEOPLASIA 2115 2166	teratoma maduro, y un foco de carcinoma embrionario
+#12	AnnotatorNotes T12	9081/3

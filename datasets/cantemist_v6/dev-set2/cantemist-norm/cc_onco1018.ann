@@ -1,0 +1,14 @@
+T1	MORFOLOGIA_NEOPLASIA 1792 1797	tumor
+#1	AnnotatorNotes T1	8000/1
+T2	MORFOLOGIA_NEOPLASIA 3381 3386	tumor
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 1474 1497	tumor de partes blandas
+#3	AnnotatorNotes T3	8800/1
+T4	MORFOLOGIA_NEOPLASIA 1822 1841	hemangioendotelioma
+#4	AnnotatorNotes T4	9130/1
+T5	MORFOLOGIA_NEOPLASIA 1842 1857	hemangiosarcoma
+#5	AnnotatorNotes T5	9120/3
+T6	MORFOLOGIA_NEOPLASIA 2046 2062	sarcoma de Ewing
+#6	AnnotatorNotes T6	9260/3
+T7	MORFOLOGIA_NEOPLASIA 2445 2461	sarcoma de Ewing
+#7	AnnotatorNotes T7	9260/3

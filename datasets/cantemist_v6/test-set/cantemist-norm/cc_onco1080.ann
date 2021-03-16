@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 1821 1847	adenopatía supraclavicular
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1331 1352	carcinoma epidermoide
+#2	AnnotatorNotes T2	8070/3
+T3	MORFOLOGIA_NEOPLASIA 1463 1484	carcinoma epidermoide
+#3	AnnotatorNotes T3	8070/3
+T4	MORFOLOGIA_NEOPLASIA 1985 2006	carcinoma epidermoide
+#4	AnnotatorNotes T4	8070/3
+T5	MORFOLOGIA_NEOPLASIA 2182 2230	carcinoma epidermoide moderadamente diferenciado
+#5	AnnotatorNotes T5	8070/32
+T6	MORFOLOGIA_NEOPLASIA 1891 1901	malignidad
+#6	AnnotatorNotes T6	8000/3
+T7	MORFOLOGIA_NEOPLASIA 1753 1764	metastásica
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 2017 2027	cT1bN0-1M0
+#8	AnnotatorNotes T8	8000/6

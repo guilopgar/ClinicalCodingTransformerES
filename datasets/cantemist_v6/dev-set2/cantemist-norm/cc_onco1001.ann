@@ -1,0 +1,12 @@
+T1	MORFOLOGIA_NEOPLASIA 576 597	carcinoma epidermoide
+#1	AnnotatorNotes T1	8070/3
+T2	MORFOLOGIA_NEOPLASIA 1205 1224	enfermedad hepática
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 790 799	neoplasia
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 2303 2310	tumoral
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 2846 2853	tumoral
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 836 858	adenocarcinoma T4N3M1b
+#6	AnnotatorNotes T6	8140/6

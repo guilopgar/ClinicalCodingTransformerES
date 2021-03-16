@@ -1,0 +1,10 @@
+T1	MORFOLOGIA_NEOPLASIA 2330 2340	Metástasis
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 418 432	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 2392 2406	adenocarcinoma
+#3	AnnotatorNotes T3	8140/3
+T4	MORFOLOGIA_NEOPLASIA 252 294	adenocarcinoma de próstata T3b Gleason 5+4
+#4	AnnotatorNotes T4	8140/33
+T5	MORFOLOGIA_NEOPLASIA 1967 2024	nódulos pulmonares paramediastínicos apicales bilaterales
+#5	AnnotatorNotes T5	8000/6

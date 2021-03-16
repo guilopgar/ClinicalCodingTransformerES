@@ -1,0 +1,26 @@
+Anamnesis
+Mujer de 44 años, con antecedentes de migraña y queratitis vírica, que inició estudio ginecológico por metrorragias.Tras presentar un episodio de metrorragia con rectorragia aislada asociada a dolor pélvico, acude a urgencias hospitalarias.
+
+Examen físico
+Buen estado general, ECOG 1, normocoloreada. Auscultación cardiorrespiratoria normal. Abdomen blando y depresible, doloroso a la palpación en hipogastrio, con hepatomegalia no dolorosa. En tacto rectal lesión irregular dura a 3 cm del margen anal. Exploración ginecológica normal. La ecografía vaginal detecta una masa retrouterina bien delimitada de 61 mm de diámetro. En la exploración oftalmológica se observan úlceras corneales.
+
+Pruebas complementarias
+Analítica: GOT 131 UI/l; GPT 176 UI/l; GGT 733 UI/l; LDH 1315 UI/l; marcadores tumorales: HCG 4.517 mU/ml; CEA 1,53 ng/ml; Ca 19.9 46,2 UI/ml; test de getación positivo.
+Tomografía computarizada (TC): múltiples metástasis hepáticas. Masa en recto de 6 cm con centro necrótico. Lesiones blásticas en T5, T10 y en hueso ilíaco izquierdo.
+Resonancia magnética (RM): 2 lesiones, a 4 cm del margen una de 2 cm sin infiltración de la serosa (T1-2). Casi en continuidad, una lesión extraluminal que infiltra la pared del recto protruyendo de 6,5 x 5,5, hipointensa con foco de necrosis central que contacta fascia mesorrectal.
+Tomografía por emisión de positrones (PET): lesión anal (SUVmáx = 3,6) y rectal (SUVmáx = 13,3). LOES hepáticas.
+Lesiones osteoblásticas pélvicas sin incremento metabólico.
+Gammagrafía ósea: normal.
+Colonoscopia: a 3 cm lesión en escarapela de 2 5mm. A 8 cm, lesión submucosa de 5 cm con infiltración de la mucosa rectal.
+
+Diagnóstico
+Doble lesión sincrónica a nivel de recto, con histología de adenocarcinoma con metástasis hepáticas y posibles óseas
+Anatomía patológica: 1. Lesión rectal a 8 cm con focos intramucosos de adenocarcinoma pobremente diferenciado.
+Positividad intensa difusa para citoqueratina QE1/AE3, focal CDX2, aislada para CK7 y difusa para p53, negatividad para CK20, receptores hormonales, c-kit y CD34. 2. Lesión rectal a 3 cm, adenocarcinoma infiltrante. Positividad intensa y difusa para CK20 y CDX2.
+En ambas muestras: no hay pérdida de expresión para proteínas relacionadas con inestabilidad de microsatélites (MLH-1, MSH-6 y PMS-2), no presenta mutación de K-RAS y BRAF y no se advierte expresión inmunohistoquímica de HCG.
+
+Tratamiento
+Inicia quimioterapia paliativa con XELOX, presentando intolerancia a capecitabina, pero mejoría clínica del dolor y desapareciendo la metrorragia, continúa con FOLFOX. Contraindicado inhibidores EGFR (queratitis) y VEG (metrorragias).
+
+Evolución
+Presenta progresión clínica y radiológica a nivel hepático y local tras tercer ciclo de quimioterapia. La paciente fallece a los 4 meses del diagnóstico por insuficiencia hepática.

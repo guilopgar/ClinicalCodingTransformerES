@@ -1,0 +1,36 @@
+T1	MORFOLOGIA_NEOPLASIA 491 524	carcinoma renal de células claras
+#1	AnnotatorNotes T1	8310/3
+T2	MORFOLOGIA_NEOPLASIA 4457 4476	células neoplásicas
+#2	AnnotatorNotes T2	8001/1
+T3	MORFOLOGIA_NEOPLASIA 2866 2886	lesión única frontal
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 265 275	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 838 848	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 3316 3326	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 4026 4036	metástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 5566 5589	metástasis de carcinoma
+#8	AnnotatorNotes T8	8010/6
+T9	MORFOLOGIA_NEOPLASIA 204 213	neoplasia
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 4769 4788	progresión pulmonar
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 620 625	tumor
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 563 570	tumoral
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 5432 5439	tumoral
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 525 533	pT3aNxMx
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 3064 3082	nódulos pulmonares
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 4329 4370	carcinoma de células claras de alto grado
+#16	AnnotatorNotes T16	8310/34
+T17	MORFOLOGIA_NEOPLASIA 4387 4444	metástasis de carcinoma renal convencional (célula clara)
+#17	AnnotatorNotes T17	8310/6
+T18	MORFOLOGIA_NEOPLASIA 4681 4740	Carcinoma renal izquierdo de células claras, estadio IV (M1
+#18	AnnotatorNotes T18	8310/6

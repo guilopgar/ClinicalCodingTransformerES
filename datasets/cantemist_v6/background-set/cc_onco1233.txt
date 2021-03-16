@@ -1,0 +1,27 @@
+Anamnesis
+Mujer con los antecedentes descritos que acude a consultas externa de Neurocirugía por un bultoma craneal izquierdo y cefalea ipsilateral de 3 semanas de evolución. Se solicita RM cerebral en la que se objetiva lesión aparentemente dependiente de la meninge (duramadre) y que afecta a la continuidad de la tabla externa del diploe frontal izquierdo.
+Finalmente, se decide ingreso para realización de craneotomía y exéresis de la lesión, cuya anatomía patológica resulta compatible con adenocarcinoma de probable origen intestinal, lo cual se confirma posteriormente con los hallazgos de la TC y de la colonoscopia (lesión de aspecto neoplásico desde los 5 cm a los 10 cm del margen anal). Una vez determinado el origen de la lesión, la paciente es trasladada a la planta de hospitalización del servicio de Oncología Médica.
+No refiere alergias medicamentosas conocidas. Exfumadora, obesidad y trombosis venosa profunda (2001). Cesárea (gestación gemelar). Sin medicación domiciliaria.
+
+Examen físico
+Destaca bultoma en la región frontal izquierda doloroso a la palpación. No hay datos de focalidad neurológica aguda.
+
+Pruebas complementarias
+- RM cerebral: importante masa de tejido blando a nivel frontal izquierdo con componente intracraneal y extracraneal de contenido heterogéneo. En las secuencias en T1, predomina la hipointensidad de la señal, mostrando señal heterogénea en las secuencias en T2 con focos hipointensos en su interior (contenido hemático).
+La porción intracraneal tumoral es de característica extraaxial, con unas dimensiones en el plano axial de 23 x 36 mm y rodeada de edema moderado del tejido cerebral frontal vecino. La administración de contraste endovenoso muestra una captación heterogénea de la masa intracraneal y captación meníngea que rodea a la convexidad cerebral del lado izquierdo. Alteraciones de la intensidad de la señal del diploe frontal izquierdo con imágenes de discontinuidad cortical sobre la tabla externa, de donde parte una importante masa extracraneal con diámetros en el plano axial de 21 x 56 mm y diámetros craneocaudales que superan los 30 mm de longitud y presentan características morfológicas de intensidad de la señal y captación de contraste similares a la masa intracraneal.
+La primera posibilidad diagnóstica, por las imágenes, sería la de meningioma maligno (tríada de masa extracraneal, osteólisis y tumor intracraneal con edema cerebral de vecindad). Otras posibilidades a tener en cuenta son osteosarcoma o sarcoma meníngeo.
+- Anatomía patológica pieza quirúrgica: adenocarcinoma de probable origen intestinal. Se evidencia infiltración tumoral de tejido óseo, así como de la pseudomembrana referenciada como realce pial. El estudio inmunohistoquímico demuestra inmunorreactividad para CDX2 y citoqueratina 20, siendo TTF1 y citoqueratina 7 negativos. Se detecta mutación en el codón 12 del gen K-RAS.
+- TC toracoabdominopélvica: proceso neoformativo a nivel del tercio inferior rectal de 6 cm de extensión craneocaudal, con espiculación hacia la grasa perilesional y presencia de múltiples adenopatías locorregionales en grasa presacra, en cadena obturatriz izquierda y múltiples retroperitoneales siguiendo el eje vascular aortoiliaco. Leve dilatación del sistema excretor renal izquierdo debido a estas últimas.
+- PET de cuerpo entero: destaca la presencia de 3 focos hipermetabólicos en el parénquima hepático no descritos en los estudios previos.
+- Analítica de sangre: destaca elevación de CEA (138 ng/ml) y CA 19.9 (403 UI/ml).
+- Colonoscopia: lesión de aspecto neoplásico desde los 5 a los 10 cm del margen anal, dura y friable al tacto.
+- Anatomía patológica lesión rectal: adenocarcinoma de bajo grado, recto inferior.
+
+Diagnóstico
+Adenocarcinoma de recto estadio IV (cT3N2M1).
+
+Tratamiento
+Craneotomía, exéresis de la lesión frontal izquierda y colocación de malla de titanio. Quimioterapia, esquema XELOX al 100% de dosis (capecitabina 1.000 mg/m2 días 1-14 cada 21 días y oxaliplatino 130 mg/m2 día 1 cada 21 días).
+
+Evolución
+Una vez alcanzado el diagnóstico definitivo y realizado el estadiaje de la enfermedad, la paciente es trasladada a la planta de hospitalización de Oncología Médica para el inicio del tratamiento quimioterápico (esquema XELOX). La paciente ha recibido 3 ciclos con aceptable tolerancia.

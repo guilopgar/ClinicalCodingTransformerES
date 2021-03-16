@@ -1,0 +1,9 @@
+T1	MORFOLOGIA_NEOPLASIA 132 138	cáncer
+T2	MORFOLOGIA_NEOPLASIA 2338 2360	enfermedad a distancia
+T3	MORFOLOGIA_NEOPLASIA 2036 2051	lesión parietal
+T4	MORFOLOGIA_NEOPLASIA 2523 2538	lesión parietal
+T5	MORFOLOGIA_NEOPLASIA 2215 2225	metástasis
+T6	MORFOLOGIA_NEOPLASIA 2585 2625	metástasis de carcinoma mal diferenciado
+T7	MORFOLOGIA_NEOPLASIA 497 554	carcinoma ductal infiltrante mal diferenciado, multifocal
+T8	MORFOLOGIA_NEOPLASIA 2375 2407	Recaída cerebral única de cáncer
+T9	MORFOLOGIA_NEOPLASIA 3512 3528	recaída cerebral

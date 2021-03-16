@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 3959 3980	Carcinoma microcítico
+#1	AnnotatorNotes T1	8041/3
+T2	MORFOLOGIA_NEOPLASIA 4037 4039	M1
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 3701 3745	carcinoma indiferenciado de células pequeñas
+#3	AnnotatorNotes T3	8041/34
+T4	MORFOLOGIA_NEOPLASIA 582 601	carcinoma urotelial
+#4	AnnotatorNotes T4	8120/3
+T5	MORFOLOGIA_NEOPLASIA 6214 6220	cáncer
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 3463 3475	metastásicas
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 4109 4119	metástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 4153 4163	metástasis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 781 790	neoplasia
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 3760 3817	carcinoma papilar de células transicionales de alto grado
+#10	AnnotatorNotes T10	8130/34
+T11	MORFOLOGIA_NEOPLASIA 3701 3878	carcinoma indiferenciado de células pequeñas combinado con carcinoma papilar de células transicionales de alto grado y metaplasia intestinal con focos de displasia de alto grado
+#11	AnnotatorNotes T11	8045/3/H
+T12	MORFOLOGIA_NEOPLASIA 4869 4892	enfermedad a nivel ósea
+#12	AnnotatorNotes T12	8000/6

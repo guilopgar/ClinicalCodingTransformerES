@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 1301 1303	Mx
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1032 1058	adenocarcinoma infiltrante
+#2	AnnotatorNotes T2	8140/3/H
+T3	MORFOLOGIA_NEOPLASIA 3000 3016	células malignas
+#3	AnnotatorNotes T3	8001/3
+T4	MORFOLOGIA_NEOPLASIA 1248 1258	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 878 883	tumor
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 701 708	tumoral
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 2947 2954	tumoral
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 3061 3068	tumoral
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 5488 5495	tumoral
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 1092 1158	neoplasia mucinosa intraductal papilar con displasia de alto grado
+#10	AnnotatorNotes T10	8453/2

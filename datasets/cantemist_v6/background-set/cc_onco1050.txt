@@ -1,0 +1,28 @@
+Anamnesis
+Estamos ante un paciente de 74 años, con antecedentes de hipertensión arterial, bronquitis crónica, síndrome de apnea obstructiva del sueño en tratamiento con presión positiva continua sobre vía aérea (CPAP), bloqueo de rama derecha en seguimiento por cardiología, intervenciones quirúrgicas por enfermedad de Dupuytren en 4 ocasiones (3 en mano derecha y 1 en mano izquierda) y lesión tipo lentigo maligno en párpado izquierdo (bordes libres) en 2009. Acude a consulta refiriendo desde hace 3 meses rectorragia y tenesmo rectal, últimamente dolor en zona anal, con muy mal control del dolor que le impide sentarse y dormir.
+
+Exploración física
+» Paciente con ECOG 1, hemodinámicamente estable, abdomen globuloso, blando y depresible, no doloroso, sin megalias. Se palpa adenopatía inguinal derecha.
+» Tacto rectal muy doloroso con masa a punta de dedo desde margen anal.
+
+Pruebas complementarias
+ Se realiza colonoscopia, destacando neoplasia adyacente a línea pectínea, con sangrado importante, que se biopsia, pólipo pediculado en sigma proximal y 2 pólipos en colon transverso 2 que se extirpan.
+ Tomografía computarizada toracoabdominopélvica (TC TAP): nódulo de 5 mm en el lóbulo inferior de pulmón derecho. Hígado de tamaño normal, con quiste simple de 2,5cm. Engrosamiento de la pared en recto distal, compatible con lesión neoplásica. Adenopatías < 1 cm en celda pararrectal en el lado derecho y uno de 2,2 cm inguinal derecho. Resto normal.
+ PET TC: área hipermetabólica en recto sugestivo de malignidad (SUVmax 20,9) con afectación metabólica de adenopatías perirrectales (SUVmax: 3,6-7,8), inguinal derecha (SUVmax: 17,4), hepáticas y pulmonares (SUVmax: 6,5-7,6), todo ello en relación con metástasis.
+ » El resultado de Anatomía Patológica concluye: melanoma maligno ulcerado. BRAF: no mutado.
+ » Resto: adenomas tubulovellosos.
+
+Diagnóstico
+Melanoma de mucosa rectal, estadio III. Diseminación ganglionar, hepática y pulmonar. BRAF no mutado.
+
+Tratamiento
+Debido a la sintomatología del paciente, dada por mal control del dolor anal, en Unidad Funcional de Melanoma, se decide iniciar tratamiento con radioterapia pélvica; dosis planning target volume (PTV) de 30 Gy (Gray), fraccionado a 3 Gy/día. Tras finalizar radioterapia ante enfermedad diseminada y BRAF no mutado, se plantea quimioterapia con DTIC (dacarbazina) 850 mg/m2/21 día.
+
+Evolución
+Mejoría del dolor perianal y del tenesmo tras finalizar tratamiento de radioterapia. Persiste estreñimiento que controla con un sobre de lactulosa al día. En febrero de 2012, inicia quimioterapia DTIC (dacarbazina) 850 mg/m2/21 d. Toxicidad postratamiento de fotosensibilidad grado 1 y LDH (lactato deshidrogenasa) 955 U/l.
+Tras 3er ciclo de quimioterapia, se realiza TC TAP, objetivando progresión a nivel pulmonar. Ante progresión tras DTIC, se decide incluir en ensayo clínico con ipilimumab 3 mg/kg, que inicia 2 meses después, completando 4 ciclos (último en julio de 2012) y realizando TC TAP posterior que concluye estabilización de la enfermedad y LDH normal.
+Posteriormente, se realiza colonoscopia y toma nuevamente de biopsia que concluye mucosa de tipo colorrectal con cambios compatibles con melanosis, sin signos de malignidad en el tejido estudiado.
+En enero de 2015, se realiza analítica control con elevación de LDH 521 U/l y TC TAP donde no se objetivan adenopatías de tamaño significativo a nivel axilar ni mediastínico, múltiples metástasis pulmonares bilaterales que no presentan cambios significativos, por lo que se recomienda nuevo control radiológico y endoscópico 3 meses después; con resultado de metástasis pulmonares, adenopáticas retroperitoneales, iliacas e inguinales, sin cambios, con aumento de la afectación hepática en la práctica totalidad de sus segmentos. En la colonoscopia, lesión melánica indurada parcialmente sobreelevada y sangrante al roce, con lesiones papulosas melanocíticas asociadas, sugestivas de metástasis de melanoma.
+Ante nueva progresión radiológica se propone pembrolizumab 2 mg/kg/3 semanas (uso compasivo), se realiza TC TAP 4, meses después mostrando estabilización de la enfermedad y colonoscopia que concluye lesión melánica indurada y friable desde margen anal hasta 10 cm del mismo y un islote melánico a 18 cm que se biopsia y múltiples pólipos y micropólipos que se extirpan en recto y colon ascendente. El estudio anatomopatológico es informado como pólipos adenomatosos tubulares sin signos de displasia, no se detecta melanoma residual en las lesiones melánicas.
+Actualmente continúa recibiendo pembrolizumab (19° ciclo) con buena tolerancia; sólo astenia grado 2 y LDH normal; último TC TAP muestra estabilidad tumoral. TAC previo.Marzo del 2013 colonoscopia con biopsia que concluye MUCOSA DE TIPO COLORRECTAL CON CAMBIOS COMPATIBLES CON MELANOSIS, SIN SIGNOS DE MALIGNIDAD EN EL TEJIDO ESTUDIADO. CAMBIOS INFLAMATORIOS AGUDOS Y CRONICOS, TEJIDO DE GRANULACION Y CAMBIOS HIPERPLASICOS EPITELIALES GLANDULARES ASOCIADOS. 30/01/2014 Refiere mayor astenia de la habitual y lumMarzo del 2013 colonoscopia con biopsia que concluye MUCOSA DE TIPO COLORRECTAL CON CAMBIOS COMPATIBLES CON MELANOSIS, SIN SIGNOS DE MALIGNIDAD EN EL TEJIDO ESTUDIADO. CAMBIOS INFLAMATORIOS AGUDOS Y CRONICOS, TEJIDO DE GRANULACION Y CAMBIOS HIPERPLASICOS EPITELIALES GLANDULARES ASOCIADOS.
+30/01/2014 Refiere mayor astenia de la habitual y lumMarzo del 2013 colonoscopia con biopsia que concluye MUCOSA DE TIPO COLORRECTAL CON CAMBIOS COMPATIBLES CON MELANOSIS, SIN SIGNOS DE MALIGNIDAD EN EL TEJIDO ESTUDIADO. CAMBIOS INFLAMATORIOS AGUDOS Y CRONICOS, TEJIDO DE GRANULACION Y CAMBIOS HIPERPLASICOS EPITELIALES GLANDULARES ASOCIADOS. 30/01/2014 Refiere mayor astenia de la habitual y lum

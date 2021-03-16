@@ -1,0 +1,26 @@
+Anamnesis
+Mujer de 54 años, sin antecedentes de interés, diagnosticada de carcinoma renal de células claras pT3N0M0. Se trata con nefrectomía radical y posteriormente presenta recidiva sistémica con metástasis pulmonares, realizándose tratamiento quirúrgico de dichas metástasis y tratamiento con pazopanib durante cuatro meses hasta objetivarse progresión. En este momento es derivada a nuestro centro y entra en ensayo clínico Ca209025 (everolimus vs. nivolumab), iniciando tratamiento con everolimus 10 mg/día.
+Tras un mes de tratamiento, consulta en Urgencias por disnea de moderados esfuerzos, febrícula y dolor pleurítico de una semana de evolución, sin tos ni expectoración asociados.
+
+Exploración física
+En la exploración física, destacaba crepitantes secos en base pulmonar derecha, sin otros hallazgos de interés. La paciente se encontraba eupneica y con buenas saturaciones de oxígeno en reposo.
+
+Pruebas complementarias
+En la analítica realizada no presentaba elevación de reactantes de fase aguda ni otras alteraciones significativas y en la radiografía de tórax se evidenciaba un infiltrado basal derecho.
+
+Diagnóstico
+Neumonía basal derecha vs. neumonitis por everolimus.
+
+Tratamiento
+Ante la sospecha de neumonía basal derecha y posible neumonitis por everolimus, se suspendió dicho fármaco, se pautó tratamiento antibiótico con levofloxacino y se citó a la paciente en una semana para control clínico y radiológico.
+
+Evolución
+Una semana después la paciente presentaba un deterioro franco de su estado general, persistiendo la febrícula y dolor pleurítico a pesar de los tratamientos pautados. A la exploración presentaba trabajo respiratorio, con saturación del 90% en reposo y crepitantes secos bibasales a la auscultación. En la analítica únicamente destacaba una linfopenia leve, sin otros hallazgos de interés, y empeoramiento radiológicos con progresión del infiltrado a LID y LM.
+
+Se decide entonces ingreso hospitalario, se inicia tratamiento con prednisona 60 mg al día y se mantiene tratamiento antibiótico con levofloxacino.
+
+Una vez en planta se realiza una TC torácica en la que se confirma la existencia de infiltrados en vidrio deslustrado en LID y LM, con engrosamiento de septos interlobulillares, compatibles con neumonitis farmacológica. En cuanto a la enfermedad oncológica se describe respuesta parcial, con disminución de tamaño de los nódulos pulmonares.
+
+Se realiza una fibrobroncoscopia con lavado broncoalveolar (BAL), en el que se aísla Pneumocystis jirovencii en escasa cantidad. En esta situación, se inicia tratamiento con trimetropim-sulfometoxazol y se amplía estudio con la determinación de beta-D-glucano que resulta negativo.
+
+La paciente presenta en planta una evolución clínica favorable, con disminución progresiva de los requerimientos de oxígeno, resolución de la febrícula y del dolor pleurítico. Se realiza una radiografía de control al cabo de una semana que muestra una resolución casi total de los infiltrados.

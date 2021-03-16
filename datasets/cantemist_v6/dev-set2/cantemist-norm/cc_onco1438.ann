@@ -1,0 +1,42 @@
+T1	MORFOLOGIA_NEOPLASIA 911 932	Carcinoma epidermoide
+#1	AnnotatorNotes T1	8070/3
+T2	MORFOLOGIA_NEOPLASIA 309 315	T4N2M0
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 253 274	carcinoma epidermoide
+#3	AnnotatorNotes T3	8070/3
+T4	MORFOLOGIA_NEOPLASIA 3100 3117	células tumorales
+#4	AnnotatorNotes T4	8001/1
+T5	MORFOLOGIA_NEOPLASIA 1852 1890	lesión hipodensa en cuerpo de páncreas
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 3895 3911	masa pancreática
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 4138 4154	masa pancreática
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 4752 4768	masa pancreática
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 3255 3265	metástasis
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 3132 3167	metástasis de carcinoma epidermoide
+#10	AnnotatorNotes T10	8070/6
+T11	MORFOLOGIA_NEOPLASIA 3525 3560	metástasis de carcinoma epidermoide
+#11	AnnotatorNotes T11	8070/6
+T12	MORFOLOGIA_NEOPLASIA 5173 5232	metástasis de carcinoma escamoso moderadamente diferenciado
+#12	AnnotatorNotes T12	8070/62
+T13	MORFOLOGIA_NEOPLASIA 2669 2687	neoplasia mucinosa
+#13	AnnotatorNotes T13	8000/1/H
+T14	MORFOLOGIA_NEOPLASIA 2856 2881	neoplasia sólido-quística
+#14	AnnotatorNotes T14	8452/1
+T15	MORFOLOGIA_NEOPLASIA 838 848	neoplásico
+#15	AnnotatorNotes T15	8000/1
+T16	MORFOLOGIA_NEOPLASIA 3311 3316	tumor
+#16	AnnotatorNotes T16	8000/1
+T17	MORFOLOGIA_NEOPLASIA 4520 4525	tumor
+#17	AnnotatorNotes T17	8000/1
+T18	MORFOLOGIA_NEOPLASIA 1927 1937	tumoración
+#18	AnnotatorNotes T18	8000/1
+T19	MORFOLOGIA_NEOPLASIA 2498 2508	tumoración
+#19	AnnotatorNotes T19	8000/1
+T20	MORFOLOGIA_NEOPLASIA 675 682	tumoral
+#20	AnnotatorNotes T20	8000/1
+T21	MORFOLOGIA_NEOPLASIA 3192 3238	Carcinoma epidermoide de pulmón derecho T4N2M1
+#21	AnnotatorNotes T21	8070/6

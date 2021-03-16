@@ -1,0 +1,26 @@
+T1	MORFOLOGIA_NEOPLASIA 200 202	M0
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 619 645	adenopatía supraclavicular
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 959 985	adenopatía supraclavicular
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1038 1064	adenopatía supraclavicular
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 145 173	carcinoma ductal infiltrante
+#5	AnnotatorNotes T5	8500/3
+T6	MORFOLOGIA_NEOPLASIA 2681 2702	carcinoma microcítico
+#6	AnnotatorNotes T6	8041/3
+T7	MORFOLOGIA_NEOPLASIA 2737 2758	carcinoma microcítico
+#7	AnnotatorNotes T7	8041/3
+T8	MORFOLOGIA_NEOPLASIA 2489 2500	metastásica
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 1080 1103	metástasis de carcinoma
+#9	AnnotatorNotes T9	8010/6
+T10	MORFOLOGIA_NEOPLASIA 1940 1959	progresión hepática
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 736 772	adenopatía en región supraclavicular
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 1236 1303	Recidiva ganglionar supraclavicular de carcinoma ductal infiltrante
+#12	AnnotatorNotes T12	8500/6
+T13	MORFOLOGIA_NEOPLASIA 1417 1451	recaída ganglionar supraclavicular
+#13	AnnotatorNotes T13	8000/6

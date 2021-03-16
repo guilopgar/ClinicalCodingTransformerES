@@ -1,0 +1,34 @@
+T1	MORFOLOGIA_NEOPLASIA 1340 1368	Carcinoma ductal infiltrante
+#1	AnnotatorNotes T1	8500/3
+T2	MORFOLOGIA_NEOPLASIA 4375 4403	Carcinoma ductal infiltrante
+#2	AnnotatorNotes T2	8500/3
+T3	MORFOLOGIA_NEOPLASIA 3074 3115	adenopatías cervicales, supraclaviculares
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 970 976	cáncer
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 1027 1033	cáncer
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 1079 1085	cáncer
+#6	AnnotatorNotes T6	8000/3
+T7	MORFOLOGIA_NEOPLASIA 1155 1161	cáncer
+#7	AnnotatorNotes T7	8000/3
+T8	MORFOLOGIA_NEOPLASIA 1196 1202	cáncer
+#8	AnnotatorNotes T8	8000/3
+T9	MORFOLOGIA_NEOPLASIA 1240 1246	cáncer
+#9	AnnotatorNotes T9	8000/3
+T10	MORFOLOGIA_NEOPLASIA 1303 1309	cáncer
+#10	AnnotatorNotes T10	8000/3
+T11	MORFOLOGIA_NEOPLASIA 3880 3887	maligna
+#11	AnnotatorNotes T11	8000/3
+T12	MORFOLOGIA_NEOPLASIA 3834 3844	malignidad
+#12	AnnotatorNotes T12	8000/3
+T13	MORFOLOGIA_NEOPLASIA 2610 2655	linfoma anaplásico de células grandes ALK (-)
+#13	AnnotatorNotes T13	9702/3
+T14	MORFOLOGIA_NEOPLASIA 2528 2565	síndrome linfoproliferativo CD 30 (+)
+#14	AnnotatorNotes T14	9718/3
+T15	MORFOLOGIA_NEOPLASIA 3596 3633	linfoma anaplásico de células grandes
+#15	AnnotatorNotes T15	9714/3
+T16	MORFOLOGIA_NEOPLASIA 4194 4212	linfoma anaplásico
+#16	AnnotatorNotes T16	9590/3/H
+T17	MORFOLOGIA_NEOPLASIA 4314 4340	Linfoma anaplásico ALK (-)
+#17	AnnotatorNotes T17	9702/3

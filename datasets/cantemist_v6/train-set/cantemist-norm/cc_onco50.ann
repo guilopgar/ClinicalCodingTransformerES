@@ -1,0 +1,22 @@
+T1	MORFOLOGIA_NEOPLASIA 459 462	CDI
+#1	AnnotatorNotes T1	8500/3
+T2	MORFOLOGIA_NEOPLASIA 1588 1598	Tumoración
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 2507 2519	angiosarcoma
+#3	AnnotatorNotes T3	9120/3
+T4	MORFOLOGIA_NEOPLASIA 781 803	enfermedad a distancia
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 222 232	malignidad
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 2073 2083	malignidad
+#6	AnnotatorNotes T6	8000/3
+T7	MORFOLOGIA_NEOPLASIA 3049 3058	neoplasia
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 429 473	carcinoma ductal infiltrante (CDI) grado III
+#8	AnnotatorNotes T8	8500/33
+T9	MORFOLOGIA_NEOPLASIA 828 864	carcinoma ductal infiltrante grado 3
+#9	AnnotatorNotes T9	8500/33
+T10	MORFOLOGIA_NEOPLASIA 906 909	cM0
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 2908 2920	Angiosarcoma
+#11	AnnotatorNotes T11	9120/3

@@ -1,0 +1,12 @@
+T1	MORFOLOGIA_NEOPLASIA 4449 4457	seminoma
+#1	AnnotatorNotes T1	9061/3
+T2	MORFOLOGIA_NEOPLASIA 4922 4930	seminoma
+#2	AnnotatorNotes T2	9061/3
+T3	MORFOLOGIA_NEOPLASIA 4411 4438	tumor de células germinales
+#3	AnnotatorNotes T3	9064/3
+T4	MORFOLOGIA_NEOPLASIA 4491 4525	neoplasia germinal no seminomatosa
+#4	AnnotatorNotes T4	9065/3
+T5	MORFOLOGIA_NEOPLASIA 4024 4031	tumoral
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 4093 4128	implantes en la superficie hepática
+#6	AnnotatorNotes T6	8000/6

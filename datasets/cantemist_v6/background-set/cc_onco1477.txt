@@ -1,0 +1,31 @@
+Anamnesis
+Varón de 51 años de edad, con diagnósticos de hipertensión arterial, diabetes mellitus tipo 2 con nefropatía y retinopatía diabética e hipercolesterolemia que, tras dos accidentes de tráfico en el 2006 y en el 2009, es diagnosticado de aplastamientos vertebrales sin compromiso del canal raquídeo a nivel de L1 y D12.
+Desde septiembre de 2009 el paciente acude a consultas de Reumatología en varias oportunidades por dolor lumbar. En mayo de 2010, por dolor costal y en el muslo derechos, se realiza una radiografía simple de tórax y gammagrafía ósea en las que se observa fractura a nivel del octavo arco costal derecho y captación patológica a nivel tercio medio del fémur, por lo que el paciente es ingresado para estudio.
+
+Exploración física
+Consciente, orientado y colaborador. Regular estado general, con ECOG 2. Afebril. No presenta ingurgitación yugular. No se palpaban adenopatías periféricas. Auscultación cardiopulmonar y abdominal normales. Exploración neurológica dentro de la normalidad. Miembros inferiores no edematosos y sin dolor aumentado a la palpación.
+
+Pruebas complementarias
+• Hemograma: Hb 12,1g/dL; Hto 34,9%; VCM 74,4 fL; plaquetas 172 x 109/L; leucocitos 9.640 x 103 mm3 (5.760 x 103 mm3 neutrófilos).
+• Coagulación: TP 11,2 seg; actividad de protrombina 100%; TTPA 36,3 seg; INR 0,95.
+• Bioquímica: glucosa 139 mg/dL; urea 45 mg/dL; creatinina 1,21mg/dL; proteínas totales 7,9 g/dL; albúmina 4,3 g/dL; calcio 9,8 mol/L; sodio 139 mmol/L; potasio 4,8 mmol/L; BT 0,21 mg/dL; GOT 12 U/L; GPT 15 U/L; FA 99 U/L; GGT 33 U/L; LDH 186 U/L; PCR 3,1 mg/L; T4 1,14 ng/dL; TSH 1,09 mU/mL.
+• Metabolismo óseo: B-crosslaps 0,49 ng/mL; osteocalcina 26 ng/mL.
+• Serología: negativo para lúes, VIH, VHC, brucella y salmonella.
+• Proteinograma: patrón inflamatorio (albúmina 47,3%; a-1 5,1 g/dL; a-2 14,5 g/dL; b-2 8,9 g/dL).
+• Orina: sin hallazgos patológicos.
+• Marcadores tumorales: enolasa 30 mg/L; CA- 125 20 U/mL; CEA 1,4 ng/mL; Ca-15.3 40 U/mL; CA-19.9 12 U/mL.
+• Gammagrafía ósea: captación patológica a nivel del tercio medio de fémur derecho y octavo arco costal derecho.
+• TC de tórax y de extremidades inferiores: se visualiza una lesión heterogénea en la región posterior del octavo arco costal derecho, al nivel de la articulación costotransversa, sugestiva de lesión maligna (posiblemente metástasis). Pequeña lesión de borde esclerótico en sexto arco costal izquierdo de aspecto inespecífico (probablemente benigna). Resto de arcos costales sin alteraciones significativas. Pequeño hundimiento del platillo vertebral superior de D5 con pequeño foco de hiperdensidad de bordes mal definidos tanto en este cuerpo como en D6 y D9, que, por el contexto clínico del paciente, podrían estar en relación con pequeños focos metastásicos.
+En el tercio medio del fémur derecho, se observa una lesión lítica de unos 4 cm de diámetro longitudinal que afecta a la práctica totalidad de la cavidad medular y a la cortical. Muestra un patrón apolillado, bordes mal definidos y no presenta masa de partes blandas asociada.
+• PET-TC: lesión en octavo arco costal derecho con SUV de 8,7, rama iliopubiana izquierda de 3 cm con SUV de 9,6, tercio medio del fémur derecho con SUV de 3 e incremento difuso a nivel de D12-L1 con SUV de 3.
+• Anatomía patológica: se observa una lesión infiltrativa ósea con áreas llamativas de esclerosis alternando con otras más celulares donde se observan células claras vegetalóides grandes, con núcleo hipercromático irregulares con hendiduras, no muy atípicos, acompañadas de algún infiltrado inflamatorio de polinucleares. Se disponen en nidos, hileras y forman hendiduras vasculares irregulares y son vacuoladas.
+Se observan además arterias y arteriolas, mejor formadas, revestidas por estas mismas células claras, con forma y disposición anárquica. Con inmunohistoquímica se demuestra la proliferación vascular caótica inmersa en el tejido conjuntivo fibroso, demostrable con CD-31 y CD-34, aunque no se tiñen todas las células. No se demuestra con un amplísimo panel de citoqueratinas diferenciación epitelial que sugiera metástasis de carcinoma.
+
+Diagnóstico
+Hemangioendotelioma epitelioide de hueso.
+
+Tratamiento y evolución
+Ante un paciente con diagnóstico de hemangioendotelioma epitelioide, y tras desestimar cirugía, se remite al paciente a Oncología Radioterápica en agosto de 2010. Entre el 31 de agosto de 2010 y el 8 de octubre de 2010 el paciente recibió 50 Gy sobre el tercio medio del fémur derecho en fase única con buena tolerancia al tratamiento y mejoría del dolor. El paciente dejó de acudir a consultas y volvió tras el reinicio del dolor, por lo que, entre el 8 de marzo de 2011 y el 13 de abril de 2011, recibió 50 Gy en la rama iliopubiana izquierda con buena tolerancia al tratamiento, sin toxicidad aguda y con leve mejoría del dolor.
+En la PET-TC de julio de 2011, se aprecia progresión ósea con aparición de nuevas lesiones, así como fractura patológica a nivel de D12-L1 con compromiso del canal, confirmado por RM. Tras desestimar cirugía de descompresión, se decide realizar tratamiento urgente con radioterapia. Completó diez fracciones (30 Gy) con mejoría clínica.
+El 2 de noviembre de 2011, el paciente fue remitido al Servicio de Oncología Médica donde, tras ser valorado (ECOG 2 y con dolor moderado/severo, EVA 7/10), se decide iniciar el 21 de diciembre de 2011 tratamiento quimioterápico para una SC de 2 con carboplatino AUC + etopósido 80 mg/m2 días 1 y 21 + zolendronato. Tras el primer ciclo de quimioterapia, se añade al tratamiento epoetina alfa y se reduce la dosis de carboplatino un 20% por anemia sintomática.
+El paciente recibe una nueva reducción en un 10% del carboplatino en el tercer ciclo por anemia grado 4 y se envía de nuevo a Radioterapia para tratamiento a nivel de la columna dorsal, por dolor EVA 7/10, debido al poco beneficio del tratamiento quimioterápico. El día 23 de marzo de 2012 recibió una fracción de 8 Gy a nivel dorsal con muy poco beneficio clínico. El paciente completó cuatro ciclos de tratamiento quimioterápico, que se tuvo que suspender por deterioro progresivo del estado general (ECOG 3), toxicidad hematológica grado 3 y empeoramiento de la función renal. Tras última revisión, en mayo de 2012, se ofrece al paciente ácido zolendrónico y tratamiento de soporte.

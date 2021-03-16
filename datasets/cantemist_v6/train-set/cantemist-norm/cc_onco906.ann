@@ -1,0 +1,6 @@
+T1	MORFOLOGIA_NEOPLASIA 585 595	metástasis
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 543 583	carcinoma epidermoide de pulmón cT4N2M1a
+#2	AnnotatorNotes T2	8070/6
+T3	MORFOLOGIA_NEOPLASIA 2332 2339	tumoral
+#3	AnnotatorNotes T3	8000/1

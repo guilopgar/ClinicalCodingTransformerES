@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 2729 2739	metástasis
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 3716 3726	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 3497 3576	carcinoma renal de células claras con infiltración capsular, grado 2 de Fuhrman
+#3	AnnotatorNotes T3	8310/32
+T4	MORFOLOGIA_NEOPLASIA 2777 2804	neoplasia renal metastásica
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 3694 3697	cM1
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 4601 4620	lesiones pulmonares
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 2684 2714	nódulos pulmonares bilaterales
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 5979 6006	progresión local y pulmonar
+#8	AnnotatorNotes T8	8000/6

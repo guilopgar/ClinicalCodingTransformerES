@@ -1,0 +1,14 @@
+T1	MORFOLOGIA_NEOPLASIA 1373 1426	Carcinoma microcítico de pulmón, enfermedad extendida
+#1	AnnotatorNotes T1	8041/6
+T2	MORFOLOGIA_NEOPLASIA 1120 1131	metastásica
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1680 1691	metastásica
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 305 316	metastásico
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 1907 1917	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 407 414	tumoral
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 173 229	cáncer microcítico de pulmón con evidencia de metástasis
+#7	AnnotatorNotes T7	8041/6

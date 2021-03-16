@@ -1,0 +1,12 @@
+T1	MORFOLOGIA_NEOPLASIA 1093 1103	malignidad
+#1	AnnotatorNotes T1	8000/3
+T2	MORFOLOGIA_NEOPLASIA 485 494	neoplasia
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 618 627	neoplasia
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 86 100	tumor germinal
+#4	AnnotatorNotes T4	9064/3
+T5	MORFOLOGIA_NEOPLASIA 387 397	tumoración
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 719 726	tumoral
+#6	AnnotatorNotes T6	8000/1

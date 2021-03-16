@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 266 276	tumoración
+#1	AnnotatorNotes T1	8000/1
+T2	MORFOLOGIA_NEOPLASIA 558 568	tumoración
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 1800 1807	tumoral
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 921 975	carcinoma infiltrante pobremente diferenciado a ductal
+#4	AnnotatorNotes T4	8500/33
+T5	MORFOLOGIA_NEOPLASIA 921 986	carcinoma infiltrante pobremente diferenciado a ductal y escamosa
+#5	AnnotatorNotes T5	8070/3
+T6	MORFOLOGIA_NEOPLASIA 1064 1088	neoformación infiltrante
+#6	AnnotatorNotes T6	8000/1/H
+T7	MORFOLOGIA_NEOPLASIA 1424 1464	adenocarcinoma con diferenciación ductal
+#7	AnnotatorNotes T7	8500/33
+T8	MORFOLOGIA_NEOPLASIA 1483 1490	T4bNxMx
+#8	AnnotatorNotes T8	8000/6

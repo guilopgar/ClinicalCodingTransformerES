@@ -1,0 +1,12 @@
+T1	MORFOLOGIA_NEOPLASIA 912 941	adenopatías supraclaviculares
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 3790 3806	células malignas
+#2	AnnotatorNotes T2	8001/3
+T3	MORFOLOGIA_NEOPLASIA 2035 2045	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 4016 4023	tumoral
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 1075 1105	carcinoma escamoso infiltrante
+#5	AnnotatorNotes T5	8070/3/H
+T6	MORFOLOGIA_NEOPLASIA 1353 1388	carcinoma escamoso de pulmón T4N3M1
+#6	AnnotatorNotes T6	8070/6

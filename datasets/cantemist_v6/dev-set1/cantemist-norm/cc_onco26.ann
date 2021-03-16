@@ -1,0 +1,56 @@
+T1	MORFOLOGIA_NEOPLASIA 552 578	adenopatía supraclavicular
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 704 730	adenopatía supraclavicular
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1894 1920	adenopatía supraclavicular
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2247 2273	adenopatía supraclavicular
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 169 178	carcinoma
+#5	AnnotatorNotes T5	8010/3
+T6	MORFOLOGIA_NEOPLASIA 2064 2085	carcinoma embrionario
+#6	AnnotatorNotes T6	9070/3
+T7	MORFOLOGIA_NEOPLASIA 2406 2427	carcinoma embrionario
+#7	AnnotatorNotes T7	9070/3
+T8	MORFOLOGIA_NEOPLASIA 2030 2044	coriocarcinoma
+#8	AnnotatorNotes T8	9100/3
+T9	MORFOLOGIA_NEOPLASIA 2372 2386	coriocarcinoma
+#9	AnnotatorNotes T9	9100/3
+T10	MORFOLOGIA_NEOPLASIA 2731 2753	enfermedad a distancia
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 2766 2777	metastásica
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 1738 1750	metastásicas
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 5209 5224	nódulo pulmonar
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 2701 2706	tumor
+#14	AnnotatorNotes T14	8000/1
+T15	MORFOLOGIA_NEOPLASIA 3507 3512	tumor
+#15	AnnotatorNotes T15	8000/1
+T16	MORFOLOGIA_NEOPLASIA 2906 2936	tumor germinal no seminomatoso
+#16	AnnotatorNotes T16	9065/3
+T17	MORFOLOGIA_NEOPLASIA 4635 4686	recaída tardía de un tumor germinal no seminomatoso
+#17	AnnotatorNotes T17	9065/6
+T18	MORFOLOGIA_NEOPLASIA 3698 3705	tumoral
+#18	AnnotatorNotes T18	8000/1
+T19	MORFOLOGIA_NEOPLASIA 3862 3869	tumoral
+#19	AnnotatorNotes T19	8000/1
+T20	MORFOLOGIA_NEOPLASIA 1954 2011	metástasis de tumor de células germinales no seminomatoso
+#20	AnnotatorNotes T20	9065/6
+T21	MORFOLOGIA_NEOPLASIA 2311 2352	tumor testicular germinal no seminomatoso
+#21	AnnotatorNotes T21	9065/3
+T22	MORFOLOGIA_NEOPLASIA 2030 2085	coriocarcinoma y probablemente de carcinoma embrionario
+#22	AnnotatorNotes T22	9101/3
+T23	MORFOLOGIA_NEOPLASIA 2372 2427	coriocarcinoma y probablemente de carcinoma embrionario
+#23	AnnotatorNotes T23	9101/3
+T24	MORFOLOGIA_NEOPLASIA 2478 2504	tumor germinal metastásico
+#24	AnnotatorNotes T24	9064/6
+T25	MORFOLOGIA_NEOPLASIA 4334 4378	metástasis de tumor germinal no seminomatoso
+#25	AnnotatorNotes T25	9065/6
+T26	MORFOLOGIA_NEOPLASIA 4462 4493	adenopatía tumoral paratraqueal
+#26	AnnotatorNotes T26	8000/6
+T27	MORFOLOGIA_NEOPLASIA 5702 5719	masa paratraqueal
+#27	AnnotatorNotes T27	8000/6
+T28	MORFOLOGIA_NEOPLASIA 4030 4054	nódulo apical del pulmón
+#28	AnnotatorNotes T28	8000/6

@@ -1,0 +1,54 @@
+T1	MORFOLOGIA_NEOPLASIA 2340 2347	Adenoma
+#1	AnnotatorNotes T1	8140/0
+T2	MORFOLOGIA_NEOPLASIA 353 367	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 1854 1868	adenocarcinoma
+#3	AnnotatorNotes T3	8140/3
+T4	MORFOLOGIA_NEOPLASIA 2279 2288	carcinoma
+#4	AnnotatorNotes T4	8010/3
+T5	MORFOLOGIA_NEOPLASIA 7408 7418	malignidad
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 7653 7663	malignidad
+#6	AnnotatorNotes T6	8000/3
+T7	MORFOLOGIA_NEOPLASIA 1817 1827	metástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 3608 3618	metástasis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 6862 6872	metástasis
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 2224 2252	metástasis de adenocarcinoma
+#10	AnnotatorNotes T10	8140/6
+T11	MORFOLOGIA_NEOPLASIA 1447 1456	neoplasia
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 3863 3872	neoplasia
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 3960 3969	neoplasia
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 4883 4888	tumor
+#14	AnnotatorNotes T14	8000/1
+T15	MORFOLOGIA_NEOPLASIA 7364 7369	tumor
+#15	AnnotatorNotes T15	8000/1
+T16	MORFOLOGIA_NEOPLASIA 7035 7042	tumoral
+#16	AnnotatorNotes T16	8000/1
+T17	MORFOLOGIA_NEOPLASIA 7276 7283	tumoral
+#17	AnnotatorNotes T17	8000/1
+T18	MORFOLOGIA_NEOPLASIA 7804 7811	tumoral
+#18	AnnotatorNotes T18	8000/1
+T19	MORFOLOGIA_NEOPLASIA 8147 8154	tumoral
+#19	AnnotatorNotes T19	8000/1
+T20	MORFOLOGIA_NEOPLASIA 3030 3047	carcinoma in situ
+#20	AnnotatorNotes T20	8010/2
+T21	MORFOLOGIA_NEOPLASIA 3013 3029	displasia severa
+#21	AnnotatorNotes T21	8077/2
+T22	MORFOLOGIA_NEOPLASIA 3077 3165	Adenocarcinoma moderadamente diferenciado de patrón intestinal compatible con metástasis
+#22	AnnotatorNotes T22	8144/62
+T23	MORFOLOGIA_NEOPLASIA 3454 3514	neoplasia de hipofaringe en estadio cT3N2 con una metástasis
+#23	AnnotatorNotes T23	8000/6
+T24	MORFOLOGIA_NEOPLASIA 4052 4102	metástasis hepática resecable de un adenocarcinoma
+#24	AnnotatorNotes T24	8140/6
+T25	MORFOLOGIA_NEOPLASIA 7061 7109	adenocarcinoma de patrón intestinal, metastásico
+#25	AnnotatorNotes T25	8144/6
+T26	MORFOLOGIA_NEOPLASIA 2182 2195	Masa hepática
+#26	AnnotatorNotes T26	8000/6
+T27	MORFOLOGIA_NEOPLASIA 2876 2885	Neoplasia
+#27	AnnotatorNotes T27	8000/1

@@ -1,0 +1,36 @@
+Anamnesis
+Varón de 53 años con alergia a la penicilina, fumador de 1 paquete-día, trabajador de la construcción, vive solo pero con buen apoyo familiar. Como antecedentes personales presentó un síndrome coronario agudo en septiembre de 2017 con colocación de 3 stents.
+En septiembre de 2017, tras radiografía de tórax, se detecta un nódulo pulmonar solitario (NPS).
+
+Exploración física
+Exploración en Servicio de Oncología
+PS 2, astenia, disnea de medianos esfuerzos.
+Palidez cutánea mucosa. Murmullo vesicular audible, subcrepitantes en ambas bases a predominio de derecha, sin otros estertores, ruidos cardiacos rítmicos, sin soplos, ni ruidos sobreagregados, no ingurgitación yugular, pulsos periféricos presentes y simétricos. Abdomen: depresible, no doloroso, ruidos hidroaéreos audibles, ni tumores palpables. Orientado en tiempo, espacio y persona, sin focalización neurológica, pares craneales normales. Extremidades: pulsos normales, edemas Godet + hasta tobillos.
+
+Pruebas complementarias
+» Radiografía de tórax: 09/2017: NPS en región axilar del pulmón derecho de aproximadamente 4,5 cm de diámetro, posiblemente asociado a discreto ensanchamiento mediastínico ipsilateral.
+» TC: 10/2017: masa pulmonar en segmento apical del LSD de 3,4 x 3,4 x 3,6 cm de diámetro, bordes espiculados, colas pleurales, contacto con la pleura apical. Conglomerados adenopáticos con centro hipodenso en relación con necrosis localizados a nivel supraclavicular derecho de 2,1 x 4,4 cm e izquierdo de 1,3 x 1,8 cm, paratraqueales altas 1,2 x 1,7 cm e inferiores de 2,7 x 2,7 x 4,5 cm prevasculares derechas de 1,3 cm e izquierdas de 1 cm e hiliares derechas de 2,1 x 1,7 cm e izquierda de 1 cm. Neoplasia pulmonar en LSD cT2a, N3, Mx.
+» PET/TC: 10/2017: masa pulmonar de 3,1 cm, en segmento apical del LSD, con cola pleural, T2a con numerosas adenopatías mediastínicas y extratorácicas a nivel supraclaviculares con predominio derecho, cervicales profundas derechas, mediastino superior, paratraqueal superior e inferior derecha e hilar derecha y submarina izquierdo -N3-. Sin lesiones a distancia M0. Estadio IIIB.
+» Marcadores tumorales: CA 125: 58,4, CYFRA 21,1: 8,86.
+» Espirometría: FEVI 76 %, FVC 94 %, DCLO 70 %, KCO: 89.
+» Bloque celular por PAAF de adenopatía supraclavicular derecha: positivo para adenocarcinoma de origen pulmonar, EGFR: negativo, ALK: negativo, ROS-1: negativo, PD-L1 < 1 %.
+
+Diagnóstico
+Adenocarcinoma de pulmón no mutado, estadio IIIb.
+
+Tratamiento
+Noviembre de 2017: carboplatino + pemetrexed. Recibe 4 ciclos hasta enero de 2018.
+» Toxicidad: Emesis G2, Diarrea G2.
+» Respuesta: por TC: respuesta paradójica con RP a nivel pulmonar e incremento de conglomerado adenopático.
+Abril de 2017: dolor a nivel de conglomerado adenopático supraclavicular derecho: radioterapia antiálgica con intensidad de dosis de 30Gys.
+» Toxicidad: hemoptisis leve en relación a tratamiento y administración de doble antiagregación en paciente con stents de 6 meses de implantación.
+Febrero de 2018: pemetrexed de mantenimiento completando 9 ciclos.
+Abril de 2018: PD por TC: progresión pulmonar en LSD y discreta adenopática con mayor estenosis de vena cava superior y tráquea, por lo que comienza con nivolumab.
+Septiembre de 2018: radioterapia paliativa antiálgica de 30 Gys sobre conglomerado adenopático supraclavicular derecho por dolor y signo de Horner.
+» Toxicidad: esofagitis G2.
+Noviembre de 2018: en tratamiento con nivolumab presenta diarrea G3.
+Enero de 2018: cambio de esquema terapéutico a gemcitabina y vinorelbina por toxicidad a inmunoterapia.
+Mantiene tratamiento con mismo esquema con buena tolerancia. Mantiene PS1 por persistencia de artralgias.
+
+Evolución
+Paciente con buena tolerancia a quimioterapia terminando esquemas sin retraso de dosis, ante toxicidades agudas se administra tratamiento de soporte, a su vez indicación en 2 oportunidades de radioterapia para control de síntomas con buena respuesta. En agosto de 2019 en TC se objetiva estabilidad de lesión principal que, aunque mostraba aumento, no alcanzaba criterios RECIST 1.1 para progresión de enfermedad; a su vez, la enfermedad adenopática sí presentaba disminución significativa radiológica y clínica con disminución del tamaño y control del dolor. Por ello se mantiene tratamiento con nivolumab, en noviembre pese a no cambios radiológicos significativos el paciente ingresa por diarrea G3 que aumenta tras los ciclos de nivolumab y no responde a administración de corticoides por lo que se procede a colonoscopia con visualización de colitis similar a la colitis ulcerosa, en estudio anatomopatológico se objetiva por biopsia rectal: proctitis superficial aguda y erosiones, alteración citoarquitectural glandular con depleción caliciforme, criptitas, infiltrado inflamatorio en la lámina propia que incluye plasmocitosis subepitelial: diagnóstico anatomopatológico: proctitis ulcerosa con actividad histológica. Se suspende tratamiento con nivolumab, se administra corticoides a dosis inmunosupresoras con reversión de síntomas. Ante toxicidad digestiva grado tres, se suspende de manera permanente el tratamiento con inmunoterapia. Se comienza con 3 líneas de tratamiento con gemcitabina y vinorelbina con buena tolerancia; sin embargo, mantiene un PS 1 por artralgias a predominio de manos sin cambios locales que se presentaron desde aparición de diarrea inmunorrelacionada y que reaparecieron a la suspensión de la terapia corticoide. Actualmente, se mantiene a tratamiento con AINE: dexketoprofeno de 25 mg si dolor, pendiente de evaluación por Servicio de Reumatología.

@@ -1,0 +1,26 @@
+T1	MORFOLOGIA_NEOPLASIA 1516 1537	carcinoma epidermoide
+#1	AnnotatorNotes T1	8070/3
+T2	MORFOLOGIA_NEOPLASIA 1882 1903	carcinoma epidermoide
+#2	AnnotatorNotes T2	8070/3
+T3	MORFOLOGIA_NEOPLASIA 1240 1285	carcinoma epidermoide pobremente diferenciado
+#3	AnnotatorNotes T3	8070/33
+T4	MORFOLOGIA_NEOPLASIA 1811 1835	diseminación a distancia
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 1551 1563	metastásicas
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 805 849	metástasis de carcinoma de células escamosas
+#6	AnnotatorNotes T6	8070/6
+T7	MORFOLOGIA_NEOPLASIA 2938 2958	recaída mediastínica
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 2272 2277	tumor
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 1435 1442	tumoral
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 2196 2203	tumoral
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 1941 1948	cT4N2M0
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 3206 3241	metástasis de carcinoma epidermoide
+#12	AnnotatorNotes T12	8070/6
+T13	MORFOLOGIA_NEOPLASIA 3609 3632	enfermedad mediastínica
+#13	AnnotatorNotes T13	8000/6

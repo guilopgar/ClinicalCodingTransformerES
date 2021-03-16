@@ -1,0 +1,46 @@
+T1	MORFOLOGIA_NEOPLASIA 8862 8871	carcinoma
+#1	AnnotatorNotes T1	8010/3
+T2	MORFOLOGIA_NEOPLASIA 9144 9153	carcinoma
+#2	AnnotatorNotes T2	8010/3
+T3	MORFOLOGIA_NEOPLASIA 4663 4684	carcinoma epidermoide
+#3	AnnotatorNotes T3	8070/3
+T4	MORFOLOGIA_NEOPLASIA 430 478	carcinoma epidermoide moderadamente diferenciado
+#4	AnnotatorNotes T4	8070/32
+T5	MORFOLOGIA_NEOPLASIA 4424 4472	carcinoma epidermoide moderadamente diferenciado
+#5	AnnotatorNotes T5	8070/32
+T6	MORFOLOGIA_NEOPLASIA 1964 1997	carcinoma pobremente diferenciado
+#6	AnnotatorNotes T6	8010/33
+T7	MORFOLOGIA_NEOPLASIA 8427 8433	cáncer
+#7	AnnotatorNotes T7	8000/3
+T8	MORFOLOGIA_NEOPLASIA 3813 3823	malignidad
+#8	AnnotatorNotes T8	8000/3
+T9	MORFOLOGIA_NEOPLASIA 623 633	metástasis
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 8692 8710	nódulos pulmonares
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 2013 2020	pT2N0M0
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 7338 7357	progresión pulmonar
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 2092 2097	tumor
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 2181 2186	tumor
+#14	AnnotatorNotes T14	8000/1
+T15	MORFOLOGIA_NEOPLASIA 4305 4310	tumor
+#15	AnnotatorNotes T15	8000/1
+T16	MORFOLOGIA_NEOPLASIA 4071 4081	tumoración
+#16	AnnotatorNotes T16	8000/1
+T17	MORFOLOGIA_NEOPLASIA 4137 4147	tumoración
+#17	AnnotatorNotes T17	8000/1
+T18	MORFOLOGIA_NEOPLASIA 8179 8189	tumoración
+#18	AnnotatorNotes T18	8000/1
+T19	MORFOLOGIA_NEOPLASIA 3291 3298	tumoral
+#19	AnnotatorNotes T19	8000/1
+T20	MORFOLOGIA_NEOPLASIA 8741 8748	tumoral
+#20	AnnotatorNotes T20	8000/1
+T21	MORFOLOGIA_NEOPLASIA 830 837	pT4N2M0
+#21	AnnotatorNotes T21	8000/6
+T22	MORFOLOGIA_NEOPLASIA 5735 5780	carcinoma epidermoide pobremente diferenciado
+#22	AnnotatorNotes T22	8070/33
+T23	MORFOLOGIA_NEOPLASIA 8067 8112	carcinoma epidermoide pobremente diferenciado
+#23	AnnotatorNotes T23	8070/33

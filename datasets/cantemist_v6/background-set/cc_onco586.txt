@@ -1,0 +1,33 @@
+Anamnesis
+Paciente de 60 años, sin antecedentes personales de interés salvo un síndrome ansioso-depresivo en tratamiento con citalopram 20 mg/24 horas y alprazolam 0,5 mg/8 horas.
+Al interrogatorio por hábitos tóxicos refiere ser exfumadora desde los 52 años, de un paquete a la semana, con un acúmulo de paquetes año (IPA) 2 paquetes-año.
+Revisando los antecedentes familiares, refiere tener un hermano con trofoblastoma testicular, intervenido y libre enfermedad y un abuelo fallecido de cáncer de colon.
+
+Exploración física
+» Consciente orientada y colaboradora. Eupneica en reposo. Saturación (Sat) 98 %.
+» Auscultación cardiopulmonar: rítmica sin soplos, con buen murmullo vesicular.
+» Exploración abdominal: blando, depresible, no doloroso en la palpación, no se palpan ni masas ni megalias.
+
+Exploración neurológica
+» Consciente y orientada en las 3 esferas.
+» Pupilas isocóricas normorreactivas, sin limitación en la mirada horizontal ni nistagmos. No hay alteraciones campimétricas exploradas por confrontación.
+» » No hay afectación de pares craneales.
+» » Fuerza y sensibilidad tactoalgésica conservada en los 4 miembros.
+» » A la exploración de la marcha, aumento de la base de sustentación. Dismetría en prueba dedo-nariz, con mano izquierda.
+
+Pruebas complementarias
+La paciente ingresa en Medicina Interna en junio de 2015 por cuadro de cefalea progresiva, con déficit de atención, que no mejora con analgesia de primer escalón. Se realiza TC de cráneo en la que se objetivan 3 lesiones (39 mm frontotemporal derecho, 28 mm frontal izquierdo y 39 mm parasagital izquierdo), se decide completar el estudio con TC de tórax en la que se objetiva masa en lóbulo superior de pulmón derecho, con al menos 3 lesiones en lóbulo superior izquierdo. Se inician pruebas de imagen para asegurar diagnóstico, y EBUS.
+
+Diagnóstico
+Adenocarcinoma papilar, con mutación EGFR (deleción exón19).
+
+Tratamiento
+La paciente inicia tratamiento sintomático con dexametasona, y una primera línea de tratamiento con iTK afatinib 40 mg/día, con mejoría progresiva de la clínica cerebral en este caso sensación vertiginosa, permitiendo la retirada del mismo a los 3 ciclos, y manteniendo el beneficio clínico con respuestas en pruebas de imagen enfermedad estable tras el 6º ciclo, hasta el 10º. En cuanto a la toxicidad, únicamente mantuvo diarrea grado 1 y paroniquias grado 1.
+
+Evolución
+En mayo 2016 se objetiva progresión de la enfermedad a nivel cerebral, dado que la paciente en la exploración se mantiene asintomática (sin cefalea, ni clínica vertiginosa), se decide continuar con afatinib por 4 ciclos más, y además, dada la edad de la paciente, con importante mejoría clínica, se decide realización de SBRT (24 Gy en 3 fracciones) a nivel cerebral.
+Nueva progresión de la enfermedad a nivel cerebral en noviembre 2016, como síntoma guía presenta cefalea, por lo que se realiza biopsia líquida, objetivándose mutación T790M, iniciando tratamiento de 2ª línea con osimertinib 80 mg/m2, en la reevaluación a los 5 ciclos en mayo 2017 se objetiva una progresión de la lesión frontal izquierda, asintomática, por lo que se decide continuar con el tratamiento hasta julio de 2017, en el que presenta una progresión ganglionar mediastínica y supraclavicular. Se inicia nueva línea de tratamiento con cisplatino y pemetrexed; previa premedicación con ácido fólico y vitamina B12. Tras 4 ciclos de tratamiento en combinación con respuesta parcial en TC, se decide continuar con pemetrexed de mantenimiento hasta julio de 2018, donde se evidencia nueva progresión de la enfermedad a nivel cerebral y mediastínica. Dado el tiempo transcurrido desde la última muestra de Anatomía Patológica, y dado que la paciente se mantiene asintomática con muy buen estado general, se consensúa rebiopsia, mediante EBUS.
+Se objetiva una transformación histológica a carcinoma microcítico del pulmón, se realiza estudio EGFR que mantiene la mutación en el exón 19, sin poder distinguir entre las 29 posibles.
+Dado los hallazgos en última muestra histológica, inicia tratamiento con carboplatino y etopósido del que recibe 3 ciclos, el último en agosto de 2018. En este momento, ingresa de urgencia por clínica respiratoria con hallazgos en TC de progresión de la enfermedad a nivel mediastínico con síndrome de vena cava superior, además de derrame pleural y peritoneal; durante el ingreso se colocó un stent en cava y, dado que la paciente recupera el ECOG, inicia irinotecan 150 mg/m2.
+En octubre nueva reevaluación tras el 3er ciclo, objetivándose progresión de la enfermedad a nivel torácico, con derrame pleural recidivante.
+A pesar de la nueva progresión la paciente mantiene estado general PS 2, solicitándose rovalpituzumab tesirine (Rova-T) a dosis de 0,3 mg/kg, la paciente ingresa tras dos meses de tratamiento con empeoramiento clínico claro, mayor disnea, con astenia y deterioro del performance status, actualmente 3, por lo que se decide ingreso para control sintomático, con dexametasona a dosis altas y requiriendo oxigenoterapia de forma continua. Finalmente, la paciente fallece en febrero 2019.

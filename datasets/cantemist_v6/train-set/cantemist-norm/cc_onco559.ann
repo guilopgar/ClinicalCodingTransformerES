@@ -1,0 +1,18 @@
+T1	MORFOLOGIA_NEOPLASIA 2046 2056	metástasis
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 354 363	tumorales
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 418 453	cáncer de colon derecho metastásico
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 670 708	adenocarcinoma de sigma con metástasis
+#4	AnnotatorNotes T4	8140/6
+T5	MORFOLOGIA_NEOPLASIA 1083 1135	adenocarcinoma de tipo colorrectal bien diferenciado
+#5	AnnotatorNotes T5	8140/31
+T6	MORFOLOGIA_NEOPLASIA 2548 2567	afectación hepática
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 7726 7761	progresión tumoral a nivel hepático
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 1544 1562	lesiones hepáticas
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 5056 5074	lesiones hepáticas
+#9	AnnotatorNotes T9	8000/6

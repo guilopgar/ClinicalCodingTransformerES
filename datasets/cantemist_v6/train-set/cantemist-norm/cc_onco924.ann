@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 504 518	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 2523 2535	angiosarcoma
+#2	AnnotatorNotes T2	9120/3
+T3	MORFOLOGIA_NEOPLASIA 3372 3384	angiosarcoma
+#3	AnnotatorNotes T3	9120/3
+T4	MORFOLOGIA_NEOPLASIA 3468 3490	enfermedad a distancia
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2745 2756	metastásica
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 41 51	neoplasias
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 2930 2940	tumoración
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 14 27	angiosarcomas
+#8	AnnotatorNotes T8	9120/3
+T9	MORFOLOGIA_NEOPLASIA 533 541	pT2aN0M0
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 3006 3045	angiosarcoma moderadamente diferenciado
+#10	AnnotatorNotes T10	9120/32

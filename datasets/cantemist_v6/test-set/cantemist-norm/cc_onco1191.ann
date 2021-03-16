@@ -1,0 +1,22 @@
+T1	MORFOLOGIA_NEOPLASIA 1001 1005	CNMP
+#1	AnnotatorNotes T1	8046/3
+T2	MORFOLOGIA_NEOPLASIA 1329 1333	CNMP
+#2	AnnotatorNotes T2	8046/3
+T3	MORFOLOGIA_NEOPLASIA 1293 1317	Carcinoma no microcítico
+#3	AnnotatorNotes T3	8046/3
+T4	MORFOLOGIA_NEOPLASIA 1275 1278	cM0
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 1393 1396	cM0
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 1203 1213	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1845 1850	tumor
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 1561 1568	tumoral
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 1011 1115	adenocarcinoma de pulmón de 4 cm, moderadamente diferenciado e infiltrante con patrón bronquioloalveolar
+#9	AnnotatorNotes T9	8250/32
+T10	MORFOLOGIA_NEOPLASIA 1011 1124	adenocarcinoma de pulmón de 4 cm, moderadamente diferenciado e infiltrante con patrón bronquioloalveolar y acinar
+#10	AnnotatorNotes T10	8550/3
+T11	MORFOLOGIA_NEOPLASIA 1293 1361	Carcinoma no microcítico de pulmón (CNMP) subtipo bronquioloalveolar
+#11	AnnotatorNotes T11	8250/3

@@ -1,0 +1,42 @@
+T1	MORFOLOGIA_NEOPLASIA 3185 3207	Masa de partes blandas
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 6030 6045	afectación ósea
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 189 195	cáncer
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 130 148	cáncer microcítico
+#4	AnnotatorNotes T4	8041/3
+T5	MORFOLOGIA_NEOPLASIA 3621 3638	células tumorales
+#5	AnnotatorNotes T5	8001/1
+T6	MORFOLOGIA_NEOPLASIA 502 509	linfoma
+#6	AnnotatorNotes T6	9590/3
+T7	MORFOLOGIA_NEOPLASIA 1866 1888	masa de partes blandas
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 6087 6109	masa de partes blandas
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 5285 5302	masa prevertebral
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 1775 1786	metastásica
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 3069 3080	metastásica
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 582 595	neuroblastoma
+#12	AnnotatorNotes T12	9500/3
+T13	MORFOLOGIA_NEOPLASIA 808 821	neuroblastoma
+#13	AnnotatorNotes T13	9500/3
+T14	MORFOLOGIA_NEOPLASIA 3999 4012	neuroblastoma
+#14	AnnotatorNotes T14	9500/3
+T15	MORFOLOGIA_NEOPLASIA 4299 4304	tumor
+#15	AnnotatorNotes T15	8000/1
+T16	MORFOLOGIA_NEOPLASIA 512 526	tumor desmoide
+#16	AnnotatorNotes T16	8821/1
+T17	MORFOLOGIA_NEOPLASIA 1097 1104	tumoral
+#17	AnnotatorNotes T17	8000/1
+T18	MORFOLOGIA_NEOPLASIA 2055 2087	metastásis ósea de neuroblastoma
+#18	AnnotatorNotes T18	9500/6
+T19	MORFOLOGIA_NEOPLASIA 3058 3122	Afectación metastásica de la médula ósea de las vértebras sacras
+#19	AnnotatorNotes T19	8000/6
+T20	MORFOLOGIA_NEOPLASIA 3540 3572	metástasis ósea de neuroblastoma
+#20	AnnotatorNotes T20	9500/6
+T21	MORFOLOGIA_NEOPLASIA 3678 3716	recaída de neuroblastoma, a nivel óseo
+#21	AnnotatorNotes T21	9500/6

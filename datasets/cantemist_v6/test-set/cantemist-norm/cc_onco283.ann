@@ -1,0 +1,36 @@
+T1	MORFOLOGIA_NEOPLASIA 1556 1576	Tumor germinal mixto
+#1	AnnotatorNotes T1	9085/3
+T2	MORFOLOGIA_NEOPLASIA 779 801	masa de partes blandas
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1997 2017	masa retroperitoneal
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 3074 3094	masa retroperitoneal
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 3267 3287	masa retroperitoneal
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 2077 2088	metastásica
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1661 1692	neoplasia germinal intratubular
+#7	AnnotatorNotes T7	9064/2
+T8	MORFOLOGIA_NEOPLASIA 1603 1611	seminoma
+#8	AnnotatorNotes T8	9061/3
+T9	MORFOLOGIA_NEOPLASIA 1626 1634	teratoma
+#9	AnnotatorNotes T9	9080/1
+T10	MORFOLOGIA_NEOPLASIA 999 1004	tumor
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 1340 1350	tumoración
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 3331 3338	tumoral
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 1074 1096	metástasis de seminoma
+#13	AnnotatorNotes T13	9061/6
+T14	MORFOLOGIA_NEOPLASIA 1626 1653	teratoma monodérmico maduro
+#14	AnnotatorNotes T14	9080/0/H
+T15	MORFOLOGIA_NEOPLASIA 1700 1703	CIS
+#15	AnnotatorNotes T15	8010/2
+T16	MORFOLOGIA_NEOPLASIA 1694 1697	GIN
+#16	AnnotatorNotes T16	9064/2
+T17	MORFOLOGIA_NEOPLASIA 2255 2301	tumor germinal mixto estadio IIIC (pT2 cN3 M1b
+#17	AnnotatorNotes T17	9085/6
+T18	MORFOLOGIA_NEOPLASIA 728 767	infiltración a nivel de vértebras C7-D4
+#18	AnnotatorNotes T18	8000/6

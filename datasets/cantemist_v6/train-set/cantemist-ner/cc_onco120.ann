@@ -1,0 +1,17 @@
+T1	MORFOLOGIA_NEOPLASIA 3423 3451	Metástasis de adenocarcinoma
+T2	MORFOLOGIA_NEOPLASIA 180 194	adenocarcinoma
+T3	MORFOLOGIA_NEOPLASIA 3214 3224	malignidad
+T4	MORFOLOGIA_NEOPLASIA 3411 3421	malignidad
+T5	MORFOLOGIA_NEOPLASIA 8112 8122	malignidad
+T6	MORFOLOGIA_NEOPLASIA 7976 7983	maligno
+T7	MORFOLOGIA_NEOPLASIA 8693 8700	maligno
+T8	MORFOLOGIA_NEOPLASIA 415 420	mioma
+T9	MORFOLOGIA_NEOPLASIA 2330 2335	tumor
+T10	MORFOLOGIA_NEOPLASIA 2040 2050	tumoración
+T11	MORFOLOGIA_NEOPLASIA 3815 3825	tumoración
+T12	MORFOLOGIA_NEOPLASIA 212 219	pT3N1M0
+T13	MORFOLOGIA_NEOPLASIA 1248 1267	implante secundario
+T14	MORFOLOGIA_NEOPLASIA 2095 2148	metástasis de adenocarcinoma con diferención mucinosa
+T15	MORFOLOGIA_NEOPLASIA 2359 2425	Carcinoma epitelial maligno indiferenciado con componente mucinoso
+T16	MORFOLOGIA_NEOPLASIA 4020 4087	tumoración epitelial maligna indiferenciada con componente mucinoso
+T17	MORFOLOGIA_NEOPLASIA 4172 4238	carcinoma epitelial maligno indiferenciado con componente mucinoso

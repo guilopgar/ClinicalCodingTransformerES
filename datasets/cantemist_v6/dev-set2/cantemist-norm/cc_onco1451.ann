@@ -1,0 +1,26 @@
+T1	MORFOLOGIA_NEOPLASIA 1954 1956	M0
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1919 1935	Melanoma maligno
+#2	AnnotatorNotes T2	8720/3
+T3	MORFOLOGIA_NEOPLASIA 1509 1531	enfermedad a distancia
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 837 847	malignidad
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 2324 2334	malignidad
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 2486 2502	melanoma maligno
+#6	AnnotatorNotes T6	8720/3
+T7	MORFOLOGIA_NEOPLASIA 3352 3364	metastásicas
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 1862 1877	micrometástasis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 1538 1547	neoplasia
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 1766 1775	neoplasia
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 934 992	melanoma maligno tipo histológico de extensión superficial
+#11	AnnotatorNotes T11	8743/3
+T12	MORFOLOGIA_NEOPLASIA 2140 2156	nevus pigmentado
+#12	AnnotatorNotes T12	8720/0
+T13	MORFOLOGIA_NEOPLASIA 2296 2310	nevus de unión
+#13	AnnotatorNotes T13	8740/0

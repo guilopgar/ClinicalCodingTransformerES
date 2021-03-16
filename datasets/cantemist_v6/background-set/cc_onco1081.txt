@@ -1,0 +1,25 @@
+Anamnesis
+Varón de 66 años, sin alergias conocidas, no fumador ni con otros hábitos tóxicos, sin antecedentes médicos ni familiares de interés, que consultó por rectorragias en noviembre de 2004.
+
+Examen físico
+El paciente presentaba un buen estado general, normocoloreado y normohidratado, con auscultación cardiopulmonar normal, abdomen blando, depresible, no doloroso a la palpación, sin focalidades neurológicas.
+En el tacto rectal, a punta de dedo, se palpaba una lesión ulcerada y friable al tacto.
+
+Pruebas complementarias
+- Se realizó una colonoscopia, que objetivó a 7 cm del margen anal, una lesión exofítica, ulcerada y friable al paso del endoscopio, que ocupaba el 80% de la luz intestinal, de la cual se tomaron biopsias, siendo positivas para adenocarcinoma intestinal moderadamente diferenciado.
+- La RM rectal mostró una lesión a 7 cm que infiltraba la fascia mesorrectal sin adenopatías. El estudio de extensión no mostraba metastásis a distancia.
+
+Diagnóstico
+Se diagnosticó un adenocarcinoma moderadamente diferenciado a 7 cm del margen anal, con infiltración de la fascia mesorrectal, sin adenopatías, cT4N0M0.
+
+Tratamiento
+En diciembre de 2004 se practicó resección anterior de recto e ileostomía de protección, con resultado anatomopatológico de adenocarcinoma de recto moderadamente diferenciado, pT4pN0. Realizó 10 ciclos de quimioterapia adyuvante en esquema 5-fluorouracilo, leucovorín y oxaliplatino, teniendo que suspender el oxaliplatino a partir del segundo ciclo por reacción alérgica. Completó quimiorradioterapia con 5-fluorouracilo en infusión continua hasta agosto de 2005. En diciembre de 2005 se cerró la ileostomía.
+En enero de 2008, a raíz de aumento de CEA (13,2), es diagnosticado por TC de recaída hepática (2 lesiones en el segmento VI) y pulmonar (3 lesiones en el LSI, LID y LMD). En marzo de 2008 se realizó hepatectomía derecha y en mayo se realizó lobectomía inferior derecha, con segmentectomía atípica en el LMD y segmentectomía atípica en el LSI.
+Entonces inició capecitabina adyuvante, que hubo que suspender tras dos ciclos por toxicidad digestiva.
+Siguió controles hasta julio de 2011, momento en que aparece un nódulo espiculado en el ápex pulmonar izquierdo sospechoso, por lo que en octubre de 2011 es sometido a resección sublobar del LSI, con resultado anatomopatológico de adenocarcinoma compatible con primario colorrectal, con márgenes libres. Dada la mala tolerancia previa a derivados fluoropirimidínicos, se planteó irinotecán en monoterapia como adyuvancia, tras recaída pulmonar después de un intervalo libre de enfermedad de 3 años. Solo recibió 4 ciclos por toxicidad digestiva.
+En la TC de control del 17/4/12 se apreciaba, adyacente a los clips quirúrgicos en el LSI, un aumento de partes blandas de aproximadamente 2 cm de diámetro sugiriendo recidiva, que se confirmó con TC-PAAF con resultado de adenocarcinoma metastásico de origen colorrectal.
+Con nueva recaída pulmonar a los 6 meses de finalizar el último tratamiento QT, se determinó el estatus de KRAS, que fue nativo, y recibió 6 ciclos de cetuximab en combinación solo con 5-fluorouracilo en infusión continua de 48 h, hasta septiembre de 2012. Respuesta que mantiene hasta enero de 2013, cuando presenta una nueva recidiva en el LSI (sobre la cicatriz previa), con un intervalo libre de tratamiento de 4 meses. Con el diagnóstico de recidiva única susceptible de rescate quirúrgico, es sometido a una lobectomía superior izquierda en marzo de 2013. El resultado anatomopatológico fue de adenocarcinoma compatible con primario de origen colorrectal. Por la mala tolerancia a la quimioterapia previa, y considerándose cirugía R0, se decidió seguir controles.
+Siguió controles hasta septiembre de 2013, en que es diagnosticado por TC de recidiva pulmonar única en el LII de 1 cm. Tras consensuar con el paciente las opciones terapéuticas, y rechazando el paciente una nueva reintervención, o radiofrecuencia sobre la lesión, decidimos reiniciar en octubre de 2013 cetuximab + 5-fluorouracilo, teniendo en cuenta la buena tolerancia y la respuesta previa. Completó 6 ciclos, con respuesta parcial en la valoración de la respuesta (el tamaño en ese momento del nódulo en el LII era de 6 mm). Dada la buena respuesta, y tras consensuarlo con el paciente, se decide el abordaje radical de la lesión mediante radiofrecuencia, procedimiento realizado el 12 de febrero de 2014.
+
+Evolución
+Durante casi 10 años el paciente ha ido presentado recaídas de su enfermedad que han podido resecarse o tratarse con una intención radical. Desde febrero de 2014 sigue controles, sin signos de recidiva en la última TC de abril de 2014.

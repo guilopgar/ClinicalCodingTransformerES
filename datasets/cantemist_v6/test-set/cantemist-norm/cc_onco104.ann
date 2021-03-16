@@ -1,0 +1,26 @@
+T1	MORFOLOGIA_NEOPLASIA 684 693	carcinoma
+#1	AnnotatorNotes T1	8010/3
+T2	MORFOLOGIA_NEOPLASIA 3885 3927	carcinoma escamoso pobremente diferenciado
+#2	AnnotatorNotes T2	8070/33
+T3	MORFOLOGIA_NEOPLASIA 4239 4281	carcinoma escamoso pobremente diferenciado
+#3	AnnotatorNotes T3	8070/33
+T4	MORFOLOGIA_NEOPLASIA 1056 1072	células malignas
+#4	AnnotatorNotes T4	8001/3
+T5	MORFOLOGIA_NEOPLASIA 3830 3846	células malignas
+#5	AnnotatorNotes T5	8001/3
+T6	MORFOLOGIA_NEOPLASIA 2673 2683	malignidad
+#6	AnnotatorNotes T6	8000/3
+T7	MORFOLOGIA_NEOPLASIA 4178 4188	malignidad
+#7	AnnotatorNotes T7	8000/3
+T8	MORFOLOGIA_NEOPLASIA 1832 1841	neoplasia
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 1498 1515	teratoma quístico
+#9	AnnotatorNotes T9	9080/0
+T10	MORFOLOGIA_NEOPLASIA 1764 1788	teratoma quístico maduro
+#10	AnnotatorNotes T10	9080/0
+T11	MORFOLOGIA_NEOPLASIA 3682 3706	teratoma quístico maduro
+#11	AnnotatorNotes T11	9080/0
+T12	MORFOLOGIA_NEOPLASIA 3885 3959	carcinoma escamoso pobremente diferenciado originado en el quiste dermoide
+#12	AnnotatorNotes T12	9084/3
+T13	MORFOLOGIA_NEOPLASIA 4239 4306	carcinoma escamoso pobremente diferenciado sobre un quiste dermoide
+#13	AnnotatorNotes T13	9084/3

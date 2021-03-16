@@ -1,0 +1,34 @@
+T1	MORFOLOGIA_NEOPLASIA 3731 3745	Adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 463 477	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 1228 1243	lesión pulmonar
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2328 2338	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 3946 3956	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 4171 4181	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 2052 2070	nódulos pulmonares
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 2528 2546	nódulos pulmonares
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 2678 2696	nódulos pulmonares
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 2305 2312	tumoral
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 3593 3600	tumoral
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 3929 3936	tumoral
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 182 224	adenocarcinoma de endometrio endometrioide
+#13	AnnotatorNotes T13	8380/3
+T14	MORFOLOGIA_NEOPLASIA 1650 1657	T1aN2M0
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 1508 1547	adenocarcinoma de LSD, de patrón sólido
+#15	AnnotatorNotes T15	8230/3
+T16	MORFOLOGIA_NEOPLASIA 1508 1598	adenocarcinoma de LSD, de patrón sólido predominante y tubular, moderadamente diferenciado
+#16	AnnotatorNotes T16	8211/32
+T17	MORFOLOGIA_NEOPLASIA 2018 2049	progresión a nivel medisatínico
+#17	AnnotatorNotes T17	8000/6

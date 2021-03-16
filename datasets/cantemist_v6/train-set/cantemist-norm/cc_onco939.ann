@@ -1,0 +1,18 @@
+T1	MORFOLOGIA_NEOPLASIA 1121 1131	metástasis
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 230 240	neoplasias
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 344 354	neoplasias
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 668 675	tumoral
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 3461 3468	tumoral
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 3067 3113	osteosarcoma de células pequeñas de alto grado
+#6	AnnotatorNotes T6	9185/34
+T7	MORFOLOGIA_NEOPLASIA 3128 3204	Osteosarcoma de células pequeñas (de Hutter) estadio IV (afectación cerebral
+#7	AnnotatorNotes T7	9185/6
+T8	MORFOLOGIA_NEOPLASIA 2155 2171	suelta de globos
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 2726 2746	Nódulo leptomeníngeo
+#9	AnnotatorNotes T9	8000/6

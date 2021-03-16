@@ -1,0 +1,6 @@
+T1	MORFOLOGIA_NEOPLASIA 3730 3737	tumoral
+#1	AnnotatorNotes T1	8000/1
+T2	MORFOLOGIA_NEOPLASIA 1055 1096	carcinoma pulmonar de células no pequeñas
+#2	AnnotatorNotes T2	8046/3
+T3	MORFOLOGIA_NEOPLASIA 1327 1365	carcinoma escamoso de pulmón T3 N3 M1a
+#3	AnnotatorNotes T3	8070/6

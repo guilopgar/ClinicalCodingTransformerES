@@ -1,0 +1,3 @@
+[submodule "resources/codiesp-evaluation-script"]
+	path = resources/codiesp-evaluation-script
+	url = https://github.com/TeMU-BSC/codiesp-evaluation-script.git

@@ -1,0 +1,30 @@
+T1	MORFOLOGIA_NEOPLASIA 3174 3210	Carcinoma de mama ductal infiltrante
+T2	MORFOLOGIA_NEOPLASIA 7012 7014	M1
+T3	MORFOLOGIA_NEOPLASIA 892 920	carcinoma ductal infiltrante
+T4	MORFOLOGIA_NEOPLASIA 2020 2048	carcinoma ductal infiltrante
+T5	MORFOLOGIA_NEOPLASIA 2472 2494	carcinoma inflamatorio
+T6	MORFOLOGIA_NEOPLASIA 4844 4858	carcinomatosis
+T7	MORFOLOGIA_NEOPLASIA 211 217	cáncer
+T8	MORFOLOGIA_NEOPLASIA 255 261	cáncer
+T9	MORFOLOGIA_NEOPLASIA 4690 4705	enfermedad ósea
+T10	MORFOLOGIA_NEOPLASIA 2646 2656	malignidad
+T11	MORFOLOGIA_NEOPLASIA 2521 2532	metastásica
+T12	MORFOLOGIA_NEOPLASIA 965 975	metástasis
+T13	MORFOLOGIA_NEOPLASIA 2092 2102	metástasis
+T14	MORFOLOGIA_NEOPLASIA 4227 4237	metástasis
+T15	MORFOLOGIA_NEOPLASIA 6176 6186	metástasis
+T16	MORFOLOGIA_NEOPLASIA 4407 4422	progresión ósea
+T17	MORFOLOGIA_NEOPLASIA 5318 5333	progresión ósea
+T18	MORFOLOGIA_NEOPLASIA 6051 6066	progresión ósea
+T19	MORFOLOGIA_NEOPLASIA 5620 5625	tumor
+T20	MORFOLOGIA_NEOPLASIA 5861 5866	tumor
+T21	MORFOLOGIA_NEOPLASIA 5530 5540	tumoración
+T22	MORFOLOGIA_NEOPLASIA 892 960	carcinoma ductal infiltrante subtipo no especial (tipo inflamatorio)
+T23	MORFOLOGIA_NEOPLASIA 2020 2087	carcinoma ductal infiltrante subtipo no especial(tipo inflamatorio)
+T24	MORFOLOGIA_NEOPLASIA 3174 3230	Carcinoma de mama ductal infiltrante (tipo inflamatorio)
+T25	MORFOLOGIA_NEOPLASIA 4087 4151	carcinoma infiltrante de subtipo histológico no especial grado 3
+T26	MORFOLOGIA_NEOPLASIA 6572 6595	captación leptomeníngea
+T27	MORFOLOGIA_NEOPLASIA 6655 6697	diseminación leptomeníngea de su neoplasia
+T28	MORFOLOGIA_NEOPLASIA 7648 7671	captación leptomeníngea
+T29	MORFOLOGIA_NEOPLASIA 8108 8134	enfermedad a nivel del SNC
+T30	MORFOLOGIA_NEOPLASIA 6107 6152	nodulares osteoblásticas en columna vertebral

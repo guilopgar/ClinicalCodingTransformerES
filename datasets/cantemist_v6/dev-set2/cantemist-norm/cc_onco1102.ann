@@ -1,0 +1,12 @@
+T1	MORFOLOGIA_NEOPLASIA 1522 1536	Adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 1200 1233	Adenocarcinoma de tipo intestinal
+#2	AnnotatorNotes T2	8144/3
+T3	MORFOLOGIA_NEOPLASIA 1292 1306	adenocarcinoma
+#3	AnnotatorNotes T3	8140/3
+T4	MORFOLOGIA_NEOPLASIA 37 43	cáncer
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 1143 1155	neoformación
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 1570 1575	tumor
+#6	AnnotatorNotes T6	8000/1

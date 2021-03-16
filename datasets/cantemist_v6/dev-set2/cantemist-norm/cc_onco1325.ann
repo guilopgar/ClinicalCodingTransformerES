@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 1627 1649	Sarcoma indiferenciado
+#1	AnnotatorNotes T1	8805/3
+T2	MORFOLOGIA_NEOPLASIA 73 83	tumoración
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 166 176	tumoración
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 340 350	tumoración
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 804 814	tumoración
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 855 904	sarcoma de células redondas grandes de alto grado
+#6	AnnotatorNotes T6	8800/34/H
+T7	MORFOLOGIA_NEOPLASIA 1267 1285	sarcoma Ewing-like
+#7	AnnotatorNotes T7	8800/3/H
+T8	MORFOLOGIA_NEOPLASIA 1097 1113	sarcoma de Ewing
+#8	AnnotatorNotes T8	9260/3
+T9	MORFOLOGIA_NEOPLASIA 1627 1707	Sarcoma indiferenciado de células redondas grandes de alto grado tipo Ewing-like
+#9	AnnotatorNotes T9	8800/34/H
+T10	MORFOLOGIA_NEOPLASIA 2367 2404	metástasis por sarcoma indiferenciado
+#10	AnnotatorNotes T10	8805/6
+T11	MORFOLOGIA_NEOPLASIA 2551 2561	Ewing-like
+#11	AnnotatorNotes T11	8800/3/H
+T12	MORFOLOGIA_NEOPLASIA 1722 1729	T2aN1M0
+#12	AnnotatorNotes T12	8000/6

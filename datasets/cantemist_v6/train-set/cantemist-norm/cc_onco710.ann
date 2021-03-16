@@ -1,0 +1,8 @@
+T1	MORFOLOGIA_NEOPLASIA 1888 1926	histiocitosis de células de Langerhans
+#1	AnnotatorNotes T1	9751/3
+T2	MORFOLOGIA_NEOPLASIA 752 785	tumor de células germinales mixto
+#2	AnnotatorNotes T2	9085/3
+T3	MORFOLOGIA_NEOPLASIA 846 854	pT2cN0M0
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 448 458	malignidad
+#4	AnnotatorNotes T4	8000/3

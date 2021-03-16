@@ -1,0 +1,26 @@
+T1	MORFOLOGIA_NEOPLASIA 447 466	afectación hepática
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 4382 4401	afectación hepática
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 2989 3013	carcinoma indiferenciado
+#3	AnnotatorNotes T3	8020/3
+T4	MORFOLOGIA_NEOPLASIA 3173 3197	carcinoma indiferenciado
+#4	AnnotatorNotes T4	8020/3
+T5	MORFOLOGIA_NEOPLASIA 311 344	carcinoma pobremente diferenciado
+#5	AnnotatorNotes T5	8010/33
+T6	MORFOLOGIA_NEOPLASIA 225 243	lesiones hepáticas
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 3931 3949	lesiones hepáticas
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 1825 1839	lesiones óseas
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 3981 3995	lesiones óseas
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 3395 3422	carcinomas de la vía biliar
+#10	AnnotatorNotes T10	8160/3
+T11	MORFOLOGIA_NEOPLASIA 3469 3498	tumores de origen desconocido
+#11	AnnotatorNotes T11	8000/9
+T12	MORFOLOGIA_NEOPLASIA 4705 4734	tumores de origen desconocido
+#12	AnnotatorNotes T12	8000/9
+T13	MORFOLOGIA_NEOPLASIA 4836 4860	tumores de vías biliares
+#13	AnnotatorNotes T13	8160/3

@@ -1,0 +1,11 @@
+T1	MORFOLOGIA_NEOPLASIA 939 966	carcinoma de célula pequeña
+T2	MORFOLOGIA_NEOPLASIA 1242 1252	malignidad
+T3	MORFOLOGIA_NEOPLASIA 1173 1183	metástasis
+T4	MORFOLOGIA_NEOPLASIA 1348 1358	metástasis
+T5	MORFOLOGIA_NEOPLASIA 694 703	neoplasia
+T6	MORFOLOGIA_NEOPLASIA 1109 1118	neoplasia
+T7	MORFOLOGIA_NEOPLASIA 2194 2201	sarcoma
+T8	MORFOLOGIA_NEOPLASIA 2340 2347	sarcoma
+T9	MORFOLOGIA_NEOPLASIA 2740 2750	tumoración
+T10	MORFOLOGIA_NEOPLASIA 1430 1532	Carcinoma microcítico pulmonar, en estadio IV, por diseminación pulmonar y en sistema nervioso central
+T11	MORFOLOGIA_NEOPLASIA 2769 2807	metástasis de un carcinoma microcítico

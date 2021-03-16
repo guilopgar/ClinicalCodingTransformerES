@@ -1,0 +1,18 @@
+Anamnesis
+Se trata de un varón de 61 años exfumador. En tratamiento médico para diabetes mellitus tipo II, hipertensión arterial e hiperuricemia. Sin antecedentes cardiológicos conocidos.
+
+Exploración física
+La exploración física no mostró hallazgos significativos, el Eastern Cooperative Oncology Group (ECOG) era de 1.
+
+Pruebas complementarias
+A raíz de un dolor abdominal inespecífico y astenia en marzo de 2014, se inició estudio con una ecografía abdominal que mostró una masa renal derecha de 110 x 118 mm. La tomografía computarizada (TC) mostró una masa en polo superior del riñón derecho de 10 x 12 cm con sospecha de infiltración de grasa perirrenal, adenopatía paraaórtica izquierda de 15 mm y múltiples nódulos infracentimétricos pulmonares bilaterales. A parte del debut metastásico, no presentaba otros factores de mal pronóstico según las escalas de Memorial Sloan Kattering Cancer Center (MSKCC) y de International Metastatic Renal Cell Carcinoma Database Consortium (IMDC).
+
+Diagnóstico
+Valorado en comité multidisciplinar se decidió realizar una nefrectomía radical derecha laparoscópica. El análisis anatomopatológico mostró un carcinoma renal de células claras de 12,5 cm de tamaño, grado III de Führman3, sin rotura capsular, invasión de grasa perirrenal ni de estructuras anatómicas adyacentes. Según la clasificación pTNM un pT2b4.
+
+Tratamiento
+En mayo de 2014 se indicó tratamiento de primera línea con sunitinib a dosis de 50 mg/día, esquema 4:2. El paciente presentó astenia y eritrodisestesia palmo-plantar grado II según la clasificación de la Common Terminology Criteria for Adverse Events (CTCAE)5 por lo que requirió ajuste de dosis tras cuatro ciclos de tratamiento a 37,5 mg/día, esquema 4:2.
+
+Evolución
+Tras 13 meses, el paciente presentó progresión radiológica en lecho de nefrectomía, aparición de lesiones peritoneales y de nuevas lesiones pulmonares bilaterales. A pesar de la progresión, el paciente mantenía ECOG 1 y se inició una segunda línea de tratamiento con axitinib 5 mg cada 12 horas.
+Estuvo con el tratamiento durante 16 meses, con excelente tolerancia, hasta la progresión de enfermedad con una masa en pared abdominal derecha palpable y aparición de lesiones hepáticas. Ante la reciente aprobación de nivolumab tras tratamiento antiangiogénico previo6 y el excelente estado general del paciente, se decidió iniciar nivolumab en 3ª línea en noviembre de 2016. La TC de valoración a los tres meses mostró aumento de la masa en pared derecha abdominal, de las lesiones pulmonares y una nueva adenopatía ilíaca derecha. Ante el beneficio clínico, sin más opciones de tratamiento asistenciales, se decidió continuar con inmunoterapia. La TC, tras cinco meses de tratamiento mostró una reducción significativa de las lesiones hepáticas y abdominales y la desaparición de las lesiones pulmonares. Como complicación, tras 12 meses de tratamiento se tuvo que suspender el tratamiento de nivolumab por deterioro de la función renal grado II5. A pesar de que había consumo reciente de AINE, se sospechó toxicidad renal inmunomediada. Asimismo, se descartó también causa obstructiva. Tras consultar con Nefrología, se realizó estudio autoinmunitario completo que resultó negativo. Se descartó la biopsia renal ante el riesgo de hematoma en un paciente monorreno. El paciente presentó una evolución favorable con el tratamiento corticoide, pudiéndose rebajar la dosis de corticoides según guías clínicas7 y se reinició el tratamiento de Nivolumab a las 10 semanas. Tras suspensión definitiva de los corticoides, no presentó empeoramiento de la función renal. Actualmente el paciente continúa en tratamiento activo con nivolumab, manteniendo respuesta y sin toxicidades significativas, con una excelente calidad de vida.

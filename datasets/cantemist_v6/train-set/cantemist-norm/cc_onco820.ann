@@ -1,0 +1,12 @@
+T1	MORFOLOGIA_NEOPLASIA 112 121	neoplasia
+#1	AnnotatorNotes T1	8000/1
+T2	MORFOLOGIA_NEOPLASIA 345 360	carcinoma mixto
+#2	AnnotatorNotes T2	8010/3/H
+T3	MORFOLOGIA_NEOPLASIA 372 403	endometrioide bien diferenciado
+#3	AnnotatorNotes T3	8380/31
+T4	MORFOLOGIA_NEOPLASIA 406 429	tumor de células claras
+#4	AnnotatorNotes T4	8005/3
+T5	MORFOLOGIA_NEOPLASIA 816 839	diseminación peritoneal
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 4399 4434	progresión tumoral a nivel pulmonar
+#6	AnnotatorNotes T6	8000/6

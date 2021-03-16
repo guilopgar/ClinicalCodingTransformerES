@@ -1,0 +1,18 @@
+T1	MORFOLOGIA_NEOPLASIA 1362 1371	carcinoma
+#1	AnnotatorNotes T1	8010/3
+T2	MORFOLOGIA_NEOPLASIA 1506 1527	enfermedad diseminada
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 3122 3127	tumor
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 562 572	tumoración
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 2624 2631	tumoral
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 1066 1106	carcinoma ductal infiltrante, de grado 2
+#6	AnnotatorNotes T6	8500/32
+T7	MORFOLOGIA_NEOPLASIA 1767 1815	carcinoma ductal infiltrante de mama, de grado 2
+#7	AnnotatorNotes T7	8500/32
+T8	MORFOLOGIA_NEOPLASIA 1817 1824	cT2N1M0
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 3612 3651	carcinoma ductal infiltrante de grado 2
+#9	AnnotatorNotes T9	8500/32

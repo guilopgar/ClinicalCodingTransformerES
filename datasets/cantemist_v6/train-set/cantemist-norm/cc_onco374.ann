@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 2398 2412	Adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 2993 3007	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 2227 2265	adenocarcinoma pobremente diferenciado
+#3	AnnotatorNotes T3	8140/33
+T4	MORFOLOGIA_NEOPLASIA 117 148	cáncer de pulmón no microcítico
+#4	AnnotatorNotes T4	8046/3
+T5	MORFOLOGIA_NEOPLASIA 2858 2877	implantes pleurales
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 3616 3635	implantes pleurales
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 5840 5865	linfangitis carcinomatosa
+#7	AnnotatorNotes T7	8000/3
+T8	MORFOLOGIA_NEOPLASIA 2474 2482	pT2aN0M0
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 1695 1702	tumoral
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 3073 3082	cTxcN2pM1
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 3743 3791	progresión tumoral a nivel mediastínico, pleural
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 4221 4242	implantes en pectoral
+#12	AnnotatorNotes T12	8000/6

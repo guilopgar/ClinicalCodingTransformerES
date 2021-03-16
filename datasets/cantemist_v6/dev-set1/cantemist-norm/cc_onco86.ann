@@ -1,0 +1,70 @@
+T1	MORFOLOGIA_NEOPLASIA 5219 5243	afectación leptomeníngea
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 5289 5308	afectación meníngea
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 6615 6629	carcinomatosis
+#3	AnnotatorNotes T3	8010/9
+T4	MORFOLOGIA_NEOPLASIA 5843 5859	células malignas
+#4	AnnotatorNotes T4	8001/3
+T5	MORFOLOGIA_NEOPLASIA 5396 5426	infiltración de la medula ósea
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 2362 2392	infiltración de la médula ósea
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 7199 7225	infiltración leptomeníngea
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 2006 2022	lesiones líticas
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 2513 2520	maligno
+#9	AnnotatorNotes T9	8000/3
+T10	MORFOLOGIA_NEOPLASIA 2087 2098	metastásica
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 2652 2663	metastásica
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 6449 6460	metastásico
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 5309 5320	metástasica
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 1882 1892	metástasis
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 3128 3138	metástasis
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 4982 4992	neoplásica
+#16	AnnotatorNotes T16	8000/1
+T17	MORFOLOGIA_NEOPLASIA 1632 1650	nódulos pulmonares
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 3628 3646	nódulos pulmonares
+#18	AnnotatorNotes T18	8000/6
+T19	MORFOLOGIA_NEOPLASIA 6198 6216	nódulos pulmonares
+#19	AnnotatorNotes T19	8000/6
+T20	MORFOLOGIA_NEOPLASIA 4700 4719	nódulos subcutáneos
+#20	AnnotatorNotes T20	8000/6
+T21	MORFOLOGIA_NEOPLASIA 5980 5999	nódulos subcutáneos
+#21	AnnotatorNotes T21	8000/6
+T22	MORFOLOGIA_NEOPLASIA 6646 6665	nódulos subcutáneos
+#22	AnnotatorNotes T22	8000/6
+T23	MORFOLOGIA_NEOPLASIA 7152 7171	nódulos subcutáneos
+#23	AnnotatorNotes T23	8000/6
+T24	MORFOLOGIA_NEOPLASIA 1807 1827	nódulos subpleurales
+#24	AnnotatorNotes T24	8000/6
+T25	MORFOLOGIA_NEOPLASIA 1604 1611	sarcoma
+#25	AnnotatorNotes T25	8800/3
+T26	MORFOLOGIA_NEOPLASIA 2840 2872	tumor neuroectodérmico primitivo
+#26	AnnotatorNotes T26	9473/3
+T27	MORFOLOGIA_NEOPLASIA 2878 2898	MO infiltrada por SE
+#27	AnnotatorNotes T27	9260/6
+T28	MORFOLOGIA_NEOPLASIA 3097 3126	SE con enfermedad metastásica
+#28	AnnotatorNotes T28	9260/6
+T29	MORFOLOGIA_NEOPLASIA 6029 6031	SE
+#29	AnnotatorNotes T29	9260/3
+T30	MORFOLOGIA_NEOPLASIA 6568 6596	Sarcoma de Ewing metastásico
+#30	AnnotatorNotes T30	9260/6
+T31	MORFOLOGIA_NEOPLASIA 7117 7140	progresión tumoral ósea
+#31	AnnotatorNotes T31	8000/6
+T32	MORFOLOGIA_NEOPLASIA 7463 7484	infiltración de la MO
+#32	AnnotatorNotes T32	8000/6
+T33	MORFOLOGIA_NEOPLASIA 2408 2410	SE
+#33	AnnotatorNotes T33	9260/3
+T34	MORFOLOGIA_NEOPLASIA 2873 2875	SE
+#34	AnnotatorNotes T34	9260/3
+T35	MORFOLOGIA_NEOPLASIA 3180 3202	médula ósea infiltrada
+#35	AnnotatorNotes T35	8000/6

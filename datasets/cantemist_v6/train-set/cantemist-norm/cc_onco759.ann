@@ -1,0 +1,28 @@
+T1	MORFOLOGIA_NEOPLASIA 1319 1345	adenopatía supraclavicular
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 930 957	adenopático supraclavicular
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 993 1014	carcinoma microcítico
+#3	AnnotatorNotes T3	8041/3
+T4	MORFOLOGIA_NEOPLASIA 3242 3263	carcinoma microcítico
+#4	AnnotatorNotes T4	8041/3
+T5	MORFOLOGIA_NEOPLASIA 3726 3747	carcinoma microcítico
+#5	AnnotatorNotes T5	8041/3
+T6	MORFOLOGIA_NEOPLASIA 4582 4593	metastásica
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 2752 2762	metástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 4676 4686	metástasis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 2613 2622	neoplasia
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 3146 3178	lesión en región supraclavicular
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 3188 3240	carcinoma de pulmón neuroendocrino de célula pequeña
+#11	AnnotatorNotes T11	8041/3
+T12	MORFOLOGIA_NEOPLASIA 3188 3222	carcinoma de pulmón neuroendocrino
+#12	AnnotatorNotes T12	8246/3
+T13	MORFOLOGIA_NEOPLASIA 3323 3405	carcinoma microcítico de pulmón, enfermedad extensa por afectación supraclavicular
+#13	AnnotatorNotes T13	8041/6
+T14	MORFOLOGIA_NEOPLASIA 4624 4646	lesión retroperitoneal
+#14	AnnotatorNotes T14	8000/6

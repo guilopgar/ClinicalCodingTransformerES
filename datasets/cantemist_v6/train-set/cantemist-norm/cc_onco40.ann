@@ -1,0 +1,12 @@
+T1	MORFOLOGIA_NEOPLASIA 367 377	metástasis
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 936 955	progresión hepática
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1066 1081	progresión ósea
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 201 291	carcinoma ductal infiltrante de mama derecha de 3,7 cm, grado histológico II de Nottingham
+#4	AnnotatorNotes T4	8500/32
+T5	MORFOLOGIA_NEOPLASIA 1106 1140	lesión única de 1 cm en hemisferio
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 1493 1510	lesión cerebelosa
+#6	AnnotatorNotes T6	8000/6

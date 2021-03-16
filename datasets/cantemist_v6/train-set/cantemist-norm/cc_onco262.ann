@@ -1,0 +1,38 @@
+T1	MORFOLOGIA_NEOPLASIA 1096 1110	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 2473 2483	metastásis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 286 295	neoplasia
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 1832 1837	tumor
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 1257 1266	tumorales
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 345 367	adenocarcinoma papilar
+#6	AnnotatorNotes T6	8260/3
+T7	MORFOLOGIA_NEOPLASIA 540 543	pM0
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 1563 1574	metastásica
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 1741 1780	metástasis por tumor carcinoide atípico
+#9	AnnotatorNotes T9	8240/6
+T10	MORFOLOGIA_NEOPLASIA 503 530	carcinoide pulmonar atipico
+#10	AnnotatorNotes T10	8240/3
+T11	MORFOLOGIA_NEOPLASIA 1868 1890	enfermedad a distancia
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 2258 2270	metastásicos
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 2315 2353	metástasis de tumor carcinoide atípico
+#13	AnnotatorNotes T13	8240/6
+T14	MORFOLOGIA_NEOPLASIA 2633 2644	metastásica
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 3394 3397	TNE
+#15	AnnotatorNotes T15	8240/3
+T16	MORFOLOGIA_NEOPLASIA 2677 2692	afectación ósea
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 1379 1394	lesión hepática
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 2496 2535	lesión acetabular sugestiva de implante
+#18	AnnotatorNotes T18	8000/6
+T19	MORFOLOGIA_NEOPLASIA 4098 4109	PE hepática
+#19	AnnotatorNotes T19	8000/6

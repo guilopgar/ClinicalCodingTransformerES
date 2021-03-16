@@ -1,0 +1,21 @@
+Anamnesis
+Mujer de 47 años, sin alergias conocidas, con antecedentes de hepatitis A e hiperprolactinemia en tratamiento con carbegolina. Consulta en octubre de 2008 por dolor abdominal asociado a distensión y metrorragia de 2 meses de evolución, por lo que se realiza ecografía abdominal y, posteriormente, tomografía computarizada (TC), evidenciándose ascitis y una masa en la pelvis menor de 12 cm sugestiva de neoplasia ovárica con signos de afectación anexial bilateral, uterina, diseminación peritoneal y englobamiento de sigma. Ante estos hallazgos, se realiza laparoscopia diagnóstica con resultado anatomopatológico de carcinoma seroso papilar de ovario bien diferenciado. Es intervenida en noviembre de 2008 mediante cirugía citorreductora óptima (estadio III C) recibiendo posteriormente tratamiento adyuvante con carboplatino AUC 5 y taxol 175 mg/m2 en pauta trisemanal. La paciente ingresa procedente de Urgencias donde acude tras la aparición de una erupción cutánea en forma de placas eritematosas localizadas en pecho, espalda, abdomen, facies, pabellones auriculares y extremidades, asociada a prurito intenso y paresia tanto de miembros superiores como inferiores.
+
+Examen físico
+Edema facial de predominio palpebral. Paroniquia de grado 3. Placas eritemato-violáceas y sobreelevadas diseminadas, intercaladas con áreas de piel indemne, en las localizaciones antes mencionadas. Paresia proximal de extremidades superiores (3/5) e inferiores (2/5).
+
+Pruebas complementarias
+Análisis de sangre: Ca 125 de 3,38 kU/l; anticuerpos (ANA, anti-ENA, anti-RNP, anti-Jo-1, anti-Scl-70, anti-SRP, anti-Ku y anti-Mi-1/Mi-2): negativos.
+Biopsia cutánea: dermatitis espongiótica compatible con toxicodermia.
+Electroneurograma: conducción sensitivo-motora dentro de los límites normales.
+Electromiograma: potenciales de unidades motoras disminuidos de tamaño y duración con patrón interferencial al máximo esfuerzo de forma proximal y bilateral.
+Biopsia del deltoides: miopatía inflamatoria de etiología paraneoplásica.
+
+Diagnóstico
+Dermatomiositis paraneoplásica.
+
+Tratamiento
+Tras su diagnóstico, se inicia tratamiento corticoideo a dosis altas e inmunoglobulinas con un curso fluctuante y llegando, incluso, a comprometerse la musculatura deglutoria (por lo que precisó colocación de sonda naso-gástrica) y presentando afectación pulmonar. Por ello se administra tacrolimus con gran mejoría clínica progresiva, tanto de las lesiones cutáneas como de la movilidad y de la deglución, alcanzando resolución completa del cuadro tras 4 meses de tratamiento.
+
+Evolución
+A partir de entonces, y durante los siguientes años, la paciente presentó progresión de su enfermedad neoplásica a varias líneas de quimioterapia destacando, en cada recaída, la reaparición de las manifestaciones cutáneas y la debilidad muscular.

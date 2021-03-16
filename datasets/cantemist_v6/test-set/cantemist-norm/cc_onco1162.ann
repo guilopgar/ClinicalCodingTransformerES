@@ -1,0 +1,10 @@
+T1	MORFOLOGIA_NEOPLASIA 1954 1984	Carcinoma seroso de alto grado
+#1	AnnotatorNotes T1	8441/34
+T2	MORFOLOGIA_NEOPLASIA 2905 2919	carcinomatosis
+#2	AnnotatorNotes T2	8010/9
+T3	MORFOLOGIA_NEOPLASIA 2876 2887	metastásica
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 98 116	tumoración benigna
+#4	AnnotatorNotes T4	8000/0
+T5	MORFOLOGIA_NEOPLASIA 267 318	carcinoma seroso de ovario izquierdo, de alto grado
+#5	AnnotatorNotes T5	8441/34

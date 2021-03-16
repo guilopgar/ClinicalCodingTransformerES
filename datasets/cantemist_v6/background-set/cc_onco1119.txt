@@ -1,0 +1,31 @@
+Anamnesis
+La paciente presenta antecedentes de poliposis colónica familiar diagnosticada hace varios años (su madre y su hermana tienen la enfermedad, al igual que su hija), a la cual se le practicó una colectomía total con anastomosis ileoanal profiláctica posterior al diagnostico en enero del 2011. Se realizó el estudio genético, detectando una mutación patogénica que afecta al intrón 15E: deleción de dos bases en heterocigosis (AA). c.3185_3186 del AA, en el gen APC, el cual es responsable de la poliposis adenomatosa familiar. Esta mutación también se ha detectado en la madre de la paciente.
+Seguía controles por parte de Medicina Digestiva y estaba pendiente de una polipectomía duodenal compleja por un pólipo adenomatoso duodenal mediante CPRE.
+Sin otros antecedentes de interés. No alergias medicamentosas.
+Motivo de consulta y evolución de la enfermedad actual:
+Paciente mujer de 36 años remitida desde otro centro en marzo del 2014 por clínica de dolor abdominal de 2 meses de evolución, asociada a distensión abdominal, anorexia y vómitos posprandiales tardíos, deposiciones de consistencia líquida, emite gases y mantiene hábito intestinal diario. Asocia pérdida de unos 10 kg de peso en los últimos 2 meses.
+
+Examen físico
+FC: 132 lpm, PA: 120/75 mmHg, Sat O2 aire ambiente: 100 %, Temperatura: 37 °C. PS 1. IK 90%.
+AC: taquicardia rítmica, sin que se ausculten soplos ni roces pericárdicos.
+Abdomen: se palpa una masa de aspecto longitudinal en el mesogastrio-hipogastrio no dolorosa a la palpación. Sin signos de irritación peritoneal. Ruidos hidroaéreos aumentados. Percusión timpánica.
+Resto de la exploración normal.
+
+Pruebas complementarias
+- Analítica: hemoglobina 10,9 g/dl, hematocrito 37,5%, VCM 77 fl, sin otras alteraciones.
+- Gastroscopia: en el estómago se observan múltiples pequeños pólipos (todos ellos menores de 3 mm) y aspecto compatible con pólipos hiperplásicos. En el duodeno, por debajo de la papila, se observa un pólipo plano blanquecino de más de 2 cm de diámetro, que no afecta a la papila. Más proximalmente se observa otro pólipo plano de aspecto adenomatoso de unos 7 mm de diámetro.
+- Radiografía de abdomen: dilatación de asas de ID proximal por oclusión a nivel del yeuno-íleon. Hay gas distal residual. No se visualizan calcificaciones.
+- RM abdominal: masa polilobulada amorfa de unos 80 × 26 × 37 mm de ejes transversal, anteroposterior y craneocaudal, respectivamente, situada en la raíz del meso que se introduce entre las asas del yeyuno encontrándose dilatadas, compatible con tumor desmoide.
+- TC-TAP: se observan dos tumoraciones sólidas abdominales. Una de ellas está localizada en el hemiabdomen inferior derecho, en el interior del músculo recto anterior, y mide, aproximadamente, 8,5 x 3 x 7 cm de diámetros transversal, anteroposterior caudal máximos. Es muy sugestivo de tumor desmoide de pared abdominal. La otra está localizada en la profundidad del mesenterio del hemiabdomen izquierdo adyacente a la línea media, con límites mal definidos y pérdida del plano graso de separación con asas de intestino delgado en vecindad, lo que sugiere la posibilidad de infiltración. Probablemente dicha tumoración está comprimiendo o atrapando ligeramente alguna asa yeyunal, ya que se aprecia bastante dilatación en las asas del yeyuno proximal y medio, compatible con suboclusión.
+
+Diagnóstico
+- Cuadro suboclusivo intestinal secundario a un tumor desmoide intraabdominal.
+- Síndrome de Gardner.
+
+Tratamiento
+Se inicia tratamiento médico (procinéticos, CE, nutrición parenteral), con nula respuesta del cuadro suboclusivo. Se plantea el caso en el Comité de Tumores y se decide intervención quirúrgica, ya sea resección o derivación paliativa.
+Durante el acto quirúrgico el 28/3/2014 se identifican unos 30-40 cm de yeyuno proximal al tumor muy dilatado. Se toman biopsias del tumor mesentérico y del tumor desmoide de pared y posteriormente se realiza bypass yeyuno-ileal con intención paliativa al no poder resecarse el tumor (engloba la arteria mesentérica superior). Las biopsias informan que ambas tumoraciones son compatibles con tumores desmoides, formados por células de estirpe fibroblástica, reactivas a vimentina y negativas a CD117, sin atipias ni actividad proliferativa.
+Posteriormente la evolución ha sido progresiva, con buena tolerancia oral y restitución del tránsito intestinal. Finalmente, se decide darle el alta hospitalaria por mejoría clínica y control ambulatorio posterior.
+
+Evolución
+A las 4 semanas del alta, el estado general de la paciente es aceptable y tolera la ingesta oral. Hemos iniciado tratamiento con adriamicina liposomial no pegilada a una dosis de 50 mg/m2 cada 28 días, de la que ha recibido dos ciclos hasta la fecha actual, con buena tolerancia y respuesta clínica (mejoría del dolor y regularización del hábito intestinal); está pendiente de evaluación radiológica en el momento actual.

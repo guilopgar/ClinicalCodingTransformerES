@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 154 159	NSCLC
+#1	AnnotatorNotes T1	8046/3
+T2	MORFOLOGIA_NEOPLASIA 4445 4450	NSCLC
+#2	AnnotatorNotes T2	8046/3
+T3	MORFOLOGIA_NEOPLASIA 121 152	cáncer de pulmón no microcítico
+#3	AnnotatorNotes T3	8046/3
+T4	MORFOLOGIA_NEOPLASIA 463 494	cáncer de pulmón no microcítico
+#4	AnnotatorNotes T4	8046/3
+T5	MORFOLOGIA_NEOPLASIA 1503 1513	malignidad
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 3468 3478	malignidad
+#6	AnnotatorNotes T6	8000/3
+T7	MORFOLOGIA_NEOPLASIA 800 812	sarcomatoide
+#7	AnnotatorNotes T7	8033/3
+T8	MORFOLOGIA_NEOPLASIA 97 104	tumores
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 732 779	carcinoma adenoescamoso pobremente diferenciado
+#9	AnnotatorNotes T9	8560/33
+T10	MORFOLOGIA_NEOPLASIA 2440 2473	progresión torácica y suprarrenal
+#10	AnnotatorNotes T10	8000/6

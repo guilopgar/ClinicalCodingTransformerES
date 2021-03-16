@@ -1,0 +1,22 @@
+T1	MORFOLOGIA_NEOPLASIA 1944 1961	Infiltración ósea
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1188 1194	PEComa
+#2	AnnotatorNotes T2	8011/1/H
+T3	MORFOLOGIA_NEOPLASIA 2394 2400	PEComa
+#3	AnnotatorNotes T3	8011/1/H
+T4	MORFOLOGIA_NEOPLASIA 724 737	paraganglioma
+#4	AnnotatorNotes T4	8680/1
+T5	MORFOLOGIA_NEOPLASIA 201 211	tumoración
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 1671 1678	tumoral
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 2181 2188	tumoral
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 32 50	linfoma de Hodgkin
+#8	AnnotatorNotes T8	9650/3
+T9	MORFOLOGIA_NEOPLASIA 740 761	tumor de vaina neural
+#9	AnnotatorNotes T9	8000/1/H
+T10	MORFOLOGIA_NEOPLASIA 863 893	paraganglioma extrasuprarrenal
+#10	AnnotatorNotes T10	8693/1
+T11	MORFOLOGIA_NEOPLASIA 1120 1186	Tumor maligno epiteloideo de partes blandas de hábito perivascular
+#11	AnnotatorNotes T11	8804/3/H

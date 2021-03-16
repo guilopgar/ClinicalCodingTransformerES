@@ -1,0 +1,22 @@
+T1	MORFOLOGIA_NEOPLASIA 3583 3597	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 934 944	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 3802 3812	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1296 1344	carcinoma ductal infiltrante grado histológico 2
+#4	AnnotatorNotes T4	8500/32
+T5	MORFOLOGIA_NEOPLASIA 980 1005	linfangitis carcinomatosa
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 728 738	malignidad
+#6	AnnotatorNotes T6	8000/3
+T7	MORFOLOGIA_NEOPLASIA 1446 1536	carcinoma ductal infiltrante bilateral luminal A estadio IV por enfermedad bilateral, ósea
+#7	AnnotatorNotes T7	8500/6
+T8	MORFOLOGIA_NEOPLASIA 3720 3730	malignidad
+#8	AnnotatorNotes T8	8000/3
+T9	MORFOLOGIA_NEOPLASIA 2702 2721	implantes pleurales
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 639 653	lesiones óseas
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 889 919	nódulos espiculados pulmonares
+#11	AnnotatorNotes T11	8000/6

@@ -1,0 +1,57 @@
+Anamnesis
+
+Antecedentes familiares
+» Madre con cáncer de colon diagnosticado a los 60 años.
+» Resto sin interés.
+
+Antecedentes personales
+» Varón de 47 años.
+» Sin reacciones alérgicas medicamentosas.
+» Factores de riesgo cardiovascular: no tiene hipertensión arterial, ni diabetes mellitus. Dislipemia sin tratamiento farmacológico.
+» Sin hábitos tóxicos.
+» Intervenciones quirúrgicas: hernia umbilical, fístula perianal.
+» Situación basal: independiente ABVD. Performance status (PS) 0.
+» Tratamiento domiciliario: no realiza tratamiento de forma habitual.
+
+Enfermedad actual
+Paciente varón de 47 años que, en 2013, acude a consultas de Aparato Digestivo por rectorragia realizándose colonoscopia en la que se observa en recto a unos 7 cm del ano, una lesión mamelonada, excrecente, ulcerada y friable de la que se toman biopsias con anatomía patológica compatible con adenocarcinoma intestinal infiltrante.
+Se realiza estudio de extensión objetivando múltiples lesiones hepáticas (al menos 8) que afectan a ambos lóbulos siendo compatibles con metástasis. Dados los hallazgos se presentó en Comité Multidisciplinar de Tumores y se derivó a Oncología Médica debido a que no era subsidiario de intervención quirúrgica de entrada, y se decidió tratamiento con QT de conversión.
+
+Exploración física
+»Buen estado general, consciente, orientado y colaborador. Bien hidratado y bien perfundido. Conbuena coloración de piel y mucosas. Eupneico en reposo. Afebril.
+»Neurológico: pupilas isocóricas y normorreactivas, movimientos oculares y resto de parescraneales conservados. Fuerza y sensibilidad conservadas. No tiene alteraciones del habla ni dela marcha. Romberg negativo. Signos meníngeos negativos. Sin disdiadococinesias. No tienefocalidad neurológica.
+»Auscultación cardiopulmonar: tonos rítmicos, sin ausculto soplos ni extratonos. Murmullovesicular conservado sin ruidos sobreañadidos.
+»Miembros inferiores: sin edemas ni signos de trombosis venosa profunda.
+»Abdomen: blando y depresible, no es doloroso durante la palpación abdominal, sin signos deirritación peritoneal. Blumberg negativo. Murphy negativo. No se palpan masas ni megalias.Ruidos hidroaéreos presentes.
+»Tacto rectal: intenso dolor por fisura anal.
+
+Pruebas complementarias
+Colonoscopia (05/2013)
+Se explora hasta ciego. Desde unos 8 cm hasta 12 cm de margen anal y ocupando 3/4 de la circunferencia rectal existe una lesión mamelonada, excrecente, ulcerada y friable de la que se toman biopsias. No se ven otras lesiones.
+Ecografía endorrectal (05/2013): **estadiaje tumoral ecográfico: uT2N0
+Anuscopio: se identifica a 7 cm del margen anal una lesión exofítica, friable, que no estenosa el paso del endoscopio. Se localiza en el margen derecho ocupando 1/2 de la circunferencia. Se extiende hasta 14cm del margen anal.
+Ecografía anorrectal: se identifica la lesión que ocupa en su localización de mayor extensión (en torno a los 9cm del margen anal) el total de la circunferencia con un eje AP máximo de 25 mm que supera la submucosa. No se identifican adenopatías.
+Anatomía Patológica (06/2013)
+Adenocarcinoma intestinal infiltrante.
+Tomografía computarizada de abdomen (TC) (06/2013)
+CNeoplasia de recto medio-superior que se extiende a la transición rectosigmoidea, con signos de infiltración de la grasa adyacente y posible infiltración de techo vesical. Presencia de adenopatías múltiples en mesorrecto y mesosigma. Metástasis hepáticas múltiples en ambos lóbulos.
+TC de abdomen (09/2013)
+Disminución de grosor de la neoplasia de recto medio-superior. Persisten signos de infiltración de la grasa adyacente. Disminución de tamaño de las adenopatías en mesorrecto y mesosigma.
+Desaparición de las metástasis hepáticas.
+Tomografía por emisión de positrones (PET) (09/2013)
+Lesión hipermetabólica en recto en paciente diagnosticado de adenocarcinoma de recto. Lesión en el segmento IV hepático de baja tasa de proliferación celular en la que no se puede descartar totalmente restos de enfermedad. Ganglios subcentimétricos en mesorrecto metabólicamente negativos. Nódulo en LID metabólicamente negativo. Resto del estudio sin hallazgos patológicos significativos.
+Anatomía Patológica (10/2013)
+Adenocarcinoma intestinal bien diferenciado (4,5 cm), de recto que infiltra grasa periintestinal y no alcanza serosa. Bordes quirúrgicos proximal, distal y radial libres de tumor. 21 ganglios linfáticos periintestinales sin evidencia de tumor. pT3N0Mx. Grado histológico 1 (bien diferenciado). Sin invasión vascular, linfática ni perineural.
+Fragmento de parénquima hepático con un foco con intenso artefacto por calor sospechoso de malignidad, apreciándose en el mismo calcificación y presencia de glándulas con distorsión arquitectural y moderada atipia nuclear focal que muestran expresión inmunohistoquímica difusa de CDX2 y focal de citoqueratina 7, siendo negativa citoqueratina 20. Estos hallazgos sugieren que pueda tratarse de una metástasis de adenocarcinoma intestinal con cambios por quimioterapia, pero el artefacto por calor impide realizar un diagnóstico más preciso.
+
+Diagnóstico
+» Adenocarcinoma de recto estadio IV (metástasis hepáticas).
+» K-RAS nativo.
+
+Tratamiento
+Se inició QT neoadyuvante con FOLFIRI y cetuximab en julio de 2013, recibiendo 4 ciclos y posterior resección anterior de recto junto con resección hepática en octubre de 2013.
+
+Evolución
+Dado que se trata de un paciente diagnosticado en estadio metastásico, el primer paso fue determinar su estatus de K-RAS. Tras el resultado de K-RAS nativo, optamos por añadir un fármaco biológico anti-EGFR a un doblete de QT neoadyuvante con FOLFIRI y cetuximab. Tras la administración de 4 ciclos con buena tolerancia y sin efectos secundarios a resaltar, se realizó reevaluación por TC, objetivando respuesta parcial a nivel del tumor primario de recto y respuesta hepática hasta la casi completa resolución de las metástasis.
+En octubre de 2013, es sometido a resección anterior baja de recto con exéresis de mesorrecto junto con metastasectomía del segmento VI. Seguido de una adyuvancia en monoterapia con capecitabina durante 5 ciclos y radioterapia adyuvante en recto con una dosis total de 54,4 Gray. Encontrándose el paciente en tratamiento adyuvante, se realiza TC de reevaluación de respuesta donde se evidencian múltiples lesiones de naturaleza metastásica hepática y aumento de marcadores tumorales. Por este motivo, dados los buenos resultados y a que se suspendió previamente a la cirugía sin haber progresado, se inicia nuevamente tratamiento con FOLFIRI y cetuximab, recibiendo 7 ciclos con adecuada tolerancia, alcanzando remisión parcial mayor en septiembre de 2014, momento el que se propone para intervención por radiofrecuencia con microondas (2 metástasis en segmentos IVa y VIII); la que finalmente se realiza en diciembre de 2014. Una vez de vuelta en consulta y tras la primera TC de reevaluación posterior a la intervención, en enero de 2015, nueva progresión a nivel hepático introduciendo de nuevo QT adyuvante con FOLFIRI y cetuximab.
+Tras 4 ciclos de tratamiento con este esquema, se objetiva progresión de la enfermedad mediante pruebas de imagen, ya que el paciente se encontraba asintomático, por lo que se propone cambio a una segunda línea de tratamiento con doblete QT y un biológico anti-VEGF FOLFOX y bevacizumab. El paciente evoluciona favorablemente con este tratamiento, sin embargo, debido a un proceso de fístula anal, que acaba interviniéndose, requiere recibir varios de estos ciclos sin bevacizumab y tras 12 ciclos con oxaliplatino: el paciente presenta una neurotoxicidad periférica grado 2-3, por lo que se suspende. Durante este tiempo, se realiza TC de reevaluación de respuesta donde se objetiva progresión de la enfermedad a nivel hepático en febrero de 2016. En marzo de 2016, se inicia tratamiento con trifluridina y clorhidrato de tipiracil (TAS102) y se propone radioterapia estereotáctica (SBRT) de las lesiones hepáticas en abril de 2016 en el hospital. Tras 6 ciclos con TAS102 con regular tolerancia y algunos retrasos en tratamiento por neutropenia el paciente progresa a nivel hepático evidenciado en prueba de imagen en agosto de 2016. Teniendo en cuenta que hemos agotado 3 líneas y, prácticamente, todos los fármacos que podemos utilizar en esta patología, el paciente presentaba un PS de 0 y optamos por solicitar regorafenib, siendo este un fármaco que no ha mostrado mayor beneficio clínico que el TAS102 que ya había recibido. Tras el inicio de tratamiento y al recibir 3 ciclos, se deriva a centro especializado en Cirugía Hepática, donde se le indica que se realice previamente una TC de reevaluación. Ésta se realiza en nuestro centro y, de nuevo, volvemos a ver progresión como mejor respuesta a regorafenib. En ese momento, el paciente deja de acudir a nuestras consultas y dos años después vuelve solicitando reanudar seguimiento. Nos informa de que se intervino finalmente en el hospital al que fue derivado alcanzando una cirugía R0. A día de hoy, el paciente se encuentra asintomático, sin tratamiento, sin evidencia de enfermedad en pruebas complementarias y únicamente en seguimiento semestral en nuestras consultas.

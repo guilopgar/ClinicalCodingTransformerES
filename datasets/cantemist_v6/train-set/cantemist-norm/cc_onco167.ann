@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 351 361	Metástasis
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 2008 2027	implantes tumorales
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 2464 2475	metastásica
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 3294 3303	neoplasia
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 2228 2238	tumoración
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 210 260	Tumor óseo de células gigantes grado 3 de Sanerkin
+#6	AnnotatorNotes T6	9250/33
+T7	MORFOLOGIA_NEOPLASIA 2818 2890	Metástasis pulmonares y mediastínicas del tumor de células gigantes óseo
+#7	AnnotatorNotes T7	9250/6
+T8	MORFOLOGIA_NEOPLASIA 3754 3776	infiltración esofágica
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 4042 4067	tumor de células gigantes
+#9	AnnotatorNotes T9	8003/3
+T10	MORFOLOGIA_NEOPLASIA 2507 2524	masa mediastínica
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 2901 2917	Masa medistínica
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 3483 3514	enfermedad a nivel mediastínico
+#12	AnnotatorNotes T12	8000/6

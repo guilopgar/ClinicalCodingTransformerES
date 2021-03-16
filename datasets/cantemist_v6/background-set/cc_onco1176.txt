@@ -1,0 +1,30 @@
+Anamnesis
+Paciente de 33 años, enfermero de profesión, sin hábitos tóxicos.
+En seguimiento por la Unidad de Enfermedades Infecciosas desde hacía 4 años por infección VIH diagnosticada en estadio A2 con debut poliadenopático, sin precisar tratamiento antirretroviral. En este periodo de tiempo padeció sífilis, tratada con peniclina, fue diagnosticado de coinfección por VHP serotipos 16, 18, 51, 53, 73 y 84 y de lesión anal con células escamosas atípicas de significado incierto (ASC-US).
+Tras un periodo de varios meses sin controles por la Unidad de Enfermedades Infecciosas, ingresa en dicha Unidad por un cuadro de diarreas de 6 semanas de evolución sin productos patológicos de hasta 8 episodios diarios, dolor abdominal difuso, pérdida de peso de unos 10 kg, sudoración nocturna y malestar general sin fiebre.
+
+Examen físico
+Presentaba ECOG 1. Se apreciaba una lesión levemente sobreelevada violácea en la punta de la nariz de 2 cm, y varias lesiones similares en el miembro superior izquierdo y en el antebrazo derecho.
+El abdomen no era doloroso, palpándose punta de bazo. Además, tenía una lesión verruciforme anal que no ocluía el orificio.
+
+Pruebas complementarias
+- Analítica: Hb 10,9 g/dl, leucocitos 670 (CD 425 céls./mcl). Bioquímica con PCR 19, función hepática y renal, así como iones normales.
+- Microbiología: coprocultivo negativo. Carga viral > 2.000.000 copias/ml.
+- Colonoscopia: desde 10 hasta 25 cm del margen anal se aprecian lesiones vasculares elevadas con mucosa intercalar normal en el recto y que ocupan toda la luz en el sigma. Sin progresar en el estudio por riesgo de iatrogenia.
+- TC de tórax/abdomen: adenopatías axilares bilaterales. Hígado, páncreas y bazo sin alteraciones. El colon presenta un discreto engrosamiento difuso de su pared, menos evidente en el transverso, observable en el recto, sigmoides, descendente, ascendente y ciego. Numerosas adenopatías en el epigastrio, retroperitoneo y perirrectales.
+Ascitis mínima a nivel de la pelvis, adyacente al colon sigmoides.
+- Anatomía patológica (biopsia colónica): moderado infiltrado inflamatorio en la lámina propia con áreas de fibrosis y presencia de luces vasculares de aspecto ectásico.
+El estudio inmuhistoquímico presenta positividad en las áreas fusocelulares para CD 34, CD 31 y CD 117.
+Posteriomente se amplió la batería para detección del virus del herpes humano 8 (HHV-8), que resultó positivo.
+
+Diagnóstico
+Infección VIH estadio C2 (CD4 257 y sarcoma de Kaposi).
+Sarcoma de Kaposi estadio T1I0S1 con afectación intestinal sintomática.
+
+Tratamiento
+Iniciamos quimioterapia con doxorrubicina liposomal pegilada 20 mg/m2 trisemanal.
+Además, la Unidad de Enfermedades Infecciosas inició triple terapia antirretroviral (efavirenz/tenofovir/emtricitabina).
+
+Evolución
+El paciente recibió 6 ciclos de quimoterapia, con buena tolerancia (astenia grado 1), presentando respuesta completa por imagen (TC) y respuesta clínica prácticamente completa, con ganancia de peso, disminución de la diarrea hasta grado 1, desaparición de las lesiones en los miembros superiores y reducción de la lesión nasal superior al 50%.
+Mantiene tratamiento antirretroviral en la Unidad de Enfermedades Infecciosas y revisiones periódicas por Oncología.

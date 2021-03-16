@@ -1,0 +1,14 @@
+T1	MORFOLOGIA_NEOPLASIA 750 769	lesiones pulmonares
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 829 839	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 703 708	tumor
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 881 920	carcinoma de células claras, Führman I
+#4	AnnotatorNotes T4	8310/31
+T5	MORFOLOGIA_NEOPLASIA 1046 1085	carcinoma de células claras, Führman 3
+#5	AnnotatorNotes T5	8310/33
+T6	MORFOLOGIA_NEOPLASIA 1379 1420	tumor renal de células claras pT3a pN1 M1
+#6	AnnotatorNotes T6	8005/6
+T7	MORFOLOGIA_NEOPLASIA 1654 1698	progresión neoplásica tanto a nivel pulmonar
+#7	AnnotatorNotes T7	8000/6

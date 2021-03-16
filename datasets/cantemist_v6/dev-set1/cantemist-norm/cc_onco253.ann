@@ -1,0 +1,28 @@
+T1	MORFOLOGIA_NEOPLASIA 3526 3540	Leiomiosarcoma
+#1	AnnotatorNotes T1	8890/3
+T2	MORFOLOGIA_NEOPLASIA 3570 3580	Metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 2673 2695	implantes peritoneales
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 3616 3638	implantes peritoneales
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 494 522	leiomiosarcoma de alto grado
+#5	AnnotatorNotes T5	8890/34
+T6	MORFOLOGIA_NEOPLASIA 2495 2521	lesiones focales hepáticas
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 3254 3264	malignidad
+#7	AnnotatorNotes T7	8000/3
+T8	MORFOLOGIA_NEOPLASIA 2569 2579	metástasis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 3107 3117	neoplásico
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 4191 4198	tumoral
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 2696 2705	tumorales
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 839 862	recidiva única pulmonar
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 2612 2658	nódulos subcentimétricos en cavidad peritoneal
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 3314 3363	mucosa bronquial infiltrada por un leiomiosarcoma
+#14	AnnotatorNotes T14	8890/6

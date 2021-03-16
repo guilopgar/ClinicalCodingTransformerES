@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 3582 3596	Lesiones óseas
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 2680 2690	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 3025 3035	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 3485 3495	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 3613 3623	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 103 146	tumor de células germinales no seminomatoso
+#6	AnnotatorNotes T6	9065/3
+T7	MORFOLOGIA_NEOPLASIA 3550 3580	tumor germinal no seminomatoso
+#7	AnnotatorNotes T7	9065/3
+T8	MORFOLOGIA_NEOPLASIA 491 498	tumoral
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 2993 3000	tumoral
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 4365 4372	tumoral
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 6914 6921	tumoral
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 3434 3457	nodulaciones pulmonares
+#12	AnnotatorNotes T12	8000/6

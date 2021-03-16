@@ -1,0 +1,36 @@
+Anamnesis
+Varón de 64 años de edad, con antecedentes personales de hipertensión arterial, dislipemia, fumador de 1-2 puros/semana y bebedor de 25-30 g de alcohol/día.
+Acude al Servicio de Urgencias del hospital por presentar un cuadro brusco de torpeza motora en miembro inferior izquierdo con dificultad para la marcha y disestesias con fasciculaciones en hemicara derecha de segundos de duración. Estando en dicho Servicio presenta una crisis parcial secundariamente generalizada, por lo que se decide ingresar para estudio. Durante el ingreso, el paciente permanece asintomático y sin hallazgos relevantes en la exploración física. Se realizaron varios estudios entre los que cabe destacar un electroencefalograma inespecífico, una TC craneal en la que se observó atrofia corticosubcortical de predominio frontal y una eco-doppler de troncos supraaórticos donde se objetivaron placas de ateroma calcificadas en bulbos carotídeos bilateralmente.
+El paciente fue dado de alta con diagnóstico de posible accidente isquémico transitorio carotídeo izquierdo y crisis parcial secundariamente generalizada.
+Se decidió no iniciar tratamiento anticomicial y plantearlo en el caso de que se repitieran dichos eventos.
+Dos meses después, acude nuevamente a Urgencias por cefalea de predominio frontal, episodios de desorientación intermitentes y decaimiento generalizado con sensación ocasional de pérdida de fuerza.
+Se le realiza otra TC craneal que es informada de atrofia cerebral de predominio frontotemporal, sin otras alteraciones, por lo que es nuevamente dado de alta.
+En su valoración en consultas externas tras el alta el paciente refiere haber estado asintomático hasta dos semanas antes cuando comenzó con episodios de desorientación y de desconexión del medio sin síntomas premonitorios, pérdida de la memoria reciente, habla incoherente, cefalea de tipo tensional, dificultad para la marcha y pérdida del control de esfínteres.
+Se decide ingreso urgente dado el deterioro cognitivo rápidamente progresivo.
+
+Exploración física
+Consciente y parcialmente orientado. Muy reiterativo en el discurso con automatismos y actitud de extrañeza. Lenguaje conservado. Pupilas isocóricas y normorreactivas. Fondo de ojo normal. Limitación para la mirada superior. No presenta dismetría. Reflejos osteotendinosos presentes. Dificultad para mantener el equilibrio en sedestación. Aumento de la base de sustentación durante la marcha con tándem imposible.
+Resto de la exploración física sin hallazgos relevantes.
+
+Pruebas complementarias
+• Analítica con hemograma, coagulación y bioquímica básica normales con lactato deshidrogenasa (LDH) en el rango de la normalidad. Estudio microbiológico amplio, con serologías bacteriana, vírica y parasitaria negativas, así como mantoux y baciloscopia de esputo y orina también negativos. Estudio de autoinmunidad (anticuerpos antinucleares y anticitoplasma de neutrófilo) negativo. Marcadores tumorales (antígeno prostático específico, alfafetoproteína, gonadotrofina coriónica, antígeno carcinoembrionario y antígeno carbohidrato 19-9) dentro de la normalidad.
+Proteinograma con componente monoclonal IgA lambda y betaglobulina de significado incierto. b-2-microglobulina 2,85 μg/mL (0-2,5).
+• Electroencefalograma: globalmente lentificado y desorganizado.
+• Punción lumbar: se obtiene líquido cefalorraquídeo de aspecto turbio con abundante celularidad (predominantemente leucocitos mononucleares), destacando en la bioquímica glucosa baja y proteínas altas. Estudio microbiológico negativo y citología sospechosa de malignidad, con abundantes células linfoides hendidas, que podrían corresponder a población linfoide T con un predominio exagerado o más probablemente a un proceso linfoproliferativo. El estudio mediante citometría de flujo reveló la presencia de linfocitos de aspecto linfomatoso con inmunofenotipo compatible con linfoma no Hodgkin de estirpe B (CD3 48%, CD 19/Lambda 66%).
+• RM craneal en secuencias T1 sagital, axial y coronal sin y con gadolinio. Además, secuencia potenciada en T2 y Flair en plano axial: pequeños focos hiperintensos en secuencias potenciadas en T2 localizados en sustancia blanca de predominio cortical de dudoso significado clínico. En el estudio con contraste llama la atención una captación de los surcos especialmente a nivel frontal bilateral que obliga a descartar patología infiltrativa leptomeníngea.
+• TC de cuerpo completo en la que no se observan alteraciones significativas.
+• Biopsia de médula ósea sin signos de infiltración.
+
+Diagnóstico
+Sospecha de linfoma no Hodgkin con afectación leptomeníngea.
+
+Tratamiento
+Durante el ingreso el paciente presentó crisis comiciales que se trataron inicialmente con fenitoína.
+Ante la sospecha diagnóstica de linfoma leptomeníngeo, se realiza estudio de extensión negativo y se decide iniciar tratamiento con quimioterapia intratecal con metotrexato 12 mg asociado con metotrexato intravenoso 1 g/m2 con rescate de folinato cálcico. El paciente continuó con crisis comiciales a pesar del tratamiento, aumentándose la pauta de fenitoína al detectarse niveles infraterapéuticos en varias ocasiones.
+A las 24 horas de comenzar el tratamiento presenta síndrome febril sin foco infeccioso aparente, detectándose granulocitopenia en la analítica que se asumió inducida por la fenitoína, por lo que se sustituyó por ácido valproico.
+
+Evolución
+A pesar de la quimioterapia y del tratamiento anticomicial, el paciente entró en estatus epiléptico con crisis mantenidas en extremidad superior derecha ocasionalmente generalizadas, fiebre mantenida y finalmente datos de colestasis y disfunción hepática, falleciendo a los diez días del ingreso.
+Se solicitó autorización para estudio necrópsico, con hallazgo en sistema nervioso central de meningitis granulomatosa necrotizante, con afectación predominante de ambas regiones frontotemporales y con focos milimétricos superficiales de encefalitis, sin evidencia de linfoma residual (en relación con el tratamiento recibido).
+Lesión focal en hígado de 2 cm de diámetro, mostrando un infiltrado intravascular atípico CD20+, CD30+, CD 15-/+, EBV-(LMP), hallazgos histopatológicos compatibles con linfoma no Hodgkin B intravascular. Como hallazgos incidentales se observaron un carcinoma de células renales grado 1 de Fuhrman, de 0,9 cm en riñón derecho y una adrenalitis por citomegalovirus (a pesar de que los estudios serológicos repetidos al ingreso para detectar la infección por dicho virus fueron negativos). No se objetivaron lesiones por linfoma en el resto del estudio.
+El diagnóstico final fue de linfoma no Hodgkin B intravascular con afectación hepática y leptomeníngea.

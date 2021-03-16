@@ -1,0 +1,38 @@
+T1	MORFOLOGIA_NEOPLASIA 2865 2874	carcinoma
+#1	AnnotatorNotes T1	8010/3
+T2	MORFOLOGIA_NEOPLASIA 550 578	carcinoma ductal infiltrante
+#2	AnnotatorNotes T2	8500/3
+T3	MORFOLOGIA_NEOPLASIA 148 154	cáncer
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 209 215	cáncer
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 1253 1264	metastásica
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 1358 1382	carcinoma neuroendocrino
+#6	AnnotatorNotes T6	8246/3
+T7	MORFOLOGIA_NEOPLASIA 2696 2722	células tumorales malignas
+#7	AnnotatorNotes T7	8001/3
+T8	MORFOLOGIA_NEOPLASIA 3956 3980	carcinoma neuroendocrino
+#8	AnnotatorNotes T8	8246/3
+T9	MORFOLOGIA_NEOPLASIA 5071 5105	tumor neuroendocrino de alto grado
+#9	AnnotatorNotes T9	8240/34
+T10	MORFOLOGIA_NEOPLASIA 5410 5448	carcinoma neuroendocrino de alto grado
+#10	AnnotatorNotes T10	8240/34
+T11	MORFOLOGIA_NEOPLASIA 4653 4665	metastásicas
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 1399 1408	pT3pN2aM0
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 5959 5966	tumoral
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 711 733	enfermedad a distancia
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 4942 4960	lesiones hepáticas
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 4638 4652	lesiones óseas
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 3606 3613	tumoral
+#17	AnnotatorNotes T17	8000/1
+T18	MORFOLOGIA_NEOPLASIA 5021 5028	tumoral
+#18	AnnotatorNotes T18	8000/1
+T19	MORFOLOGIA_NEOPLASIA 5673 5680	tumoral
+#19	AnnotatorNotes T19	8000/1

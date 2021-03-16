@@ -1,0 +1,14 @@
+T1	MORFOLOGIA_NEOPLASIA 76 85	neoplasia
+#1	AnnotatorNotes T1	8000/1
+T2	MORFOLOGIA_NEOPLASIA 1686 1695	neoplasia
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 2045 2050	tumor
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 491 501	tumoración
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 969 979	tumoración
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 1735 1780	carcinoma escamoso moderadamente diferenciado
+#6	AnnotatorNotes T6	8070/32
+T7	MORFOLOGIA_NEOPLASIA 1783 1789	cT4N2M
+#7	AnnotatorNotes T7	8000/6

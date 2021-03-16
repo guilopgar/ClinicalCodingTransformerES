@@ -1,0 +1,38 @@
+T1	MORFOLOGIA_NEOPLASIA 2662 2683	Carcinoma epidermoide
+#1	AnnotatorNotes T1	8070/3
+T2	MORFOLOGIA_NEOPLASIA 2719 2721	M0
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 7097 7111	adenocarcinoma
+#3	AnnotatorNotes T3	8140/3
+T4	MORFOLOGIA_NEOPLASIA 7188 7196	cT1bN0M0
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 4956 4977	carcinoma epidermoide
+#5	AnnotatorNotes T5	8070/3
+T6	MORFOLOGIA_NEOPLASIA 5443 5464	carcinoma epidermoide
+#6	AnnotatorNotes T6	8070/3
+T7	MORFOLOGIA_NEOPLASIA 7256 7274	carcinoma escamoso
+#7	AnnotatorNotes T7	8070/3
+T8	MORFOLOGIA_NEOPLASIA 6840 6847	maligna
+#8	AnnotatorNotes T8	8000/3
+T9	MORFOLOGIA_NEOPLASIA 4832 4843	metastásica
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 5058 5069	metastásica
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 4675 4685	metástasis
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 2612 2647	metástasis de carcinoma epidermoide
+#12	AnnotatorNotes T12	8070/6
+T13	MORFOLOGIA_NEOPLASIA 1474 1483	neoplasia
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 6020 6029	neoplasia
+#14	AnnotatorNotes T14	8000/1
+T15	MORFOLOGIA_NEOPLASIA 7007 7012	tumor
+#15	AnnotatorNotes T15	8000/1
+T16	MORFOLOGIA_NEOPLASIA 4232 4243	metastásica
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 4427 4465	tumor primario de próstata metastásico
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 4574 4634	adenocarcinoma de próstata, grado combinado de Gleason 3 + 4
+#18	AnnotatorNotes T18	8140/32
+T19	MORFOLOGIA_NEOPLASIA 7307 7345	adenocarcinoma de próstata metastásico
+#19	AnnotatorNotes T19	8140/6

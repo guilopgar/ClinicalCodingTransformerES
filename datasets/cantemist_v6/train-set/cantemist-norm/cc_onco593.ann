@@ -1,0 +1,12 @@
+T1	MORFOLOGIA_NEOPLASIA 1196 1213	Colangiocarcinoma
+#1	AnnotatorNotes T1	8160/3
+T2	MORFOLOGIA_NEOPLASIA 1045 1059	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 1159 1181	enfermedad a distancia
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 3141 3148	tumoral
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 3185 3192	tumoral
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 1459 1476	colangiocarcinoma
+#6	AnnotatorNotes T6	8160/3

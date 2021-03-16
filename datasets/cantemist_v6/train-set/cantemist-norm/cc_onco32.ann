@@ -1,0 +1,10 @@
+T1	MORFOLOGIA_NEOPLASIA 576 590	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 3244 3251	tumoral
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 390 447	adenocarcinoma de recto-sigma KRAS nativo, con metástasis
+#3	AnnotatorNotes T3	8140/6
+T4	MORFOLOGIA_NEOPLASIA 3184 3219	adenocarcinoma de sigma ypT3 N1b M1
+#4	AnnotatorNotes T4	8140/6
+T5	MORFOLOGIA_NEOPLASIA 3776 3795	afectación hepática
+#5	AnnotatorNotes T5	8000/6

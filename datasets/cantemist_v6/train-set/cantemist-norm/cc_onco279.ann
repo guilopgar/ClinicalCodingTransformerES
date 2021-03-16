@@ -1,0 +1,18 @@
+T1	MORFOLOGIA_NEOPLASIA 2421 2430	carcinoma
+#1	AnnotatorNotes T1	8010/3
+T2	MORFOLOGIA_NEOPLASIA 91 119	carcinoma ductal infiltrante
+#2	AnnotatorNotes T2	8500/3
+T3	MORFOLOGIA_NEOPLASIA 2686 2711	linfangitis carcinomatosa
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 3148 3173	linfangitis carcinomatosa
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 1630 1642	neoformativo
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 3180 3185	tumor
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 156 163	cT3N1M0
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 471 484	ypT0N0(0/5)M0
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 2497 2547	Recidiva local, ganglionar y pulmonar de carcinoma
+#9	AnnotatorNotes T9	8010/6

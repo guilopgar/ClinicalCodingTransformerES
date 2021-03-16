@@ -1,0 +1,10 @@
+T1	MORFOLOGIA_NEOPLASIA 3271 3285	Adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 3075 3133	infiltración por adenocarcinoma moderadamente diferenciado
+#2	AnnotatorNotes T2	8140/62
+T3	MORFOLOGIA_NEOPLASIA 1244 1260	células malignas
+#3	AnnotatorNotes T3	8001/3
+T4	MORFOLOGIA_NEOPLASIA 1607 1659	adenopatías hiliares, mediastínicas, supraclavicular
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 3204 3211	TxN3M1a
+#5	AnnotatorNotes T5	8000/6

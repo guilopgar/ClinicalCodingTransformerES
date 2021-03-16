@@ -1,0 +1,52 @@
+T1	MORFOLOGIA_NEOPLASIA 515 517	M0
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 3367 3370	M1a
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 3346 3366	Melanoma metastásico
+#3	AnnotatorNotes T3	8720/6
+T4	MORFOLOGIA_NEOPLASIA 3243 3262	Nódulos subcutáneos
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 594 620	adenopatía supraclavicular
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 1928 1938	malignidad
+#6	AnnotatorNotes T6	8000/3
+T7	MORFOLOGIA_NEOPLASIA 3933 3951	masa paravertebral
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 4922 4940	masa paravertebral
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 5216 5234	masa paravertebral
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 376 384	melanoma
+#10	AnnotatorNotes T10	8720/3
+T11	MORFOLOGIA_NEOPLASIA 838 846	melanoma
+#11	AnnotatorNotes T11	8720/3
+T12	MORFOLOGIA_NEOPLASIA 1027 1035	melanoma
+#12	AnnotatorNotes T12	8720/3
+T13	MORFOLOGIA_NEOPLASIA 1112 1120	melanoma
+#13	AnnotatorNotes T13	8720/3
+T14	MORFOLOGIA_NEOPLASIA 3393 3413	melanoma metastásico
+#14	AnnotatorNotes T14	8720/6
+T15	MORFOLOGIA_NEOPLASIA 110 126	melanoma nodular
+#15	AnnotatorNotes T15	8721/3
+T16	MORFOLOGIA_NEOPLASIA 1330 1341	metastásico
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 5021 5032	metastásico
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 2985 2995	metástasis
+#18	AnnotatorNotes T18	8000/6
+T19	MORFOLOGIA_NEOPLASIA 3220 3230	metástasis
+#19	AnnotatorNotes T19	8000/6
+T20	MORFOLOGIA_NEOPLASIA 1246 1263	nódulo subcutáneo
+#20	AnnotatorNotes T20	8000/6
+T21	MORFOLOGIA_NEOPLASIA 4969 4986	nódulo subcutáneo
+#21	AnnotatorNotes T21	8000/6
+T22	MORFOLOGIA_NEOPLASIA 5264 5281	nódulo subcutáneo
+#22	AnnotatorNotes T22	8000/6
+T23	MORFOLOGIA_NEOPLASIA 1693 1712	nódulos subcutáneos
+#23	AnnotatorNotes T23	8000/6
+T24	MORFOLOGIA_NEOPLASIA 1893 1912	nódulos subcutáneos
+#24	AnnotatorNotes T24	8000/6
+T25	MORFOLOGIA_NEOPLASIA 2158 2177	nódulos subcutáneos
+#25	AnnotatorNotes T25	8000/6
+T26	MORFOLOGIA_NEOPLASIA 4286 4318	tumoración a nivel paravertebral
+#26	AnnotatorNotes T26	8000/6

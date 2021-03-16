@@ -1,0 +1,6 @@
+T1	MORFOLOGIA_NEOPLASIA 242 253	mesotelioma
+#1	AnnotatorNotes T1	9050/3
+T2	MORFOLOGIA_NEOPLASIA 266 272	T4N0M0
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 396 417	enfermedad diseminada
+#3	AnnotatorNotes T3	8000/6

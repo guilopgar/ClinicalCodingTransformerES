@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 906 924	masa paravertebral
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 2209 2219	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 2408 2418	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 96 109	neuroblastoma
+#4	AnnotatorNotes T4	9500/3
+T5	MORFOLOGIA_NEOPLASIA 2428 2451	progresión a nivel óseo
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 1223 1254	neuroblastoma bien diferenciado
+#6	AnnotatorNotes T6	9500/31
+T7	MORFOLOGIA_NEOPLASIA 2158 2178	lesiones vertebrales
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 2309 2345	lesión infiltrativa intertrocantérea
+#8	AnnotatorNotes T8	8000/6

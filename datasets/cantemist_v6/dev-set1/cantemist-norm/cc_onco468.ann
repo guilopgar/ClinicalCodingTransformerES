@@ -1,0 +1,12 @@
+T1	MORFOLOGIA_NEOPLASIA 1001 1011	metástasis
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1589 1599	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 888 907	sarcoma epitelioide
+#3	AnnotatorNotes T3	8804/3
+T4	MORFOLOGIA_NEOPLASIA 1662 1667	tumor
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 1518 1525	tumoral
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 2002 2044	progresión a nivel ganglionar, paraespinal
+#6	AnnotatorNotes T6	8000/6

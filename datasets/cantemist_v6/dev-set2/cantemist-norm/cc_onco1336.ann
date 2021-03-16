@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 1753 1779	adenocarcinoma metastásico
+#1	AnnotatorNotes T1	8140/6
+T2	MORFOLOGIA_NEOPLASIA 594 639	adenocarcinoma seroso de ovario de alto grado
+#2	AnnotatorNotes T2	8441/34
+T3	MORFOLOGIA_NEOPLASIA 270 284	carcinomatosis
+#3	AnnotatorNotes T3	8010/9
+T4	MORFOLOGIA_NEOPLASIA 1631 1647	implante tumoral
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 521 543	implantes peritoneales
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 790 812	implantes peritoneales
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1844 1858	lesiones óseas
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 2139 2174	lesión categoría BI-RADS 4A en mama
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 2221 2256	metástasis de adenocarcinoma seroso
+#9	AnnotatorNotes T9	8441/6
+T10	MORFOLOGIA_NEOPLASIA 2279 2336	Adenocarcinoma seroso de ovario estadio IV con metástasis
+#10	AnnotatorNotes T10	8441/6

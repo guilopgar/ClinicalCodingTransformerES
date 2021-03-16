@@ -1,0 +1,44 @@
+T1	MORFOLOGIA_NEOPLASIA 840 884	neoplasia intratubular de células germinales
+#1	AnnotatorNotes T1	9064/2
+T2	MORFOLOGIA_NEOPLASIA 1203 1208	tumor
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 4529 4534	tumor
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 5512 5517	tumor
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 1397 1411	tumor germinal
+#5	AnnotatorNotes T5	9064/3
+T6	MORFOLOGIA_NEOPLASIA 2931 2940	tumorales
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 988 1014	tumor germinal no seminoma
+#7	AnnotatorNotes T7	9065/3
+T8	MORFOLOGIA_NEOPLASIA 1016 1020	TGNS
+#8	AnnotatorNotes T8	9065/3
+T9	MORFOLOGIA_NEOPLASIA 825 838	tumor quemado
+#9	AnnotatorNotes T9	8000/1/H
+T10	MORFOLOGIA_NEOPLASIA 4032 4039	sarcoma
+#10	AnnotatorNotes T10	8800/3
+T11	MORFOLOGIA_NEOPLASIA 4379 4386	sarcoma
+#11	AnnotatorNotes T11	8800/3
+T12	MORFOLOGIA_NEOPLASIA 3873 3880	sarcoma
+#12	AnnotatorNotes T12	8800/3
+T13	MORFOLOGIA_NEOPLASIA 678 713	metástasis de carcinoma embrionario
+#13	AnnotatorNotes T13	9070/6
+T14	MORFOLOGIA_NEOPLASIA 1437 1474	sarcoma retroperitoneal de alto grado
+#14	AnnotatorNotes T14	8800/34
+T15	MORFOLOGIA_NEOPLASIA 5153 5190	sarcoma retroperitoneal de alto grado
+#15	AnnotatorNotes T15	8800/34
+T16	MORFOLOGIA_NEOPLASIA 3413 3480	tumor maligno de la vaina nerviosa periférica), grado histológico 3
+#16	AnnotatorNotes T16	9540/33
+T17	MORFOLOGIA_NEOPLASIA 3311 3336	Sarcoma de partes blandas
+#17	AnnotatorNotes T17	8800/3
+T18	MORFOLOGIA_NEOPLASIA 3839 3863	neoplásico de alto grado
+#18	AnnotatorNotes T18	8000/14
+T19	MORFOLOGIA_NEOPLASIA 567 594	síndrome linfoproliferativo
+#19	AnnotatorNotes T19	9970/1
+T20	MORFOLOGIA_NEOPLASIA 1969 1979	tumoración
+#20	AnnotatorNotes T20	8000/1
+T21	MORFOLOGIA_NEOPLASIA 4800 4810	tumoración
+#21	AnnotatorNotes T21	8000/1
+T22	MORFOLOGIA_NEOPLASIA 3249 3256	tumoral
+#22	AnnotatorNotes T22	8000/1

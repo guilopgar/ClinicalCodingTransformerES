@@ -1,0 +1,22 @@
+T1	MORFOLOGIA_NEOPLASIA 1714 1724	Metástasis
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 435 449	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 131 160	carcinoma papilar de tiroides
+#3	AnnotatorNotes T3	8260/3
+T4	MORFOLOGIA_NEOPLASIA 1775 1785	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 1438 1448	tumoración
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 2034 2044	tumoración
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 226 235	pT1apN0M0
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 305 329	carcinoma epidermoide G2
+#8	AnnotatorNotes T8	8070/32
+T9	MORFOLOGIA_NEOPLASIA 399 409	pT2aN0M0R1
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 866 887	carcinoma escamoso G2
+#10	AnnotatorNotes T10	8070/32
+T11	MORFOLOGIA_NEOPLASIA 2189 2229	metástasis cerebelosa por adenocarcinoma
+#11	AnnotatorNotes T11	8140/6

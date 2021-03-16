@@ -1,0 +1,14 @@
+T1	MORFOLOGIA_NEOPLASIA 1606 1616	Metástasis
+T2	MORFOLOGIA_NEOPLASIA 940 949	carcinoma
+T3	MORFOLOGIA_NEOPLASIA 772 793	carcinoma infiltrante
+T4	MORFOLOGIA_NEOPLASIA 1507 1539	carcinoma lobulillar infiltrante
+T5	MORFOLOGIA_NEOPLASIA 673 683	malignidad
+T6	MORFOLOGIA_NEOPLASIA 1328 1338	malignidad
+T7	MORFOLOGIA_NEOPLASIA 2147 2181	metástasis de carcinoma lobulillar
+T8	MORFOLOGIA_NEOPLASIA 2234 2246	neoformación
+T9	MORFOLOGIA_NEOPLASIA 390 400	tumoración
+T10	MORFOLOGIA_NEOPLASIA 964 993	Carcinoma mamario infiltrante
+T11	MORFOLOGIA_NEOPLASIA 1507 1559	carcinoma lobulillar infiltrante de tipo pleomórfico
+T12	MORFOLOGIA_NEOPLASIA 2022 2063	lesión proliferativa estenosante en colon
+T13	MORFOLOGIA_NEOPLASIA 2382 2402	recidiva única cecal
+T14	MORFOLOGIA_NEOPLASIA 2563 2609	metástasis de carcinoma lobulillar infiltrante

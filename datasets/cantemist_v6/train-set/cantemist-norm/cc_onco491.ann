@@ -1,0 +1,26 @@
+T1	MORFOLOGIA_NEOPLASIA 3983 3986	ADC
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 426 432	cáncer
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 2966 2977	metastásica
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 3112 3123	metastásica
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 301 307	miomas
+#5	AnnotatorNotes T5	8895/0
+T6	MORFOLOGIA_NEOPLASIA 3714 3721	tumoral
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 2446 2469	ADC tubular infiltrante
+#7	AnnotatorNotes T7	8211/3/H
+T8	MORFOLOGIA_NEOPLASIA 2476 2497	adenoma tubulovelloso
+#8	AnnotatorNotes T8	8263/3
+T9	MORFOLOGIA_NEOPLASIA 2559 2571	neoformativa
+#9	AnnotatorNotes T9	8000/3
+T10	MORFOLOGIA_NEOPLASIA 2616 2666	ADC tubular infiltrante moderadamente diferenciado
+#10	AnnotatorNotes T10	8211/32/H
+T11	MORFOLOGIA_NEOPLASIA 3214 3260	ADC de colon derecho, G2, estadio IV (hepática
+#11	AnnotatorNotes T11	8140/6
+T12	MORFOLOGIA_NEOPLASIA 2826 2861	lesión dudosa en el lóbulo hepático
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 2884 2940	nódulos subcentimétricos en todos los lóbulos pulmonares
+#13	AnnotatorNotes T13	8000/6

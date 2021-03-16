@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 1944 1954	schwannoma
+#1	AnnotatorNotes T1	9560/0
+T2	MORFOLOGIA_NEOPLASIA 2133 2143	schwannoma
+#2	AnnotatorNotes T2	9560/0
+T3	MORFOLOGIA_NEOPLASIA 2262 2267	tumor
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 2482 2487	tumor
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 1171 1181	tumoración
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 1531 1541	tumoración
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 4349 4356	tumoral
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 3052 3097	tumor maligno de la vaina nerviosa periférica
+#8	AnnotatorNotes T8	9540/3
+T9	MORFOLOGIA_NEOPLASIA 3099 3116	neurofibrosarcoma
+#9	AnnotatorNotes T9	9540/3
+T10	MORFOLOGIA_NEOPLASIA 3674 3717	Tumor neuroectodérmico primitivo periférico
+#10	AnnotatorNotes T10	9364/3
+T11	MORFOLOGIA_NEOPLASIA 3724 3729	Ewing
+#11	AnnotatorNotes T11	9260/3
+T12	MORFOLOGIA_NEOPLASIA 3719 3723	PNET
+#12	AnnotatorNotes T12	9364/3

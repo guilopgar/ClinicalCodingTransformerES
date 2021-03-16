@@ -1,0 +1,44 @@
+T1	MORFOLOGIA_NEOPLASIA 2196 2210	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 2249 2263	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 6612 6626	adenocarcinoma
+#3	AnnotatorNotes T3	8140/3
+T4	MORFOLOGIA_NEOPLASIA 588 610	epitelioma basocelular
+#4	AnnotatorNotes T4	8090/3
+T5	MORFOLOGIA_NEOPLASIA 6720 6742	epitelioma basocelular
+#5	AnnotatorNotes T5	8090/3
+T6	MORFOLOGIA_NEOPLASIA 477 489	fibroadenoma
+#6	AnnotatorNotes T6	9010/0
+T7	MORFOLOGIA_NEOPLASIA 5123 5133	malignidad
+#7	AnnotatorNotes T7	8000/3
+T8	MORFOLOGIA_NEOPLASIA 3010 3021	metastásico
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 1942 1951	neoplasia
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 2586 2593	tumoral
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 3331 3338	tumoral
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 4884 4891	tumoral
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 6548 6557	tumorales
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 2332 2354	afectación a distancia
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 2660 2704	adenocarcinoma colorrectal bien diferenciado
+#15	AnnotatorNotes T15	8140/31
+T16	MORFOLOGIA_NEOPLASIA 3036 3050	Adenocarcinoma
+#16	AnnotatorNotes T16	8140/3
+T17	MORFOLOGIA_NEOPLASIA 3166 3174	pT3N1aM0
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 6025 6068	carcinoma con diferenciación neuroendocrina
+#18	AnnotatorNotes T18	8574/3
+T19	MORFOLOGIA_NEOPLASIA 6374 6397	diferenciación escamosa
+#19	AnnotatorNotes T19	8070/3
+T20	MORFOLOGIA_NEOPLASIA 6406 6420	neuroendocrina
+#20	AnnotatorNotes T20	8574/3
+T21	MORFOLOGIA_NEOPLASIA 6686 6742	diferenciación neuroendocrina del epitelioma basocelular
+#21	AnnotatorNotes T21	8574/3
+T22	MORFOLOGIA_NEOPLASIA 6337 6371	carcinoma con morfología basaloide
+#22	AnnotatorNotes T22	8090/3

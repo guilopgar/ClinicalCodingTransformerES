@@ -1,0 +1,28 @@
+T1	MORFOLOGIA_NEOPLASIA 1212 1226	carcinomatosis
+#1	AnnotatorNotes T1	8010/9
+T2	MORFOLOGIA_NEOPLASIA 2818 2832	carcinomatosis
+#2	AnnotatorNotes T2	8010/9
+T3	MORFOLOGIA_NEOPLASIA 901 911	malignidad
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 2233 2244	metastásica
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2635 2646	metastásico
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 2269 2279	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1072 1081	neoplasia
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 1809 1835	tumoración sólido-quística
+#8	AnnotatorNotes T8	8452/1
+T9	MORFOLOGIA_NEOPLASIA 1984 2010	tumoración sólido-quística
+#9	AnnotatorNotes T9	8452/1
+T10	MORFOLOGIA_NEOPLASIA 2655 2662	tumoral
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 2021 2061	carcinoma seromucinoso bien diferenciado
+#11	AnnotatorNotes T11	8441/31/H
+T12	MORFOLOGIA_NEOPLASIA 2161 2205	neoplasia mucinosa apendicular de bajo grado
+#12	AnnotatorNotes T12	8480/1
+T13	MORFOLOGIA_NEOPLASIA 2337 2372	tumor primario apendicular mucinoso
+#13	AnnotatorNotes T13	8480/1
+T14	MORFOLOGIA_NEOPLASIA 2783 2813	neoplasia mucinosa apendicular
+#14	AnnotatorNotes T14	8480/1

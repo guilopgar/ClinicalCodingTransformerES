@@ -1,0 +1,10 @@
+T1	MORFOLOGIA_NEOPLASIA 739 753	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 1016 1030	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 397 425	carcinoma ductal infiltrante
+#3	AnnotatorNotes T3	8500/3
+T4	MORFOLOGIA_NEOPLASIA 717 733	células malignas
+#4	AnnotatorNotes T4	8001/3
+T5	MORFOLOGIA_NEOPLASIA 816 837	recidiva a nivel óseo
+#5	AnnotatorNotes T5	8000/6

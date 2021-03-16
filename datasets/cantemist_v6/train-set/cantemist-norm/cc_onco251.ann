@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 5014 5042	carcinoma ductal infiltrante
+#1	AnnotatorNotes T1	8500/3
+T2	MORFOLOGIA_NEOPLASIA 135 141	cáncer
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 4825 4831	cáncer
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 7272 7278	cáncer
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 7724 7734	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 956 965	neoplasia
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 176 181	tumor
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 602 654	Carcinoma ductal infiltrante pobremente diferenciado
+#8	AnnotatorNotes T8	8500/33
+T9	MORFOLOGIA_NEOPLASIA 590 600	malignidad
+#9	AnnotatorNotes T9	8000/3
+T10	MORFOLOGIA_NEOPLASIA 1073 1083	malignidad
+#10	AnnotatorNotes T10	8000/3
+T11	MORFOLOGIA_NEOPLASIA 7514 7547	carcinoma ductal microinfiltrante
+#11	AnnotatorNotes T11	8500/3
+T12	MORFOLOGIA_NEOPLASIA 7603 7665	carcinoma intraductal residual, ambos pobremente diferenciados
+#12	AnnotatorNotes T12	8500/23

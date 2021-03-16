@@ -1,0 +1,22 @@
+T1	MORFOLOGIA_NEOPLASIA 3803 3825	carcinoma sarcomatoide
+T2	MORFOLOGIA_NEOPLASIA 4949 4975	lesiones de partes blandas
+T3	MORFOLOGIA_NEOPLASIA 4521 4535	lesiones óseas
+T4	MORFOLOGIA_NEOPLASIA 5520 5534	lesiones óseas
+T5	MORFOLOGIA_NEOPLASIA 2685 2709	lesión de partes blandas
+T6	MORFOLOGIA_NEOPLASIA 1270 1280	malignidad
+T7	MORFOLOGIA_NEOPLASIA 2643 2653	malignidad
+T8	MORFOLOGIA_NEOPLASIA 2908 2918	malignidad
+T9	MORFOLOGIA_NEOPLASIA 3000 3010	malignidad
+T10	MORFOLOGIA_NEOPLASIA 4471 4506	progresión radiológica a nivel óseo
+T11	MORFOLOGIA_NEOPLASIA 727 754	síndrome linfoproliferativo
+T12	MORFOLOGIA_NEOPLASIA 3516 3543	tumor de células fusiformes
+T13	MORFOLOGIA_NEOPLASIA 3751 3768	tumor fusocelular
+T14	MORFOLOGIA_NEOPLASIA 5571 5578	tumoral
+T15	MORFOLOGIA_NEOPLASIA 727 803	síndrome linfoproliferativo crónico T variedad linfocitos granulares grandes
+T16	MORFOLOGIA_NEOPLASIA 922 971	adenocarcinoma de pulmón infiltrante tipo papilar
+T17	MORFOLOGIA_NEOPLASIA 3853 3879	metástasis de un carcinoma
+T18	MORFOLOGIA_NEOPLASIA 3990 4044	Carcinoma sarcomatoide de origen pulmonar cTx cNx pM1c
+T19	MORFOLOGIA_NEOPLASIA 4073 4111	afectación múltiple en tejidos blandos
+T20	MORFOLOGIA_NEOPLASIA 4841 4864	progresión a nivel óseo
+T21	MORFOLOGIA_NEOPLASIA 5374 5410	lesiones conocidas de partes blandas
+T22	MORFOLOGIA_NEOPLASIA 2234 2272	lesiones sospechosas en partes blandas

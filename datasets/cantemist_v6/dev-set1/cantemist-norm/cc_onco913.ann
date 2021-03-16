@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 3196 3222	lesiones de partes blandas
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1120 1130	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 961 971	tumoración
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 364 403	carcinoma de células claras Fürhmann 3
+#4	AnnotatorNotes T4	8310/33
+T5	MORFOLOGIA_NEOPLASIA 1462 1491	lesiones en columna vertebral
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 1644 1680	metástasis de carcinoma sarcomatoide
+#6	AnnotatorNotes T6	8033/6
+T7	MORFOLOGIA_NEOPLASIA 1885 1958	metástasis de carcinoma de células claras con diferenciación sarcomatoide
+#7	AnnotatorNotes T7	8964/6
+T8	MORFOLOGIA_NEOPLASIA 3261 3297	lesiones situadas a nivel lumbosacro
+#8	AnnotatorNotes T8	8000/6

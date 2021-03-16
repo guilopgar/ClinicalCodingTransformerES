@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 1920 1934	Adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 1960 1963	cM0
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 226 232	cáncer
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 275 283	leucemia
+#4	AnnotatorNotes T4	9800/3
+T5	MORFOLOGIA_NEOPLASIA 1895 1905	malignidad
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 5405 5415	malignidad
+#6	AnnotatorNotes T6	8000/3
+T7	MORFOLOGIA_NEOPLASIA 1071 1081	tumoración
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 2743 2750	tumoral
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 1574 1617	metástasis adenocarcinoma poco diferenciado
+#9	AnnotatorNotes T9	8140/33
+T10	MORFOLOGIA_NEOPLASIA 2918 2947	progresión pulmonar bilateral
+#10	AnnotatorNotes T10	8000/6

@@ -1,0 +1,19 @@
+Anamnesis
+Mujer de 52 años, diagnosticada en julio de 2010 de hipernefroma sin afectación a distancia, realizándose nefrectomía izquierda total con resultado de carcinoma de células claras (pT2NoM0). En controles sucesivos que realiza la paciente, se objetiva en la tomografía computarizada (TC) de enero de 2011 una recidiva a nivel del lecho quirúrgico y local, por lo que se realiza resección con suprarrenalectomía y linfadenectomía de hilio renal izquierdo, siendo el resultado compatible con metástasis.
+En noviembre 2011 se objetiva nueva recaída con implantes pleurales y nódulo suprarrenal derecho, por lo que inicia sunitinib en diciembre de 2011 a 50 mg/día con respuesta parcial mantenida, habiendo realizado un total de 8 ciclos hasta el momento del ingreso.
+
+Examen físico
+La paciente ingresa por cuadro de desorientación, afasia de comprensión y bradipsiquia de 48 horas de evolución, de inicio subagudo. A la exploración física destaca Glasgow de 13, sin otras alteraciones destacables.
+
+Pruebas complementarias
+Se realiza TC craneal de urgencia donde no se observan masas ni captaciones patológicas de contraste endovenoso, con cisternas basales libres y sin presencia de hidrocefalia. No se identifican las cisternas perimesencefálicas y del acueducto de Silvio.
+A las 24 horas, la paciente presenta un empeoramiento rápido del nivel de conciencia con Glasgow de 6, con pupilas midriáticas, por lo que se realiza una resonancia magnética (RM) que informa de edema cerebral y cerebeloso con colapso severo de cisuras y surcos y leve desplazamiento del tronco encefálico, sin hidrocefalia, orientándose como posible tóxico-metabólico.
+
+Diagnóstico
+Tras haber descartado causas hidroelectrolíticas y metabólicas, se orienta como edema cerebral probablemente secundario a sunitinib.
+
+Tratamiento
+Tras suspender sunitinib, se inicia tratamiento antiedema con manitol y corticoterapia con resolución de la clínica en menos de 24 horas, pasando a índice en escala de Glasgow de 15. Se realiza una RM de control a los 7 días y que muestra resolución completa del edema con parámetros dentro de la normalidad. Debido a la resolución de la clínica neurológica, se inicia la retirada de corticoides y manitol de forma lentamente progresiva.
+
+Evolución
+A los 4 días de retirar el tratamiento antiedema, la paciente presenta de forma aguda disminución del nivel de consciencia sin respuesta al tratamiento corticoideo, por lo que finalmente es éxitus.

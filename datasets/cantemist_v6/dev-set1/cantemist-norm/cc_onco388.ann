@@ -1,0 +1,10 @@
+T1	MORFOLOGIA_NEOPLASIA 211 259	carcinoma seroso papilar de ovario de alto grado
+#1	AnnotatorNotes T1	8461/34
+T2	MORFOLOGIA_NEOPLASIA 4302 4321	progresión hepática
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 722 760	carcinoma seroso papilar de alto grado
+#3	AnnotatorNotes T3	8461/34
+T4	MORFOLOGIA_NEOPLASIA 775 807	infiltración uterina, peritoneal
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 1022 1059	recidiva radiológica a nivel hepático
+#5	AnnotatorNotes T5	8000/6

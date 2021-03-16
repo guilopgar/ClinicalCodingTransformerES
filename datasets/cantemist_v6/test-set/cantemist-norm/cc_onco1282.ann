@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 477 506	carcinoma medular de tiroides
+#1	AnnotatorNotes T1	8510/3
+T2	MORFOLOGIA_NEOPLASIA 381 399	lesiones hepáticas
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 982 993	metastásico
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1285 1295	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 1298 1308	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 2250 2260	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 107 113	miomas
+#7	AnnotatorNotes T7	8895/0
+T8	MORFOLOGIA_NEOPLASIA 1422 1432	neoplasias
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 1455 1458	MEN
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 1572 1619	Carcinoma medular de tiroides estadio IV (óseas
+#10	AnnotatorNotes T10	8510/6

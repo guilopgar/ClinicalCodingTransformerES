@@ -1,0 +1,48 @@
+T1	MORFOLOGIA_NEOPLASIA 548 558	encondroma
+#1	AnnotatorNotes T1	9220/0
+T2	MORFOLOGIA_NEOPLASIA 5063 5073	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 5441 5451	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2655 2660	tumor
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 1712 1719	tumoral
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 2136 2143	tumoral
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 1085 1159	tumoración de partes blandas de naturaleza mixta probablemente mesenquimal
+#7	AnnotatorNotes T7	8990/1
+T8	MORFOLOGIA_NEOPLASIA 1267 1284	tumor mesenquimal
+#8	AnnotatorNotes T8	8800/1
+T9	MORFOLOGIA_NEOPLASIA 1519 1543	neoformación mesenquimal
+#9	AnnotatorNotes T9	8800/1
+T10	MORFOLOGIA_NEOPLASIA 1869 1894	tumor mesenquimal maligno
+#10	AnnotatorNotes T10	8800/3
+T11	MORFOLOGIA_NEOPLASIA 2249 2274	Tumor mesenquimal maligno
+#11	AnnotatorNotes T11	8800/3
+T12	MORFOLOGIA_NEOPLASIA 2384 2401	tumor mesenquimal
+#12	AnnotatorNotes T12	8800/1
+T13	MORFOLOGIA_NEOPLASIA 2806 2823	tumor fusocelular
+#13	AnnotatorNotes T13	8032/1
+T14	MORFOLOGIA_NEOPLASIA 2961 2989	histiocitoma fibroso maligno
+#14	AnnotatorNotes T14	8830/3
+T15	MORFOLOGIA_NEOPLASIA 2991 3024	sarcoma pleomórfico de alto grado
+#15	AnnotatorNotes T15	8802/34
+T16	MORFOLOGIA_NEOPLASIA 3098 3131	sarcoma pleomórfico de alto grado
+#16	AnnotatorNotes T16	8802/34
+T17	MORFOLOGIA_NEOPLASIA 1286 1304	Nódulos pulmonares
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 3308 3327	lesiones pulmonares
+#18	AnnotatorNotes T18	8000/6
+T19	MORFOLOGIA_NEOPLASIA 1470 1484	lesiones óseas
+#19	AnnotatorNotes T19	8000/6
+T20	MORFOLOGIA_NEOPLASIA 3831 3849	nódulos pulmonares
+#20	AnnotatorNotes T20	8000/6
+T21	MORFOLOGIA_NEOPLASIA 5016 5034	nódulos pulmonares
+#21	AnnotatorNotes T21	8000/6
+T22	MORFOLOGIA_NEOPLASIA 4141 4160	progresión pulmonar
+#22	AnnotatorNotes T22	8000/6
+T23	MORFOLOGIA_NEOPLASIA 4745 4764	progresión pulmonar
+#23	AnnotatorNotes T23	8000/6
+T24	MORFOLOGIA_NEOPLASIA 3386 3413	siembra hematógena pulmonar
+#24	AnnotatorNotes T24	8000/6

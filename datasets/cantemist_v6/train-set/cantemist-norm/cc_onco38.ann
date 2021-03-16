@@ -1,0 +1,28 @@
+T1	MORFOLOGIA_NEOPLASIA 2233 2247	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 2551 2574	adenocarcinoma mucinoso
+#2	AnnotatorNotes T2	8480/3
+T3	MORFOLOGIA_NEOPLASIA 1931 1945	carcinomatosis
+#3	AnnotatorNotes T3	8010/9
+T4	MORFOLOGIA_NEOPLASIA 2133 2147	carcinomatosis
+#4	AnnotatorNotes T4	8010/9
+T5	MORFOLOGIA_NEOPLASIA 2819 2833	carcinomatosis
+#5	AnnotatorNotes T5	8010/9
+T6	MORFOLOGIA_NEOPLASIA 3155 3169	carcinomatosis
+#6	AnnotatorNotes T6	8010/9
+T7	MORFOLOGIA_NEOPLASIA 3240 3254	carcinomatosis
+#7	AnnotatorNotes T7	8010/9
+T8	MORFOLOGIA_NEOPLASIA 425 446	cistoadenoma mucinoso
+#8	AnnotatorNotes T8	8470/0
+T9	MORFOLOGIA_NEOPLASIA 2849 2871	pseudomixoma peritonei
+#9	AnnotatorNotes T9	8480/6
+T10	MORFOLOGIA_NEOPLASIA 3185 3208	pseudomixoma peritoneal
+#10	AnnotatorNotes T10	8480/6
+T11	MORFOLOGIA_NEOPLASIA 252 276	teratoma maduro quístico
+#11	AnnotatorNotes T11	9080/0
+T12	MORFOLOGIA_NEOPLASIA 3268 3289	enfermedad diseminada
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 2480 2502	implantes peritoneales
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 4243 4261	progresión pélvica
+#14	AnnotatorNotes T14	8000/6

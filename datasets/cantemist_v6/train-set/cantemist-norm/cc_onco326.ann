@@ -1,0 +1,32 @@
+T1	MORFOLOGIA_NEOPLASIA 618 632	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 2389 2403	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 4491 4505	adenocarcinoma
+#3	AnnotatorNotes T3	8140/3
+T4	MORFOLOGIA_NEOPLASIA 3310 3327	colangiocarcinoma
+#4	AnnotatorNotes T4	8160/3
+T5	MORFOLOGIA_NEOPLASIA 3277 3288	metastásica
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 4246 4257	metastásico
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 2920 2930	metástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 838 845	tumoral
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 3652 3659	tumoral
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 648 655	cTxNxM0
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 931 972	adenocarcinoma moderadamente diferenciado
+#11	AnnotatorNotes T11	8140/32
+T12	MORFOLOGIA_NEOPLASIA 974 983	ypT3N0/M0
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 1641 1712	adenocarcinoma de tipo intestinal compatible con afectación metastásica
+#13	AnnotatorNotes T13	8144/6
+T14	MORFOLOGIA_NEOPLASIA 1304 1319	lesión hepática
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 4393 4414	recidiva paracardíaca
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 4997 5020	progresión paracardíaca
+#16	AnnotatorNotes T16	8000/6

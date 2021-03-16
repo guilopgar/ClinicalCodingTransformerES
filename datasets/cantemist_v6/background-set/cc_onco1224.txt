@@ -1,0 +1,37 @@
+Anamnesis
+Mujer de 64 años, sin alergias medicamentosas conocidas, no fumadora y bebedora ocasional de vino en las comidas.
+No refiere factores de riesgo cardiovascular. No cardiopatía, broncopatía ni hepatopatía conocida. Antecedente de cirugía de pólipo nasal.
+Antecedentes familiares: no.
+Refiere que hace 6 meses comienza con dolor de espalda y posteriormente dolor abdominal infraumbilical, tenesmo rectal y rectorragia (al principio sangre oscura, luego más roja). Diarrea y pérdida de peso de 2 kg desde el inicio del cuadro.
+
+Examen físico
+Buen estado general. Auscultación pulmonar anodina. Abdomen: blando, depresible, no doloroso. No se palpan masas ni megalias. Inspección anal y tacto rectal: sin alteraciones.
+
+Pruebas complementarias
+- Colonoscopia diagnóstica (17/12/2007): se progresa hasta 15 cm del margen anal, donde se objetiva una masa que estenosa la luz e impide el paso del endoscopio. La mucosa es friable a la toma de biopsias.
+- Anatomía Patológica: mucosa de tipo colónico infiltrada por adenocarcinoma moderadamente diferenciado.
+- TC abdómino-pélvico con contraste y RM de pelvis (3/1/2008): hallazgos compatibles con neo de colon en estadio radiológico T3 (por afectación de serosa) N2 (> 4 ganglios locorregionales aumentados de tamaño) M1 (2 LOE hepáticas sugestivas de metástasis en los segmentos 7 y 8).
+- Ecografía endorrectal: a 10 cm del margen anal se observa una lesión proliferativa que no sobrepasa la capa muscular. Impide el paso del ecógrafo, por lo que no se puede explorar la existencia o no de adenopatías: uT2Nx (no se considera valorable la infiltración de pared por no poder estudiar toda la extensión del tumor).
+
+Diagnóstico
+Adenocarcinoma de rectosigma estadio IV (T3N2M1).
+
+Tratamiento
+Se inició FOLFOX 4 x 2 ciclos en espera de comenzar radioterapia; posteriormente ha recibido RT + 5-FUic, con respuesta parcial según criterios RECIST del tumor primario y de las LOE hepáticas. Se decide realizar cirugía de cáncer de recto: resección anterior (mayo de 2008).
+Anatomía patológica: adenocarcinoma colorrectal estenosante de recto, con cambios atribuibles al tratamiento neoadyuvante (35% de tumor viable persistente). Infiltración vasculolinfática y perineural.
+- ypT3b N0 V1 L1 R0. KRAS mutado.
+Posteriormente recibe 4 ciclos de quimioterapia FOLFOX 4 (el último en agosto 2008). En la TC de reevaluación de septiembre se confirma la progresión tumoral hepática por un nódulo milimétrico de 7 mm en el LHI segmento 2. Nódulo pulmonar milimétrico inespecífico.
+
+Evolución
+Hepatectomía derecha en octubre de 2008: dos metástasis de adenocarcinoma colorrectal R0.
+En diciembre de 2008: progresión pulmonar en la TC. Inicia primera linea de FOLFOX + bevacizumab, recibiendo 13 ciclos, con enfermedad tumoral estable.
+En octubre de 2009 progresión en la TC de los nódulos pulmonares. Comienza la segunda línea FOLFIRI + bevacizumab, habiendo recibido 16 ciclos con enfermedad tumoral estable en la TC de abril de 2010.
+Se decide solicitar PET-FDG y remitir a Cirugía Torácica para valoración. PET-TC (julio de 2010): nódulos pulmonares sospechosos en el segmento anterior del LSD y LID.
+Se resecan las dos metástasis pulmonares descritas (agosto de 2010) en el Hospital 12 de Octubre. Se confirma mediante anatomía patológica que se trata de metástasis de adenocarcinoma colorrectal R0.
+Posteriormente ha continuado FOLFIRI + bevacizumab, con enfermedad tumoral estable hasta cumplir un total de 46 ciclos (agosto de 2012). Se suspende por nueva progresión tumoral pulmonar. No se observa enfermedad abdominal.
+Se deriva al Hospital Ramón y Cajal para tratamiento como uso expandido con tercera línea regorafenib en agosto de 2012. Se realizan TC de reevaluación en octubre, enero y abril, mostrando enfermedad estable.
+En la TC de julio de 2013: hallazgos compatibles con discreta progresión tumoral ganglionar mediastínica (adenopatía paratraqueal derecha y subcarinal). En cuanto a los nódulos pulmonares múltiples y bilaterales, aunque alguno de ellos ha crecido discretamente respecto al control previo, no cumple criterios RECIST de progresión.
+Se suspende el regorafenib en julio de 2013 por progresión, que se confirma en la TC de septiembre de 2013, por lo que inicia mFOLFOX 6 + bevacizumab.
+Última PET-TC en abril de 2014: estabilidad tumoral.
+Hasta el momento actual se han administrado 9 ciclos de mFOLFOX 6 + bevacizumab.
+Resumen actual: adenocarcinoma de recto alto (KRAS mutado) T3N2M1 con metástasis hepáticas resecadas y metástasis pulmonares resecadas con recidiva pulmonar exclusivamente, sin mostrar en ningún momento de la evolución tras la hepatectomía derecha nuevas metástasis hepáticas tras 6 años de evolución de la enfermedad metastásica en tratamiento quimioterápico de cuarta línea (esquema mFOLFOX 6-bevacizumab).

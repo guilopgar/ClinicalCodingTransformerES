@@ -1,0 +1,18 @@
+T1	MORFOLOGIA_NEOPLASIA 935 947	angiosarcoma
+#1	AnnotatorNotes T1	9120/3
+T2	MORFOLOGIA_NEOPLASIA 553 563	malignidad
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 1119 1129	malignidad
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 2784 2794	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 1324 1331	tumoral
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 1206 1312	Angiosarcoma cutáneo convencional de 4,5 cm, grado histológico 3 (según sistema de gradación de la FNCLCC)
+#6	AnnotatorNotes T6	9120/33
+T7	MORFOLOGIA_NEOPLASIA 1525 1527	Mx
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 2709 2735	metástasis de angiosarcoma
+#8	AnnotatorNotes T8	9120/6
+T9	MORFOLOGIA_NEOPLASIA 2061 2078	nódulo subcutáneo
+#9	AnnotatorNotes T9	8000/6

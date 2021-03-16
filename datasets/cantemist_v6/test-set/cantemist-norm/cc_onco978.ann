@@ -1,0 +1,26 @@
+T1	MORFOLOGIA_NEOPLASIA 3350 3386	Carcinoma de mama ductal infiltrante
+#1	AnnotatorNotes T1	8500/3
+T2	MORFOLOGIA_NEOPLASIA 1475 1477	M1
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 440 446	T2N0M0
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 393 421	carcinoma ductal infiltrante
+#4	AnnotatorNotes T4	8500/3
+T5	MORFOLOGIA_NEOPLASIA 1218 1246	carcinoma ductal infiltrante
+#5	AnnotatorNotes T5	8500/3
+T6	MORFOLOGIA_NEOPLASIA 1884 1910	cáncer de mama metastásico
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 6198 6209	metastásica
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 714 726	metastásicas
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 1464 1474	metástasis
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 677 684	tumoral
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 1098 1105	tumoral
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 1912 1915	CMm
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 1596 1614	afectación anexial
+#13	AnnotatorNotes T13	8000/6

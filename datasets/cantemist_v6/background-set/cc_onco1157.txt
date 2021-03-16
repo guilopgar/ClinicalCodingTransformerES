@@ -1,0 +1,37 @@
+Anamnesis
+Paciente mujer de 76 años, con antecedente de hipotiroidismo, en tratamiento con levotiroxina, intervenida de safenectomia derecha, G0P0, con historia de infecciones urinarias frecuentes desde la niñez; desde enero de 2012 presenta episodios de hematuria, disuria e incontinencia urinaria y posteriormente sensación de masa en la vagina. Es valorada por Ginecología: lesión exofítica que protruye a través del meato uretral, con reporte de patología en diciembre de 2012: compromiso por adenocarcinoma bien diferenciado, por lo cual es derivada a Urología, donde es valorada en febrero de 2013 detectando una masa que compromete el introito vaginal, el cérvix y la uretra, con biopsia de abril 2013: exocérvix y vagina con adenocarcinoma moderadamente diferenciado con marcadores intestinales, CDX2, CK20, CEA positivos.
+Se realiza en junio de 2013 resección de la masa uretral con hallazgos de: masa exofítica protruyente dependiente del 90% de la uretra, que compromete la pared vaginal anterior y el labio menor izquierdo, friable, de fácil sangrado, de aproximadamente 5 cm de diámetro. Con reporte de anatomía patológica de tumor uretral con adenocarcinoma moderadamente diferenciado infiltrante, con compromiso del tejido conectivo subepitelial urotelial de la uretra, con marcadores de inmunohistoquímica realizados que favorecen origen gastrointestinal; los bordes de sección de los fragmentos muestran compromiso tumoral.
+Ante el reporte de la anatomía patológica, favoreciendo el origen intestinal y con la poca frecuencia que presenta el adenocarcinoma primario de uretra, se solicitan nuevos marcadores de inmunohistoquímica, intentando aclarar el origen y orientar así el tratamiento; además, se solicitan como estudio de extensión endoscopia de vías digestivas altas, colonoscopia y nuevas TC de control, sin evidenciar otra lesión que pudiese sugerir un primario.
+Tras la cirugía permanece sin nuevos episodios de hematuria, ni sensación de masa vaginal, solo aqueja incontinencia urinaria que limita su calidad de vida y ocasiona depresión y aislamiento social.
+En noviembre de 2013 refiere nueva hematuria y sensación de masa, por lo que se realiza en diciembre una RM de control, en la que se evidencia una recaída netamente a nivel pélvico; ante los resultados de las pruebas complementarias efectuadas hasta la fecha y tras una revisión de la literatura médica se considera adenocarcinoma primario de uretra femenina.
+
+Examen físico
+Buen estado general, ECOG PS: 1. Cabeza y cuello: anictérica, no adenopatías palpables. Tórax: mamas y axilas libres.
+Abdomen: blando, depresible, no dolor, ni masas. Extremidades: eutróficas sin edemas. G/U: se evidencia incontinencia urinaria permanente; al tacto vaginal, vagina estrecha; en la pared vaginal derecha, en el tercio inferior de la vagina se palpan lesiones rugosas, mal definidas, con sensación de masa en la cúpula vaginal.
+Exploración neurológica: normal.
+
+Pruebas complementarias
+- TC abdominal (2/2013): normal.
+- TC de tórax (3/2013): granuloma calcificado en el lóbulo inferior del pulmón izquierdo.
+- Citología de orina (3/2013): negativa.
+- EVDA (7/2013): metaplasia intestinal fundocorporal a descartar, con resultado de patología mucosa fundocorporal gástrica normal.
+- Colonoscopia (7/2013): diverticulosis del sigmoide. Pólipo del sigmoide con resultado de patología: pólipo hiperplásico del sigmoide.
+- TC de tórax y abdomen (8/2013): sin cambios respecto a los anteriores, no masas abdominales ni lesiones metastásicas.
+- Marcadores tumorales (8/2013): CEA, Ca125 y Ca19.9 dentro de la normalidad.
+- Citología de orina (9/2013): extendidos necroinflamatorios de predominio agudo (abundantes neutrófilos) con escasos hematíes y algunas pocas células uroteliales con cambios reactivos.
+- RM de pelvis (12/2013): masa de aspecto neoplásico ocupando la porción superior del canal vaginal de 42 x 51 x 50 mm, con signos de infiltración al labio posterior del cérvix, condicionando estenosis del canal endocervical con acumulación de líquido a este nivel y en la cavidad endometrial, sin signos de extensión a otros órganos vecinos, ni adenomegalias.
+- Marcadores tumorales (12/2013): CEA, Ca125 y Ca19.9 dentro de la normalidad.
+- TC de tórax (1/2014): no lesiones metastásicas ni adenomegalias.
+
+Diagnóstico
+Patología: adenocarcinoma moderadamente diferenciado infiltrante, compromiso del tejido conectivo subepitelial urotelial de la uretra. Inmunohistoquímica:
+- Positividad para MUC 5 AC focal y ?-catenina a nivel citoplasmático con negatividad nuclear (hallazgos que se han descrito en adenocarcinomas de origen urotelial).
+- Hay positividad para CEA, CK20 y CDX2 con negatividad para CK7 (hallazgos que comparten adenocarcinomas de origen urotelial y colónico).
+- p16 y Rec. estrogénicos son negativos (en contra de primario cervical o endometrial).
+Los hallazgos descritos favorecen adenocarcinoma primario uretral, sin embargo, se requiere descartar clinicamente un origen secundario, por un tumor en colon o ginecológico, antes de concluir en forma definitiva el origen uretral.
+
+Tratamiento
+Debido a que se trataba de una recidiva local (pélvica), se le propone a la paciente la opción de rescate quirúrgico (exanteración) que la paciente rechaza y como segunda opción se ofrece radioterapia externa fraccionamiento 180 cGy para dosis total 5040 cGy, en 28 sesiones, con boost sobre la cúpula vaginal e irradiando cadenas ganglionares y quimioterapia con cisplatino semanal a dosis de 50 mg/m2 de manera concomitante, con aceptable tolerancia al tratamiento por toxicidad mucositis.
+
+Evolución
+La paciente finaliza el tratamiento en febrero de 2014, con excelente respuesta al mismo, en la RM de evaluación realizada en mayo de 2014 no se aprecia la masa en la cúpula vaginal, persiste con incontinencia pero no ha presentado nuevos episodios de hematuria.

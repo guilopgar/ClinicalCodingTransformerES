@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 696 714	carcinoma escamoso
+#1	AnnotatorNotes T1	8070/3
+T2	MORFOLOGIA_NEOPLASIA 1393 1409	células malignas
+#2	AnnotatorNotes T2	8001/3
+T3	MORFOLOGIA_NEOPLASIA 562 569	maligno
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 2669 2679	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 3096 3114	nódulos pulmonares
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 66 84	papiloma invertido
+#6	AnnotatorNotes T6	8050/0
+T7	MORFOLOGIA_NEOPLASIA 732 750	papiloma invertido
+#7	AnnotatorNotes T7	8050/0
+T8	MORFOLOGIA_NEOPLASIA 2829 2834	tumor
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 3423 3428	tumor
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 1490 1497	tumoral
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 752 782	papiloma invertido malignizado
+#11	AnnotatorNotes T11	8050/3
+T12	MORFOLOGIA_NEOPLASIA 3751 3770	progresión pulmonar
+#12	AnnotatorNotes T12	8000/6

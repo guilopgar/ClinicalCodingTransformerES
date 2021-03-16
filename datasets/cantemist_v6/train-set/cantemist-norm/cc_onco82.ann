@@ -1,0 +1,8 @@
+T1	MORFOLOGIA_NEOPLASIA 1839 1858	celulas neoplasicas
+#1	AnnotatorNotes T1	8001/1
+T2	MORFOLOGIA_NEOPLASIA 1113 1123	meningioma
+#2	AnnotatorNotes T2	9530/0
+T3	MORFOLOGIA_NEOPLASIA 2482 2489	tumoral
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 1672 1726	meduloblastoma desmoplásico nodular grado IV de la OMS
+#4	AnnotatorNotes T4	9471/34

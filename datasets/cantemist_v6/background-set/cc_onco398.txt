@@ -1,0 +1,44 @@
+Anamnesis
+» Varón de 65 años con antecedentes:
+» NAMC. DM2. Exfumador. IPA (índice paquete/año): 19. Edema de Reinke.
+» Intervenciones quirúrgicas: catarata ojo derecho, fractura rótula izquierda.
+» Tratamiento habitual: metformina 850 mg 0,5 mg al día.
+
+Historia oncológica
+En marzo 2019 a raíz de cuadro de disnea progresiva consultó en Atención Primaria y se realizó una radiografía de tórax donde se apreciaba un derrame pleural derecho masivo.
+Ingresó para estudio en Neumología donde se realizó fibrobroncoscopia y TC toracoabdominopélvica objetivándose hidro-neumotórax derecho masivo con atelectasia completa del pulmón derecho por compresión del derrame. Pleura engrosada nodular sugestiva de metástasis pleurales. Dos masas hipodensas en lóbulo inferior derecho de 40 x 31 mm y en lóbulo medio de 37 x 30 mm. Adenopatías mediastínicas paratraqueales derechas de 28 x 20 mm y adenopatía hiliar derecha de 33 x 26 mm. Precisó colocación de tubo de drenaje torácico extrayéndose un líquido pleural compatible con exudado de predominio linfocitico y se realizó biopsia pleural cerrada que fue positiva para adenocarcinoma de origen pulmonar.
+
+La citología del líquido pleural fue asimismo positiva para adenocarcinoma. Durante su primer ingreso se evacuó el líquido y se realizó pleurodesis con talco con alta posterior quedando con el diagnóstico de adenocarcinoma de pulmón estadio IVA (T4N2M1a) con PDL1 3 %, EGFR no mutado, ALK no traslocado y sin presencia de mutación en Ros1.
+A los 4 días, presenta nueva clínica de disnea con reaparición en radiografía de tórax del derrame pleural que ocupaba todo el hemitórax derecho, por lo que ingresa y se coloca nuevo tubo de tórax conectándose a Pleure-vac en aspiración suave. En el líquido pleural se aisló S. aureus por lo que se inició tratamiento con vancomicina y posteriormente con cloxacilina al conocerse el antibiograma.
+Además, se obtuvo el resultado positivo del cultivo en biopsia pleural para Mycobacterium tuberculosis complex con BAAR en esputo negativos, comenzando así terapia antituberculosa con rifampicina/pirazinamida/etambutol/isoniazida, para el tratamiento de pleuritis tuberculosa no bacilífera.
+El paciente evolucionó satisfactoriamente tras 10 días de ingreso siendo posible la retirada del drenaje y completando pauta antibiótica. Se administró asimismo el primer ciclo de quimioterapia según esquema carboplatino AUC 6: pemetrexed 500 mg/m2 con aceptable tolerancia salvo por emesis grado 1.
+
+Enfermedad actual
+A los 7 días del alta, el paciente acude con nueva clínica de disnea sin fiebre, confirmándose reaparición del derrame en radiografía de tórax. Ingresó por tercera vez para colocación de tubo de drenaje torácico (DET) cuyo débito mostró un contenido completamente hemático presentando el paciente taquicardia e hipotensión con TA 90/60 mm Hg.
+Exploración física
+» TAS: 90 mm Hg TAD: 60 mm Hg. Temperatura: 37,0 FC: 129. Saturación de Oxígeno: 91.
+» AC: rítmico, taquicárdico, sin soplos.
+» AP: murmullo vesicular disminuido en hemitórax derecho, sibilantes en campo izquierdo.
+» Abdomen: globuloso, blando y depresible, no doloroso a la palpación superficial ni profunda. RHA presentes. Sin signos de irritación peritoneal. No hay masas ni megalias.
+» Puñopercusión bilateral negativo.
+» Miembros inferiores: edemas con fóvea hasta rodilla. No hay signos de TVP. Pulsos pedios presentes y simétricos.
+
+Pruebas complementarias
+» Líquido pleural: pH 7,04. Recuento: hematíes 2.046.000 /mm3 , leucocitos** 5.010 /mm, Aspecto macroscópico hemático.
+» Analítica: fracaso renal agudo (creatinina 3,17 mg/dl), LDH 553, elevación reactantes fase aguda y Hb 7,6 g/dl, hematocrito 22 %. Se solicitó hematocrito en líquido pleural que resultó ser del 18 % (más del 50 % del hematocrito en sangre periférica).
+
+Diagnóstico
+» Hemotórax por sangrado de metástasis pleurales.
+» Shock hemorrágico con FRA prerrenal secundario.
+» Pleuritis tuberculosa.
+» Adenocarcinoma de pulmón estadio IVA.
+
+Tratamiento
+Después del diagnóstico inicial de hemotórax derecho masivo por sangrado de implantes pleurales sin conocerse exactamente si había sido espontáneo o yatrogénico, con shock hemorrágico secundario, se solicitó valoración por cirugía torácica que desestimó actitud quirúrgica y se inició tratamiento médico con transfusiones periódicas de concentrados de hematíes, sueroterapia intensiva y ácido tranexámico endovenoso a dosis de 1.000 mg iv cada 8 horas manteniendo el tubo de tórax a caída libre, sin aspiración. Asimismo, se inició antibioterapia empírica con meropenem y linezolid, dado el antecedente de hospitalización reciente y asumiendo que el pH del líquido pleural podría no sólo ser ácido por el sangrado sino tener un componente infeccioso.
+Ante la situación clínica crítica del paciente, se optó por administrar radioterapia hemostática y comenzar instilaciones de ácido tranexámico a través del tubo de drenaje endotorácico, bajo la pauta de 1 ampolla (500 mg) diluida en 20 ml de SSF 0,9 % cada 8 horas.
+
+Evolución
+Pasados 4 días, el líquido comenzó a ser serohemático pero el paciente comenzó con dificultad de accesos venosos, por lo que precisó colocación de catéter central de acceso periférico y se detectó en la analítica trombopenia grado 4 con 26.000 plaquetas atribuida a causa multifactorial (quimioterapia, radioterapia y linezolid). Se retiró el linezolid y se suspendió la radioterapia (recibió 3 sesiones de 6 previstas).
+Recibe un total de 14 días de instilaciones de ácido tranexámico bajo la pauta previamente mencionada, y 3 sesiones de radioterapia que consiguieron frenar el sangrado a través del DET, pudiendo realizar después pleurodesis con ácido tranexámico a dosis de 4 ampollas de 500 mg diluidas en 50 ml de SSF 0,9 %.
+Como complicación posterior presentó trombosis del catéter en el contexto de trombopenia grave que contraindicaba la anticoagulación, por lo que se retiró el mismo hasta que la cifra de plaquetas se hubo normalizado y se asumió la resolución del sangrado pleural.
+La evolución posterior del paciente tras 3 semanas de hospitalización fue satisfactoria, siendo posible la retirada del DET sin nuevos datos de anemización ni otras incidencias clínicas, siendo dado de alta para completar tratamiento domiciliario.

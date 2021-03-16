@@ -1,0 +1,23 @@
+Anamnesis
+Mujer de 66 años, que fue diagnosticada de melanoma de úvea derecho a raíz de la disminución del campo visual. Se realizó una RM de órbita donde se observó una masa tumoral de 20 mm. Se realizó enucleación ocular y la anatomía patológica fue compatible con melanoma maligno. El estudio de extensión resultó negativo. Se valoró como melanoma de úvea derecho enucleado, candidata a realizar controles.
+A los 8 meses, se evidenció la aparición de metástasis hepáticas, por lo que recibió tratamiento con ipilimumab en 1.ª línea a 10 mg/kg cada 21 días por 4 ciclos, dentro de ensayo clínico.
+A los 2 meses de finalizar el tratamiento, ingresó en Oncología por síndrome tóxico, diarreas de grado 3, que se acompañaban de rectorragias y dolor abdominal cólico.
+
+Examen físico
+PS 3, afebril. Eupneica en reposo. Crepitantes bibasales a la auscultación pulmonar. Abdomen distendido, depresible, doloroso a la palpación profunda, con peristaltismo aumentado.
+
+Pruebas complementarias
+Durante el ingreso se realizó la TC toracoabdominal de valoración de respuesta que mostraba múltiples nódulos pulmonares bilaterales, patrón en vidrio deslustrado, con alguna condensación periférica, engrosamiento de septos de forma global y derrame pleural bilateral, con TEP segmentario. A nivel hepático, había estabilidad de las metástasis. En colon, signos de colitis sin complicaciones agudas.
+
+Diagnóstico
+La orientación diagnóstica fue de melanoma uveal con metástasis hepáticas con toxicidad gastrointestinal de grado 3 secundaria a ipilimumab e infiltrados pulmonares con derrame pleural a estudio.
+
+Tratamiento
+Desde el inicio del episodio, se administró tratamiento con corticoterapia a dosis de 1 mg/kg/dia, antibioterapia profiláctica de amplio espectro y nutrición parenteral. Se solicitó colonoscopia, que mostró úlceras cubiertas de fibrina e infiltrado linfocítico en la anatomía patológica, compatible con toxicidad intestinal por ipilimumab.
+
+Evolución
+Tras dos semanas de tratamiento con corticoterapia, la paciente presentó mejoría progresiva de las diarreas, pudiendo retirar la nutrición parenteral. Asimismo, mostró mejoría de la clínica respiratoria y de la auscultación pulmonar, por lo que se decidió realizar una nueva TC torácica (3 semanas posterior a la primera). La TC mostró completa resolución de los nódulos pulmonares y del derrame pleural, atribuyendo el cuadro a toxicidad pleuropulmonar por ipilimumab.
+Posteriormente, siguió controles en consulta externa. En la TC de control, se evidenció progresión de las metástasis hepáticas, lo que se confirmó con una nueva TC a las 4 semanas. Actualmente, está pendiente de estudio mutacional para ensayo clínico fase 1.
+El tratamiento actual del melanoma uveal metastásico es limitado debido a la falta de efectividad de la terapia sistémica.
+La resistencia a la quimioterapia convencional ha impulsado el desarrollo de nuevas terapias como la inmunoterapia, siendo el ipilimumab un candidato potencial. El ipilimumab es un anticuerpo monoclonal humano que actua bloqueando el CTLA-4, que es un regulador de las vías de activación de los linfocitos T, potenciando así la respuesta inmunológica antitumoral. Está aprobado para pacientes con melanoma cutáneo metastásico, y se está estudiando su efectividad en pacientes con melanoma de uvea metastásico.
+Por su mecanismo de acción también puede producir respuesta inmunológica a tejidos sanos, siendo la causa de los principales efectos adversos que puede ocasionar, afectando básicamente al aparato digestivo, glándulas endocrinas, hígado y piel. La mayoría ocurren durante o después del tratamiento y generalmente responden al tratamiento sistémico con corticosteroides a dosis altas. En nuestro caso pudimos ver toxicidad digestiva y toxicidad pleuropulmonar secundarias a ipilimumab que respondieron de forma favorable a los corticoides. En la literatura solamente hay publicado un caso de toxicidad pulmonar. La relevancia de este caso radica en la importancia de considerar la toxicidad pulmonar secundaria a ipilimumab en pacientes que presenten sintomatología respiratoria o infiltrados pulmonares.

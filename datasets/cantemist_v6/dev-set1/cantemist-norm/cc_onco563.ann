@@ -1,0 +1,22 @@
+T1	MORFOLOGIA_NEOPLASIA 2259 2261	M0
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 3051 3065	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 4035 4049	adenocarcinoma
+#3	AnnotatorNotes T3	8140/3
+T4	MORFOLOGIA_NEOPLASIA 1838 1879	adenocarcinoma moderadamente diferenciado
+#4	AnnotatorNotes T4	8140/32
+T5	MORFOLOGIA_NEOPLASIA 3231 3241	malignidad
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 3797 3807	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1211 1223	neoformación
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 1701 1711	tumoración
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 3714 3724	tumoración
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 2212 2219	tumoral
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 1545 1595	adenocarcinoma de colon moderadamente diferenciado
+#11	AnnotatorNotes T11	8140/32

@@ -1,0 +1,32 @@
+T1	MORFOLOGIA_NEOPLASIA 135 149	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 193 202	carcinoma
+#2	AnnotatorNotes T2	8010/3
+T3	MORFOLOGIA_NEOPLASIA 214 233	carcinoma urotelial
+#3	AnnotatorNotes T3	8120/3
+T4	MORFOLOGIA_NEOPLASIA 1225 1244	carcinoma urotelial
+#4	AnnotatorNotes T4	8120/3
+T5	MORFOLOGIA_NEOPLASIA 1395 1428	carcinoma urotelial de alto grado
+#5	AnnotatorNotes T5	8120/34
+T6	MORFOLOGIA_NEOPLASIA 4035 4068	carcinoma urotelial de alto grado
+#6	AnnotatorNotes T6	8120/34
+T7	MORFOLOGIA_NEOPLASIA 6059 6065	cáncer
+#7	AnnotatorNotes T7	8000/3
+T8	MORFOLOGIA_NEOPLASIA 6274 6280	cáncer
+#8	AnnotatorNotes T8	8000/3
+T9	MORFOLOGIA_NEOPLASIA 6300 6306	cáncer
+#9	AnnotatorNotes T9	8000/3
+T10	MORFOLOGIA_NEOPLASIA 2416 2426	neoplásico
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 1429 1436	pT3N0M0
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 2719 2726	pT3N0M0
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 898 915	síndrome de Lynch
+#13	AnnotatorNotes T13	8000/3
+T14	MORFOLOGIA_NEOPLASIA 2650 2718	Carcinoma urotelial de vía urinaria (uréter izquierdo) de alto grado
+#14	AnnotatorNotes T14	8120/34
+T15	MORFOLOGIA_NEOPLASIA 2770 2787	síndrome de Lynch
+#15	AnnotatorNotes T15	8000/3
+T16	MORFOLOGIA_NEOPLASIA 4117 4134	síndrome de Lynch
+#16	AnnotatorNotes T16	8000/3

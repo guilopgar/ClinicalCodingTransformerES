@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 1645 1649	GIST
+#1	AnnotatorNotes T1	8936/3
+T2	MORFOLOGIA_NEOPLASIA 1976 1993	células tumorales
+#2	AnnotatorNotes T2	8001/1
+T3	MORFOLOGIA_NEOPLASIA 4258 4270	metastásicas
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2357 2367	neoplásica
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 3874 3881	tumoral
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 842 874	tumoración de origen mesenquimal
+#6	AnnotatorNotes T6	8800/3
+T7	MORFOLOGIA_NEOPLASIA 1016 1038	tumoración mesenquimal
+#7	AnnotatorNotes T7	8800/3
+T8	MORFOLOGIA_NEOPLASIA 1612 1658	tumor estromal gastrointestinal (GIST) maligno
+#8	AnnotatorNotes T8	8936/3
+T9	MORFOLOGIA_NEOPLASIA 2073 2086	metastatizado
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 4169 4211	nódulo hipodenso de 12 mm en región iliaca
+#10	AnnotatorNotes T10	8000/6

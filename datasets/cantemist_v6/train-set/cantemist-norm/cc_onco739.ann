@@ -1,0 +1,36 @@
+T1	MORFOLOGIA_NEOPLASIA 4588 4598	malignidad
+#1	AnnotatorNotes T1	8000/3
+T2	MORFOLOGIA_NEOPLASIA 4832 4842	malignidad
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 2949 2959	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 4439 4449	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 4509 4519	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 4751 4761	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 6103 6113	metástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 1037 1060	tumor fibroso solitario
+#8	AnnotatorNotes T8	8815/0
+T9	MORFOLOGIA_NEOPLASIA 954 964	tumoración
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 1178 1188	tumoración
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 1328 1338	tumoración
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 1940 1977	metástasis de tumor fibroso solitario
+#12	AnnotatorNotes T12	8815/6
+T13	MORFOLOGIA_NEOPLASIA 2074 2091	recidiva hepática
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 2449 2464	lesión hepática
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 2795 2813	nódulos pulmonares
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 4799 4817	nódulos pulmonares
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 4969 5024	Recidiva hepática y pulmonar de tumor fibroso solitario
+#17	AnnotatorNotes T17	8815/6
+T18	MORFOLOGIA_NEOPLASIA 4058 4073	Nódulo pulmonar
+#18	AnnotatorNotes T18	8000/6

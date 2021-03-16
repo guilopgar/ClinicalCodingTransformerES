@@ -1,0 +1,14 @@
+T1	MORFOLOGIA_NEOPLASIA 2015 2025	metástasis
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 866 873	tumoral
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 1223 1250	adenocarcinoma mucosecretor
+#3	AnnotatorNotes T3	8481/3
+T4	MORFOLOGIA_NEOPLASIA 1522 1562	Adenocarcinoma pancreático de bajo grado
+#4	AnnotatorNotes T4	8140/31
+T5	MORFOLOGIA_NEOPLASIA 1564 1572	pT2pN1M0
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 8439 8479	Adenocarcinoma de pancreas de bajo grado
+#6	AnnotatorNotes T6	8140/31
+T7	MORFOLOGIA_NEOPLASIA 8480 8488	pT2pN1M0
+#7	AnnotatorNotes T7	8000/6

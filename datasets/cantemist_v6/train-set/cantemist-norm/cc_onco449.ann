@@ -1,0 +1,36 @@
+T1	MORFOLOGIA_NEOPLASIA 2727 2729	M0
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 2476 2497	carcinoma epidermoide
+#2	AnnotatorNotes T2	8070/3
+T3	MORFOLOGIA_NEOPLASIA 2682 2703	carcinoma epidermoide
+#3	AnnotatorNotes T3	8070/3
+T4	MORFOLOGIA_NEOPLASIA 3543 3553	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 1376 1385	neoplasia
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 3687 3697	neoplásica
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 3875 3880	tumor
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 85 95	tumoración
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 709 719	tumoración
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 1323 1333	tumoración
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 1540 1598	carcinoma epidermoide pobremente diferenciado, metastásico
+#11	AnnotatorNotes T11	8070/63
+T12	MORFOLOGIA_NEOPLASIA 1771 1835	carcinoma de células escamosas basaloide pobremente diferenciado
+#12	AnnotatorNotes T12	8083/33
+T13	MORFOLOGIA_NEOPLASIA 2143 2185	carcinoma escamoso pobremente diferenciado
+#13	AnnotatorNotes T13	8070/33
+T14	MORFOLOGIA_NEOPLASIA 2514 2521	pT2N1M0
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 4567 4619	carcinoma epidermoide de cabeza y cuello metastásico
+#15	AnnotatorNotes T15	8070/6
+T16	MORFOLOGIA_NEOPLASIA 3755 3782	progresión a nivel pulmonar
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 4292 4319	progresión a nivel pulmonar
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 3419 3454	lesiones nodulares a nivel pulmonar
+#18	AnnotatorNotes T18	8000/6

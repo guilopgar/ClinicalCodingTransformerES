@@ -1,0 +1,8 @@
+T1	MORFOLOGIA_NEOPLASIA 661 703	Carcinoma indiferenciado de célula pequeña
+#1	AnnotatorNotes T1	8041/34
+T2	MORFOLOGIA_NEOPLASIA 70 84	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 94 101	pT2N0M0
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1091 1096	tumor
+#4	AnnotatorNotes T4	8000/1

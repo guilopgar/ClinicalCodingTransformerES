@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 1449 1463	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 1556 1571	afectación ósea
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 2132 2150	lesión osteolítica
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2595 2620	linfangitis carcinomatosa
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 584 593	neoplasia
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 2231 2250	progresión pulmonar
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 2074 2089	progresión ósea
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 779 789	tumoración
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 919 978	metástasis de adenocarcinoma con células en anillo de sello
+#9	AnnotatorNotes T9	8490/6
+T10	MORFOLOGIA_NEOPLASIA 1019 1038	tumor de Krukenberg
+#10	AnnotatorNotes T10	8490/6
+T11	MORFOLOGIA_NEOPLASIA 1381 1400	tumor de Krukenberg
+#11	AnnotatorNotes T11	8490/6
+T12	MORFOLOGIA_NEOPLASIA 1485 1504	tumor de Krukenberg
+#12	AnnotatorNotes T12	8490/6

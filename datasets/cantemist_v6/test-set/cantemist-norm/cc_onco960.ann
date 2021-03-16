@@ -1,0 +1,26 @@
+T1	MORFOLOGIA_NEOPLASIA 1415 1432	colangiocarcinoma
+#1	AnnotatorNotes T1	8160/3
+T2	MORFOLOGIA_NEOPLASIA 2217 2234	colangiocarcinoma
+#2	AnnotatorNotes T2	8160/3
+T3	MORFOLOGIA_NEOPLASIA 2348 2365	colangiocarcinoma
+#3	AnnotatorNotes T3	8160/3
+T4	MORFOLOGIA_NEOPLASIA 3011 3028	colangiocarcinoma
+#4	AnnotatorNotes T4	8160/3
+T5	MORFOLOGIA_NEOPLASIA 3224 3241	colangiocarcinoma
+#5	AnnotatorNotes T5	8160/3
+T6	MORFOLOGIA_NEOPLASIA 2183 2202	células neoplásicas
+#6	AnnotatorNotes T6	8001/1
+T7	MORFOLOGIA_NEOPLASIA 1582 1593	hemangiomas
+#7	AnnotatorNotes T7	9120/0
+T8	MORFOLOGIA_NEOPLASIA 2950 2965	hepatocarcinoma
+#8	AnnotatorNotes T8	8170/3
+T9	MORFOLOGIA_NEOPLASIA 2256 2287	metástasis de colangiocarcinoma
+#9	AnnotatorNotes T9	8160/6
+T10	MORFOLOGIA_NEOPLASIA 2614 2686	carcinoma combinado, hepatocarcinoma grado 2 y colangiocarcinoma grado 3
+#10	AnnotatorNotes T10	8180/3
+T11	MORFOLOGIA_NEOPLASIA 2635 2658	hepatocarcinoma grado 2
+#11	AnnotatorNotes T11	8170/32
+T12	MORFOLOGIA_NEOPLASIA 2661 2686	colangiocarcinoma grado 3
+#12	AnnotatorNotes T12	8160/33
+T13	MORFOLOGIA_NEOPLASIA 2805 2824	carcinoma combinado
+#13	AnnotatorNotes T13	8180/3

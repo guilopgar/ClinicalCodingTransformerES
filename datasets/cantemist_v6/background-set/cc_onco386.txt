@@ -1,0 +1,24 @@
+Anamnesis
+Varón de 50 años con antecedentes personales de hipertensión arterial,ex enolismo con polineuropatía severa y hepatopatía crónica. Acude a Consulta por presentar lesión en suelo de boca de 6 meses de evolución que sangra con facilidad.
+
+Exploración física
+Cavidad oral:lesión de consistencia dura de 1.5 cm en suelo de boca(izquierdo) próxima a cara interna de mandíbula. No adenopatías.
+
+Pruebas complementarias
+1) TC cervical (mayo 2012): No se identifica tumoración en suelo de la boca. Adenopatías inespecíficas en ángulos yugulodigástricos (14 mm) sospechosas de malignidad.
+2) RM orofaringe ( mayo 2012): Tumoración anterior izquierda del suelo de la boca ( 27 x 11 mm) con afectación de espacio sublingual (T2). Adenopatía patológica en encrucijada II-III izquierda (N1) y otra dudosa en nivel IIA derecho (N2c??), ambas de 13 mm.
+
+Diagnóstico
+Carcinoma epidermoide de suelo de boca estadio cT2 N1-N2c Mx.
+
+Tratamiento
+Se realiza exéresis de la lesión y vaciamiento funcional cervical bilateral + traqueotomía en Junio de 2012. AP: R1 en margen anterior ( margen profundo a 0.4 mm) por lo que se realizó ampliación de margen con biopsia negativa para malignidad. En los vaciamientos,1 adenopatía patológica en el nivel I izquierdo: pT1 N1R1. Dado que se trata de un tumor T1, con una única adenopatía confirmada donde ya se ha practicado vaciamiento ganglionar, no tiene criterios de tratamiento adyuvante.
+A los 6 meses (Diciembre 2012) presenta rectorragia y anemia. Se realiza TC abdominal y colonoscopia con hallazgos compatibles con adenocarcinoma de sigma pT3 N1a V0 L1 R0, por lo que se decide sigmoidectomía y capecitabina adyuvante (no candidato a Oxaliplatino por neuropatía de base).
+
+Evolución
+En TC de reevaluación al año de diagnóstico del tumor orofaríngeo ( mayo 2013)se objetiva una recidiva ganglionar (adenopatía laterocervical izquierda) por lo que se realiza PAAF que fue positiva para células malignas:carcinoma epidermoide. Había cumplido 4 ciclos de Capecitabina adyuvante, por lo que se suspende quimioterapia adyuvante de colon.
+Se realiza PET-TC que muestra adenopatía mandibular de 21.9 mm y SUL peak 7.3,en nivel IB y VA izquierdo. Se procede a vaciamiento cervical radical izquierdo que muestra afectación tumoral a nivel I, II y V con márgenes libres.Se plantea tratamiento de quimioradioterapia (CRT) adyuvante con cisplatino (100 mg/m2 trisemanal) +RT x 3 ciclos por alto riesgo de recidiva.
+2º recidiva: A los 3 meses de finalizar el tratamiento ( enero 2014) presenta 2º recidiva objetivada mediante PET TC: Adenopatía de 11 mm en nivel III izquierdo. Se decide PAAF que es concluyente de malignidad y al ser una localización única se decide nuevo rescate quirúrgico.
+3º recidiva ( a 18 meses de colon,8 meses de fin de CRT y 4 meses de la cirugía de la 2º recidiva) . PET-TC (mayo 2014): adenopatía paratraqueal derecha de 7,3 mm con SUV patológico y progresión ganglionar en región parafaríngea izquierda y mediastínica. Se realiza EBUS que confirma infiltración de ganglio mediastínico por carcinoma epidermoide.
+Inicia QT con esquema EXTREME: Cisplatino 100 mg/ m2 en el dia 1 + 5-fluoracilo 1000 mg/m2 trisemanal +Cetuximab 400 mg/ m2 dosis de carga y posteriormente 250 mg/m2 semanal.Recibe 6 ciclos hasta enero de 2015 cuando se realiza TC que aprecia una disminución significativa de la adenopatía paratraqueal derecha (8,4 mm). Rash cutáneo grado II.
+Desde entonces cetuximab de mantenimiento cada 3 semanas( hasta la actualidad 18 ciclos), con TC cervicotorácico en julio y diciembre de 2015 sin signos de recidiva tumoral, buena tolerancia a Cetuximab y supervivencia global de 44 meses.

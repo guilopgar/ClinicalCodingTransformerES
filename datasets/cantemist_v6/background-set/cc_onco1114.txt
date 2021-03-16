@@ -1,0 +1,34 @@
+Anamnesis
+Paciente varón de 50 años, sin antecentes médico-quirúrgicos de interés, ni antecedentes familiares de neoplasia, que consulta en junio de 2013 por molestias digestivas episódicas de 6 meses de evolución. En agosto de 2014 ingresa por melenas, detectándose valores de hemoglobina de 7,8 g/dl. Se transfunden 4 concentrados de hematíes y se procede a su estudio.
+
+Examen físico
+PS 0. Exploración sin hallazgos de interés.
+
+Pruebas complementarias
+- Análisis postransfusional: hemoglobina 11,5 mg/dl, resto de hemograma, bioquímica y coagulación dentro de los límites normales. CA 125 39 (VN < 28), CEA y CA 19-9 dentro de los rangos de normalidad.
+- Endoscopia digestiva alta: en el antro gástrico, en su cara posterior y extendiéndose hasta la incisura angularis, se aprecia una gran úlcera de unos 30 mm de diámetro, excavada, con fondo de fibrina y de consistencia muy aumentada a la toma de biopsias. Resto normal.
+- Anatomía patológica: adenocarcinoma gástrico ulcerado con células en anillo de sello. IHQ: expresión de CK AE1/AE3, negativo VIM y CD45. C-Erb2 negativo.
+- TC de tórax-abdomen-pelvis: engrosamiento de las paredes gástricas en mayor grado a nivel del antro compatibles con neoplasia. Nodularidad subcentimétrica anterior a la cámara gástrica. Resto sin hallazgos.
+- Ecoendoscopia digestiva: a nivel del cuerpo bajo-incisura se observa una úlcera de aspecto neoplásico con engrosamiento de la pared de 13 mm con desaparición de capas. El borde externo es regular, pero festoneado en algún punto. Adenopatía única en el ligamento gastrohepático de 8 mm, redondeada, hipoecogénica. Resto de la exploración sin hallazgos. Estadificación: uT3N1.
+
+Diagnóstico
+Ante el diagnóstico de adenocarcinoma gástrico de células en anillo de sello con estadificación uT3N1M0 se comenta el caso en el Comité Multidisciplinar de Tumores Digestivos y se acuerda, en base a los hallazgos en la TC y la ecoendoscopia, la realización de una laparoscopia de estadificación para descartar la enfermedad peritoneal de inicio.
+En esta cirugía se evidencia una neoplasia gástrica en la curvatura menor con dos implantes peritoneales en el epiplón mayor, que se biopsian. Se explora el resto de la cavidad abdominal, pero no se observan metástasis hepáticas ni lesiones sospechosas de malignidad a otro nivel. La anatomía patológica confirma que se trata de metástasis peritoneales del tumor primario conocido.
+Adenocarcinoma gástrico con células en anillo de sello uT3N2pM1, estadio IV (peritoneales).
+
+Tratamiento
+Para el tratamiento sistémico se propone quimioterapia (QT) de inicio y posterior consideración de cirugía de citorreducción (CCR) y administración de quimioterapia intraperitoneal con hipertermia (HIPEC).
+Se ofrece la participación en un ensayo clínico (EC), siendo incluido finalmente en el EC YO 28322. Se trata de un estudio aleatorizado, fase III, multicéntrico, doble ciego, controlado con placebo que evalúa la eficacia y la seguridad del onartuzumab (MetMAb) en combinación con 5-fluorouracilo, ácido folínico y oxaliplatino (mFOLFOX6) en pacientes con cáncer gastroesofágico metastásico HER2-negativo y Met-positivo (MetGastric).
+El paciente cumple los criterios de inclusión para dicho estudio y recibe QT con esquema FOLFOX x 6 m + onartuzumab versus placebo (oxaliplatino 85 mg/m2, folinato cálcico 400 mg/m2, 5-FU bolo 400 mg/m2, 5-FU infusión continua 2.400 mg/m2 con onartuzumab 10 mg/kg o placebo), cada 2 semanas.
+
+Evolución
+Recibe quimioterapia (QT) con el esquema comentado FOLFOX + onartuzumab versus placebo durante 3 ciclos (1/1/2013-29/10/2013), destacando como toxicidad más relevante neutropenia grado 3 y toxicidad hepática grado 2, que obliga a retrasar el tratamiento y, posteriormente, a la suspensión del mismo.
+Coincidiendo con la necesidad de suspensión del tratamiento por toxicidad, recibe la cita de Cirugía (Unidad de Cirugía Peritoneal). Tras la valoración por dicha unidad se programa la intervención quirúrgica (CCR + HIPEC).
+En la TC de reevaluación tras la QT, muestra enfermedad estable de la enfermedad evaluable peritoneal, con valores de marcadores tumorales dentro de la normalidad.
+El 16 de enero de 2014 se realiza la intervención quirúrgica prevista con CCR + HIPEC. El parte quirúrgico destaca el hallazgo tras la incisión de ascitis clara en volumen de 1.000 cc, de la que se envía muestra. A continuación, se objetiva neoplasia antral que infiltra el omento mayor, el hilio esplénico, el bazo y los implantes en el diafragma derecho, la fosa iliaca derecha, periapendicular y en la grasa perivesicular. Índice de carcinomatosis peritoneal (PCI) 15. Se practica una gastrectomía total con omentectomía completa y esplenectomía. Peritonectomía de peritoneo anterior y ligamento redondo. Colecistectomía. Apendicectomía. Sección de la unión gastroesofágica y biopsia del borde esofágico.
+Citorreducción (CCR) 0. Se completa la cirugía con quimioterapia con mitomicina C a 42 ºC durante 90 minutos.
+El resultado AP confirma la existencia de un adenocarcinoma gástrico de tipo intestinal con diferenciación mucosecretora con estudio positivo para metástasis de adenocarcinoma de origen gástrico en múltiples nódulos peritoneales (FID, bazo y omento, vesícula, tejido linfograso perihepático, peritoneo diafragmático y apendicular, apéndice) y los anillos de resección libres de infiltración tumoral.
+Estadificación posquirúrgica: ypT4a pN3a M1 (peritoneal) LV1 Pn1, estadio IV.
+Una semana tras el alta hospitalaria tuvo un nuevo ingreso por un episodio febril intercurrente, resuelto con antibioterapia empírica.
+Se cita en consulta con reevaluación por TC un mes tras la cirugía. En dicha evaluación posquirúrgica no se evidencia recidiva local ni enfermedad a distancia, destacando a nivel bioquímico la aparición de CEA elevado (19.2).
+Ante los resultados de la estadificación tras la cirugía, y en ausencia de enfermedad, se recomienda completar tratamiento QT con esquema FOLFOX (sin onartuzumab) durante 8 ciclos más. Hasta el momento actual ha recibido 4 ciclos, con buena tolerancia y sin toxicidad relevante que haya condicionado retraso del tratamiento.

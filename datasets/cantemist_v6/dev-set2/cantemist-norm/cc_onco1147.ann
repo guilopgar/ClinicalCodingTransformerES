@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 295 301	cáncer
+#1	AnnotatorNotes T1	8000/3
+T2	MORFOLOGIA_NEOPLASIA 334 343	neoplasia
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 1386 1393	tumoral
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 2005 2012	tumoral
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 2076 2083	tumoral
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 2348 2357	tumorales
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 937 970	tumor maligno de células redondas
+#7	AnnotatorNotes T7	8000/3/H
+T8	MORFOLOGIA_NEOPLASIA 1202 1243	neuroblastoma olfatorio grado 2 de Hymans
+#8	AnnotatorNotes T8	9522/32
+T9	MORFOLOGIA_NEOPLASIA 1258 1281	Neuroblastoma olfatorio
+#9	AnnotatorNotes T9	9522/3
+T10	MORFOLOGIA_NEOPLASIA 1617 1640	neuroblastoma olfatorio
+#10	AnnotatorNotes T10	9522/3

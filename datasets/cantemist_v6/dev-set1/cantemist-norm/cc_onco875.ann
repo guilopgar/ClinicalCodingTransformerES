@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 2831 2845	Adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 58 61	CCR
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 2375 2389	adenocarcinoma
+#3	AnnotatorNotes T3	8140/3
+T4	MORFOLOGIA_NEOPLASIA 2128 2142	carcinomatosis
+#4	AnnotatorNotes T4	8010/9
+T5	MORFOLOGIA_NEOPLASIA 2357 2373	células malignas
+#5	AnnotatorNotes T5	8001/3
+T6	MORFOLOGIA_NEOPLASIA 4131 4153	implantes peritoneales
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 3765 3770	tumor
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 1686 1696	tumoración
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 250 267	síndrome de Lynch
+#9	AnnotatorNotes T9	8000/3
+T10	MORFOLOGIA_NEOPLASIA 2684 2715	tumor de origen pancreatobiliar
+#10	AnnotatorNotes T10	8163/3
+T11	MORFOLOGIA_NEOPLASIA 2903 2920	síndrome de Lynch
+#11	AnnotatorNotes T11	8000/3
+T12	MORFOLOGIA_NEOPLASIA 3629 3647	masas peritoneales
+#12	AnnotatorNotes T12	8000/6

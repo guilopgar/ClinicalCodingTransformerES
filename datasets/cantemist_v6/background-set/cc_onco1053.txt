@@ -1,0 +1,29 @@
+Anamnesis
+Se trata de una mujer de 31 años a la que conocemos en primera visita del Consejo Genético.
+Como antecedentes personales destaca exéresis de un pólipo fibroepitelial en la piel de pezón derecho (octubre 2015) y lesiones de aspecto verruco en ambos pezones que se fulguraron en 2013, sin diagnóstico anatomopatológico. No tiene hijos.
+Su padre ha sido diagnosticado de un síndrome de Birt-Hogg-Dubé (mutación en FLCN, c. 1.533G > A) a raíz de historia de neumotórax espontáneo de repetición y lesiones cutáneas fibroepiteliales, por lo que remiten a la paciente para asesoramiento genético.
+Se encuentra asintomática.
+
+Exploración física
+Buen estado general. ECOG 0.
+Fibroma blando en región laterocervical derecha.
+AC: rítmica.
+AP: murmullo vesicular conservado.
+Abdomen: blando y depresible, no doloroso, sin masas.
+
+Pruebas complementarias
+Se realiza estudio genético predictivo: la paciente es portadora de la mutación familiar en FLCN c. 1533G > A.
+Con diagnóstico de síndrome de Birt-Hogg-Dubé se solicita TC-TAP basal para valoración de quistes pulmonares y cribados de tumores renales.
+TC-TAP (13/01/2017): granuloma calcificado en ápex pulmonar derecho. Sin otros hallazgos significativos en campos pulmonares. Sin lesiones quísticas pulmonares. Tumoración mixta en corteza renal izquierda en tercio medio de 2,24 x 2,0 x 2,65 cm (AP x T x CC).
+
+Diagnóstico
+Se trata de una mujer de 33 años, con antecedentes de lesiones fibroepiteliales. Encontrándose asintomática, se realiza estudio genético familiar con diagnóstico de síndrome de Birt-Hogg-Dubé (mutación FLCN c. 1533G > A) y en la primera TC de cribado se objetiva una tumoración renal sugestiva de neoplasia renal izquierda primaria.
+
+Tratamiento
+El 20/03/2017 es intervenida quirúrgicamente, realizándose una nefrectomía parcial izquierda asistida por robot.
+Diagnóstico anatomopatológico: carcinoma renal de células claras con áreas quísticas. Grado nuclear
+3. Margen quirúrgico renal y tejido adiposo sin tumor. Ausencia de translocación del gen TFE3 (Xp11.23) en el 100 % de los núcleos estudiados. El 70 % de los núcleos estudiados presenta una sola copia del gen TFE3 (Xp11.23) en lugar de dos, que sería lo normal en una mujer. No se puede descartar que esto sea debido a un patrón atípico de translocación TFE3.
+
+Evolución
+El diagnóstico definitivo ha sido de un carcinoma renal de células claras con áreas quísticas; Furman 3; pT1aN0M0. Grupo de buen pronóstico según MSKCC. Dudosa translocación en TFE3 (Xp11.23), en cuyo caso le conferiría peor pronóstico. Diagnosticado en la primera TC de despistaje por diagnóstico de síndrome de Birt-Hogg-Dubé.
+La paciente ha pasado a controles habituales de su neoplasia renal.

@@ -1,0 +1,26 @@
+T1	MORFOLOGIA_NEOPLASIA 3335 3344	Carcinoma
+#1	AnnotatorNotes T1	8010/3
+T2	MORFOLOGIA_NEOPLASIA 2896 2926	carcinoma de células escamosas
+#2	AnnotatorNotes T2	8070/3
+T3	MORFOLOGIA_NEOPLASIA 2964 2971	maligno
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 1747 1758	metastásico
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 3116 3127	metastásico
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 3233 3244	metastásico
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 2039 2046	tumoral
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 1460 1520	carcinoma de células escamosas bien diferenciado infiltrante
+#8	AnnotatorNotes T8	8070/31/H
+T9	MORFOLOGIA_NEOPLASIA 1959 2003	metástasis de carcinoma de células escamosas
+#9	AnnotatorNotes T9	8070/6
+T10	MORFOLOGIA_NEOPLASIA 3405 3420	nódulo pulmonar
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 4647 4662	Nódulo pulmonar
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 5039 5053	nódulo del LSD
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 3009 3024	nódulo pulmonar
+#13	AnnotatorNotes T13	8000/6

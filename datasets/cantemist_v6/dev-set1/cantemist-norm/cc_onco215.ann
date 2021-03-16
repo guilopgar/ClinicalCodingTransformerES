@@ -1,0 +1,42 @@
+T1	MORFOLOGIA_NEOPLASIA 649 673	diseminación a distancia
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 2860 2867	maligna
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 4600 4610	malignidad
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 4627 4648	melanoma en regresión
+#4	AnnotatorNotes T4	8723/3
+T5	MORFOLOGIA_NEOPLASIA 795 811	melanoma nodular
+#5	AnnotatorNotes T5	8721/3
+T6	MORFOLOGIA_NEOPLASIA 1567 1583	melanoma nodular
+#6	AnnotatorNotes T6	8721/3
+T7	MORFOLOGIA_NEOPLASIA 3917 3928	metastásico
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 3639 3651	metastásicos
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 1370 1380	metástasis
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 2152 2182	metástasis cutánea de melanoma
+#10	AnnotatorNotes T10	8720/6
+T11	MORFOLOGIA_NEOPLASIA 1228 1250	metástasis de melanoma
+#11	AnnotatorNotes T11	8720/6
+T12	MORFOLOGIA_NEOPLASIA 210 219	neoplasia
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 258 267	neoplasia
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 127 132	nevus
+#14	AnnotatorNotes T14	8720/0
+T15	MORFOLOGIA_NEOPLASIA 992 999	tumoral
+#15	AnnotatorNotes T15	8000/1
+T16	MORFOLOGIA_NEOPLASIA 3418 3425	tumoral
+#16	AnnotatorNotes T16	8000/1
+T17	MORFOLOGIA_NEOPLASIA 1584 1594	pT3bpN2bM0
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 2260 2298	adenopático en la fosa supraclavicular
+#18	AnnotatorNotes T18	8000/6
+T19	MORFOLOGIA_NEOPLASIA 2526 2552	enfermedad a nivel cutáneo
+#19	AnnotatorNotes T19	8000/6
+T20	MORFOLOGIA_NEOPLASIA 2620 2638	adenopático en FSC
+#20	AnnotatorNotes T20	8000/6
+T21	MORFOLOGIA_NEOPLASIA 3100 3132	metástasis múltiples de melanoma
+#21	AnnotatorNotes T21	8720/6

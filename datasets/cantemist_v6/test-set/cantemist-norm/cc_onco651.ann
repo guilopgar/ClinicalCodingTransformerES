@@ -1,0 +1,28 @@
+T1	MORFOLOGIA_NEOPLASIA 1212 1229	células tumorales
+#1	AnnotatorNotes T1	8001/1
+T2	MORFOLOGIA_NEOPLASIA 4444 4451	maligna
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 2865 2881	masa pancreática
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 3073 3089	masa pancreática
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 3941 3961	masa retroperitoneal
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 3031 3049	nódulo suprarrenal
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 3978 3996	nódulo suprarrenal
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 4835 4842	tumoral
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 864 883	carcinoma de Merkel
+#9	AnnotatorNotes T9	8247/3
+T10	MORFOLOGIA_NEOPLASIA 1921 1954	metástasis de carcinoma de Merkel
+#10	AnnotatorNotes T10	8247/6
+T11	MORFOLOGIA_NEOPLASIA 1873 1899	masa en región pancreática
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 2409 2464	Carcinoma de células de Merkel con recidiva pancreática
+#12	AnnotatorNotes T12	8247/6
+T13	MORFOLOGIA_NEOPLASIA 2501 2556	carcinoma de células de Merkel con recidiva pancreática
+#13	AnnotatorNotes T13	8247/6
+T14	MORFOLOGIA_NEOPLASIA 3521 3548	carcinoma de células Merkel
+#14	AnnotatorNotes T14	8247/3

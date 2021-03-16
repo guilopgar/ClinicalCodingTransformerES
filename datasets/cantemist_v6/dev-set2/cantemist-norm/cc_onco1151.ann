@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 3009 3023	Adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 65 79	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 362 426	adenocarcinoma de recto moderadamente diferenciado e infiltrante
+#3	AnnotatorNotes T3	8140/32/H
+T4	MORFOLOGIA_NEOPLASIA 2388 2398	malignidad
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 2879 2889	malignidad
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 2568 2577	tumorales
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 427 441	pT3pN+ (4/8)M0
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 2082 2087	Mioma
+#8	AnnotatorNotes T8	8895/0

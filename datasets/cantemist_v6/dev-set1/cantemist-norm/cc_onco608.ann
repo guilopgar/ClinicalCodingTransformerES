@@ -1,0 +1,12 @@
+T1	MORFOLOGIA_NEOPLASIA 2611 2627	Carcinoma tímico
+#1	AnnotatorNotes T1	8586/3
+T2	MORFOLOGIA_NEOPLASIA 911 927	carcinoma tímico
+#2	AnnotatorNotes T2	8586/3
+T3	MORFOLOGIA_NEOPLASIA 952 968	carcinoma tímico
+#3	AnnotatorNotes T3	8586/3
+T4	MORFOLOGIA_NEOPLASIA 4990 5006	carcinoma tímico
+#4	AnnotatorNotes T4	8586/3
+T5	MORFOLOGIA_NEOPLASIA 242 265	glioblastoma multiforme
+#5	AnnotatorNotes T5	9440/3
+T6	MORFOLOGIA_NEOPLASIA 221 230	neoplasia
+#6	AnnotatorNotes T6	8000/1

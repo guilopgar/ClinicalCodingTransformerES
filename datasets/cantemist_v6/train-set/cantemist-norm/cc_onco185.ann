@@ -1,0 +1,46 @@
+T1	MORFOLOGIA_NEOPLASIA 3079 3107	Carcinoma ductal infiltrante
+#1	AnnotatorNotes T1	8500/3
+T2	MORFOLOGIA_NEOPLASIA 890 895	Tumor
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 4233 4250	células tumorales
+#3	AnnotatorNotes T3	8001/1
+T4	MORFOLOGIA_NEOPLASIA 2810 2832	enfermedad a distancia
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 509 519	malignidad
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 5184 5194	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1707 1730	metástasis de carcinoma
+#7	AnnotatorNotes T7	8010/6
+T8	MORFOLOGIA_NEOPLASIA 4747 4770	metástasis de carcinoma
+#8	AnnotatorNotes T8	8010/6
+T9	MORFOLOGIA_NEOPLASIA 2458 2468	neoplásico
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 3015 3020	tumor
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 3450 3455	tumor
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 3666 3671	tumor
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 4382 4387	tumor
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 5017 5024	tumoral
+#14	AnnotatorNotes T14	8000/1
+T15	MORFOLOGIA_NEOPLASIA 3286 3293	tumores
+#15	AnnotatorNotes T15	8000/1
+T16	MORFOLOGIA_NEOPLASIA 1472 1513	carcinoma ductal infiltrante Grado II-III
+#16	AnnotatorNotes T16	8500/33
+T17	MORFOLOGIA_NEOPLASIA 2474 2490	linitis plástica
+#17	AnnotatorNotes T17	8142/3
+T18	MORFOLOGIA_NEOPLASIA 2969 2985	linitis plástica
+#18	AnnotatorNotes T18	8142/3
+T19	MORFOLOGIA_NEOPLASIA 4111 4171	carcinoma lobulillar de alto grado (pleomórfico) metastásico
+#19	AnnotatorNotes T19	8520/64/H
+T20	MORFOLOGIA_NEOPLASIA 4669 4737	Carcinoma infiltrante mixto (lobulillar con áreas de ductal) grado 2
+#20	AnnotatorNotes T20	8522/32
+T21	MORFOLOGIA_NEOPLASIA 4958 4977	celularidad tumoral
+#21	AnnotatorNotes T21	8001/1
+T22	MORFOLOGIA_NEOPLASIA 5083 5179	carcinoma de mama infiltrante mixto (lobulillar clásico con áreas de ductal) estadio ypT2ypN2pM1
+#22	AnnotatorNotes T22	8522/6
+T23	MORFOLOGIA_NEOPLASIA 5216 5232	linitis plástica
+#23	AnnotatorNotes T23	8142/3

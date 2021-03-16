@@ -1,0 +1,18 @@
+T1	MORFOLOGIA_NEOPLASIA 2069 2087	carcinoma escamoso
+#1	AnnotatorNotes T1	8070/3
+T2	MORFOLOGIA_NEOPLASIA 2307 2326	carcinoma urotelial
+#2	AnnotatorNotes T2	8120/3
+T3	MORFOLOGIA_NEOPLASIA 1717 1724	tumoral
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 2356 2379	diferenciación escamosa
+#4	AnnotatorNotes T4	8070/3
+T5	MORFOLOGIA_NEOPLASIA 2394 2407	sarcomatoides
+#5	AnnotatorNotes T5	8033/3
+T6	MORFOLOGIA_NEOPLASIA 2538 2579	carcinoma sarcomatoide de vejiga pT3aN0M1
+#6	AnnotatorNotes T6	8033/6
+T7	MORFOLOGIA_NEOPLASIA 3186 3208	implantes peritoneales
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 2429 2447	lesiones hepáticas
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 3104 3122	lesiones hepáticas
+#9	AnnotatorNotes T9	8000/6

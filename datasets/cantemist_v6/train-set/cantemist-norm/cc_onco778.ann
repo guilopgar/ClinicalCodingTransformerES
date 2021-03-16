@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 985 990	tumor
+#1	AnnotatorNotes T1	8000/1
+T2	MORFOLOGIA_NEOPLASIA 1104 1114	tumoración
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 1983 1993	tumoración
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 2765 2772	tumoral
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 1175 1202	sarcoma sinovial monofásico
+#5	AnnotatorNotes T5	9040/3/H
+T6	MORFOLOGIA_NEOPLASIA 1999 2015	sarcoma sinovial
+#6	AnnotatorNotes T6	9040/3
+T7	MORFOLOGIA_NEOPLASIA 2627 2654	sarcoma sinovial monofásico
+#7	AnnotatorNotes T7	9040/3/H
+T8	MORFOLOGIA_NEOPLASIA 2892 2941	sarcoma sinovial de patrón fusocelular monofásico
+#8	AnnotatorNotes T8	9041/3

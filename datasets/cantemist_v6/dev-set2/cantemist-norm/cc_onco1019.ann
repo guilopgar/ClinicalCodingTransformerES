@@ -1,0 +1,30 @@
+T1	MORFOLOGIA_NEOPLASIA 183 200	macroprolactinoma
+#1	AnnotatorNotes T1	8271/0
+T2	MORFOLOGIA_NEOPLASIA 1345 1355	meningioma
+#2	AnnotatorNotes T2	9530/0
+T3	MORFOLOGIA_NEOPLASIA 1497 1507	meningioma
+#3	AnnotatorNotes T3	9530/0
+T4	MORFOLOGIA_NEOPLASIA 2806 2816	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2874 2884	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 3087 3097	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 3767 3777	metástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 4678 4688	metástasis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 4508 4525	nódulo subcutáneo
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 58 63	tumor
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 1962 2037	metástasis de adenocarcinoma de origen pulmonar, moderadamente diferenciado
+#11	AnnotatorNotes T11	8140/62
+T12	MORFOLOGIA_NEOPLASIA 2636 2702	neoplasia pleuropulmonar en lóbulo superior derecho con metástasis
+#12	AnnotatorNotes T12	8973/6
+T13	MORFOLOGIA_NEOPLASIA 3232 3279	Adenocarcinoma de pulmón estadio IV (metástasis
+#13	AnnotatorNotes T13	8140/6
+T14	MORFOLOGIA_NEOPLASIA 5013 5033	enfermedad abdominal
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 5729 5750	enfermedad peritoneal
+#15	AnnotatorNotes T15	8000/6

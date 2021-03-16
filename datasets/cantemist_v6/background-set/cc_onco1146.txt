@@ -1,0 +1,29 @@
+Anamnesis
+Paciente mujer de 69 años de edad sin antecedentes de interés.
+Diagnosticada en 1990, a los 45 años de edad, de un carcinoma lobulillar infiltrante de mama izquierda, pT1bN0M0, tratada con mastectomía radical modificada.
+Después de un intervalo libre de enfermedad de 20 años, recidiva en forma de metástasis cutáneas múltiples y adenopatía axilar derecha por CLI (receptores de estrógeno positivos, HER2 negativo, ki-67 del 10%). Se inicia tratamiento con anastrozol en abril de 2010, consiguiendo una respuesta completa.
+Después de un intervalo libre de progresión de 25 meses, en mayo de 2012 progresa en forma de infiltración de intestino delgado a nivel del íleon terminal. Es intervenida quirúrgicamente en otro centro hospitalario por un cuadro obstructivo, resecándose dos segmentos intestinales. En el postoperatorio presenta una fístula intestinal, que se resolvió de modo conservador. En la anatomía patológica destaca la presencia de afectación de los bordes de resección.
+En ese momento, inicia tamoxifeno y posteriormente es tratada con diferentes líneas de tratamiento de hormonoterapia.
+Vuelve a progresar en septiembre de 2013, iniciando exemestano-everolimus, que se suspende por toxicidad importante en forma de mucositis.
+Entre diciembre de 2013 y enero de 2014, presenta varios cuadros sugestivos de suboclusión intestinal, por lo que se realiza un estudio para descartar una nueva recidiva a nivel digestivo.
+
+Examen físico
+A la exploración abdominal se palpa un plastrón móvil en la fosa iliaca derecha, bajo la incisión de McBurney previa, sin proceso inflamatorio asociado, algo dolorosa con la movilización.
+
+Pruebas complementarias
+- Radiografía de abdomen simple en bipedestación (14/1/2014): presencia de niveles hidroaéreos, signos de suboclusión intestinal.
+- TC (24/1/2014): se observa un conglomerado de asas ileales a nivel de la anastomosis previa. No hay signos de afectación ureteral.
+
+Diagnóstico
+Obstrucción intestinal probablemente secundaria a una nueva recidiva por carcinoma lobulillar de mama.
+
+Tratamiento
+El 11/2/2014 se realiza intervención quirúrgica mediante laparotomía media supraumbilical, observándose carcinomatosis peritoneal con múltiples implantes, conglomerado de asas ileales, ciego y colon ascendente, con múltiples retracciones que condicionan el tránsito intestinal.
+Se visualiza un conglomerado adherido a la cicatriz de McBurney previa, al retroperitoneo y a la fascia de Gerota, pero estando el riñón, el uréter y el duodeno respetados.
+Presencia de un implante en la unión rectosigmoidea con afectación transmural que dificulta el tránsito y provoca la dilatación del colon suprayacente.
+Se realiza la resección del conglomerado de asas ileales y colon ascendente, seccionando el colon a la altura del transverso. Se desestima realizar anastomosis por la zona obstructiva en la unión rectosigmoidea, por lo que finalmente se realiza una ileostomía terminal en FID y exteriorización del colon transverso por la misma ostomía.
+
+Evolución
+El postoperatorio es favorable.
+La anatomía patológica confirma la infiltración difusa por un carcinoma de tipo lobulillar y la afectación de 1 de los 5 ganglios resecados. La inmunohistoquímica no muestra cambios respecto a la previa.
+Actualmente, al tratarse de una paciente que no ha recibido quimioterapia y ante enfermedad visceral extensa que ha precisado intervención quirúrgica, se propone iniciar tratamiento de quimioterapia con antraciclinas y taxanos, que ha iniciado en abril de 2014.

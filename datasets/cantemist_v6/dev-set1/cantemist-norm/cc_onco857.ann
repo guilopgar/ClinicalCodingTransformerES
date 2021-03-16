@@ -1,0 +1,14 @@
+T1	MORFOLOGIA_NEOPLASIA 433 450	carcinoma papilar
+#1	AnnotatorNotes T1	8260/3
+T2	MORFOLOGIA_NEOPLASIA 2069 2091	implantes peritoneales
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 240 247	tumoral
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 1711 1733	implantes en peritoneo
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 1832 1871	adenocarcinoma de ovario seroso papilar
+#5	AnnotatorNotes T5	8460/3
+T6	MORFOLOGIA_NEOPLASIA 2377 2397	progresión abdominal
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 2471 2491	progresión abdominal
+#7	AnnotatorNotes T7	8000/6

@@ -1,0 +1,54 @@
+Anamnesis
+Mujer 55 años de edad, sin alergias medicamentosas conocidas ni hábitos tóxicos. Niega antecedentes familiares o personales de interés y no sigue ningún tratamiento concomitante habitual.
+Historia oncológica
+Diagnosticada de neoplasia mama derecha, se realiza mastectomía y biopsia ganglio centinela: carcinoma ductal infiltrante pT1c pN1 M0. Receptores estrógenos y progesterona +, HER-2 +.
+Tratamiento adyuvante adriamicina/ciclofosfamida 4 ciclos, paclitaxel semanal 12 ciclos y trastuzumab (finalizado) con excelente tolerancia. Actualmente trastuzumab de mantenimiento y hormonoterapia con anastrozol. Sin enfermedad oncológica actual.
+Enfermedad actual
+Diarrea sanguinolenta de una semana con náuseas y vómitos. No tiene fiebre ni sensación distérmica. No toma nueva medicación ni ambiente epidemiológico familiar.
+
+Exploración física
+TA 108/51 mm Hg, FC 100 lpm, SatO2: 99 %, Glasgow: 15. Deshidratada con sequedad de mucosas.
+
+Pruebas complementarias
+ Analítica: Hb 9,23, 41.000 plaquetas. Coagulación normal. Cr 4,49, urea 187, bil. total 1,44, bil. directa 0,6. LDH 971.
+ Diagnóstico inicial: fracaso renal agudo prerrenal secundario a diarrea y vómitos.
+ Evolución: a las 24 horas inicia somnolencia, agitación y mioclonías.
+ Morfología sangre periférica: 3-4 % esquistocitos.
+
+Diagnóstico
+SHU mediado por complemento secundario a infección aguda hepatitis B (por formación de inmunocomplejos).
+
+Tratamiento
+Corticoide intravenoso, sesiones de plasmaféresis, diálisis y transfusiones de hematíes. Por las fluctuaciones del estado de conciencia, la anemia hemolítica, el deterioro mantenido de la función renal y la escasa respuesta al tratamiento previo, se solicita el uso de eculizumab.
+
+Evolución
+Resumen
+Mujer 55 años; mastectomía seguida de tratamiento adyuvante ya completado. Actualmente toma trastuzumab de mantenimiento y anastrozol.
+Diarrea, anemia hemolítica microangiopática (LDH 971, esquistocitos), trombocitopenia y fracaso renal agudo. Clínica neurológica con mioclonías y fluctuaciones en nivel de conciencia.
+Se orienta como síndrome hemolítico urémico (SHU) vs. púrpura trombocitopénica trombótica (PTT).
+Síndrome hemolítico urémico
+Ocurrencia simultánea de anemia hemolítica microangiopática (anemia hemolítica mecánica [no inmunohemolítica] por fragmentación intravascular de hematíes [esquistocitos] [AHMA]), trombocitopenia y fracaso renal agudo.
+Dos clases
+a) Diarrea asociada (d + HUS): clásica o típica.
+b) No asociado a diarrea (d-HUS) o atípico (aHUS): infrecuente, peor pronóstico.
+Etiología
+a) Infecciosa: E. coli productora de toxina tipo Shiga como microorganismo más frecuente.
+b) Enfermedades sistémicas.
+Lupus eritematoso sistémico, síndrome antifosfolipídico, etc.
+c) Genética
+El aSHU se asocia a déficit hereditario de ADAMTS13, factores del complemento o defecto del metabolismo vitamina B12.
+d) Farmacológica: agentes quimioterápicos, inmunosupresores, inhibidores de VEGF o narcóticos.
+Patogénesis
+En los vasos sanguíneos, se produce daño progresivo de células endoteliales con depósito de fibrina; esto lleva a activación y agregación plaquetaria, produciendo trombosis localizada. Los órganos principalmente afectos son intestinos, riñón y SNC.
+Asimismo, se produce daño mecánico de los hematíes produciendo su fragmentación y aparición de anemia hemolítica microangiopática. Por consumo de plaquetas se produce trombopenia.
+Un 40-60 % de los pacientes con aSHU son portadores de mutaciones en genes del complemento; que se relaciona con amplificación no controlada de la vía alternativa; potenciando la activación plaquetaria y agregación.
+Clínica
+a) Infecciosa
+Frecuentemente en menores de 5 años tras diarrea, vómitos y dolor abdominal. Afectación renal habitual en contra del aSHU/PTT que tiene más implicación sistémica. Manifestaciones extrarrenales rara vez ocurren.
+b) aSHU mediado por complemento Diarrea previa en 50 % de adultos y 80 % niños. La afectación renal es frecuente y manifestaciones extrarrenales se ven en un 20 % de los casos; siendo las del sistema nervioso central (SNC) las más frecuentes.
+c) Farmacológica
+Escalofríos, fiebre, dolor abdominal, diarrea, náuseas y vómitos. Fármacos potencialmente causales son aquellos tomados diariamente durante 2-3 semanas o los tomados intermitentemente durante años.
+Diagnóstico
+Presencia de AHMA (esquistocitos, etc.); trombocitopenia; elevación bilirrubina no conjugada y LDH por exceso de hemólisis; descenso de haptoglobina por hemólisis intravascular; aumento de urea y creatinina. Coagulación normal y Coombs directo negativo.
+SHU atípico: factores del complemento y ADAMTS13 disminuidos. Otras causas de FRA + trombocitopenia + AHMA: LES, HTA maligna.
+Anticuerpos antinuclear (ANA), anti-ADN doble cadena (DNA anti-ds), etc.

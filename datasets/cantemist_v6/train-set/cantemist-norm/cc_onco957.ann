@@ -1,0 +1,30 @@
+T1	MORFOLOGIA_NEOPLASIA 867 890	glioblastoma multiforme
+#1	AnnotatorNotes T1	9440/3
+T2	MORFOLOGIA_NEOPLASIA 992 1015	glioblastoma multiforme
+#2	AnnotatorNotes T2	9440/3
+T3	MORFOLOGIA_NEOPLASIA 2554 2563	neoplasia
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 2234 2250	células malignas
+#4	AnnotatorNotes T4	8001/3
+T5	MORFOLOGIA_NEOPLASIA 3080 3099	células neoplásicas
+#5	AnnotatorNotes T5	8001/1
+T6	MORFOLOGIA_NEOPLASIA 2666 2705	metástasis de tumor glial de alto grado
+#6	AnnotatorNotes T6	9380/64
+T7	MORFOLOGIA_NEOPLASIA 3594 3633	metástasis de tumor glial de alto grado
+#7	AnnotatorNotes T7	9380/6
+T8	MORFOLOGIA_NEOPLASIA 2720 2796	Metástasis ganglionares cervicales bilaterales de un glioblastoma multiforme
+#8	AnnotatorNotes T8	9440/6
+T9	MORFOLOGIA_NEOPLASIA 3655 3662	tumoral
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 2159 2185	diseminación leptomeníngea
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 2958 2984	diseminación leptomeníngea
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 3344 3354	malignidad
+#12	AnnotatorNotes T12	8000/3
+T13	MORFOLOGIA_NEOPLASIA 1349 1356	tumoral
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 2116 2123	tumoral
+#14	AnnotatorNotes T14	8000/1
+T15	MORFOLOGIA_NEOPLASIA 2912 2919	tumoral
+#15	AnnotatorNotes T15	8000/1

@@ -1,0 +1,26 @@
+T1	MORFOLOGIA_NEOPLASIA 609 619	Tumoración
+#1	AnnotatorNotes T1	8000/1
+T2	MORFOLOGIA_NEOPLASIA 2207 2221	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 3189 3207	carcinoma secretor
+#3	AnnotatorNotes T3	8502/3
+T4	MORFOLOGIA_NEOPLASIA 116 122	cáncer
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 364 370	cáncer
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 398 404	cáncer
+#6	AnnotatorNotes T6	8000/3
+T7	MORFOLOGIA_NEOPLASIA 425 431	cáncer
+#7	AnnotatorNotes T7	8000/3
+T8	MORFOLOGIA_NEOPLASIA 2424 2443	células neoplásicas
+#8	AnnotatorNotes T8	8001/1
+T9	MORFOLOGIA_NEOPLASIA 3600 3611	lesión ósea
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 2276 2286	metástasis
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 2003 2031	metástasis de adenocarcinoma
+#11	AnnotatorNotes T11	8140/6
+T12	MORFOLOGIA_NEOPLASIA 3404 3411	tumores
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 2817 2856	carcinoma mucoepidermoide de alto grado
+#13	AnnotatorNotes T13	8430/34

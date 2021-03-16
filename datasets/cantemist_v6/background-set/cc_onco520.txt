@@ -1,0 +1,24 @@
+Anamnesis
+En noviembre de 2016: comenzó a referir dolor en fosa renal izquierda y posteriormente en costado izquierdo coincidiendo con aumento de disnea. No refería traumatismos previos en la zona, pero se presentó coincidiendo en el tiempo con cuadro catarral, sin aumento de tos y que mejoró con tratamiento antibiótico.
+
+Exploración física
+En la exploración física destacaba en la auscultación pulmonar una hipofonesis basal izquierda, estando el resto de la exploración dentro de la normalidad sin hallazgos reseñables.
+
+Pruebas complementarias
+Se realizó radiografía de tórax con hallazgo de múltiples aumentos de densidad de morfología extrapulmonar en hemitórax izquierdo, por lo que se completó estudio con TC de tórax y abdomen donde presentaba derrame pleural izquierdo de disposición atípica asociado a engrosamiento nodular de la pleura sugestivo de implantes pleurales no presentes en estudios previos.
+También se observaban adenopatías mediastínicas patológicas a nivel subcarinal, hiliar derecha y paratraqueal izquierda ya presentes en estudio previo, con micronódulos y conglomerados silicóticos en ambos lóbulos superiores, con dudoso aumento de densidad en lóbulo superior izquierdo.
+Se realizó una ecografía torácica por la Unidad de Técnicas Pleurales, con biopsia pleural y toracocentesis diagnóstica y terapéutica del derrame pleural izquierdo (extracción de 1.600 ml), de aspecto serohemático. La citología del líquido fue negativa para malignidad, pero la biopsia pleural fue compatible con neoplasia maligna con rasgos de carcinoma metastásico pobremente diferenciado, siendo el diagnóstico más probable de adenocarcinoma, no disponiendo de perfil inmunohistoquímico que permitiera establecer origen específico.
+Se completó estudio con PET-TC en el cual se observaban múltiples engrosamientos pleurales en hemitórax izquierdo con captación patológica, sugestivos de enfermedad neoplásica activa. Captación en conglomerados en ambos lóbulos superiores (sobre todo en el izquierdo) y múltiples micronódulos de predominio en pulmón derecho que, si bien podrían estar en relación con patología silicótica, no se podría descartar malignidad. Adenopatías en región paratraqueal derecha y subcarinal, así como cardiofrénicas izquierdas sugestivas de malignidad. Derrame pleural izquierdo también con captación sugestiva de patología tumoral maligna. Resonancia magnética cerebral sin hallazgos patológicos y ecocardiograma con FEVI conservada.
+Se realizó pleuroscopia y pleurodesis con talco, con toma de biopsias para estudio mutacional, que resultaron positivas para adenocarcinoma de pulmón, siendo negativas para la mutación de EGFR y la traslocación de ALK, con una expresión de PDL-1 del 2 %.
+
+Diagnóstico
+El diagnóstico definitivo fue de adenocarcinoma de pulmón estadio IV wild type y expresión de PD-L1 2 %.
+
+Tratamiento
+Fue valorado en consulta de Oncología Médica, decidiéndose inicio de tratamiento con cisplatino y pemetrexed en primera línea. Completa 3 ciclos de tratamiento revaluándose la enfermedad con TC, presentado hallazgos de crecimiento significativo de los implantes pleurales izquierdos y aumento de tamaño de las adenopatías mediastínicas izquierdas (paraaórticas y del ángulo cardiofrénico).
+Resolución del derrame pleural izquierdo.
+Con una expresión de PDL1 del 2 % (a pesar de que al tratarse de un tumor que ha progresado rápidamente a primera línea podría beneficiarse de una segunda línea con nintedanib), se decide inicio de tratamiento en segunda línea con pembrolizumab.
+
+Evolución
+Tras 3 ciclos de pembrolizumab, se solicita nuevo estudio de reevaluación con TC, apreciándose mínimo engrosamiento pleural izquierdo en relación con práctica resolución de los implantes pleurales izquierdos existentes en estudio previo. Adenopatías mediastínicas, hiliares, inter e intralobares bilaterales parcialmente calcificadas. Mantiene enfermedad estable tras respuesta inicial en reevaluaciones tras 6 y 9 ciclos de tratamiento.
+Tras 12 ciclos hallazgos en TC compatibles con remisión completa por resolución del engrosamiento pleural apical izquierdo y adenopatías mediastínicas, hiliares, inter e intralobares calcificadas, se mantiene hasta completar dos años de tratamiento con pembrolizumab. En todo momento, presentó excelente tolerancia al tratamiento, sin incidencias.

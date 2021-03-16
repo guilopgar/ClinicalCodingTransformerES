@@ -1,0 +1,12 @@
+T1	MORFOLOGIA_NEOPLASIA 262 270	melanoma
+#1	AnnotatorNotes T1	8720/3
+T2	MORFOLOGIA_NEOPLASIA 3160 3168	melanoma
+#2	AnnotatorNotes T2	8720/3
+T3	MORFOLOGIA_NEOPLASIA 556 566	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 392 408	recaída hepática
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2423 2435	diseminación
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 730 748	lesiones hepáticas
+#6	AnnotatorNotes T6	8000/6

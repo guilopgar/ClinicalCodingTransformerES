@@ -1,0 +1,38 @@
+T1	MORFOLOGIA_NEOPLASIA 540 568	Carcinoma ductal infiltrante
+#1	AnnotatorNotes T1	8500/3
+T2	MORFOLOGIA_NEOPLASIA 636 648	Osteosarcoma
+#2	AnnotatorNotes T2	9180/3
+T3	MORFOLOGIA_NEOPLASIA 287 296	carcinoma
+#3	AnnotatorNotes T3	8010/3
+T4	MORFOLOGIA_NEOPLASIA 759 787	carcinoma ductal infiltrante
+#4	AnnotatorNotes T4	8500/3
+T5	MORFOLOGIA_NEOPLASIA 1328 1338	hemangioma
+#5	AnnotatorNotes T5	9120/0
+T6	MORFOLOGIA_NEOPLASIA 1382 1392	hemangioma
+#6	AnnotatorNotes T6	9120/0
+T7	MORFOLOGIA_NEOPLASIA 1022 1032	metástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 1313 1323	metástasis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 1515 1525	metástasis
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 1879 1889	metástasis
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 3485 3497	osteosarcoma
+#11	AnnotatorNotes T11	9180/3
+T12	MORFOLOGIA_NEOPLASIA 1154 1161	tumoral
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 2453 2460	tumoral
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 590 632	Oligodendroglioma anaplásico de la WHO III
+#14	AnnotatorNotes T14	9451/3
+T15	MORFOLOGIA_NEOPLASIA 958 995	Carcinoma ductal infiltrante grado II
+#15	AnnotatorNotes T15	8500/32
+T16	MORFOLOGIA_NEOPLASIA 1258 1272	(LOE) hepática
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 1815 1855	lesión única en región temporo-occipital
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 2279 2291	LOE cerebral
+#18	AnnotatorNotes T18	8000/6
+T19	MORFOLOGIA_NEOPLASIA 2740 2782	oligodendroglioma anaplásico de la WHO III
+#19	AnnotatorNotes T19	9451/3

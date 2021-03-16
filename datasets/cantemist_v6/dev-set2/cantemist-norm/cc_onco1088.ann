@@ -1,0 +1,8 @@
+T1	MORFOLOGIA_NEOPLASIA 356 373	carcinoma papilar
+#1	AnnotatorNotes T1	8260/3
+T2	MORFOLOGIA_NEOPLASIA 578 592	lesiones óseas
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 740 753	lesión dorsal
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 394 401	pT3N1M0
+#4	AnnotatorNotes T4	8000/6

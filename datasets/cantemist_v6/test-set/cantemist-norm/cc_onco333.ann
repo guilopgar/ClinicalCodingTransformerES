@@ -1,0 +1,28 @@
+T1	MORFOLOGIA_NEOPLASIA 2851 2872	Carcinoma epidermoide
+#1	AnnotatorNotes T1	8070/3
+T2	MORFOLOGIA_NEOPLASIA 2805 2807	M1
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 120 141	carcinoma epidermoide
+#3	AnnotatorNotes T3	8070/3
+T4	MORFOLOGIA_NEOPLASIA 3249 3256	tumoral
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 3002 3009	tumores
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 172 179	pT4N1M0
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 300 346	carcinoma de células grandes de pulmón cT1N1M1
+#7	AnnotatorNotes T7	8012/6
+T8	MORFOLOGIA_NEOPLASIA 365 380	LOES cerebrales
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 864 888	recidiva supraclavicular
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 1233 1257	recidiva supraclavicular
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 2494 2546	sarcoma pleomórfico indiferenciado, grado 3 (FNCLCC)
+#11	AnnotatorNotes T11	8802/34
+T12	MORFOLOGIA_NEOPLASIA 2627 2675	Sarcoma pleomórfico indiferenciado de alto grado
+#12	AnnotatorNotes T12	8802/34
+T13	MORFOLOGIA_NEOPLASIA 2757 2803	Carcinoma de células grandes de pulmón cT1N1M1
+#13	AnnotatorNotes T13	8012/6
+T14	MORFOLOGIA_NEOPLASIA 2903 2910	pT4N1M0
+#14	AnnotatorNotes T14	8000/6

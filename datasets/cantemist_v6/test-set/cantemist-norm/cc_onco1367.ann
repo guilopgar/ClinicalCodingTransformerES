@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 1131 1141	metástasis
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1376 1386	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 976 985	neoplasia
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 1254 1264	neoplásica
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 2331 2341	neoplásica
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 1096 1114	nódulos pulmonares
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 31 48	síndrome de Lynch
+#7	AnnotatorNotes T7	8000/3
+T8	MORFOLOGIA_NEOPLASIA 54 71	oligodendroglioma
+#8	AnnotatorNotes T8	9450/3
+T9	MORFOLOGIA_NEOPLASIA 1309 1386	adenocarcinoma endocervical indiferenciado irresecable estadio IV (metástasis
+#9	AnnotatorNotes T9	8140/64
+T10	MORFOLOGIA_NEOPLASIA 1400 1428	Oligodendroglioma anaplásico
+#10	AnnotatorNotes T10	9451/3
+T11	MORFOLOGIA_NEOPLASIA 1530 1547	Síndrome de Lynch
+#11	AnnotatorNotes T11	8000/3
+T12	MORFOLOGIA_NEOPLASIA 1974 2016	adenocarcinoma endocervical indiferenciado
+#12	AnnotatorNotes T12	8140/34

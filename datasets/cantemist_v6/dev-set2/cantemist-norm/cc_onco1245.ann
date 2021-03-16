@@ -1,0 +1,14 @@
+T1	MORFOLOGIA_NEOPLASIA 1452 1474	enfermedad a distancia
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 4486 4507	extensión a distancia
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 525 537	neoformativa
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 745 757	neoformativo
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 2055 2071	sarcoma sinovial
+#5	AnnotatorNotes T5	9040/3
+T6	MORFOLOGIA_NEOPLASIA 3375 3391	sarcoma sinovial
+#6	AnnotatorNotes T6	9040/3
+T7	MORFOLOGIA_NEOPLASIA 1178 1217	sarcoma sinovial monofáscio fusocelular
+#7	AnnotatorNotes T7	9041/3

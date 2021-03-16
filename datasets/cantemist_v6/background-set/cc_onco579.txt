@@ -1,0 +1,35 @@
+Anamnesis
+Mujer de 73 años de edad, sin alergias medicamentosas conocidas y sin hábitos tóxicos.
+Sin antecedentes familiares oncológicos de interés
+Antecedentes médicos: HTA, luxación de hombro izquierdo
+Intervenciones quirúrgicas: prótesis de cadera izquierda y prótesis de rodilla derecha.
+En abril de 2018 consulta por metrorragias de 2-3 meses de evolución.
+
+Exploración física
+ECOG 0. Consciente y orientada, normocoloreada y normohidratada, buen estado general.
+» Auscultación cardiopulmonar: tonos cardiacos rítmicos sin soplos audibles, murmullo vesicular conservado sin ruidos patológicos sobreañadidos.
+» Abdomen: blando y depresible, no doloroso en la palpación, peristaltismo conservado. No hay signos de irritación peritoneal.
+» Extremidades inferiores: sin edemas ni signos de trombosis venosa profunda.
+
+Pruebas complementarias
+» Exploración ginecológica: tumoración exofítica en cara latera derecha de la vagina de 5 cm, friable que sangra al roce. Se toman biopsias.
+» Biopsia tumoración vaginal: carcinoma escamoso infiltrante no queratinizante, moderadamente diferenciado.
+» RM pélvica: masa de 5 x 3,5 cm vaginal en 1/2 inferior de vagina con crecimiento endoluminal y afectación de pared lateral de uretra izquierda y de paracolpos con predominio izquierdo. Adenopatías asociadas locorregionales inguinal izquierda, crural bilateral e iliaca externa izquierda.
+» PET-TC: masa que ocupa los tercios medio e inferior de la vagina y que rodea uretra, de 50 x 70 x 41 mm con SUV máximo de 21,1.
+
+Diagnóstico
+Carcinoma escamoso de vagina estadio III (T2bN1M0).
+
+Tratamiento
+Inicia tratamiento quimioterápico de inducción con esquema carboplatino+ paclitaxel+ bevacizumab completando 2 ciclos, objetivando respuesta clínica completa.
+Posteriormente, continuó el tratamiento con cisplatino semanal (5 dosis) concomitante con RT pélvica externa (50 Gy).
+En RM pélvica de control se objetiva respuesta completa de la enfermedad por lo que se inicia seguimiento.
+
+Evolución
+3 meses tras la finalización del tratamiento, la paciente acude a Urgencias por retención aguda de orina con alteraciones hidroelectrolíticas secundarias, así como fibrilación auricular con respuesta ventricular rápida de nueva aparición. En la radiografía de tórax destaca cardiomegalia radiológica.
+Inicialmente, se solicita valoración urológica considerando adecuada la colocación de talla vesical de forma urgente. Por otro lado, se inicia anticoagulación y control de frecuencia cardiaca.
+Ante la sospecha de progresión de la enfermedad, se realiza ecografía abdominal que confirma recidiva local apreciando masa hipoecoica de contorno irregular y un tamaño de 4,5 x 3 x 4 cm en cara latero-inferior izquierda de cuello vesical con afectación uretral.
+Tras la estabilización clínica inicial, la paciente ingresa en planta y se solicita colaboración al Servicio de Cardiología, quienes ajustan el tratamiento de la fibrilación auricular y completan el estudio con un ecocardiograma transtorácico, que aporta el siguiente resultado: aurícula izquierda no dilatada. Válvula mitral de velos finos con movilidad y apertura conservada; no regurgitación significativa.
+Ventrículo izquierdo no dilatado ni hipertrofiado con fracción de eyección conservada. Válvula aórtica trivalva, algo engrosada, pero con buena apertura. Cavidades derechas no dilatadas; se observa en el espesor de la pared libre del ventrículo derecho una masa de 32 x 30 mm muy sugestiva de metástasis cardiaca. Válvula tricúspide con buena apertura y movilidad. Derrame pericárdico de distribución asimétrica y de grado moderado.
+Estamos ante una recidiva metastásica de un cáncer de vagina con una supervivencia libre de enfermedad (SLE) de 3 meses.
+La paciente clínicamente presenta deterioro progresivo, no siendo candidata a tratamiento sistémico por lo que se deriva a Cuidados Paliativos.

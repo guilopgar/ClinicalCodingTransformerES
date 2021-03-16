@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 1975 1989	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 2602 2616	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 1903 1910	adenoma
+#3	AnnotatorNotes T3	8140/0
+T4	MORFOLOGIA_NEOPLASIA 152 158	cáncer
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 3795 3820	linfangitis carcinomatosa
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 2937 2947	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1749 1758	neoplasia
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 236 241	tumor
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 2105 2170	adenocarcinoma de pulmón estadio IV (derrame pericárdico positivo
+#9	AnnotatorNotes T9	8140/6
+T10	MORFOLOGIA_NEOPLASIA 2173 2190	nódulos adrenales
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 1818 1839	nódulos suprarrenales
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 2493 2515	progresión suprarrenal
+#12	AnnotatorNotes T12	8000/6

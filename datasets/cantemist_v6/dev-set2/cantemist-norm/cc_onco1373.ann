@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 82 91	carcinoma
+#1	AnnotatorNotes T1	8010/3
+T2	MORFOLOGIA_NEOPLASIA 140 149	carcinoma
+#2	AnnotatorNotes T2	8010/3
+T3	MORFOLOGIA_NEOPLASIA 1615 1640	linfangitis carcinomatosa
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 1893 1900	linfoma
+#4	AnnotatorNotes T4	9590/3
+T5	MORFOLOGIA_NEOPLASIA 2874 2881	linfoma
+#5	AnnotatorNotes T5	9590/3
+T6	MORFOLOGIA_NEOPLASIA 1788 1814	proceso linfoproliferativo
+#6	AnnotatorNotes T6	9970/1
+T7	MORFOLOGIA_NEOPLASIA 1975 1994	LNH linfoblástico T
+#7	AnnotatorNotes T7	9837/3
+T8	MORFOLOGIA_NEOPLASIA 2084 2118	Linfoma no Hodgkin linfoblástico T
+#8	AnnotatorNotes T8	9837/3

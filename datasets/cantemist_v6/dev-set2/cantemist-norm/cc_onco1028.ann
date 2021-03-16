@@ -1,0 +1,26 @@
+T1	MORFOLOGIA_NEOPLASIA 6223 6246	captación leptomeníngea
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 6260 6274	carcinomatosis
+#2	AnnotatorNotes T2	8010/9
+T3	MORFOLOGIA_NEOPLASIA 6178 6197	lesiones cerebrales
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1299 1307	melanoma
+#4	AnnotatorNotes T4	8720/3
+T5	MORFOLOGIA_NEOPLASIA 3172 3180	melanoma
+#5	AnnotatorNotes T5	8720/3
+T6	MORFOLOGIA_NEOPLASIA 5404 5412	melanoma
+#6	AnnotatorNotes T6	8720/3
+T7	MORFOLOGIA_NEOPLASIA 149 165	melanoma maligno
+#7	AnnotatorNotes T7	8720/3
+T8	MORFOLOGIA_NEOPLASIA 2734 2750	melanoma maligno
+#8	AnnotatorNotes T8	8720/3
+T9	MORFOLOGIA_NEOPLASIA 5681 5697	recaída cerebral
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 186 195	pT3bN1aM0
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 5713 5753	lesiones expansivas intraparenquimatosas
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 6675 6701	captaciones leptomeníngeas
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 6981 7005	progresión leptomeníngea
+#13	AnnotatorNotes T13	8000/6

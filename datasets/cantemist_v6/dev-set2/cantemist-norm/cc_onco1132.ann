@@ -1,0 +1,12 @@
+T1	MORFOLOGIA_NEOPLASIA 10238 10256	Linfoma no Hodgkin
+#1	AnnotatorNotes T1	9591/3
+T2	MORFOLOGIA_NEOPLASIA 3632 3658	células tumorales malignas
+#2	AnnotatorNotes T2	8001/3
+T3	MORFOLOGIA_NEOPLASIA 9255 9265	neoplasias
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 7661 7670	tumorales
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 9700 9776	proliferación tumoral linfoide con un patrón predominantemente angiocéntrico
+#5	AnnotatorNotes T5	9766/1
+T6	MORFOLOGIA_NEOPLASIA 10238 10286	Linfoma no Hodgkin NT/K extranodal de tipo nasal
+#6	AnnotatorNotes T6	9719/3

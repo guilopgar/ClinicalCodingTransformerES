@@ -1,0 +1,14 @@
+T1	MORFOLOGIA_NEOPLASIA 571 600	adenopatías supraclaviculares
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1485 1500	afectación ósea
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1138 1164	proceso linfoproliferativo
+#3	AnnotatorNotes T3	9970/1
+T4	MORFOLOGIA_NEOPLASIA 1050 1095	adenopatías múltiples a nivel supraclavicular
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 1218 1244	ganglionar supraclavicular
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 1267 1320	linfoma de Hodgkin clásico subtipo esclerosis nodular
+#6	AnnotatorNotes T6	9663/3
+T7	MORFOLOGIA_NEOPLASIA 2759 2790	afectación del cuerpo vertebral
+#7	AnnotatorNotes T7	8000/6

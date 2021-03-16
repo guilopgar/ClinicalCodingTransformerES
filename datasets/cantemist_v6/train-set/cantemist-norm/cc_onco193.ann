@@ -1,0 +1,26 @@
+T1	MORFOLOGIA_NEOPLASIA 333 336	cM0
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1439 1455	células malignas
+#2	AnnotatorNotes T2	8001/3
+T3	MORFOLOGIA_NEOPLASIA 440 450	malignidad
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 1594 1602	melanoma
+#4	AnnotatorNotes T4	8720/3
+T5	MORFOLOGIA_NEOPLASIA 4447 4455	melanoma
+#5	AnnotatorNotes T5	8720/3
+T6	MORFOLOGIA_NEOPLASIA 2627 2649	metástasis de melanoma
+#6	AnnotatorNotes T6	8720/6
+T7	MORFOLOGIA_NEOPLASIA 472 479	tumoral
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 173 206	melanoma de extensión superficial
+#8	AnnotatorNotes T8	8743/3
+T9	MORFOLOGIA_NEOPLASIA 691 704	fibroadenomas
+#9	AnnotatorNotes T9	9010/0
+T10	MORFOLOGIA_NEOPLASIA 2674 2693	enfermedad pulmonar
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 2815 2847	melanoma avanzado por metástasis
+#11	AnnotatorNotes T11	8720/6
+T12	MORFOLOGIA_NEOPLASIA 2509 2526	nódulos en pulmón
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 1893 1911	nódulos pulmonares
+#13	AnnotatorNotes T13	8000/6

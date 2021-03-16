@@ -1,0 +1,14 @@
+T1	MORFOLOGIA_NEOPLASIA 114 123	carcinoma
+#1	AnnotatorNotes T1	8010/3
+T2	MORFOLOGIA_NEOPLASIA 508 522	carcinomatosis
+#2	AnnotatorNotes T2	8010/9
+T3	MORFOLOGIA_NEOPLASIA 1208 1228	lesiones a distancia
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2254 2265	metastásica
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 393 425	carcinoma papilar seroso grado 3
+#5	AnnotatorNotes T5	8460/33
+T6	MORFOLOGIA_NEOPLASIA 2374 2401	implantes intraperitoneales
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 2416 2489	Adenocarcinoma papilar seroso de endometrio estadio IV por carcinomatosis
+#7	AnnotatorNotes T7	8460/6

@@ -1,0 +1,30 @@
+T1	MORFOLOGIA_NEOPLASIA 4603 4636	carcinoma renal de células claras
+#1	AnnotatorNotes T1	8310/3
+T2	MORFOLOGIA_NEOPLASIA 10370 10379	neoplasia
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 3122 3127	tumor
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 4529 4534	tumor
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 3785 3792	tumoral
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 2470 2485	afectación ósea
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 2512 2539	neoproliferativo diseminado
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 2560 2579	afectación pulmonar
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 2846 2911	carcinoma renal de células claras con grado nuclear I de Führman
+#9	AnnotatorNotes T9	8310/31
+T10	MORFOLOGIA_NEOPLASIA 3026 3076	neoplasia renal estadio IV por afectación pulmonar
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 4940 4958	nódulos pulmonares
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 7781 7806	diseminación intracraneal
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 4057 4076	lesiones pulmonares
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 5814 5829	lesión pulmonar
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 1939 1957	nódulos pulmonares
+#15	AnnotatorNotes T15	8000/6

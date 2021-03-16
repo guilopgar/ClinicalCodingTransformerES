@@ -1,0 +1,22 @@
+T1	MORFOLOGIA_NEOPLASIA 2771 2790	enfermedad hepática
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1377 1387	malignidad
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 2122 2154	tumor de células de la granulosa
+#3	AnnotatorNotes T3	8620/1
+T4	MORFOLOGIA_NEOPLASIA 451 458	tumoral
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 1135 1142	tumoral
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 59 95	carcinoma de células de la granulosa
+#6	AnnotatorNotes T6	8620/3
+T7	MORFOLOGIA_NEOPLASIA 199 254	carcinoma de células de la granulosa de ovario E.IIA G1
+#7	AnnotatorNotes T7	8620/31
+T8	MORFOLOGIA_NEOPLASIA 508 579	metástasis por tumor de células de la granulosa pobremente diferenciado
+#8	AnnotatorNotes T8	8620/63
+T9	MORFOLOGIA_NEOPLASIA 1974 2049	metástasis por carcinoma de células de la granulosa pobremente diferenciado
+#9	AnnotatorNotes T9	8620/63
+T10	MORFOLOGIA_NEOPLASIA 2530 2544	(LOE) hepática
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 1594 1656	recaída tumoral abdominal por tumor de células de la granulosa
+#11	AnnotatorNotes T11	8620/63

@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 1557 1573	melanoma maligno
+#1	AnnotatorNotes T1	8720/3
+T2	MORFOLOGIA_NEOPLASIA 94 99	nevus
+#2	AnnotatorNotes T2	8720/0
+T3	MORFOLOGIA_NEOPLASIA 180 194	nevus de Spitz
+#3	AnnotatorNotes T3	8770/0
+T4	MORFOLOGIA_NEOPLASIA 882 936	adenopatías laterocervicales infra y supraclaviculares
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 664 685	bulto supraclavicular
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 1143 1211	ganglio supraclavicular izquierdo con afectación de melanoma maligno
+#6	AnnotatorNotes T6	8720/6
+T7	MORFOLOGIA_NEOPLASIA 1645 1708	melanoma maligno estadio IV (por afectación ganglionar, TxNxM1a
+#7	AnnotatorNotes T7	8720/6
+T8	MORFOLOGIA_NEOPLASIA 2714 2751	adenopatías supra e infraclaviculares
+#8	AnnotatorNotes T8	8000/6

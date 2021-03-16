@@ -1,0 +1,32 @@
+T1	MORFOLOGIA_NEOPLASIA 5558 5576	Lesión suprarrenal
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 5284 5312	Metástasis de adenocarcinoma
+#2	AnnotatorNotes T2	8140/6
+T3	MORFOLOGIA_NEOPLASIA 5635 5670	Metástasis de carcinoma epidermoide
+#3	AnnotatorNotes T3	8070/6
+T4	MORFOLOGIA_NEOPLASIA 6052 6066	adenocarcinoma
+#4	AnnotatorNotes T4	8140/3
+T5	MORFOLOGIA_NEOPLASIA 2225 2272	adenopatías laterocervicales, supraclaviculares
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 5266 5282	células malignas
+#6	AnnotatorNotes T6	8001/3
+T7	MORFOLOGIA_NEOPLASIA 5617 5633	células malignas
+#7	AnnotatorNotes T7	8001/3
+T8	MORFOLOGIA_NEOPLASIA 5527 5544	células tumorales
+#8	AnnotatorNotes T8	8001/1
+T9	MORFOLOGIA_NEOPLASIA 6129 6140	metastásica
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 4106 4116	metástasis
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 4273 4283	metástasis
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 4386 4396	metástasis
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 5165 5174	neoplasia
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 3875 3889	LOES hepáticas
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 4118 4165	Tumoración en relación con glándula suprarrenal
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 6022 6035	LOE hepáticas
+#16	AnnotatorNotes T16	8000/6

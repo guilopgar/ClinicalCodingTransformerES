@@ -1,0 +1,50 @@
+T1	MORFOLOGIA_NEOPLASIA 1136 1138	M0
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 2015 2017	M0
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 239 248	carcinoma
+#3	AnnotatorNotes T3	8010/3
+T4	MORFOLOGIA_NEOPLASIA 6574 6591	células tumorales
+#4	AnnotatorNotes T4	8001/1
+T5	MORFOLOGIA_NEOPLASIA 837 847	malignidad
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 3057 3067	malignidad
+#6	AnnotatorNotes T6	8000/3
+T7	MORFOLOGIA_NEOPLASIA 1062 1070	melanoma
+#7	AnnotatorNotes T7	8720/3
+T8	MORFOLOGIA_NEOPLASIA 5882 5902	melanoma metastásico
+#8	AnnotatorNotes T8	8720/6
+T9	MORFOLOGIA_NEOPLASIA 6813 6824	metastásico
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 3392 3402	metástasis
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 3520 3530	metástasis
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 6407 6417	metástasis
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 3558 3580	metástasis de melanoma
+#13	AnnotatorNotes T13	8720/6
+T14	MORFOLOGIA_NEOPLASIA 6739 6761	metástasis de melanoma
+#14	AnnotatorNotes T14	8720/6
+T15	MORFOLOGIA_NEOPLASIA 6481 6486	tumor
+#15	AnnotatorNotes T15	8000/1
+T16	MORFOLOGIA_NEOPLASIA 489 515	melanoma lentiginoso acral
+#16	AnnotatorNotes T16	8744/3
+T17	MORFOLOGIA_NEOPLASIA 1992 2006	Melanoma acral
+#17	AnnotatorNotes T17	8744/3
+T18	MORFOLOGIA_NEOPLASIA 2915 2931	masa suprarrenal
+#18	AnnotatorNotes T18	8000/6
+T19	MORFOLOGIA_NEOPLASIA 4941 4983	progresión a nivel de la cápsula esplénica
+#19	AnnotatorNotes T19	8000/6
+T20	MORFOLOGIA_NEOPLASIA 5002 5037	nódulo de 35,4 mm en el hipocondrio
+#20	AnnotatorNotes T20	8000/6
+T21	MORFOLOGIA_NEOPLASIA 5420 5440	lesión periesplénica
+#21	AnnotatorNotes T21	8000/6
+T22	MORFOLOGIA_NEOPLASIA 5469 5493	nódulo en el hipocondrio
+#22	AnnotatorNotes T22	8000/6
+T23	MORFOLOGIA_NEOPLASIA 5623 5657	progresión a nivel del hipocondrio
+#23	AnnotatorNotes T23	8000/6
+T24	MORFOLOGIA_NEOPLASIA 6839 6858	afectación muscular
+#24	AnnotatorNotes T24	8000/6
+T25	MORFOLOGIA_NEOPLASIA 3888 3930	enfermedad a nivel de la cápsula esplénica
+#25	AnnotatorNotes T25	8000/6

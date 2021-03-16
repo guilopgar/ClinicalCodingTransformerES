@@ -1,0 +1,27 @@
+Anamnesis
+Mujer de 59 años, fumadora de 30 paquetes/año, exenolismo, sin otros antecedentes médico-quirúrgicos.
+Consulta por primera vez en noviembre de 2009 por dolor torácico pleurítico y síndrome constitucional con pérdida de 30 kg en 9 meses.
+
+Examen físico
+Afebril, FC 120 lpm, TA 142/89 mm Hg, Sat O2 92 %. BEG, sin adenopatías periféricas palpables. Auscultación cardiopulmonar rítmica, sin soplos, hipofonesis y crepitantes en la base derecha. Abdomen blando, sin masas ni organomegalias palpables.
+
+Pruebas complementarias
+Analítica general: normal.
+Radiografía de tórax: condensación en la base derecha con derrame pleural ipsilateral asociado.
+Toracocentesis: pH 7,36, hematíes 570.000/ul, leucocitos 5.000/ul (N 90 %, L 0 %), glucosa 89 mg/dl, proteínas 37 g/l, LDH 336 U/l, ADA 41. Cultivos negativos y citología negativa para malignidad.
+Marcadores tumorales: CA 12.5 de 78,10 u/ml.
+Fibrobroncoscopia: compresión extrínseca de la mucosa bronquial a nivel de LID.
+Biopsia pleural cerrada a ciegas: necrosis tumoral, nidos de células epiteliales sugestivos de infiltración por adenocarcinoma de células claras, IHQ compatible con primario en páncreas o vías biliares. La muestra fue revisada por un segundo anatomopatólogo de un centro diferente con idéntico resultado.
+TC toraco-abdomino-pélvica: tumoración mal delimitada que engloba tronco celíaco, arteria mesentérica superior, colédoco y cabeza de páncreas; derrame pleural
+PAAF transduodenal de masa pancreática: una primera punción no obtuvo material suficiente, y la segunda resultó negativa para malignidad
+
+Diagnóstico
+Paciente sin comorbilidad, ECOG 3 al diagnóstico, afecta de adenocarcinoma de páncreas de células claras, estadio IV de debut por infiltración pleural metastásica.
+
+Tratamiento
+Gemcitabina 1000 mg/m2 días 1, 8 y 15 cada 28 días y erlotinib 100 mg al día.
+
+Evolución
+Recibió 4 ciclos con muy buena evolución clínica, excelente tolerancia al tratamiento y respuesta parcial mayor radiológica.
+Dada la discordante evolución clínica, se realizó nueva PAAF de la lesión pancreática que resultó negativa.
+Estos hallazgos hacen reconsiderar el diagnóstico como pancreatitis crónica (de origen enólico) y adenocarcinoma pulmonar estadio IV. Se realizó un estudio mutacional de EGFR que resultó wild type, a pesar de lo cual la paciente continúa tratamiento con erlotinib de mantenimiento, habiendo recibido un total de 37 ciclos de tratamiento, con una tolerancia excelente y presentando respuesta parcial mayor mantenida evidenciada en las TC trimestrales de seguimiento durante 33 meses.

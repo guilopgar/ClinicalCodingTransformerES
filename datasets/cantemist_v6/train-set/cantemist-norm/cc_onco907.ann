@@ -1,0 +1,42 @@
+T1	MORFOLOGIA_NEOPLASIA 62 76	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 5591 5606	afectación ósea
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 6150 6165	afectación ósea
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 5530 5539	carcinoma
+#4	AnnotatorNotes T4	8010/3
+T5	MORFOLOGIA_NEOPLASIA 2463 2473	malignidad
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 3175 3185	malignidad
+#6	AnnotatorNotes T6	8000/3
+T7	MORFOLOGIA_NEOPLASIA 3495 3505	metástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 5388 5398	metástasis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 2163 2173	neoplásica
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 4371 4397	proceso linfoproliferativo
+#10	AnnotatorNotes T10	9970/1
+T11	MORFOLOGIA_NEOPLASIA 6821 6826	tumor
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 6382 6389	tumoral
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 740 780	adenocarcinoma de próstata Gleason 2 + 2
+#13	AnnotatorNotes T13	8140/31
+T14	MORFOLOGIA_NEOPLASIA 927 950	adenomas tubulovellosos
+#14	AnnotatorNotes T14	8263/0
+T15	MORFOLOGIA_NEOPLASIA 3973 4003	neoplasia gástrica infiltrante
+#15	AnnotatorNotes T15	8000/1/H
+T16	MORFOLOGIA_NEOPLASIA 4181 4229	carcinoma difuso de "células en anillo de sello"
+#16	AnnotatorNotes T16	8490/3
+T17	MORFOLOGIA_NEOPLASIA 4181 4197	carcinoma difuso
+#17	AnnotatorNotes T17	8145/3
+T18	MORFOLOGIA_NEOPLASIA 4344 4367	celularidad metastásica
+#18	AnnotatorNotes T18	8001/6
+T19	MORFOLOGIA_NEOPLASIA 6628 6646	lesiones blásticas
+#19	AnnotatorNotes T19	8000/6
+T20	MORFOLOGIA_NEOPLASIA 6855 6871	linitis plástica
+#20	AnnotatorNotes T20	8142/3
+T21	MORFOLOGIA_NEOPLASIA 3147 3160	lesión lítica
+#21	AnnotatorNotes T21	8000/6

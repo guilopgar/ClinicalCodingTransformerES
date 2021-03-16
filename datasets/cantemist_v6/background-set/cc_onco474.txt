@@ -1,0 +1,28 @@
+Anamnesis
+Paciente mujer, sin antecedentes clínicos de interés, diagnosticada en septiembre de 2013, a los 39 años, de carcinoma ductal infiltrante de mama derecha localmente avanzado (cT2N1, estadio IIA), fenotipo luminal A. Recibió quimioterapia neoadyuvante según esquema TEC (docetaxel, epirrubicina, ciclofosfamida) y tras 6 ciclos fue intervenida mediante mastectomía derecha constatándose una respuesta patológica completa en el estudio anatomopatológico. Posteriormente, recibe radioterapia adyuvante e inicia hormonoterapia con tamoxifeno.
+Tras un intervalo libre de enfermedad (ILE) de dos años y seis meses, presenta recaída ósea en cadera izquierda por la que recibe radioterapia antiálgica e inicia primera línea hormonal paliativa añadiendo acetato de goserelina a tamoxifeno y denosumab, el cual mantendrá durante los siguientes dos años.
+En febrero de 2017, tras cuatro meses de intervalo libre de progresión (ILP), se objetiva enfermedad hepática y ósea iniciando entonces primera línea de quimioterapia paliativa con esquema paclitaxel-bevacizumab. Tras ocho ciclos, mantiene respuesta parcial y se retira paclitaxel, prosiguiendo con bevacizumab de mantenimiento.
+De nuevo, progresión ósea tras siete meses de ILP e inicia segunda línea de quimioterapia paliativa con eribulina consiguiendo tras seis ciclos respuesta parcial alta a nivel hepático y estabilidad ósea.
+En junio de 2018, nueva progresión ósea decidiéndose en esta ocasión tercera línea con vinorelbina. Tras cuatro ciclos, progresión hepática y estabilidad ósea como mejor respuesta iniciando una cuarta línea en este momento con nab-paclitaxel, presentando de nuevo progresión hepática y ganglionar (axilares y supraclaviculares izquierdas), tras tres ciclos de tratamiento.
+Se decide entonces, en diciembre de 2018, al mantener la paciente ECOG 1 y no existir posibilidad de inclusión en ensayo clínico en hospitales de referencia, continuar tratamiento paliativo en quinta línea con doxorrubicina.
+Durante los múltiples tratamientos recibidos previamente, se precisó de varios retrasos y reducciones de dosis por neutropenia y anemia. Otras toxicidades fueron astenia y neurotoxicidad grado 1-2.
+
+Exploración física
+» En abril de 2019, acude a consulta de Oncología para recibir el quinto ciclo de doxorrubicina. Refiere hematuria de unas semanas de evolución incluso en algunas ocasiones con coágulos que provocan dificultad para la micción.
+» Presenta en ese momento buen estado general y ECOG 1. Exploración cardiopulmonar anodina.
+» Abdomen con ligera hepatomegalia no dolorosa y hematuria que se constata en consulta.
+» Se deriva entonces a Urología para valoración y se solicita TC de reevaluación.
+
+Pruebas complementarias
+En la TC se objetivan datos dispares en la evolución de su enfermedad neoplásica. Por un lado, disminución del tamaño de las lesiones hepáticas y las adenopatías metastásicas, pero aparición de uropatía obstructiva izquierda moderada secundaria a posible neoplasia vesical primaria que pudiera infiltrar meato ureteral izquierdo.
+Se solicita por parte de Urología urografía intravenosa que demuestra también ureterohidronefrosis izquierda moderada-severa, apreciándose una tortuosidad en tercio proximal del uréter. También se lleva a cabo cistoscopia encontrándose en la cara lateral interna vesical una zona de aspecto inflamatorio y fondo parcheado, no papilar, sospechosa de neoplasia vesical metacrónica, la cual se biopsia. La analítica confirma progresión bioquímica, manteniéndose conservada la función renal.
+
+Diagnóstico
+El estudio histológico de la muestra vesical concluye, sorprendentemente, metástasis de carcinoma CQ7 (+), CQ20 (-); receptores de estrógenos con positividad intensa en el 90 % de las células y receptores de progesterona con positividad moderada en el 10 %.
+El informe complementario determina que la histomorfología y el inmunofenotipo orientan a un origen mamario de la lesión. Por lo tanto, tenemos como diagnóstico metástasis intravesical de carcinoma de mama estadio IV politratado de larga evolución.
+
+Tratamiento
+Ante la progresión de la enfermedad a nivel intravesical tras cinco líneas de tratamiento citostático paliativo, manteniendo la paciente ECOG adecuado para tratamiento hasta el momento, se valora de nuevo la posibilidad de entrada en ensayo clínico.
+
+Evolución
+Actualmente, se encuentra en fase de cribado para valorar entrada en ensayo clínico fase I.

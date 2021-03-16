@@ -1,0 +1,14 @@
+T1	MORFOLOGIA_NEOPLASIA 307 326	carcinoma urotelial
+#1	AnnotatorNotes T1	8120/3
+T2	MORFOLOGIA_NEOPLASIA 491 510	carcinoma urotelial
+#2	AnnotatorNotes T2	8120/3
+T3	MORFOLOGIA_NEOPLASIA 296 305	neoplasia
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 432 441	neoplasia
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 1715 1722	tumoral
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 2492 2499	tumoral
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 521 548	LH tipo linfocítico nodular
+#7	AnnotatorNotes T7	9665/3

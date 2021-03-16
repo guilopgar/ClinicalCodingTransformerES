@@ -1,0 +1,50 @@
+Paciente mujer de 59 años con disnea e hipertensión pulmonar.
+
+Electrocardiograma:
+Ritmo sinusalcon bloqueo incompleto de rama derecha
+
+Rxtórax:
+Cardiomegalia global grado II/IV, aumento del cono de la arteria pulmonar (2º mogul) y patrón en árbol podado sugestivo de hipertensión pulmonar.
+
+Cateterismo cardíaco:
+• Presiones:
+ • PAD: 12 mmHg
+ • PVD: 66/8, media: 32 mmHg;
+ • PAP: 61/28 (media: 40 mmhg)
+ • PAo: 187/100 (media 136 mmHg)
+• Ausencia de lesiones coronarias significativas
+• Arteria pulmonar muy dilatada observándose recirculación de paso I-D a través de CIA alta.
+
+Ratio Arteria Pulmonar / Aorta = 1,79
+Arteria pulmonar principal: 43 mm
+ • Rama arterial pulmonar derecha: 32 mm
+ • Rama arterial pulmonar izquierda: 28 mm
+ • Vena cava inferior: 32x 30 mm
+
+Secuencia cine SSFP axial y secuencia axial sangre negra:
+ • Drenaje venoso pulmonar anómalo parcial de vena lobar superior derecha hacia la vena cava superior.
+ • Aumento de calibre de la rama pulmonar derecha en secuencia axial sangre negra.
+ 
+Secuencia axial sangre negra:
+ • Drenaje venoso pulmonar anómalo parcial de la vena lobar media a la vena cava superior a la altura de su desembocadura en la aurícula derecha.
+ • Comunicación interauricular tipo seno venoso superior. Qp/Qs: 3.3
+ • Situssólitus. Adecuada concordancia atrioventricular y ventriculoarterial.
+
+Índice de masa vetricular (VMI): 0,8
+Masa indexada: 37 g/m2
+Grosor VD: 7 mm
+
+Qp/Qs: 3.3
+Velocidad media AP: 13 cm/s
+Velocidad pico AP: 117,5 cm/s
+Gradiente pico sistólico: 5,47 mmHg
+Ratio Arteria pulmonar/Aorta: 1,79
+Diámetro sistólico: 49 cm
+Diámetro diastólico: 42 cm
+Distensibilidad (RAC): 14%
+
+Secuencia de Viabilidad
+Realce tardío triangular de base subepicárdicaen unión interventricular inferior basal (BASI).
+
+Diagnóstico:
+Cortocircuito izquierda-derecha intracardíaco (CIA seno venoso superior) y extracardíaco (DVPAP) con hipertensión arterial pulmonar secundaria (tipo 1 de la clasificación de la OMS) y cor pulmonale

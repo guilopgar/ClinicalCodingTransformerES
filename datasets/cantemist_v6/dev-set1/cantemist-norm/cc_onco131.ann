@@ -1,0 +1,22 @@
+T1	MORFOLOGIA_NEOPLASIA 1217 1219	M0
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 2980 2992	metastásicos
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1513 1523	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2961 2979	nódulos pulmonares
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2611 2640	progresiones a nivel pulmonar
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 1631 1650	progresión pulmonar
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 956 981	sarcoma de partes blandas
+#7	AnnotatorNotes T7	8800/3
+T8	MORFOLOGIA_NEOPLASIA 1198 1205	tumoral
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 2695 2702	tumoral
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 1120 1149	leiomiosarcoma indiferenciado
+#10	AnnotatorNotes T10	8890/34
+T11	MORFOLOGIA_NEOPLASIA 1466 1497	nódulos milimétricos pulmonares
+#11	AnnotatorNotes T11	8000/6

@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 2600 2608	Melanoma
+#1	AnnotatorNotes T1	8720/3
+T2	MORFOLOGIA_NEOPLASIA 1639 1658	enfermedad hepática
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 2492 2513	enfermedad secundaria
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1333 1351	lesiones hepáticas
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 3416 3434	lesiones hepáticas
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 3649 3659	malignidad
+#6	AnnotatorNotes T6	8000/3
+T7	MORFOLOGIA_NEOPLASIA 245 253	melanoma
+#7	AnnotatorNotes T7	8720/3
+T8	MORFOLOGIA_NEOPLASIA 521 529	melanoma
+#8	AnnotatorNotes T8	8720/3
+T9	MORFOLOGIA_NEOPLASIA 701 712	metastásica
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 871 881	metástasis
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 892 919	lesiones en lóbulo hepático
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 1194 1226	infiltración difusa por melanoma
+#12	AnnotatorNotes T12	8720/6

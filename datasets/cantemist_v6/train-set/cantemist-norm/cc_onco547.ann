@@ -1,0 +1,26 @@
+T1	MORFOLOGIA_NEOPLASIA 1071 1090	Implantes tumorales
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 955 957	M1
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1676 1679	M1b
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1105 1120	afectación ósea
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 195 216	carcinoma epidermoide
+#5	AnnotatorNotes T5	8070/3
+T6	MORFOLOGIA_NEOPLASIA 1461 1482	carcinoma epidermoide
+#6	AnnotatorNotes T6	8070/3
+T7	MORFOLOGIA_NEOPLASIA 1558 1575	células tumorales
+#7	AnnotatorNotes T7	8001/1
+T8	MORFOLOGIA_NEOPLASIA 1358 1377	implantes pleurales
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 895 927	Carcinoma pulmonar multicéntrico
+#9	AnnotatorNotes T9	8010/3/H
+T10	MORFOLOGIA_NEOPLASIA 1208 1225	implante muscular
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 1590 1635	Carcinoma epidermoide de pulmón multicéntrico
+#11	AnnotatorNotes T11	8070/3/H
+T12	MORFOLOGIA_NEOPLASIA 1685 1705	implantes musculares
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 2898 2908	neoplásica
+#13	AnnotatorNotes T13	8000/6

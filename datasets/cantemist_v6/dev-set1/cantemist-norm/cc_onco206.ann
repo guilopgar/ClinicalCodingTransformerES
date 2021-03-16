@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 2650 2664	captación ósea
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 2412 2421	neoplasia
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 1257 1264	tumoral
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 1364 1371	tumoral
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 2894 2901	tumoral
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 1386 1409	Meduloblastoma grado IV
+#6	AnnotatorNotes T6	9470/34
+T7	MORFOLOGIA_NEOPLASIA 1550 1573	meduloblastoma grado IV
+#7	AnnotatorNotes T7	9470/34
+T8	MORFOLOGIA_NEOPLASIA 2976 2996	recidiva a distancia
+#8	AnnotatorNotes T8	8000/6

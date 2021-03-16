@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 611 623	glioblastoma
+#1	AnnotatorNotes T1	9440/3
+T2	MORFOLOGIA_NEOPLASIA 2680 2692	glioblastoma
+#2	AnnotatorNotes T2	9440/3
+T3	MORFOLOGIA_NEOPLASIA 2471 2481	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2733 2743	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 478 490	neoformación
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 429 439	tumoración
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 767 799	glioblastoma de células gigantes
+#7	AnnotatorNotes T7	9441/3
+T8	MORFOLOGIA_NEOPLASIA 2762 2794	Glioblastoma de células gigantes
+#8	AnnotatorNotes T8	9441/3

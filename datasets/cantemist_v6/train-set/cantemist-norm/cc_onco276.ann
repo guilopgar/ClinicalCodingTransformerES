@@ -1,0 +1,18 @@
+T1	MORFOLOGIA_NEOPLASIA 1780 1789	Neoplasia
+#1	AnnotatorNotes T1	8000/1
+T2	MORFOLOGIA_NEOPLASIA 2650 2662	angiosarcoma
+#2	AnnotatorNotes T2	9120/3
+T3	MORFOLOGIA_NEOPLASIA 2837 2848	metastásico
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2025 2035	Metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2056 2084	sarcoma cardiaco metastásico
+#5	AnnotatorNotes T5	8800/6
+T6	MORFOLOGIA_NEOPLASIA 2137 2174	tumor cardíaco de estirpe mesenquimal
+#6	AnnotatorNotes T6	8800/3
+T7	MORFOLOGIA_NEOPLASIA 2650 2673	angiosarcoma epiteloide
+#7	AnnotatorNotes T7	8804/3
+T8	MORFOLOGIA_NEOPLASIA 2894 2938	angiosarcoma cardíaco estadio IV (metástasis
+#8	AnnotatorNotes T8	9120/6
+T9	MORFOLOGIA_NEOPLASIA 3186 3205	enfermedad pulmonar
+#9	AnnotatorNotes T9	8000/6

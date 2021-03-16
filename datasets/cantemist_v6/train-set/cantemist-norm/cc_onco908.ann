@@ -1,0 +1,14 @@
+T1	MORFOLOGIA_NEOPLASIA 1766 1780	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 1297 1307	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1177 1186	neoplasia
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 4786 4791	tumor
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 1952 2011	adenocarcinoma de pulmón estadio IV por afectación cerebral
+#5	AnnotatorNotes T5	8140/6
+T6	MORFOLOGIA_NEOPLASIA 4409 4428	lesiones cerebrales
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1231 1245	LOES frontales
+#7	AnnotatorNotes T7	8000/6

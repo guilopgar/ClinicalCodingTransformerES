@@ -1,0 +1,28 @@
+T1	MORFOLOGIA_NEOPLASIA 459 473	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 1162 1176	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 3135 3151	células malignas
+#3	AnnotatorNotes T3	8001/3
+T4	MORFOLOGIA_NEOPLASIA 1851 1869	lesiones hepáticas
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 3361 3368	linfoma
+#5	AnnotatorNotes T5	9590/3
+T6	MORFOLOGIA_NEOPLASIA 587 597	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 825 835	metástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 966 976	metástasis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 1197 1207	metástasis
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 1484 1494	metástasis
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 396 408	neoformación
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 1648 1667	progresión hepática
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 4477 4493	recaída hepática
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 3936 3972	adenocarcinoma de colon pT3 pN2a pM1
+#14	AnnotatorNotes T14	8140/6

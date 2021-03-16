@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 535 545	metástasis
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 940 950	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1688 1698	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 299 308	neoplasia
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 1481 1491	tumoración
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 878 903	lesión solitaria cerebral
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1640 1683	adenocarcinoma colorrectal bien difereciado
+#7	AnnotatorNotes T7	8140/31
+T8	MORFOLOGIA_NEOPLASIA 1755 1825	Adenocarcinoma colorrectal bien diferenciado estadio IV con metástasis
+#8	AnnotatorNotes T8	8140/61

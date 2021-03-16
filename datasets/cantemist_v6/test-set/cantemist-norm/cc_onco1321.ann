@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 2158 2174	mixofibrosarcoma
+#1	AnnotatorNotes T1	8811/3
+T2	MORFOLOGIA_NEOPLASIA 45 75	poliposis adenomatosa familiar
+#2	AnnotatorNotes T2	8220/0
+T3	MORFOLOGIA_NEOPLASIA 1283 1291	sarcomas
+#3	AnnotatorNotes T3	8800/3
+T4	MORFOLOGIA_NEOPLASIA 957 962	tumor
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 2514 2519	tumor
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 1802 1809	tumoral
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 2379 2386	tumoral
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 1194 1224	mixofibrosarcoma de bajo grado
+#8	AnnotatorNotes T8	8811/31
+T9	MORFOLOGIA_NEOPLASIA 1965 1977	sarcomatosis
+#9	AnnotatorNotes T9	8800/9
+T10	MORFOLOGIA_NEOPLASIA 2074 2129	tumor mesenquimal de grado e índice proliferativo bajos
+#10	AnnotatorNotes T10	8800/11

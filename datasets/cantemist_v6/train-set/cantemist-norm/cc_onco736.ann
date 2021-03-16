@@ -1,0 +1,26 @@
+T1	MORFOLOGIA_NEOPLASIA 1308 1315	adenoma
+#1	AnnotatorNotes T1	8140/0
+T2	MORFOLOGIA_NEOPLASIA 1138 1148	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 2359 2375	tumor carcinoide
+#3	AnnotatorNotes T3	8240/3
+T4	MORFOLOGIA_NEOPLASIA 2378 2386	tumorlet
+#4	AnnotatorNotes T4	8040/1
+T5	MORFOLOGIA_NEOPLASIA 3062 3078	tumor carcinoide
+#5	AnnotatorNotes T5	8240/3
+T6	MORFOLOGIA_NEOPLASIA 3103 3111	tumorlet
+#6	AnnotatorNotes T6	8040/1
+T7	MORFOLOGIA_NEOPLASIA 3140 3160	tumor neuroendocrino
+#7	AnnotatorNotes T7	8240/3
+T8	MORFOLOGIA_NEOPLASIA 1414 1450	neoplasia de páncreas con metástasis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 1615 1625	malignidad
+#9	AnnotatorNotes T9	8000/3
+T10	MORFOLOGIA_NEOPLASIA 2907 2922	lesión hepática
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 3725 3740	lesión hepática
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 1076 1106	nódulos pulmonares bilaterales
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 1162 1177	nódulo hepático
+#13	AnnotatorNotes T13	8000/6

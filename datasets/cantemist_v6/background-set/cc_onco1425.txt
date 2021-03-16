@@ -1,0 +1,22 @@
+Anamnesis
+Antecedentes personales: varón de 65 años, deportista, exfumador desde hace 1 año. Su hijo padece tuberculosis (TB) activa, por lo que el paciente se realiza una placa de tórax en noviembre de 2012 en la que se objetiva una opacidad focal en el segmento ápico-posterior de lóbulo superior izquierdo (LSI), planteando la duda de si está en relación con TB remota u otras posibilidades, como la neoplasia, por lo que se realiza placa de control en enero de 2013, sin cambios.
+Primer síntoma: el 19-02-2013 el paciente acude a Urgencias por dolor lumbar de tipo inflamatorio; aportaba resonancia magnética (RM) de centro privado con cambios degenerativos sin otras alteraciones. Además, el paciente presentaba nódulos cutáneos de reciente aparición en múltiples localizaciones, por lo que se realiza punción-aspiración con aguja fina (PAAF) con resultado de estudio anatomopatológico de metástasis por adenocarcinoma.
+
+Examen físico
+El 7 de marzo de 2013 es visto en consultas de Oncología. Presenta performance status (PS) 1 y a la exploración destacan la ausencia de adenopatías y la aparición progresiva de nódulos cutáneos en axilas, espalda y abdomen. El más llamativo en eminencia tenar derecha de 4 cm de diámetro mayor, doloroso y de aspecto necrótico.
+
+Pruebas complementarias
+El paciente ingresa para estudio. En la analítica destacan un PSA = 5,4 y CEA = 6,3.
+En estudio de imagen se evidencia: engrosamiento de la pared del antro gástrico y adenopatía adyacente de 3 cm.
+Masa pulmonar en lóbulo superior izquierdo (LSI) de 37 mm, nódulos pulmonares, derrame pleural izquierdo, adenopatías hiliares y mediastínicas. Enfermedad metastásica: nódulos suprarrenales, hepáticos, esplénicos y carcinomatosis peritoneal.
+En endoscopia digestiva alta se descarta el origen gástrico, así como anormalidades en otros órganos digestivos.
+
+Diagnóstico
+Se realiza nueva biopsia del nódulo subcutáneo con diagnóstico AP de metástasis de adenocarcinoma moderadamente diferenciado sin otra especificación histológica. Estudios complementarios para esclarecer el origen del primario resultaron inespecíficos: inmunohistoquímica (IHQ): CK7+; CK 20-, TTF1-, PSA-; CEA marcaba células aisladas y con CDX2 se marcaban esporádicos núcleos. Mutaciones EGFR, ALK y herceptest negativas también.
+El marcaje era compatible con origen pulmonar, pero cuando son negativos para TTF-1 son positivos con Napsina A, anticuerpo que no estaba disponible en ese momento en el laboratorio.
+
+Tratamiento
+El paciente recibe 3 ciclos de cisplatino y docetaxel 50 mg/m2 quincenal con importante toxicidad digestiva que provoca su ingreso tras cada administración por vómitos de grado 3, con lo que el último ciclo es administrado al 75 % de la dosis (24-04-2013).
+
+Evolución
+A pesar del tratamiento, el paciente presenta intenso y rápido deterioro con astenia severa y fallece 10 días después por progresión de su enfermedad.

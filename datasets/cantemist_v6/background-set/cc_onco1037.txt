@@ -1,0 +1,36 @@
+Anamnesis
+ Paciente varón de 79 años, sin alergias medicamentosas conocidas.
+ Diabetes tipo 2, hipertensión e hipercolesterolemia con buen control farmacológico.
+ Sin antecedentes quirúrgicos de interés.
+ Antecedentes familiares: sin interés oncológico.
+ Hábitos tóxicos: fumador activo desde los 15 años de 20 cigarrillos/día. Sin enolismo.
+ Tratamiento habitual: metformina, valsartán, amlodipino y alprazolam.
+
+Exploración física
+ PS ECOG 1.
+ Consciente y orientado. Buen estado general.
+ Normocoloreado y normohidratado. Eupneico en reposo.
+ Auscultación cardiaca: rítmica sin soplos.
+ Auscultación pulmonar: murmullo vesicular conservado con algún roncus disperso.
+ Abdomen: blando, depresible, no doloroso durante la palpación. Sin masas ni megalias.
+ Peristaltismo conservado.
+ Extremidades inferiores: sin edemas. Cicatriz de cirugía con defecto muscular en parte posterosuperior de pantorrilla izquierda.
+ Fuerza y sensibilidad conservadas.
+
+Pruebas complementarias
+En enero de 2015, aparición de tumoración dolorosa en región posterosuperior de pantorrilla izquierda de meses de evolución. Se realiza PAAF que nos informa de células tumorales malignas compatible con sarcoma pleomórfico.
+En pruebas de imagen, se observa tumor de partes blandas ligeramente caudal al hueco poplíteo izquierdo sin metástasis a distancia.
+En marzo de 2015, se realiza exéresis compartimental con resultado anatomopatológico de sarcoma pleomórfico de alto grado de localización profunda muscular de 9,5 x 6,5 cm. Atipia y pleomorfismo celular marcado. 40 % necrosis. 53 mitosis/10 HPF. Resección marginal focal a nivel proximal. Resto de márgenes quirúrgicos libres de tumor.
+
+Diagnóstico
+Sarcoma de partes blandas NOS G4 pT2bN0M0.
+
+Tratamiento
+Al informar de afectación marginal focal a nivel proximal, se decide administrar RT adyuvante entre el 28/05/2015 y el 03/07/2015 (52 Gy).
+
+Evolución
+En diciembre de 2015 en TC-TAP de control, se objetiva progresión pulmonar múltiple.
+Ante progresión pulmonar se inicia 1ª línea de quimioterapia paliativa basada en antraciclinas. Tras 3º ciclo, nueva progresión pulmonar múltiple. Ante buen estado clínico del paciente, se decide iniciar tratamiento de 2º línea con pazopanib 800 mg/24 h en junio 2016.
+A los 14 días del inicio del tratamiento, el paciente adelanta cita por aparición de tos, disnea de mínimos esfuerzos y dolor torácico de tipo pleurítico. Se realizó radiografía de tórax, donde se objetiva neumotórax completo izquierdo, por lo que se suspendió pazopanib y se procedió a colocación de tubo de tórax izquierdo.
+Trs resolución del neumotórax, se reintrodujo pazopanib a dosis habituales. A los 16 días del reinicio del tratamiento, el paciente vuelve a consultar por tos, disnea y dolor torácico. En radiografía de tórax y TC torácica se objetiva neumotórax bilateral.
+Ante dichos hallazgos, se decide suspender tratamiento activo con pazopanib, colocación de tubo de tórax bilateral y se continuó con tratamiento sintomático hasta el exitus a los 4 meses.

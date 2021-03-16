@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 743 750	lipomas
+#1	AnnotatorNotes T1	8850/0
+T2	MORFOLOGIA_NEOPLASIA 1098 1107	tumorales
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 334 371	metástasis de Ca. papilar de tiroides
+#3	AnnotatorNotes T3	8260/6
+T4	MORFOLOGIA_NEOPLASIA 872 896	gangliocitoma displásico
+#4	AnnotatorNotes T4	9493/0
+T5	MORFOLOGIA_NEOPLASIA 914 949	gangliocitoma displásico cerebeloso
+#5	AnnotatorNotes T5	9493/0
+T6	MORFOLOGIA_NEOPLASIA 973 1003	enfermedad de Lhermitte-Duclos
+#6	AnnotatorNotes T6	9493/0
+T7	MORFOLOGIA_NEOPLASIA 1005 1008	ELD
+#7	AnnotatorNotes T7	9493/0
+T8	MORFOLOGIA_NEOPLASIA 1535 1546	tricolemoma
+#8	AnnotatorNotes T8	8102/0

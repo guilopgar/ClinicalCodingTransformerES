@@ -1,0 +1,10 @@
+T1	MORFOLOGIA_NEOPLASIA 337 351	Adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 2443 2457	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 4934 4941	tumoral
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 362 368	TxN3M0
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 1475 1529	enfermedad a nivel ganglionar axilar y supraclavicular
+#5	AnnotatorNotes T5	8000/6

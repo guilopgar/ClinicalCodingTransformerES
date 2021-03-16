@@ -1,0 +1,10 @@
+T1	MORFOLOGIA_NEOPLASIA 785 796	metastásica
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 633 673	adenocarcinoma de próstata Gleason (4+5)
+#2	AnnotatorNotes T2	8140/33
+T3	MORFOLOGIA_NEOPLASIA 993 1062	Adenocarcinoma de próstata metastásico (metástasis óseas) Gleason 4+5
+#3	AnnotatorNotes T3	8140/63
+T4	MORFOLOGIA_NEOPLASIA 1493 1525	ADC de próstata E-IV (metástasis
+#4	AnnotatorNotes T4	8140/6
+T5	MORFOLOGIA_NEOPLASIA 1815 1822	PE ósea
+#5	AnnotatorNotes T5	8000/6

@@ -1,0 +1,54 @@
+Anamnesis
+
+Paciente de 67 años con antecedentes de:
+» Asma bronquial.
+» Trombosis venosa profunda en 2011.
+» Artrosis.
+» Hipoacusia.
+» Osteopenia.
+» Sin alergias medicamentosas conocidas.
+Diagnosticada en 2011 de linfoma extraganglionar de células NK/T de tipo nasal estadio IE por afectación de aleta nasal izquierda. Es tratada con esquema de quimioterapia basada en cisplatino, en concomitancia con radioterapia, finalizando en junio de 2011.
+Se inician revisiones hasta marzo de 2012, cuando se diagnostica mediante biopsia de brazo derecho de recidiva de linfoma T/NK de localización única, administrándose radioterapia, con respuesta completa.
+En noviembre de 2015, se visualizan nuevas lesiones en espalda compatibles con recidiva de linfoma T/NK, que se confirman con nueva biopsia y se tratan con radioterapia, al no haber evidencia de más lesiones.
+Tras obtener nueva respuesta completa, la paciente pasa a revisiones hasta febrero de 2018. En esta fecha, valorando a la paciente en consulta, se aprecian lesiones eritematosas en nalga derecha, sugerentes de recidiva de linfoma. Se solicita PET-TC (abril 2018) de estadiaje, que objetiva captaciones patológicas en seno maxilar izquierdo, amígdala derecha, región posterior de la lengua, adenopatía laterocervical derecha, glándula submaxilar derecha, tiroides, estómago, nalga derecha y adenopatía inguinal derecha. Se toma biopsia de amígdala derecha, confirmando la presencia de linfoma NK/T extranodal (estadio IV). No se evidencia la infiltración de médula ósea mediante biopsia.
+Punción aspiración con aguja fina de nódulo tiroideo: ausencia de celularidad.
+
+Exploración física
+» En la exploración física, la paciente presenta buen estado general, orientada y colaboradora.
+» Se palpa adenopatía laterocervical izquierda de aproximadamente 1 cm.
+» No se palpan adenopatías supraclaviculares ni axilares ni inguinales.
+» Auscultación cardiorrespiratoria: murmullo vesicular conservado, rítmica, sin soplos ni ruidos patológicos.
+» Abdomen: no se palpan masas ni megalias. No es doloroso durante la palpación.
+» Miembros inferiores: sin edemas ni signos de trombosis.
+» Lesión eritematosa no pruriginosa en glúteo derecho.
+
+Pruebas complementarias
+PET-TC abril de 2018:
+Respecto a los estudios previos, apreciamos nuevos focos hipermetabólicos que corresponden a lesiones localizadas en:
+» Seno maxilar izquierdo (se aprecia por TC ocupación del seno) SUV 7,53.
+» Amígdala derecha SUV 8,34.
+» Región posterior de la lengua SUV 9,35.
+» Adenopatía laterocervical derecha nivel II SUV 2,24.
+» Glándula salival submaxilar derecha SUV 4,96.
+» Tiroides: lóbulo derecho SUV 3,61; lóbulo izquierdo SUV 5,38.
+» Fundus gástrico SUV 5,42.
+» Nalga derecha: lesión paniculítica SUV 6,14
+» Adenopatia inquinal derecha SUV 4.89
+Analítica: parámetros dentro de la normalidad, incluidos velocidad de sedimentación globular, ß2 microglobulina y lactato deshidrogenasa.
+Biopsia de cresta iliaca: médula no infiltrada.
+
+Diagnóstico
+En marzo de 2018 se toman biopsias:
+» Biopsia de amígdala faríngea:
+Descripción microscópica: infiltración de amígdala faríngea y músculo estriado por proceso linfoproliferativo T (CD3/CD2) constituido por células de tamaño intermedio con algunas más pequeñas y otras más grandes, de núcleo irregular, hipercromático con poca evidencia de nucleolo y citoplasma escaso/moderado claro con patrón focal de distribución angiocéntrico y angioinvasivo. El infiltrado se asocia con áreas de necrosis/ulceración superficial y proliferación venular acompañante. Además, este infiltrado de manera focal destruye el componente glandular con imágenes de lesión linfoepitelial. Las células tumorales muestran el siguiente inmunofenotipo: positividad para CD56, gránulos citotóxicos (granzima B) y EBER. Índice proliferativo (Ki-67) del 70 %.
+Diagnóstico anatomopatológico: infiltración por linfoma T extranodal NK/tipo nasal (OMS 2016).
+» Biopsia de piel de glúteo:
+Descripción microscópica: infiltración de hipodermis y dermis profunda con patrón de paniculitis mixta (lobular y central) por proceso linfoproliferativo T (CD3/CD2) con deleción de CD5 y CD7 constituido por células de tamaño intermedio con algunas más pequeñas y otras más grandes, de núcleo irregular, hipercromático con poca evidencia de nucleolo y citoplasma escaso eosinófilos y patrón de distribución angiocéntrico y angioinvasivo. El infiltrado se asocia con áreas de necrosis lobulillar. Las células tumorales muestran el siguiente inmunofenotipo: positividad para CD56, gránulos citotóxicos (TIA-1 y Granzima B) y EBER. Índice proliferativo (Ki-67) del 60 %. No se detecta inmunoexpresión para CD30.
+Diagnóstico anatomopatológico: infiltración de hipodermis y dermis profunda por linfoma T NK/extranodal tipo nasal (OMS 2016).
+
+Tratamiento
+Se completan 6 ciclos de CHOEP (ciclofosfamida, vincristina, doxorrubicina, prednisona, etopósido) al 75 %, con PET-TC de fin de tratamiento en respuesta completa.
+Se acepta para trasplante autólogo de progenitores hematopoyéticos en octubre de 2018, pero la paciente experimenta recaída previa al trasplante en región orofaríngea: fosas nasal derecha y base de lengua.
+
+Evolución
+Se completan 4 ciclos de gemcitabina y oxaliplatino (GEMOX), escogiendo este esquema por pobre recuperación hematológica. En PET de valoración de respuesta en febrero de 2019, se informa de desaparición de captación anómala de fosa nasal derecha y base de lengua; sin embargo, un nuevo foco de captación en fosa nasal izquierda ha aparecido. Se deriva a otorrinolaringología para biopsia de cornete nasal izquierdo. En espera de toma de biopsia, aparece una nueva lesión eritematosa en glúteo derecho, que desaparece en un mes, antes de poder biopsiarla. Las biopsias de cornetes nasales izquierdo y derecho tomadas en marzo de 2019 confirman presencia de linfoma T/NK. Dada la fragilidad de la paciente, no se optó por esquema de quimioterapia basada en L-asparaginas (dexametasona, ifosfamida, L-asparaginas, metotrexato y etopósido [SMILE]). Tras reunión en comité multidisciplinar, se opta por un esquema adaptado a la edad y estado general de la paciente (esquema LVD: L-asparaginas, vincristina y dexametasona). Otras opciones son valorar esquemas basados en ifosfamida o inmunoterapia con pembrolizumab a la progresión de esquema basado en L-asparaginas.

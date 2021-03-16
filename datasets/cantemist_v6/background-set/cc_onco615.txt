@@ -1,0 +1,39 @@
+Anamnesis
+Varón de 66 años con antecedentes personales de tabaquismo activo con consumo acumulado de 45 años-paquete, exenolismo grave, EPOC y tuberculosis en la juventud. Vive con su madre de 94 años, parcialmente dependiente para actividades básicas de la vida diaria (ABVD), de la que es cuidador principal. Tiene 3 hijos que no conviven con el paciente.
+Acude a consultas de su médico de Atención Primaria (MAP) por dolor dorsolumbar de características mecánicas, dificultad para la deambulación y aumento de perímetro de miembros inferiores. No tiene otra sintomatología de interés.
+
+Exploración física
+ECOG: 2. Consciente y orientado. Normohidratado, normocoloreado y normoperfundido. Sin adenopatías laterocervicales. Auscultación cardiopulmonar normal. Abdomen blando y depresible, no doloroso durante la palpación, sin masas, megalias ni signos de peritonismo. Extremidades inferiores sin edemas ni signos de trombosis venosa profunda. Pulsos pedios simétricos y conservados.
+Exploración neurológica normal.
+
+Pruebas complementarias
+Analítica sanguínea
+Bioquímica: potasio (K): 5,9, GGT: 90, resto normal.
+Hemograma: Hb: 12,3, leucocitos: 18.850, neutrófilos: 14.580, resto normal.
+Ecografía abdominal
+Masa adrenal derecha hipoecoica de 8,6 x 6,5 cm sin señal vascular a la aplicación de eco-Doppler color. Esteatosis hepática. Páncreas no valorable. Sin alteraciones en vesícula biliar ni en vía biliar intraextrahepática. Riñones de tamaño, morfología y ecoestructura normales.
+TC toracoabdominopélvica (TAP).
+Masa pulmonar en vértice izquierdo de 60 x 56 x 53 mm de diámetro en contacto con pleuras costal y mediastínica sin signos de infiltración costovertebral y extensión hacia hilio izquierdo. Ausencia de nódulos pulmonares metastásicos y adenopatías en mediastino. Signos de enfisema pulmonar centroacinar. Tractos fibrosis, bronquiectasias de tracción y granulomas calcificados de aspecto fibrótico-residual en probable secuela de tuberculosis. Masa adrenal derecha heterogénea y polilobulada de 10 x 64 x 11 mm de diámetro que alcanza la superficie subfrénica en contacto con superficie hepática del lóbulo hepático derecho y vena cava inferior, mostrando signos de infiltración en parénquima hepático. Engrosamiento nodular de la glándula suprarrenal izquierda sin poder descartarse lesión metastásica. No hay adenopatías retroperitoneales. Lesión ósea asociada a partes blandas de 37 x 43 mm de diámetro en la rama isquiopubiana izquierda sospecha de metástasis.
+PET-TC
+Masa pulmonar apical izquierda de 64 x 56 mm (SUV máximo: 16,59 g/ml). Masa suprarrenal derecha de 124 x 71 mm (SUV máximo: 15,65 g/ml) y sobre nódulo suprarrenal izquierdo (SUV máximo: 7,57 g/ml). Lesión ósea en rama isquiopubiana izquierda con masa de partes blandas asociada (SUV máximo: 7,87 g/ml).
+RM craneal
+No hay presencia de lesiones ocupantes de espacio (LOE).
+Biopsia con aguja gruesa (BAG) de masa pulmonar apical izquierda
+Proliferación trabecular de células neoplásicas de tamaño intermedio con citoplasmas eosinófilos y algunos vacuolados. Negatividad para CK7, arginasa y α-fetoproteína. Positividad intensa citoplasmática para TTF-1, pero negatividad nuclear. Inmunofenotipo compatible con metástasis. Los fragmentos remitidos eran mínimos por lo que se precisaría más material para completar estudio.
+BAG de lesión suprarrenal derecha
+Población celular monomorfa de amplios citoplasmas eosinófilos de aspecto granular, pleomorfismo nuclear medio-alto y presencia de material de aspecto mixoide extra e intracelular. Positividad de las células neoplásicas para la proteína Melan A, sinaptofisina y EMA y negatividad para calretinina.
+Compatible con carcinoma. Se trata de hallazgos orientativos de neoplasia primaria de corteza adrenal.
+Estudios de función suprarrenal
+17-ß-estradiol y testosterona normales. ACTH normal. Cortisol libre en orina de 24 horas normal. DHEA y androstenediona en rango normal. 17-0H Progesterona normal. Test de supresión de cortisol con dexametasona negativo.
+
+Diagnóstico
+Carcinoma suprarrenal de corteza adrenal estadio IV cT4N0M1 (óseas, pulmonares) no funcionante.
+
+Tratamiento
+Cisplatino (CDDP) en monoterapia en 1ª línea.
+
+Evolución
+El paciente es valorado por su MAP por dolor dorsolumbar en agosto del 2018 que solicita ecografía abdominal. En la ecografía se objetiva presencia de masa suprarrenal derecha por lo que deriva al paciente a Endocrinología. En consultas externas (CCEE) de Endocrinología se solicita TC para estudio de masa adrenal, observándose presencia de masa pulmonar en lóbulo superior izquierdo (LSI) por lo que se deriva al paciente a Neumología. Se solicita BAG de masa pulmonar siendo informada como carcinoma, pero precisando de mayor cantidad de material para filiar origen. Se presenta el caso en comité de tumores torácicos y se decide realización de BAG sobre masa suprarrenal derecha. Se realiza estudio anatomopatológico que informa, finalmente, de neoplasia primaria de corteza adrenal.
+Se completa estudio hormonal con resultado que cataloga al tumor no funcionante.
+Iniciamos tratamiento con CDDP en monoterapia en 1ª línea en diciembre de 2018 descartándose el tratamiento combinado dadas las peculiaridades del entorno socio-familiar y del propio paciente, con poca adherencia a los tratamientos pautados. En enero de 2019, nuestro paciente requiere ingreso en planta de hospitalización por mal control analgésico secundario a la afectación metastásica, pautándose tratamiento radioterápico con intención antiálgica.
+Debido a la dificultad del paciente para acudir a las citas de seguimiento en consultas externas y para la administración de tratamiento, sólo se administraron 2 ciclos de tratamiento. En su valoración en marzo de 2019 se objetiva progresión pulmonar y de masa de partes blandas. Las dificultades en el seguimiento del paciente y su poca adherencia a los tratamientos, motivaron que, de forma consensuada con él, se decidiera interrumpir tratamiento antineoplásico, siendo candidato únicamente a tratamiento de soporte.

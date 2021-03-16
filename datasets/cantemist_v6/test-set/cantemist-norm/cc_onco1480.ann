@@ -1,0 +1,26 @@
+T1	MORFOLOGIA_NEOPLASIA 1944 1949	tumor
+#1	AnnotatorNotes T1	8000/1
+T2	MORFOLOGIA_NEOPLASIA 2114 2124	tumoración
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 2016 2034	tumoración benigna
+#3	AnnotatorNotes T3	8000/0
+T4	MORFOLOGIA_NEOPLASIA 3348 3355	tumoral
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 1450 1457	osteoma
+#5	AnnotatorNotes T5	9180/0
+T6	MORFOLOGIA_NEOPLASIA 2050 2075	quiste óseo aneurismático
+#6	AnnotatorNotes T6	8000/0
+T7	MORFOLOGIA_NEOPLASIA 2344 2365	osteoclastos malignos
+#7	AnnotatorNotes T7	9250/3
+T8	MORFOLOGIA_NEOPLASIA 2487 2509	osteoblastoma agresivo
+#8	AnnotatorNotes T8	9200/1
+T9	MORFOLOGIA_NEOPLASIA 2521 2542	osteoblastoma maligno
+#9	AnnotatorNotes T9	9200/1
+T10	MORFOLOGIA_NEOPLASIA 2558 2597	osteosarcoma simulador de osteoblastoma
+#10	AnnotatorNotes T10	9200/1
+T11	MORFOLOGIA_NEOPLASIA 2636 2658	osteoblastoma agresivo
+#11	AnnotatorNotes T11	9200/1
+T12	MORFOLOGIA_NEOPLASIA 2675 2696	osteoblastoma maligno
+#12	AnnotatorNotes T12	9200/1
+T13	MORFOLOGIA_NEOPLASIA 2714 2753	osteosarcoma simulador de osteoblastoma
+#13	AnnotatorNotes T13	9200/1

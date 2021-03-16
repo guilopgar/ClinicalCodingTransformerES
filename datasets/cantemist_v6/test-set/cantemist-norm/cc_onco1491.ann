@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 4711 4729	lesiones pleurales
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1169 1175	timoma
+#2	AnnotatorNotes T2	8580/1
+T3	MORFOLOGIA_NEOPLASIA 396 406	tumoración
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 466 511	Timoma invasivo mixto epitelio-linfocítico B3
+#4	AnnotatorNotes T4	8585/3
+T5	MORFOLOGIA_NEOPLASIA 315 330	timoma invasivo
+#5	AnnotatorNotes T5	8580/3
+T6	MORFOLOGIA_NEOPLASIA 2042 2079	implantes tumorales de timoma tipo B3
+#6	AnnotatorNotes T6	8585/6
+T7	MORFOLOGIA_NEOPLASIA 1889 1933	lesiones a nivel del seno costodiafragmático
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 2546 2570	lesiones a nivel pleural
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 2723 2757	lesiones diseminadas por la pleura
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 3001 3034	implante en la región pericárdica
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 4404 4434	lesiones sólidas en pericardio
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 4754 4775	lesiones pericárdicas
+#12	AnnotatorNotes T12	8000/6

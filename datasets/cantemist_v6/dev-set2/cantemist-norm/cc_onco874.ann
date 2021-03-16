@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 750 759	carcinoma
+#1	AnnotatorNotes T1	8010/3
+T2	MORFOLOGIA_NEOPLASIA 1183 1205	enfermedad a distancia
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 576 588	neoformación
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 1025 1030	tumor
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 3663 3668	tumor
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 1825 1838	tumor maligno
+#6	AnnotatorNotes T6	8000/3
+T7	MORFOLOGIA_NEOPLASIA 945 1018	Carcinoma poco diferenciado de tipo neuroendocrino/oat cell de alto grado
+#7	AnnotatorNotes T7	8041/34
+T8	MORFOLOGIA_NEOPLASIA 1239 1278	carcinoma supraglótico tipo microcítico
+#8	AnnotatorNotes T8	8041/3

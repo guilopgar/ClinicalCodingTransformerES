@@ -1,0 +1,14 @@
+T1	MORFOLOGIA_NEOPLASIA 86 100	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 1265 1270	tumor
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 841 882	adenocarcinoma mucinoso bien diferenciado
+#3	AnnotatorNotes T3	8480/31
+T4	MORFOLOGIA_NEOPLASIA 938 1007	Adenocarcinoma mucinoso de uraco estadio IV por afectación peritoneal
+#4	AnnotatorNotes T4	8480/6
+T5	MORFOLOGIA_NEOPLASIA 805 827	implantes peritoneales
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 841 923	adenocarcinoma mucinoso bien diferenciado, con aisladas células en anillo de sello
+#6	AnnotatorNotes T6	8490/31
+T7	MORFOLOGIA_NEOPLASIA 1956 1977	progresión peritoneal
+#7	AnnotatorNotes T7	8000/6

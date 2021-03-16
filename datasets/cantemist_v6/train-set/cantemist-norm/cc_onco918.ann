@@ -1,0 +1,26 @@
+T1	MORFOLOGIA_NEOPLASIA 286 294	melanoma
+#1	AnnotatorNotes T1	8720/3
+T2	MORFOLOGIA_NEOPLASIA 1238 1246	melanoma
+#2	AnnotatorNotes T2	8720/3
+T3	MORFOLOGIA_NEOPLASIA 372 383	metastásica
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 414 424	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 986 996	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 238 247	neoplasia
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 1347 1388	melanoma avanzado con afectación hepática
+#7	AnnotatorNotes T7	8720/6
+T8	MORFOLOGIA_NEOPLASIA 354 371	recidiva hepática
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 727 734	tumoral
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 1227 1234	tumoral
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 1560 1567	tumoral
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 839 853	(LOE) hepática
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 918 957	LOE de nueva aparición en segmento VIII
+#13	AnnotatorNotes T13	8000/6

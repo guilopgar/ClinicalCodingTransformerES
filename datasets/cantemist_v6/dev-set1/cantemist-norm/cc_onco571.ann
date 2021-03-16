@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 1512 1533	carcinoma epidermoide
+#1	AnnotatorNotes T1	8070/3
+T2	MORFOLOGIA_NEOPLASIA 289 295	cáncer
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 4940 4950	malignidad
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 5624 5634	malignidad
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 4390 4397	tumoral
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 1688 1739	Carcinoma epidermoide de pulmón izquierdo cT2N3 M1a
+#6	AnnotatorNotes T6	8070/6
+T7	MORFOLOGIA_NEOPLASIA 1741 1770	nódulo pulmonar contralateral
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 5062 5107	carcinoma urotelial de bajo grado no invasivo
+#8	AnnotatorNotes T8	8130/21
+T9	MORFOLOGIA_NEOPLASIA 4855 4881	tumoración papilar vesical
+#9	AnnotatorNotes T9	8130/1
+T10	MORFOLOGIA_NEOPLASIA 5493 5521	lesión en cabeza de páncreas
+#10	AnnotatorNotes T10	8000/6

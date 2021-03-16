@@ -1,0 +1,30 @@
+T1	MORFOLOGIA_NEOPLASIA 589 599	malignidad
+#1	AnnotatorNotes T1	8000/3
+T2	MORFOLOGIA_NEOPLASIA 2844 2854	malignidad
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 2989 2999	malignidad
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 1123 1141	nódulos pulmonares
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 652 677	tumor de células redondas
+#5	AnnotatorNotes T5	8041/1
+T6	MORFOLOGIA_NEOPLASIA 2940 2947	tumoral
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 702 718	sarcoma de Ewing
+#7	AnnotatorNotes T7	9260/3
+T8	MORFOLOGIA_NEOPLASIA 852 874	sarcoma indiferenciado
+#8	AnnotatorNotes T8	8805/3
+T9	MORFOLOGIA_NEOPLASIA 884 887	pMX
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 1093 1110	recidiva pulmonar
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 1302 1334	metástasis pulmonares de sarcoma
+#11	AnnotatorNotes T11	8800/6
+T12	MORFOLOGIA_NEOPLASIA 1455 1476	implante paratraqueal
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 1504 1519	masa subcarinal
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 2132 2157	progresó a nivel pulmonar
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 2163 2182	implante subcarinal
+#15	AnnotatorNotes T15	8000/6

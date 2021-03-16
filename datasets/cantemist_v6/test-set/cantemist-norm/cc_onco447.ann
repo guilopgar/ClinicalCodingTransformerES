@@ -1,0 +1,4 @@
+T1	MORFOLOGIA_NEOPLASIA 214 224	metástasis
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 143 196	adenocarcinoma de pulmón no diferenciado, cT3cN3 cM1c
+#2	AnnotatorNotes T2	8140/64

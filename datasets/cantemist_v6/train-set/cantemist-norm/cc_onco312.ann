@@ -1,0 +1,32 @@
+T1	MORFOLOGIA_NEOPLASIA 574 577	cM0
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 401 434	carcinoma renal de células claras
+#2	AnnotatorNotes T2	8310/3
+T3	MORFOLOGIA_NEOPLASIA 1663 1679	células malignas
+#3	AnnotatorNotes T3	8001/3
+T4	MORFOLOGIA_NEOPLASIA 1829 1839	malignidad
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 3113 3122	neoplasia
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 2511 2521	neoplásico
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 1335 1353	nódulos pulmonares
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 3755 3773	nódulos pulmonares
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 537 542	tumor
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 2611 2632	lesión intrabronquial
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 2715 2754	carcinoma de células claras metastásico
+#11	AnnotatorNotes T11	8310/6
+T12	MORFOLOGIA_NEOPLASIA 2880 2962	Recaída sistémica (pulmonar e intrabronquial) de carcinoma renal de células claras
+#12	AnnotatorNotes T12	8310/6
+T13	MORFOLOGIA_NEOPLASIA 4144 4162	progresión pleural
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 4204 4247	implantes renales y en glándula suprarrenal
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 4720 4755	progresión radiológica a nivel óseo
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 3975 3993	enfermedad pleural
+#16	AnnotatorNotes T16	8000/6

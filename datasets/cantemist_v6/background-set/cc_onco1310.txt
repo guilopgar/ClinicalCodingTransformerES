@@ -1,0 +1,20 @@
+Anamnesis
+Varón de 69 años sin alergias conocidas ni antecedentes médico-quirúrgicos relevantes. No tiene tratamiento habitual al diagnóstico. Tras meses de sensación de plenitud postpandrial y distensión abdominal, en marzo 2007 se le realiza una TC que pone de manifiesto la existencia de una gran tumoración intraperitoneal sólida con áreas de necrosis con posible origen en curvadura mayor gástrica.
+
+Examen físico
+ECOG/PS1. Consciente y orientado. Bien nutrido e hidratado. Abdomen asimétrico con abombamiento de hemiabdomen izquierdo donde se palpa una masa dura, adherida a planos profundos y que llega prácticamente hasta la pelvis. El resto de la exploración es normal.
+
+Pruebas complementarias
+Se completa el estudio mediante gastroscopia en la que se objetiva un abombamiento extrínseco sobre la zona de la curvadura mayor y ecoendoscopia que es informada como lesión necrótica que comprime la pared gástrica sobre la que se realiza una punción-aspiración con aguja fina y biopsia, siendo el resultado anatomopatológico de tumor estromal.
+
+Diagnóstico
+El 8 de mayo de 2007 se procede a realizar una laparotomía, que encuentra una masa dependiente del colon transverso, resecando estómago, colon transverso e intestino delgado. AP: tumor del estroma gastrointestinal fusiforme maligno de 10 x 14 x 9 cm. Ki67 > 10 %, en la pared del colon.No se determinó el número de mitosis por campo.
+Diagnosticado de tumor del estroma gastrointestinal de alto riesgo de recidiva por tamaño >5 cm y Ki67 > 10 %, es valorado para tratamiento adyuvante.
+
+Tratamiento
+Inicia en julio de 2007 adyuvancia con imatinib 400 mg/día. En evaluación radiológica de marzo de 2008, se observa una lesión en el segmento VIII hepático de 2,9 x 2,1 cm. Ante la recidiva hepática, se aumenta la dosis a 800 mg/día. En reevaluación de julio de 2008 presenta progresión hepática, proponiéndose entonces tratamiento con sunitinib 50 mg/día. Precisó ajuste a 37,5 mg por astenia de grado 3, que condicionó el deterioro de su estado general o PS.
+Mantiene dicho esquema hasta enero de 2009 cuando en la TC se objetiva progresión en número y tamaño de las lesiones hepáticas. Comienza con nilotinib 300 mg/12 h por uso compasivo en enero de 2009, manteniéndolo hasta septiembre de 2011 cuando presenta progresión radiológica, por lo que inicia sorafenib 400 mg/12 h por uso compasivo hasta marzo de 2013. En ese momento ingresa por clínica de insuficiencia cardíaca y deterioro general, suspendiéndose el tratamiento activo.
+
+Evolución
+Se valora en sesión clínica la solicitud de regorafenib, desestimándose por inadecuado PS.
+Fallece en mayo de 2013, a los 75 meses del diagnóstico primario. Fueron estudiadas las mutaciones de KIT y de PDGFRA, detectando mutación en el exón 9 y descartando en los exones 11, 13 y 17 de KIT y 12 y 18 de PDGFRA.

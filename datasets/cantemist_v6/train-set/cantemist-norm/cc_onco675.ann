@@ -1,0 +1,26 @@
+T1	MORFOLOGIA_NEOPLASIA 3380 3386	cáncer
+#1	AnnotatorNotes T1	8000/3
+T2	MORFOLOGIA_NEOPLASIA 5244 5254	malignidad
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 8886 8898	metastásicas
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1932 1949	neoplasia maligna
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 2080 2085	tumor
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 3189 3194	tumor
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 1882 1907	osteosarcoma esclerosante
+#7	AnnotatorNotes T7	9180/3/H
+T8	MORFOLOGIA_NEOPLASIA 6370 6389	tumoral a distancia
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 6393 6417	Osteosarcoma metastásico
+#9	AnnotatorNotes T9	9180/6
+T10	MORFOLOGIA_NEOPLASIA 8046 8067	neoplasia mesenquimal
+#10	AnnotatorNotes T10	8800/1
+T11	MORFOLOGIA_NEOPLASIA 8091 8131	metástasis de osteosarcoma osteoblástico
+#11	AnnotatorNotes T11	9180/6
+T12	MORFOLOGIA_NEOPLASIA 8845 8863	lesiones en pulmón
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 5056 5069	masa pulmonar
+#13	AnnotatorNotes T13	8000/6

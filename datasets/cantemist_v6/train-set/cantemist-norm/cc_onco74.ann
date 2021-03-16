@@ -1,0 +1,44 @@
+T1	MORFOLOGIA_NEOPLASIA 332 338	cáncer
+#1	AnnotatorNotes T1	8000/3
+T2	MORFOLOGIA_NEOPLASIA 809 821	neurofibroma
+#2	AnnotatorNotes T2	9540/0
+T3	MORFOLOGIA_NEOPLASIA 98 115	neurofibromatosis
+#3	AnnotatorNotes T3	9540/1
+T4	MORFOLOGIA_NEOPLASIA 411 428	neurofibromatosis
+#4	AnnotatorNotes T4	9540/1
+T5	MORFOLOGIA_NEOPLASIA 3592 3597	tumor
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 615 625	tumoración
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 1564 1574	tumoración
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 2767 2777	tumoración
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 3917 3927	tumoración
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 164 187	neurofibromas múltiples
+#10	AnnotatorNotes T10	9540/1
+T11	MORFOLOGIA_NEOPLASIA 1141 1174	sarcoma pleomorfico de alto grado
+#11	AnnotatorNotes T11	8802/34
+T12	MORFOLOGIA_NEOPLASIA 1194 1239	tumor maligno de la vaina nerviosa periférica
+#12	AnnotatorNotes T12	9540/3
+T13	MORFOLOGIA_NEOPLASIA 1241 1246	TMVNP
+#13	AnnotatorNotes T13	9540/3
+T14	MORFOLOGIA_NEOPLASIA 1637 1660	neurofibromas múltiples
+#14	AnnotatorNotes T14	9540/1
+T15	MORFOLOGIA_NEOPLASIA 2054 2067	neurofibromas
+#15	AnnotatorNotes T15	9540/0
+T16	MORFOLOGIA_NEOPLASIA 2535 2540	TMVNP
+#16	AnnotatorNotes T16	9540/3
+T17	MORFOLOGIA_NEOPLASIA 3975 4019	TMVNP con diferenciación rabdomiosarcomatosa
+#17	AnnotatorNotes T17	9561/3
+T18	MORFOLOGIA_NEOPLASIA 4021 4036	tumor de tritón
+#18	AnnotatorNotes T18	9561/3
+T19	MORFOLOGIA_NEOPLASIA 4729 4755	metástasis única con tumor
+#19	AnnotatorNotes T19	8000/6
+T20	MORFOLOGIA_NEOPLASIA 5496 5501	TMVNP
+#20	AnnotatorNotes T20	9540/3
+T21	MORFOLOGIA_NEOPLASIA 4357 4372	nódulo pulmonar
+#21	AnnotatorNotes T21	8000/6
+T22	MORFOLOGIA_NEOPLASIA 2907 2936	extensión local y a distancia
+#22	AnnotatorNotes T22	8000/6

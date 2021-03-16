@@ -1,0 +1,22 @@
+Anamnesis
+Paciente varón de 20 años, sin antecedentes personales de interés, diagnosticado en mayo de 2012 de glioblastoma multiforme estadio IV de la OMS (tálamo, mesencéfalo, cuerpo calloso y occipital derecho), altamente proliferativo.
+Ante irresecabilidad, se inició quimiorradioterapia (QT-RT) según régimen Sttup, asociando corticoides (dexametasona 4 mg/8 h) y profilaxis con trimetropina-sulfametoxazol (TMP-SMX) (2) 160/800 mg/48 h en fase concomitante. Recibió adyuvancia a dosis plenas, con buena tolerancia.
+Al mes de finalizar el tratamiento, acude a Urgencias por cuadro de tos y expectoración herrumbrosa de un mes de evolución, tratada empíricamente con ciprofloxacino 750 mg/12 h VO.
+
+Examen físico
+Afebril. Hemodinámicamente estable. Glasgow 15. Fascies cushingoide y muguet oral. Auscultación cardiopulmonar: hipoventilación en hemitórax derecho hasta campo medio. Resto de exploración, anodina.
+
+Pruebas complementarias
+Analítica: Hb 9,6 g/dl, VCM 102 fl. Leucocitos 4,5 x109/l. Linfocitos absolutos 0,3 x109/l. Rx y TC de tórax: infiltrados segmentarios en LSD y múltiples cavitaciones en lóbulos inferiores, predominando en base derecha.
+Cultivo de esputo: Nocardia spp.
+RM cerebral: nuevas lesiones y aumento de las preexistentes infiltrando hipófisis. Progresión tumoral.
+Ante el diagnóstico microbiológico, se realiza gammagrafía con leucocitos marcados y SPECT con talio121, sugiriendo ausencia de infección cerebral.
+
+Diagnóstico
+Neumonía cavitada por nocardiosis pulmonar, en paciente inmunodeprimido por tratamiento oncológico (QT-RT y QT secuencial) y corticoides. Progresión tumoral cerebral.
+
+Tratamiento
+Se comenta el caso en el Comité con equipo de Enfermedades Infecciosas, y se decide tratamiento IV inicial de fase aguda de infección y posterior tratamiento oncológico concomitante a antibiótico VO, teniendo en cuenta la gravedad de la infección, la resistencia de la enfermedad tumoral a tratamientos previos y las preferencias del paciente. Inicia tratamiento con TMP-SMX IV a dosis de TMP 10 mg/kg/día durante 4 semanas y fluconazol 100 mg/12 h VO.
+
+Evolución
+Evolución favorable de la infección respiratoria, recibiendo alta a domicilio con antibiótico oral (TMP-SMX 160/800 mg/12 h). La semana posterior al alta hospitalaria recibe tratamiento oncológico con irinotecán-bevacizumab (80 % de dosis), sin incidencias agudas. Tras dos ciclos, reingresa en diciembre de 2012 con diagnóstico de neumotórax derecho secundario a cavitación preexistente, asociando deterioro neurológico severo, somnolencia progresiva y hemiparesia izquierda. En la TC cerebral urgente, se aprecia una nueva progresión tumoral. No responde a terapia endovenosa, por lo que fallece a los 8 días del ingreso.

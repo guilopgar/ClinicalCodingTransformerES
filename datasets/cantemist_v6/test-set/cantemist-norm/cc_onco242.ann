@@ -1,0 +1,22 @@
+T1	MORFOLOGIA_NEOPLASIA 1345 1366	Carcinoma epidermoide
+#1	AnnotatorNotes T1	8070/3
+T2	MORFOLOGIA_NEOPLASIA 6261 6264	LNH
+#2	AnnotatorNotes T2	9591/3
+T3	MORFOLOGIA_NEOPLASIA 3741 3749	malignas
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 929 939	malignidad
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 494 503	neoplasia
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 811 820	neoplasia
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 661 671	neoplásico
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 1377 1384	T4N2aM0
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 4252 4285	linfoma B difuso de célula grande
+#9	AnnotatorNotes T9	9680/3
+T10	MORFOLOGIA_NEOPLASIA 4735 4780	LNH B difuso de células grandes de alto grado
+#10	AnnotatorNotes T10	9680/3
+T11	MORFOLOGIA_NEOPLASIA 6241 6307	Linfoma No Hodgkin (LNH) difuso de células grandes B de alto grado
+#11	AnnotatorNotes T11	9680/3

@@ -1,0 +1,31 @@
+Anamnesis
+Mujer de 68 años que en 1996 consulta por autopalpación de un nódulo en la mama derecha, sin otra sintomatología asociada.
+Antecedentes personales: sin alergias medicamentosas conocidas ni antecedentes de interés. Antecedentes obstétricos-ginecológicos: G3P1A2; menarquia a los 13 años. Lactancia: durante 6 meses; anticoceptivos orales: durante 5-6 años.
+
+Examen físico
+Buen estado general, consciente, orientada, colaboradora, eupneica basal, tórax normoconstituido, mamas simétricas con palpación de un nódulo de 1 cm. No adenopatías palpables, no ingurgitación venosa yugular. Auscultación cardiopulmonar: rítmica, sin soplos, murmullo vesicular conservado. Abdomen anodino. Extremidades inferiores: no edemas ni otros signos.
+
+Pruebas complementarias
+- Analíticas y marcadores tumorales: dentro de la normalidad.
+- Mamografía: nódulo espiculado en el cuadrante superoexterno (CSE) de la mama derecha.
+- Ecografía: nódulo sólido de aproximadamente 1 cm en el CSE sin adenopatías sospechosas en la axila derecha, cT1bN0Mx.
+- PAAF: positiva para malignidad.
+- Estudio de extensión: negativo para metástasis.
+- Se realizan tumorectomía y linfadenectomía axilar, con resultado anatomopatológico de carcinoma ductal infiltrante de 1 cm, moderadamente diferenciado, 3/10 ganglios afectos, receptores estrógenos (RE) y progesterona (RP) positivos (+1).
+
+Diagnóstico
+Carcinoma de mama derecha, ductal infiltrante, grado 2, pT1bN1(3/10)M0, RE +1, RP +1.
+
+Tratamiento
+Inició quimioterapia (QT) adyuvante con esquema ciclofosfamida, mitoxantrone y 5-fluorouracilo durante 6 ciclos, seguido de radioterapia (RT) de 66 Gy en la mama derecha y áreas ganglionares e inicia hormonoterapia (HT) con tamoxifeno, del que completa 5 años de tratamiento (Tabla 1).
+
+Evolución
+En marzo de 2008 consulta por dolor óseo a nivel vertebral, objetivándose en el estudio de extensión la aparición de lesiones óseas vertebrales en la gammagrafía ósea (GGO) y lesiones hepáticas múltiples compatibles con metástasis por ecografía abdominal asociado a una elevación mínima de los marcadores tumorales.
+Dada la recidiva metastásica de la enfermedad con intervalo libre de enfermedad (ILE) de 12 años, realiza tratamiento QT con doxorrubicina liposomal-ciclofosfamida-paclitaxel y ácido zoledrónico por 9 ciclos y HT con letrozol, consiguiéndose una respuesta parcial (RP) y disminución de los niveles del marcador tumoral.
+En el 2010, por progresión ósea, inicia una tercera línea de quimioterapia, con el esquema docetaxel con ácido zoledrónico, del que completa 12 ciclos, con buena tolerancia.
+Tras dicho tratamiento y en la reevaluación, en noviembre de 2011, con PS 1 por aumento del dolor óseo, se evidencia en la GGO una nueva progresión a dicho nivel, reinicia capecitabina con ácido zoledrónico. Muestra mala tolerancia al tratamiento por toxicidad cutánea grado 4 y eritrodisestesia palmoplantar (EPP) grado 3, de modo que se decide suspender dicho tratamiento y, dado el estado de la paciente (ECOG 2 tras toxicidad), comienza fulvestrant 250 mg, precisando RT paliativa antiálgica sobre la zona lumbar.
+En julio del 2012, ante la elevación de los marcadores tumorales (CEA 63,5, Ca 15.3 57,21), y con ECOG 1, se observa progresión a nivel hepático, con aumento del número de lesiones, de modo que inicia una quinta línea de tratamiento con vinorelbina oral y ácido zoledrónico, con buena tolerancia, continuando hasta febrero de 2013; recibió un total de 7 meses de tratamiento. Se reevalúa la enfermedad y se objetiva una nueva progresión hepática, con aparición de nuevas lesiones hepáticas (al menos seis), así como incremento del tamaño de las previas y progresión ósea (metástasis politópicas con empeoramiento con respecto al estudio previo).
+Se programa para tratamiento con paclitaxel semanal con ácido zoledrónico, recibiendo 5 ciclos con reducción de la dosis y regular tolerancia por toxicidad hematológica (neutropenia grado 2 y anemia grado 3 y parestesias grado 1 en los miembros inferiores).
+En el control analítico en julio del 2013, se observa una nueva elevación de los marcadores tumorales (CEA 749, Ca 15.3 5.462), por lo que se realiza el estudio de extensión, con resultado de progresión hepática (aparición de 8 lesiones nuevas en el LHD y 3 en el izquierdo) y progresión ósea. Inicia tratamiento con doxorrubicina liposomal, continuando con ácido zoledrónico x 6 ciclos, tras lo cual se realiza una TC de reevaluación en enero del 2014, con una nueva progresión en número y tamaño de las lesiones hepáticas.
+Se trata de una paciente con múltiples progresiones y con negativa a rebiopsiar. Finalmente, se realiza biopsia hepática en enero de 2014 con resultado de carcinoma de mama metastásico con RE (+8) y RP (0) y HER2 (-).
+Dadas las numerosas progresiones, la paciente presenta un deterioro clínico importante, con ECOG 1-2 y aparición de ictericia mucocutánea (bilirrubina total 7,8 mg/dl a expensas de bilirrubina directa 6.,7mg/dl). Se le practica una ecografía abdominal, que no observa dilatación de la vía biliar. Siguiendo el deseo de la paciente, comienza una octava línea de tratamiento con gemcitabina los días 1, 8,15/28, del que recibe 1 ciclo, tras el cual se observa en abril del 2014 mayor deterioro clínico con ECOG 3 y aumento de la ictericia mucocutánea, por lo que se decide no continuar con el tratamiento quimioterápico e iniciar soporte en la Unidad de Cuidados Paliativos, falleciendo en mayo del 2014.

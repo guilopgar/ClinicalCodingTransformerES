@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 1778 1819	adenocarcinoma moderadamente diferenciado
+#1	AnnotatorNotes T1	8140/32
+T2	MORFOLOGIA_NEOPLASIA 206 212	cáncer
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 1517 1529	metastásicas
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 813 823	tumoración
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 1150 1160	tumoración
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 1649 1659	tumoración
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 1778 1871	adenocarcinoma moderadamente diferenciado, que en su superficie muestra patrón túbulo-velloso
+#7	AnnotatorNotes T7	8263/3
+T8	MORFOLOGIA_NEOPLASIA 2753 2804	adenocarcinoma de uretra moderadamente diferenciado
+#8	AnnotatorNotes T8	8140/32

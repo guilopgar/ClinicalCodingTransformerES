@@ -1,0 +1,26 @@
+Anamnesis
+Varón de 31 años, sin antecedentes de interés. En marzo de 2012, autopalpación de bultoma testicular izquierdo sin molestias locales. Derivado al Servicio de Urología, se realiza estudio con eco testicular, tomografía computarizada (TC) y resonancia magnética (RM). Con fecha 20/4/12 se realiza orquiectomía transinguinal con resultado anatomopatológico de seminoma clásico pT1bN1M0S0 (estadio IIA), iniciando tratamiento con quimioterapia (QT) según esquema bleomicina,etopósido y platino (BEP) estándar el 21/5/12.
+Acude a consulta de Oncología Médica a valoración de tratamiento (bleomicina), refiriendo deposiciones diarreicas junto con dolor abdominal tipo cólico que no cede con metamizol.
+
+Examen físico
+Eupneico en reposo. Ictericia conjuntival. tensión arterial (TA) 101/59, frecuencia cardíaca (FC) 87 lpm, temperatura (Tª) 35.2, saturación de oxígeno (Sat. O2) 97 %. Auscultación cardiaca (AC): ritmica, no soplos. Auscultación pulmonar (AP): murmullo vesicular conservado. Abdomen: blando, depresible, no se palpan masas, refiere dolor difuso a la palpación en marco cólico, pesistaltismo presente.
+
+Pruebas complementarias
+Analítica: bilirrubina total 6,1, directa 2,6 mg/dl, GPT 58 U/l, gammaglutaminasa (GGT) 55 U/l, fosfatasa alcalina 46 U/l, lactato dehidrogenasa (LDH) 156 mg/dl, leucocitos 9 x 109/l, neutrófilos 5 x 109/l. Serologías víricas negativas.
+TC abdominal al ingreso: importante distensión gástrica de asas de yeyuno e íleon proximal con disminución progresiva de calibre que sugiere íleo paralítico. En asas de yeyuno distal foco nodular hiperdenso adyacente a pared de asa (posibles focos hemorrágicos). En colonoscopia, no se observanalteraciones.
+Radiografía de abdomen: dilatación de asas de intestino proximal, identificándose asas de íleon distal de calibre normal, sin dilatación de marco cólico.
+Enteroscopia: múltiples ulceraciones de distintos tamaños con signos de hemostasia reciente en yeyuno.
+Arterografía: sangrado activo a expensas de las ramas yeyunales en su zona media-distal.
+
+Diagnóstico
+Seminoma clásico estadio II. Tratamiento con quimioterapia según esquema BEP.
+Neutropenia y trombopenia de grado 4.
+Hiperbilirrubinemia de grado 3.
+Enteritis de grado 4.
+Íleo reflejo. Megacolon. Tiflitis.
+
+Tratamiento
+Ante una hiperbilirrubinemia secundaria a daño hepático por QT, junto con enteritis, se pautan corticoides y nutrición parenteral (NPT). Se inicia antibioterapia con imipenem y amikacina en contexto de neutropenia febril. Tras unos días de ingreso, presenta anemización por rectorragia que precisa transfusión de varios concentrados. La hemorragia digestiva cede tras un vasoespasmo en las maniobras de cateterización selectiva de la arteria sangrante.
+
+Evolución
+El paciente presenta buena evolución tras el cese de hemorragia digestiva. Se inicia tolerancia oral progresiva y es dado de alta tras normalización de cifras de bilirrubina. Se decidió suspender tratamiento de QT por toxicidad. Actualmente en controles en consulta, libre de enfermedad según la prueba de imagen y los marcadores.

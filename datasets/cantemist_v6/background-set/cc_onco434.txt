@@ -1,0 +1,23 @@
+Anamnesis
+Mujer de 28 años diagnosticada en noviembre de 2018 de glioblastoma multiforme (IDH1 mutado y metilación pMGMT) que fue resecado parcialmente, en actual tratamiento con temozolamida 120m g/24 h y radioterapia concomitante; acude a Urgencias por presentar hematuria de un día de evolución.
+Niega síndrome miccional acompañante. Presenta leve molestia epigástrica sin otros puntos de dolor abdominal. Náuseas con dos episodios de vómitos alimenticios, sin otros hallazgos de interés. No presenta fiebre termometrada en domicilio ni sensación distérmica. Niega disnea, tos ni expectoración.
+Contexto sociofamiliar
+La paciente trabaja como profesora de educación infantil. Mantiene buena relación y recibe apoyo por parte de sus padres y hermana mayor. Se encuentra recientemente divorciada.
+
+Exploración física
+» ECOG 0. Consciente y orientada. Estado general conservado. Palidez mucocutánea. Bien hidratada. Eupneica respirando aire ambiente.
+» Aparato circulatorio: rítmica, sin auscultarse soplos ni roces.
+» Aparato pulmonar: hipofonesis bibasal. No muestra otros ruidos respiratorios sobreañadidos.
+» Abdomen: ruidos hidroaéreos presentes, no aumentados. Blando y depresible, levemente doloroso en epigastrio. No hay signos de irritación peritoneal. No se palpan masas ni organomegalias.
+» Extremidades inferiores: petequias en región pretibial de ambos miembros inferiores. No hay edemas ni signos de TVP. Pulsos periféricos palpables y simétricos.
+» Neurológico: sin focalidad neurológica.
+
+Pruebas complementarias
+En Urgencias se solicita analítica sanguínea y de orina, en la que destaca una neutropenia G4 (40 neutrófilos/mm3) sin alteraciones en la serie roja ni plaquetaria, así como elevación de PCR (56,7 mg/l). El sedimento no fue compatible con infección urinaria. Se solicitan además radiografías de tórax y abdomen, sin observarse hallazgos reseñables. Dado el hallazgo de neutropenia G4, se decide iniciar antibioterapia empírica con levofloxacino (previa extracción de hemocultivos y urocultivo, que resultaron negativos), tratamiento con G-CSF y cursar ingreso en Oncología Médica. Se suspende por el momento tratamiento con temozolamida.
+Durante su estancia en planta, la paciente permanece afebril y presenta buena evolución desde el punto de vista sintomático con desaparición de la hematuria y las náuseas, aunque persistencia del dolor epigástrico. No obstante, se constata en controles analíticos un aumento de los reactantes de fase aguda (PCR 296 y procalcitonina 13) junto con un descenso en el recuento de las tres series hematológicas (Hb 8,4 g/dl; leucocitos 60/mm3 (10 neutrófilos) y plaquetas 14.000/mm3), que requirió transfusión de un pool de plaquetas. Ante estos hallazgos se decide ampliar cobertura antibiótica añadiendo metronidazol, aztreonam y cotrimoxazol a dosis terapéuticas y se solicita ecografía abdominal, sin objetivarse hallazgos reseñables. Se solicita una TC toracoabdominopélvico que muestra hallazgos compatibles con aspergilosis broncopulmonar invasiva, así como derrame pleural bilateral no presente en estudios previos. Además, se informa de una inflamación difusa de la pared gástrica, por la cual se mantiene a la paciente a dieta absoluta y se inicia nutrición parenteral a la paciente. Dado que persiste neutropénica y trombopénica con requerimiento de repetidas transfusiones de concentrados de hematíes y plaquetas, se decide no solicitar lavado broncoalveolar dada la alta "sugestividad" iconográfica y la positividad del galactomanano en sangre. Se inicia doble cobertura antifúngica con voriconazol y anidulafungina endovenosos.
+
+Diagnóstico
+Aspergilosis broncoinvasiva en contexto de aplasia medular probablemente secundaria a temozolamida.
+
+Evolución
+Tras un ingreso prolongado de más de un mes en el que la paciente no había recibido temozolamida, se solicita resonancia magnética cerebral de reevaluación (la anterior se había realizado dos meses antes con resultado de respuesta parcial), que objetiva progresión de su enfermedad de base. La paciente no presentó ninguna focalidad neurológica y no se instauró tratamiento corticoide durante su ingreso. Permaneciendo estable, se decidió alta hospitalaria y control precoz en consultas externas de Oncología Médica.

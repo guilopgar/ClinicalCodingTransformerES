@@ -1,0 +1,30 @@
+T1	MORFOLOGIA_NEOPLASIA 97 103	cáncer
+#1	AnnotatorNotes T1	8000/3
+T2	MORFOLOGIA_NEOPLASIA 485 495	tumoración
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 1325 1332	tumoral
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 2088 2095	tumoral
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 2203 2210	tumoral
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 2896 2903	tumoral
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 3012 3019	tumoral
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 3558 3565	tumoral
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 3626 3633	tumoral
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 3681 3688	tumoral
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 4221 4228	tumoral
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 1033 1053	glioma de bajo grado
+#12	AnnotatorNotes T12	9380/31
+T13	MORFOLOGIA_NEOPLASIA 1129 1153	ganglioglioma anaplásico
+#13	AnnotatorNotes T13	9505/3
+T14	MORFOLOGIA_NEOPLASIA 1369 1427	tumor constituido por una población mixta glial y neuronal
+#14	AnnotatorNotes T14	9505/1
+T15	MORFOLOGIA_NEOPLASIA 1998 2049	ganglioglioma focalmente anaplásico (grado III OMS)
+#15	AnnotatorNotes T15	9505/33

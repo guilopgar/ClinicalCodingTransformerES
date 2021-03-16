@@ -1,0 +1,22 @@
+T1	MORFOLOGIA_NEOPLASIA 2593 2602	carcinoma
+#1	AnnotatorNotes T1	8010/3
+T2	MORFOLOGIA_NEOPLASIA 1836 1850	carcinomatosis
+#2	AnnotatorNotes T2	8010/9
+T3	MORFOLOGIA_NEOPLASIA 3158 3172	carcinomatosis
+#3	AnnotatorNotes T3	8010/9
+T4	MORFOLOGIA_NEOPLASIA 438 447	neoplasia
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 1054 1063	neoplasia
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 1357 1409	adenocarcinoma endometrioide pobremente diferenciado
+#6	AnnotatorNotes T6	8140/33
+T7	MORFOLOGIA_NEOPLASIA 1570 1619	neoplasia de endometrio tipo I estadio IB grado 3
+#7	AnnotatorNotes T7	8000/33
+T8	MORFOLOGIA_NEOPLASIA 1955 1993	adenocarcinoma pobremente diferenciado
+#8	AnnotatorNotes T8	8140/33
+T9	MORFOLOGIA_NEOPLASIA 3886 3896	neoplásica
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 6613 6623	neoplásica
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 2459 2479	nódulos peritoneales
+#11	AnnotatorNotes T11	8000/6

@@ -1,0 +1,38 @@
+Anamnesis
+Varón de 35 años, sin antecedentes personales de interés, que acude a Urgencias en agosto de 2004 por presentar expectoración hemoptoica de 3 días de evolución, sin otra sintomatología asociada. En una radiografía de tórax se objetiva una masa de bordes bien definidos en el segmento posterior del lóbulo superior derecho (LSD), por lo que se ingresa para su estudio.
+
+Exploración física
+Consciente y orientado. Eupneico en reposo. Normohidratadao y normocoloreado. ECOG 0. Cabeza y cuello: no adenopatías palpables; PVY normal; carótidas rítmicas; mucosa oral sin alteraciones. AC: rítmica sin soplos. AP: murmullo vesicular conservado sin ruidos sobreañadidos. Abdomen: blando, depresible; no doloroso a la palpación profunda; no masas ni megalias; RHA +; no signos de irritación peritoneal. Extremidades inferiores: no edemas, no signos de TVP; pulsos pedios positivos.
+Neurológico: no focalidad neurológica ni signos de irritación meníngea.
+
+Pruebas complementarias
+Durante el ingreso se realizaron las siguientes pruebas complementaras:
+» Analítica completa con marcadores tumorales (CEA, alfa-proteína, CA 19,9, CA 125 y betamicroglobulina), que fue normal.
+» TC toracoabdominopélvica: masa intraparenquimatosa de 4,5 cm de diámetro localizada en el LSD, posterior de contorno nítido.
+» Pruebas de función respiratoria y broncoscopia con lavado bronquioloalveolar y cepillado bronquial sin alteraciones y con citología negativa para células malignas.
+» PAAF guiada por TC de la lesión pulmonar con el resultado histológico de tumor mesenquimal con presencia de células fusiformes. No se pudo realizar inmunohistoquímica por muestra insuficiente.
+
+Diagnóstico
+Con el juico clínico de tumor mesenquimal pulmonar sin enfermedad a distancia y pendiente de toma de biopsia para completar el estudio histológico, se realiza resección quirúrgica mediante lobectomía superior derecha con fines diagnósticos y terapéuticos.
+
+Tratamiento
+En el estudio anatomopatológico de la pieza quirúrgica se aprecia una tumoración bien delimitada de 9 x 6 cm, constituida por células fusiformes de núcleos atípicos vesiculosos, las células epiteliales forman cordones y aisladas estructuras pseudoglandulares; entre 3 a 4 mitosis por 10 campos de gran aumento; borde libre (a 9 mm del tumor). Inmunohistoquímica: vimentina+, EMA+, bcl2+, CD99+. El componente epitelial es (AE1/AE3)+ y EMA+. El índice de proliferación (estimado con MIB-1) es intermedio. Se solicitó en el CNIO estudio molecular mediante FISH, resultando positiva la traslocación (X; 18).
+El diagnóstico definitivo fue de sarcoma sinovial bifásico, predominantemente fusocelular estadio IIA (T1N0M0) de alto grado.
+El paciente recibe tratamiento adyuvante con quimioterapia con adriamicina a dosis de 75 mg/m2 por 6 ciclos (total 140 mg, acumulada 840 mg), finalizando en marzo de 2005.
+
+Evolución
+En diciembre de 2005 presenta recidiva cutánea en la región púbica izquierda, que es resecada por Dermatología. En agosto de 2006 presenta recidiva cutánea en el antebrazo derecho, que se reseca. En las pruebas realizadas no se objetivó enfermedad a distancia. En julio de 2009 presenta recidiva localizada lateral al músculo erector derecho de la columna, por delante de los músculos trapecio y romboideo mayor, y detrás de los arcos posteriores de la 3ª a la 6ª costillas, de aproximadamente 78 x 28 x 38 mm de diámetros lateral, anteroposterior y transversal, respectivamente. No se observaron lesiones óseas. Se realizó extirpación de la misma el 13/7/2009. El estudio anatomopatológico confirmó la presencia de una tumoración de 9 x 3 x 2,5 cm, que correspondía a metástasis de sarcoma sinovial con bordes libres. No datos de enfermedad a distancia.
+
+En agosto de 2009 se inicia la administración de ifosfamida a dosis de 1.000 mg/m2/día (¿cuántos días o infusión de cuántas horas?) más 2-mercapto etansulfato de sodio como profilaxis de toxicidad urotelial (1.900 mg por ciclo, acumulada 11.400 mg) con soporte de G-CSF. Se administran seis ciclos, finalizando en enero.
+
+En abril de 2011 se objetiva progresión pulmonar. En la TC torácica se describen pequeños nódulos pulmonares en ambos hemitórax sugestivos de metástasis, y aproximadamente a 2 cm de la zona de resección quirúrgica en la musculatura paravertebral derecha, en la vecindad de apófisis transversas D2-D3, se observa un nódulo de 1,1 cm realzado con contraste sugestivo de recidiva.
+
+Se inicia segunda línea de quimioterapia con trabectedina a dosis de 1,5 mg/m2 (2,77 mg) más 4 mg de dexametasona cada 12 horas i.v. Se administra un segundo ciclo con reducción de dosis a 1,2 mg/m2 por neutropenia < 500/mm3 de duración superior a 5 días, toxicidad hepática grado IV y elevación de los niveles de CPK, aumentando la dosis de corticoides adyuvantes.
+
+En octubre de 2011, tras el sexto ciclo de tratamiento, se observa respuesta parcial de las lesiones pulmonares y respuesta casi completa de la lesión paravertebral derecha. Recibió un total de 30 ciclos, con estabilidad de la enfermedad hasta marzo de 2013, cuando de común acuerdo con el paciente se decide interrumpir temporalmente el tratamiento de quimioterapia. En octubre de 2013 se realiza reevaluación completa, objetivando progresión de la enfermedad, por lo que se reinicia tratamiento de quimioterapia con trabectedina recibiendo dos ciclos hasta diciembre de 2013.
+
+En diciembre de 2013 se realiza una nueva TC de reevaluación, con progresión pulmonar y aparición de metástasis en el plano muscular de la pared torácica de 29 x 45 mm, por lo que inicia una tercera línea de quimioterapia para enfermedad metastásica con ifosfamida, recibiendo dos ciclos con progresión tumoral pulmonar y de partes blandas en la reevaluación de enero de 2014.
+
+Inicia una cuarta línea de quimioterapia con docetaxel/gemcitabina, recibiendo tres ciclos con progresión tumoral en la TC de abril de 2014.
+
+Tras la progresión neoplásica se plantea una quinta línea de tratamiento con pazopanib, del cual recibe cinco ciclos entre abril y septiembre de 2014, con respuesta parcial tras el tercer ciclo y progresión tras el quinto ciclo. Posteriormente, continuó con una sexta línea de quimioterapia con doxorrubicina liposomal. En diciembre de 2014, ante una nueva progresión pulmonar, inició la séptima línea de quimioterapia con cisplatino-etopósido, con nueva progresión tumoral tras el primer ciclo, por lo que en febrero de 2015 inició la octava línea de quimioterapia con topotecán semanal, que ha mantenido hasta abril de 2015, cuando se produce deterioro de la situación respiratoria del paciente secundaria a progresión tumoral y fallecimiento del paciente.

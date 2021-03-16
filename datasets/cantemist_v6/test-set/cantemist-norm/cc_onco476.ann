@@ -1,0 +1,18 @@
+T1	MORFOLOGIA_NEOPLASIA 3092 3100	Melanoma
+#1	AnnotatorNotes T1	8720/3
+T2	MORFOLOGIA_NEOPLASIA 3406 3420	carcinomatosis
+#2	AnnotatorNotes T2	8010/9
+T3	MORFOLOGIA_NEOPLASIA 4713 4729	células malignas
+#3	AnnotatorNotes T3	8001/3
+T4	MORFOLOGIA_NEOPLASIA 4347 4367	enfermedad sistémica
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2549 2559	malignidad
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 2276 2284	melanoma
+#6	AnnotatorNotes T6	8720/3
+T7	MORFOLOGIA_NEOPLASIA 2627 2643	melanoma maligno
+#7	AnnotatorNotes T7	8720/3
+T8	MORFOLOGIA_NEOPLASIA 2011 2024	carcinomatoso
+#8	AnnotatorNotes T8	8010/9
+T9	MORFOLOGIA_NEOPLASIA 3030 3051	infiltración meníngea
+#9	AnnotatorNotes T9	8000/6

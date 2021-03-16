@@ -1,0 +1,33 @@
+Anamnesis
+Mujer de 27 años, sin alergias medicamentosas conocidas ni hábitos tóxicos. Con antecedente patológico de hipotiroidismo primario en tratamiento hormonal sustitutivo.
+En abril de 2013 inicia cuadro de cefalea occipito-cervical resistente a la analgesia habitual y náuseas incoercibles asociadas (o vómitos en escopetazo), por lo que consulta en Urgencias de nuestro centro.
+
+Examen físico
+Índice de Karnofsky 100%. Exploración neurológica: consciente y orientada. Pupilas isocóricas normorreactivas. Pares craneales sin alteraciones, fuerza, movilidad y sensibilidad conservada. Reflejos presentes y sin alteraciones. No presenta alteraciones visuales. Sin alteración en la coordinación. No hay alteración de la marcha. Sin papiledema.
+Resto de la exploración anodina.
+
+Pruebas complementarias
+- Se realiza analítica general sin alteraciones.
+- TC (22/4/2013): masa supratentorial en la línea media de 18 mm de diámetro aproximado en la teórica área anatómica de la glándula pineal, de márgenes bien definidos, isodensa con el parénquima adyacente y con calcificaciones en su interior; con captación homogénea de contraste. La lesión descrita comprime el tercer ventrículo causando hidrocefalia obstructiva de ventrículos laterales y del tercer ventrículo moderada.
+- RM (23/4/2013): tumor pineal sólido con calcificación marginal superior de 22 mm, que comprime inferiormente el tectum. Se objetivan otras lesiones hiperintensas en T2 ?en el borde lateral de la unión mesencéfalo-protuberancial derecha, córtex cerebeloso izquierdo parasagital con extensión al pedúnculo cerebeloso medio ?y margen lateral izquierdo del IV ventrículo. Capta contraste la lesión pineal y no las lesiones del tronco-cerebelo. Efecto masa sobre el acueducto de Silvio, hidrocefalia supratentorial.
+
+Diagnóstico
+El día 2 de mayo de 2013 se realiza ventriculostomía endoscópica y biopsia de la lesión, tomando muestra de líquido cefalorraquídeo.
+La anatomía patológica fue diagnóstica para tumor neuroectodérmico primitivo con positividad para sinaptofisina e índice de proliferación Ki 67 del 25-30%, compatible con pineoblastoma grado 4.
+
+Tratamiento
+Se decide realizar tratamiento oncoespecífico con cisplatino 30 mg/m2 día 1-4, etopósido 40 mg/m2 día 1-4 y ciclofosfamida 1.000 mg/m2 día 5, durante 3 ciclos, irradiación de la lesión y del neuroeje y quimioterapia con intensificación de dosis.
+
+Evolución
+Previa preservación ovárica, en junio de 2013, se inicia quimioterapia según esquema cisplatino 25 mg/m2 día 1-4, etopósido 40 mg/m2 día 1-4 y ciclofosfamida 1.000 mg/m2 día 4, cada 21 días, durante 3 ciclos, con soporte con factores de crecimiento granulocítico, con buena tolerancia.
+Al finalizar el tratamiento, se realiza RM de revaloración, en la que se aprecia disminución del 35% en las secuencias con ganolinio con leve aumento del FLAIR.
+Dada la respuesta clínica, se valora como respuesta parcial y se prosigue con el tratamiento radioterápico. En septiembre completa 30,6 Gy sobre el neuroeje y 55,8 Gy focal sobre la lesión con una nueva revaloración que objetiva remisión parcial.
+En noviembre 2013 se continúa con quimioterapia según esquema lomustina 70 mg/m2 día 1, cisplatino 60 mg/m2 día 1 y vincristina 2 mg/m2 día 1,8 y 15 cada 21 días.
+Tras dos ciclos, se solicita revaloración para plantear intensificación y trasplante autólogo de médula ósea.
+La RM muestra disminución del tamaño de la lesión infiltrante de hemimesencéfalo derecho con pequeña área focal con captación de contraste de 7,8 x 3,3 mm.
+La tomografía por emisión de positrones (PET) con metionina confirma hipercaptación en la región mesencéfalo posterior/vérmix cerebeloso derecho y en región de pedúnculo cerebeloso inferior derecho, sugestivo de persistencia de infiltración tumoral.
+Confirmándose la persistencia de enfermedad, se decide administrar dos ciclos más a pesar de toxicidad hematológica grado III con requerimiento de retrasos de tratamiento aun aumentando dosis de factores de crecimiento de colonias y soporte transfusional.
+Habiendo completado los dos ciclos, consulta por presentar empeoramiento del estado general con diplopía, cefalea y vómitos por lo que se solicita nueva RNM en la cual se aprecia progresión a nivel cerebral y carcinomatosis meníngea.
+Se inicia tratamiento con esteroides con leve mejoría clínica y se inicia nueva línea de tratamiento con temozolomida 100mg/m2 día 1 a 5 e irinotecan 10mg/m2 días 1 a 5 y 8 a 12.
+Dos semanas después del inicio de tratamiento presenta deterioro neurológico con empeoramiento de la cefalea, nauseas, vómitos , hipoestasia en hemicuerpo derecho y somnolencia.
+Se inicia tratamiento antiedema presentando refractariedad sintomática y deterioro progresivo, siendo exitus.

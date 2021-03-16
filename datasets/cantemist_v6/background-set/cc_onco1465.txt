@@ -1,0 +1,17 @@
+Anamnesis
+Varón de 50 años, sin antecedentes de interés que consulta por cefalea intensa y náuseas.
+
+Exploración física
+ECOG 0. Regular estado general, postrado por la cefalea. Pupilas isocóricas, normorreactivas. Auscultación cardiopulmonar: sin hallazgos. Exploración neurológica: escala de Glasgow 15/15. Pares craneales normales. Fuerza y sensibilidad conservadas. No presenta signos meníngeos.
+
+Pruebas complementarias
+• Se realiza una TC craneal sin contraste en el que se identifica una masa sobre el ventrículo lateral derecho.
+• Se completa estudio con RM en la que se objetiva masa dependiente del ventrículo lateral derecho, heterogénea que desplaza levemente la línea media y ejerce efecto masa sobre el ventrículo contralateral. La imagen es sugestiva de tumor primario, por lo que se procede a la resección quirúrgica.
+
+Diagnóstico
+Neoformación con extensas áreas de necrosis, con disposición en empalizada de los núcleos de las células tumorales, con intensa proliferación vascular, con fenómenos de trombosis. Células con citoplasma estrellado, con prolongaciones (positivas para proteína acidicogliofibrilar) e intensa atipia nuclear. Entremezclado con estas células, se observan nidos sólidos de células con citoplasma eosinófilo, que forman colágena (técnica de Mason). p53 y CD31 positivos en ambos componentes. Índice de proliferación Ki-67 entre 10-15%.
+Todo esto es compatible con el diagnóstico de gliosarcoma.
+
+Tratamiento y evolución
+Con el diagnóstico de gliosarcoma intraventricular es remitido a nuestra consulta para tratamiento. Se indica adyuvancia con radioterapia con temozolomida concomitante seguido de temozolomida adyuvante.
+Hasta la fecha el paciente ha finalizado la radioterapia y ha recibido tres ciclos de temozolomida adyuvante con buena tolerancia.

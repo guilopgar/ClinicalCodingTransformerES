@@ -1,0 +1,18 @@
+Anamnesis
+Varón de 50 años, exfumador de 30 paquetes/año desde hace 10 días y trabajo en seguridad, sin otros antecedentes de interés. Intervenido de melanoma ocular hace 14 años (marzo de 1999), realizando enucleación del ojo izquierdo.
+Informe histológico de melanoma maligno de coroides 1,5 cm que no afecta a esclera ni nervio óptico. Controles sucesivos periódicos normales. En revisión en julio de 2012 se objetiva engrosamiento nodular de la pleura izquierda que se biopsia informando de melanoma maligno. En PET dudosas lesiones pleurales, abdominales y óseas. Se remite a nuestro hospital para valoración y tratamiento.
+
+Examen físico
+En primera visita, paciente con excelente estado general, PS 0.
+
+Pruebas complementarias
+En TC lesiones a nivel del seno costofrénico y unión costocondral izquierda, así como adenopatías mesentéricas.
+
+Diagnóstico
+Melanoma uveal metastásico.
+
+Tratamiento
+Se propone inclusión en ensayo clínico (EC) MelUv1 (EC Fase II, ipilimumab en monoterapia en pacientes con melanoma uveal estadio IV) consistente en tratamiento con fase de inducción con 4 dosis de 10 mg/kg c/3 semanas (S), segunda fase de evaluaciones sin tratamiento y, si no existe progresión, tratamiento de mantenimiento c/12 S hasta progresión o toxicidad intolerable. En agosto inicia tratamiento con ipilimumab, asintomático, salvo por febrícula ocasional de 37,5 ºC. En 2.º ciclo persiste febrícula, por lo que se pauta antibiótico y se retrasa una semana. Ante la persistencia de fiebre elevada, ingresa, cediendo la fiebre con naproxeno y siendo todos los cultivos y serologías negativos. En 2.º ciclo hepatotoxicidad G2 según los criterios CTCAEV4 (tabla I), se retrasa 1 semana, serologías y ecografía negativas y se pauta corticoterapia. Ante normalidad analítica, se pautan 2.º, 3.º y 4.º ciclo y se suspende corticoterapia. En S16 enfermedad estable (EE); pero PS2 con somnolencia, astenia G3 y anorexia progresiva con pérdida de peso. TA normal, no hipoglucemia ni hipopigmentación. Analíticamente toxicidad hepática G3 y sospecha de toxicidad endocrinológica que se confirma (tabla II). Se pauta dexametasona 8 mg, analítica control y se realiza interconsulta a Endocrinología. Mejoría clínica sin astenia y recuperación de apetito. Endocrinología cambia a hidroaltesona 10 mg (menor potencia, acción menos prolongada) y amplia basales hipofisarias (tabla II), compatible con insuficiencia suprarrenal por probable hipofisítis autoinmune. En la semana 18 presenta astenia G2, por lo que se aumenta dosis de hidroaltesona. En revisión de la semana 24 asintomático y criterios de EE, inicia mantenimiento con ipilimumab y reducción de dosis de hidroaltesona.
+
+Evolución
+Actualmente continúa con mantenimiento, asintomático y valorándose retirada de corticoides.

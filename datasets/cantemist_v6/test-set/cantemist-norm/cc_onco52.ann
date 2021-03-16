@@ -1,0 +1,10 @@
+T1	MORFOLOGIA_NEOPLASIA 1483 1499	Seminoma clásico
+#1	AnnotatorNotes T1	9061/3
+T2	MORFOLOGIA_NEOPLASIA 2911 2932	carcinoma epidermoide
+#2	AnnotatorNotes T2	8070/3
+T3	MORFOLOGIA_NEOPLASIA 668 684	seminoma clásico
+#3	AnnotatorNotes T3	9061/3
+T4	MORFOLOGIA_NEOPLASIA 228 238	tumoración
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 2813 2836	metástasis del seminoma
+#5	AnnotatorNotes T5	9061/6

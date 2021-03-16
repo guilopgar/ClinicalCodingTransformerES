@@ -1,0 +1,18 @@
+T1	MORFOLOGIA_NEOPLASIA 877 888	metastásico
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 975 987	metastásicos
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1641 1648	tumoral
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 2770 2777	tumoral
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 3198 3205	tumoral
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 1150 1202	metástasis en tránsito en pierna derecha de melanoma
+#6	AnnotatorNotes T6	8720/6
+T7	MORFOLOGIA_NEOPLASIA 767 777	tumoración
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 1436 1443	tumoral
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 2610 2617	tumoral
+#9	AnnotatorNotes T9	8000/1

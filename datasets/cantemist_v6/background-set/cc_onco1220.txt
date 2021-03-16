@@ -1,0 +1,29 @@
+Anamnesis
+Mujer de 47 años de edad, con antecedentes de hipoplasia renal izquierda congénita. En 1998 es diagnosticada de carcinoma de células renales con extensas zonas de tipo oncocítico en el riñón derecho, motivo por el cual debe realizarse nefrectomía del mismo. Desde ese momento, entra en programa de hemodiálisis, siendo portadora de una fístula arteriovenosa (FAV) en el antebrazo izquierdo.
+En febrero de 2003, tras 5 años de seguimiento libre de enfermedad, es sometida a trasplante renal, que cursa sin complicaciones y permanece normofuncionante, pautándose tratamiento crónico con ciclosporina y ácido micofenólico.
+En septiembre de 2011 consulta por un cuadro de 2 semanas de evolución consistente en astenia y disnea progresiva hasta hacerse de mínimos esfuerzos. Asocia dolor e inflamación en el antebrazo izquierdo, con limitación funcional para la extensión de los dedos tercero, cuarto y quinto.
+
+Examen físico
+Regular estado general. ECOG 2. Palidez cutáneo-mucosa. Obesidad. Estable hemodinámicamente. Auscultación pulmonar: hipoventilación global, con crepitantes finos bibasales. Extremidades superiores: edema del miembro superior izquierdo (MSI), con limitación funcional para la extensión de los dedos tercero, cuarto y quinto, compatible con síndrome de Volkmann.
+
+Pruebas complementarias
+- Analítica: se objetiva anemia grado IV (Hb: 5,2 g/dl) normocítica, normocrómica, con resto de series normales. Función renal conservada (Cr: 0,87 mg/dl).
+- Eco-Doppler del MSI: se objetivan dos colecciones hemáticas trombosadas, de 4 y 5,5 cm, en posible relación con la FAV trombosada.
+- Radiografía de tórax: presencia de infiltrados algodonosos bilaterales.
+- Dada la anemia, se solicitan una gastroscopia y una colonoscopia, que resultan normales.
+Con el diagnóstico de síndrome de Volkmann secundario a trombosis de FAV, se programa para exéresis de la misma y realización de fasciotomía. Se envía la pieza de resección de la fístula a Anatomía Patológica (AP).
+- AP: afectación dermo-hipodérmica por angiosarcoma de alto grado. Resección incompleta. Vimentina +; actina +; CD31 +; factor VIII +; CD34 -; citoqueratinas AE1/AE3 -; herpes tipo 8 -; EMA -; S-100 -.
+Dados los hallazgos, se solicita estudio de extensión:
+- Tomografía computarizada tóraco-abdómino-pélvica (TC-TAP): en el parénquima pulmonar se objetivan múltiples imágenes nodulares de bordes mal definidos, distribuidas de manera difusa y bilateral, y condensaciones parenquimatosas, algunas de ellas con halo periférico de atenuación en vidrio deslustrado, que pueden estar en relación con sangrado. No se observan adenopatías mediastínicas ni axilares. Imágenes líticas en el esternón, la clavícula derecha, las vértebras dorsales (D5 y D9), el hueso iliaco derecho y el hemisacro izquierdo. Discreto aumento del tamaño del hígado, sin objetivarse LOE. Hipoplasia renal izquierda. Nefrectomía derecha. El riñón trasplantado presenta ectasia del sistema pielocalicial.
+- Se realiza una broncoscopia, que confirma sangrado activo de ambos árboles bronquiales. Debido a ello, la paciente precisa transfusiones semanales.
+
+Diagnóstico
+Mujer de 47 años, con diagnóstico de angiosarcoma de alto grado sobre fístula arteriovenosa, estadio IV, con afectación metastásica pulmonar y ósea.
+
+Tratamiento
+Debido al ECOG, se decide inicio de tratamiento con paclitaxel en monoterapia, en esquema semanal (80 mg/m2).
+
+Evolución
+La paciente recibe durante su ingreso 3 ciclos, con una progresiva disminución en la necesidad de soportes transfusionales. Presenta, asimismo, mejoría de su estado general, que permite la continuación del tratamiento de manera ambulatoria. Debido a la afectación ósea metastásica, y en el contexto de una hipercalcemia leve (calcio: 11 mg/dl), se decide asociar ácido zoledrónico.
+Tras 6 semanas de tratamiento, precisa ingreso por un cuadro de insuficiencia respiratoria secundaria a infección respiratoria, con sospecha radiológica de progresión tumoral pulmonar y reactivación del sangrado bronquial.
+Se instauran medidas de soporte consistentes en tratamiento antibiótico de amplio espectro, corticoterapia, broncodilatadores y oxigenoterapia a alto flujo, a pesar de lo cual la paciente presenta pobre respuesta a dichas medidas, siendo finalmente exitus.

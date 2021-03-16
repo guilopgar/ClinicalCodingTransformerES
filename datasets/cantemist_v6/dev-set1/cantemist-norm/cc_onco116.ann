@@ -1,0 +1,46 @@
+T1	MORFOLOGIA_NEOPLASIA 2606 2616	malignidad
+#1	AnnotatorNotes T1	8000/3
+T2	MORFOLOGIA_NEOPLASIA 3750 3760	malignidad
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 3537 3549	neurofibroma
+#3	AnnotatorNotes T3	9540/0
+T4	MORFOLOGIA_NEOPLASIA 202 215	neurofibromas
+#4	AnnotatorNotes T4	9540/0
+T5	MORFOLOGIA_NEOPLASIA 810 823	neurofibromas
+#5	AnnotatorNotes T5	9540/0
+T6	MORFOLOGIA_NEOPLASIA 1307 1320	neurofibromas
+#6	AnnotatorNotes T6	9540/0
+T7	MORFOLOGIA_NEOPLASIA 4057 4070	neurofibromas
+#7	AnnotatorNotes T7	9540/0
+T8	MORFOLOGIA_NEOPLASIA 95 112	neurofibromatosis
+#8	AnnotatorNotes T8	9540/1
+T9	MORFOLOGIA_NEOPLASIA 4783 4794	sarcomatosa
+#9	AnnotatorNotes T9	8800/9
+T10	MORFOLOGIA_NEOPLASIA 2178 2212	tumor maligno de la vaina nerviosa
+#10	AnnotatorNotes T10	9540/3
+T11	MORFOLOGIA_NEOPLASIA 4010 4044	tumor maligno de la vaina nerviosa
+#11	AnnotatorNotes T11	9540/3
+T12	MORFOLOGIA_NEOPLASIA 350 360	tumoración
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 3896 3906	tumoración
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 4320 4330	tumoración
+#14	AnnotatorNotes T14	8000/1
+T15	MORFOLOGIA_NEOPLASIA 4504 4514	tumoración
+#15	AnnotatorNotes T15	8000/1
+T16	MORFOLOGIA_NEOPLASIA 4725 4735	tumoración
+#16	AnnotatorNotes T16	8000/1
+T17	MORFOLOGIA_NEOPLASIA 504 511	tumoral
+#17	AnnotatorNotes T17	8000/1
+T18	MORFOLOGIA_NEOPLASIA 544 592	tumor maligno de alto grado de la vaina nerviosa
+#18	AnnotatorNotes T18	9540/34
+T19	MORFOLOGIA_NEOPLASIA 3762 3785	neurofibroma plexiforme
+#19	AnnotatorNotes T19	9550/0
+T20	MORFOLOGIA_NEOPLASIA 4092 4126	tumor maligno de la vaina nerviosa
+#20	AnnotatorNotes T20	9540/3
+T21	MORFOLOGIA_NEOPLASIA 5044 5097	recaída frontal de tumor maligno de la vaina nerviosa
+#21	AnnotatorNotes T21	9540/6
+T22	MORFOLOGIA_NEOPLASIA 5121 5157	infiltración parenquimatosa cerebral
+#22	AnnotatorNotes T22	8000/6
+T23	MORFOLOGIA_NEOPLASIA 1860 1897	neurofibroma con degeneración maligna
+#23	AnnotatorNotes T23	9540/3

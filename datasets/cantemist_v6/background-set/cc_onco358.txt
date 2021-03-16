@@ -1,0 +1,30 @@
+Anamnesis
+Mujer de 32 años, sin alergias medicamentosas conocidas, ni hábitos tóxicos, ni antecedentes personales de interés. Entre los antecedentes familiares presentaba abuela materna fallecida por carcinoma gástrico.
+Tras clínica de dolor abdominal agudo que no responde a analgesia domiciliaria, acude al servicio de Urgencias.
+
+Exploración física
+La paciente se encontraba con buen estado general, afebril y hemodinámicamente estable. ECOG 0.
+Sin adenopatías periféricas palpables. ACR: ruidos rítmicos, sin soplos. Buen murmullo vesicular sin ruidos añadidos. Abdomen blando, depresible, doloroso a la palpación infraumbilical, y sospecha de herniación a dicho nivel. EEII sin edemas ni signos de TVP. Pulsos periféricos conservados y simétricos. Sin focalidad neurológica.
+Ante la sospecha de hernia abdominal infraumbilical, se interviene de forma urgente, mediante laparoscopia. En el acto quirúrgico, de manera incidental se descubre neoformación supravesical que provocaba la compresión externa de la vejiga, que se reseca parcialmente. Durante el procedimiento se produce rotura vesical requiriendo reparación de la misma. El diagnóstico anatomopatológico (AP) se informa como Adenocarcinoma mucinoso, compatible con origen en restos de uraco. Citoqueratina 7 y 20 positivas. Receptores estrógenos negativos y progesterona positividad focal y débil, por lo que ingresa en Servicio de Urología para completar el estudio.
+
+Pruebas complementarias
+Analítica rutinaria sin alteraciones relevantes.
+Colonoscopia: tacto rectal normal. Colon sin pólipos ni tumoración. Sin otros hallazgos destacable.
+TC tórax/abdomen/pelvis c/c: engrosamiento focal de la pared anterolateral derecha de la vejiga que mide aproximadamente 3,7 x 2 cm, de baja densidad que podría estar en relación con recidiva o restos tumorales locales aunque no disponemos estudios previos evolutivos y tampoco podemos excluir completamente la posibilidad de una zona cicatricial postquirúrgica.
+Cistoscopia: lesión sospechosa de tumoración.
+Tras completar el estudio, y comentar caso en Comité multidisciplinar, se decide reintervenir de nuevo.
+Se realiza cistectomía parcial y apendicectomía, con diagnostico AP Apéndice cecal con intensa fibrosis sin alteraciones tumorales. Fragmento vesical: Adenocarcinoma vesical moderadamente diferenciado e infiltrante, mucosecretor que no alcanza bordes de resección. Infiltra hasta la muscular propia y no muestra invasión vascular ni perineural. Apéndice cecal con intensa fibrosis sin alteraciones tumorales
+Todo ello compatible con carcinoma de uraco o restos uracales.
+
+Diagnóstico
+Adenocarcinoma mucinoso de Uraco. Estadio III A (pT3N0M0)
+
+Tratamiento
+Con el diagnostico AP definitivo, se deriva a nuestras consultas, donde se decide tratamiento citostático adyuvante con esquema cisplatino 70 mg/m2 día 1º (dosis total: DT; 105 mg) + gemcitabina 100 mg/m2 día 1º y 8º (DT 1500 mg) / 21 días x 4 ciclos.
+
+Evolución
+La paciente recibe 4 ciclos de tratamiento, con aceptable tolerancia, salvo astenia grado 3 y nauseas grado 3 en último ciclo. En TC de reevaluación tras finalizar la quimioterapia, permanecía libre de enfermedad.
+Tras un intervalo libre de enfermedad (ILE) de 12 meses, la paciente ingresa por cuadro de ascitis grado 3 acompañado de disnea secundaria a ésta, que se acompañaba de síndrome constitucional severo.
+Se realiza TC, objetivándose recidiva peritoneal. Se deriva a Centro de Referencia para intervención mediante citorreducción radical + peritonectomía + quimioterapia hipertérmica intraperitoneal (HIPEC) con mitomicina C 50 mg durante una hora. La anatomía patológica de la intervención coincidía con la previa. Confirmándose que se trataba de una recidiva del adenocarcinoma de uraco, sin cambio histológico y con resección macroscópica completa.
+Tras estos hallazgos y la situación clínica de la paciente se decide en Comité Multidisciplinar administrar QT con intención adyuvante esquema XELOX x 6 ciclos: Oxaliplatino 130 mg/m2 día 1º (DT 195 mg) + Capecitabina 1 g/m2 /12 h (DT 1500 mg / 12 h) por 14 días, cada 21 dias. Toxicidad durante el tratamiento; náuseas grado 3 y vómitos grado 3 obligando a reducción de dosis del 20 % del oxaliplatino en el segundo ciclo. Durante el tratamiento la paciente presentó cuadros de estreñimiento y síndromes suboclusivos que revertían con tratamiento médico.
+En TC de reevaluación tras completar el tercer ciclo, se observa progresión de la enfermedad a nivel pleural y peritoneal. Fue necesario la realización de paracentesis evacuadoras en múltiples ocasiones como tratamiento sintomático. En este momento se valora la posibilidad de realizar tratamiento QT paliativa con esquema carboplatino + taxol, pero la evolución de la enfermedad fue desfavorable, con cuadros suboclusivos de repetición y deterioro del estado general (ECOG 3), que precisó ingreso hospitalario. Se decide entonces derivación a Unidad de Cuidados Paliativos. Al mes siguiente la paciente falleció en domicilio con el soporte de la unidad de cuidados continuos.

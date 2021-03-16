@@ -1,0 +1,6 @@
+T1	MORFOLOGIA_NEOPLASIA 726 768	carcinoma neuroendocrino de célula pequeña
+#1	AnnotatorNotes T1	8041/3
+T2	MORFOLOGIA_NEOPLASIA 2432 2471	carcinoma neuroendocrino indiferenciado
+#2	AnnotatorNotes T2	8246/34
+T3	MORFOLOGIA_NEOPLASIA 302 342	adenocarcinoma de próstata Gleason 5 + 4
+#3	AnnotatorNotes T3	8140/34

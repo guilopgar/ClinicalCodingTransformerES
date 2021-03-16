@@ -1,0 +1,25 @@
+Anamnesis
+Varón de 71 años de edad, natural de Inglaterra, no fumador, con antecedentes personales de diabetes mellitus tipo 2, ictus isquémico transitorio carotideo derecho en 2012 sin secuelas, endarterectomía carotidea derecha en 2014 y sin otros antecedentes personales o familiares de interés.
+En julio de 2016, presentó masa abdominal palpable en flanco izquierdo, siendo sugestiva de hipernefroma en ecografía abdominal, por lo que se realiza tomografía computarizada (TC) de tórax, abdomen y pelvis con hallazgos de una masa sólida en polo inferior de riñón izquierdo de 9,2 x 7 x 9,6 cm en los ejes transversal, antero-posterior y cráneo-caudal respectivamente que contacta con la fascia renal anterior, invasión del parénquima renal e invasión de la vena renal ipsilateral con aumento de tamaño de la vena renal, y gonadal izquierda con varicocele secundario; además, muestra un micronódulo pulmonar en lóbulo superior izquierdo inespecífico.
+Se realizó por parte del servicio de Urología una nefrectomía radical izquierda; presentando múltiples complicaciones postoperatorias. En diciembre de 2016, un tromboembolismo pulmonar bilateral de alto riesgo, que precisa de anticoagulación, en dicho ingreso se objetiva por pruebas de imagen múltiplesnódulos pulmonares milimétricos no presentes previamente; siendo remitido a nuestras consultas para valoración.
+
+Exploración física
+A su llegada a nuestras consultas, el paciente presenta excelente estado general, con un Eastern Cooperative Oncology Group (ECOG) de 0, con Karnofsky de 100. Eupneico. Sin otros hallazgos relevantes durante la exploración física.
+
+Pruebas complementarias
+Anatomía Patológica compatible con carcinoma renal de células claras G4 de Furhman con datos de invasión vascular y perineural (pT3aNx)
+TC de tórax, abdomen y pelvis febrero de 2019: se aprecia progresión de afectación metastásica pulmonar. Aparición de lesiones hepáticas sugestivas de metástasis, así como recidiva tumoral local retroperitoneal con un nódulo de 15 x 12 mm. Signos de tromboembolismo pulmonar bilateral.
+
+Diagnóstico
+Progresión pulmonar y hepática de carcinoma renal de células claras. Pronostico intermedio. Tromboembolismo pulmonar bilateral con infarto pulmonar.
+
+Tratamiento
+Con estos hallazgos y, tras explicar al paciente el pronóstico y posibilidades de tratamiento, se decide inicio de primera línea de tratamiento con pazopanib a dosis de 800 mg al día en marzo de 2017.
+
+Evolución
+Tras 2 meses de tratamiento, la respuesta radiológica valorada por TC, presenta enfermedad estable, en este momento astenia grado 2 e hipotiroidismo subclínico iniciándose tratamiento sustitutivo hormonal.
+En julio de 2017 ingresa en la planta de hospitalización por hematoma retroperitoneal y anemización de hasta 6 g/dl de hemoglobina, que se maneja de forma conservadora suspendiéndose el tratamiento con pazopanib y la anticoagulación, comprobándose posteriormente resolución del mismo por TC; tras valorar riesgo-beneficio con el paciente, se decide reinicio de tratamiento y heparina de bajo peso molecular en dosis profilácticas.
+En septiembre de 2017, se objetiva progresión de enfermedad con metástasis pulmonares múltiples más de 70 derechas y 40 izquierdas, múltiples metástasis hepáticas que han aumentado en número y tamaño, adenopatías retroperitoneales, persistencia del tromboembolismo pulmonar izquierdo, tras estos hallazgos se comenta en sesión clínica y se decide inicio de segunda de tratamiento con nivolumab, que inicialmente en primera TC de control muestra datos sugestivos de pseudoprogresión hepática, pero se consensua mantener mismo tratamiento.
+Tras 10 ciclos con nivolumab en marzo de 2018, presenta por TC respuesta parcial mayor con desaparición de los nódulos pulmonares e intraabdominales, así como disminución de tamaño y densidad de todas las lesiones focales hepáticas preexistentes.
+En junio de 2018 tras 16 ciclos, presenta mialgias intensas y sospecha de polineuropatía proximal realizándose electromiograma siendo negativo; sin embargo, hubo resolución de los síntomas tras suspensión de nivolumab.
+Actualmente, se encuentra sin tratamiento desde hace más de un año, presentando buena calidad de vida y respuesta parcial mayor radiológica mantenida desde junio de 2018.

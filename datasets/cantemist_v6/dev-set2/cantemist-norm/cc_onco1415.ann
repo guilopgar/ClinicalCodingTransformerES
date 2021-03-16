@@ -1,0 +1,10 @@
+T1	MORFOLOGIA_NEOPLASIA 1647 1669	adenocarcinoma papilar
+#1	AnnotatorNotes T1	8260/3
+T2	MORFOLOGIA_NEOPLASIA 2455 2472	diseminación ósea
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1737 1762	linfangitis carcinomatosa
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 2808 2818	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2754 2764	neoplásica
+#5	AnnotatorNotes T5	8000/1

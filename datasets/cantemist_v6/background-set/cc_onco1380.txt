@@ -1,0 +1,24 @@
+Anamnesis
+Varón de 56 años, con estrías angiodes, pérdida visual y trombopenia por síndrome marfanoide familiar. En marzo de 2009 presenta clínica de obstrucción intestinal. Fue intervenido de urgencia por peritonitis fecaloidea en el contexto de un carcinoma de colon izquierdo obstruido y perforado. Se complicó con múltiples abscesos abdominales y dehiscencia de la anastomosis, que requirió reintervenir y atelectasia pulmonar con derrame, todo lo cual retrasó la recuperación y la derivación a Oncología Médica.
+
+Examen físico
+Índice de Karnofsky 70 %. Múltiples estrías cutáneas. Importante pérdida de visión, detectando únicamente formas >3 cm. Abdomen: no se palpan masas, cicatriz quirúrgica izquierda y bolsa de colostomía.
+
+Pruebas complementarias
+TC tórax-abdomen (abril de 2009): lesión en colon descendente, varios abscesos peritoneales y 3 nódulos hepáticos subcentimétricos de etiología incierta.
+Analítica, incluyendo CEA y CA19.9: normal.
+
+Diagnóstico
+Adenocarcinoma de colon descendente IIIB vs. IV (pT3 pN1 [1 ganglio infiltrado de 16] Mx [LOE hepáticas con biopsia intraquirúrgica negativa para malignidad]) G1 sin invasión vascular, neural ni linfática, KRAS y BRAF nativos.
+
+Tratamiento
+Recibió quimioterapia adyuvante con capecitabina 1.000 mg/m2/12 h x 14 días + oxaliplatino 130 mg/m2 (XELOX) cada 3 semanas, 6 meses. En el 2.º ciclo precisó reducción del 20 % de la dosis de oxaliplatino por trombopenia de grado 3; en el resto de los ciclos, plaquetas entre 77.000-83.000.
+
+Evolución
+Cuatro meses después de la adyuvancia persistían 3 LOE hepáticas sin cambios, pero en la TC trifásica a los 8 meses crecen y se someten a una hepatectomía izquierda. Dado que había finalizado la quimioterapia 8 meses antes, tenía un síndrome marfanoide, trombopenia de grado 2 y neuropatía de grado 2 residual, no se pautó adyuvancia.
+A los 11 meses presenta una nueva recurrencia hepática irresecable, por lo que se inició 1.ª línea de tratamiento de la enfermedad metastásica con capecitabina 850 mg/m2/12 h x 14 días + irinotecán 240 mg/m2 + bevacizumab 7,5 mg/kg de peso cada 3 semanas, que recibió entre mayo de 2011 y julio de 2012 con respuesta parcial mantenida y escasa toxicidad.
+A la progresión, pasados 33 meses desde la adyuvancia, sin neuropatía ni trombopenia, se decide 2.ª línea con XELOX, progresando a los 6 meses.
+En 3.ª línea se pautó panitumumab 9 mg/kg + irinotecán 240 mg/m2 cada 3 semanas, comenzando en febrero de 2013.
+Desde el 1.er ciclo desarrolla toxicidad cutánea de grado 2-3 que se controló parcialmente con crema con urea y gel de aceite de oliva y fotoprotección.
+A los 3 ciclos, importante respuesta bioquímica (CEA basal 433 y tras 3 ciclos 35), que se confirmó por TC.
+Actualmente, continúa tratamiento con el mismo esquema, con buena calidad de vida y una supervivencia de 4 años.

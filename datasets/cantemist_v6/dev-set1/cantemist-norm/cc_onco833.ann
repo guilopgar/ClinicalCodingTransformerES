@@ -1,0 +1,18 @@
+T1	MORFOLOGIA_NEOPLASIA 3569 3586	colangiocarcinoma
+#1	AnnotatorNotes T1	8160/3
+T2	MORFOLOGIA_NEOPLASIA 3014 3024	malignidad
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 1316 1326	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 3607 3615	pT2pN1M0
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 3989 3996	tumoral
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 1020 1037	tumor de Klatskin
+#6	AnnotatorNotes T6	8162/3
+T7	MORFOLOGIA_NEOPLASIA 1246 1306	adenocarcinoma de la vía biliar principal, bien diferenciado
+#7	AnnotatorNotes T7	8160/31
+T8	MORFOLOGIA_NEOPLASIA 3588 3605	tumor de Klatskin
+#8	AnnotatorNotes T8	8162/3
+T9	MORFOLOGIA_NEOPLASIA 3569 3633	colangiocarcinoma (tumor de Klatskin) pT2pN1M0 bien diferenciado
+#9	AnnotatorNotes T9	8160/31

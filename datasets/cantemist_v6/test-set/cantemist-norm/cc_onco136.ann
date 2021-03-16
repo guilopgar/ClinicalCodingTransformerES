@@ -1,0 +1,22 @@
+T1	MORFOLOGIA_NEOPLASIA 2582 2596	Adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 2618 2620	M0
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 2157 2171	adenocarcinoma
+#3	AnnotatorNotes T3	8140/3
+T4	MORFOLOGIA_NEOPLASIA 1678 1688	malignidad
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 2052 2062	malignidad
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 2558 2567	neoplasia
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 4893 4898	tumor
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 2356 2416	adenocarcinoma infiltrante bien diferenciado (G1) multifocal
+#8	AnnotatorNotes T8	8140/31/H
+T9	MORFOLOGIA_NEOPLASIA 2486 2527	adenocarcinoma in situ, de tipo muccinoso
+#9	AnnotatorNotes T9	8480/3
+T10	MORFOLOGIA_NEOPLASIA 2486 2508	adenocarcinoma in situ
+#10	AnnotatorNotes T10	8140/2
+T11	MORFOLOGIA_NEOPLASIA 3132 3163	lesiones pulmonares bilaterales
+#11	AnnotatorNotes T11	8000/6

@@ -1,0 +1,12 @@
+T1	MORFOLOGIA_NEOPLASIA 2003 2015	Angiosarcoma
+#1	AnnotatorNotes T1	9120/3
+T2	MORFOLOGIA_NEOPLASIA 1643 1653	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1854 1864	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1529 1541	neoformativo
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 1902 1936	Angiosarcoma vesical de alto grado
+#5	AnnotatorNotes T5	9120/34
+T6	MORFOLOGIA_NEOPLASIA 2037 2088	afectación linfática locorregional y pleuropulmonar
+#6	AnnotatorNotes T6	8000/6

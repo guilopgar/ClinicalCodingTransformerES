@@ -1,0 +1,10 @@
+T1	MORFOLOGIA_NEOPLASIA 1362 1376	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 1449 1463	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 1329 1345	células malignas
+#3	AnnotatorNotes T3	8001/3
+T4	MORFOLOGIA_NEOPLASIA 1079 1091	neoformativo
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 1143 1184	lesiones nodulares pulmonares bilaterales
+#5	AnnotatorNotes T5	8000/6

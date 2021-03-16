@@ -1,0 +1,18 @@
+T1	MORFOLOGIA_NEOPLASIA 313 327	leiomiosarcoma
+#1	AnnotatorNotes T1	8890/3
+T2	MORFOLOGIA_NEOPLASIA 1395 1405	malignidad
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 1999 2010	metastásico
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 509 524	nódulo pulmonar
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 278 297	sarcoma fusocelular
+#5	AnnotatorNotes T5	8801/3
+T6	MORFOLOGIA_NEOPLASIA 2042 2061	sarcoma fusocelular
+#6	AnnotatorNotes T6	8801/3
+T7	MORFOLOGIA_NEOPLASIA 100 110	tumoración
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 1901 1911	tumoración
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 928 967	Metástasis pulmonares de leiomiosarcoma
+#9	AnnotatorNotes T9	8890/6

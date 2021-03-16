@@ -1,0 +1,18 @@
+T1	MORFOLOGIA_NEOPLASIA 100 106	cáncer
+#1	AnnotatorNotes T1	8000/3
+T2	MORFOLOGIA_NEOPLASIA 2685 2696	metastásica
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1687 1692	tumor
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 406 469	tumor estromal fusocelular de grado histológico intermedio/bajo
+#4	AnnotatorNotes T4	8935/12
+T5	MORFOLOGIA_NEOPLASIA 406 432	tumor estromal fusocelular
+#5	AnnotatorNotes T5	8004/1
+T6	MORFOLOGIA_NEOPLASIA 585 614	tumor Phyllodes de alto grado
+#6	AnnotatorNotes T6	9020/34
+T7	MORFOLOGIA_NEOPLASIA 2711 2750	Metástasis orbitaria de tumor Phyllodes
+#7	AnnotatorNotes T7	9020/6
+T8	MORFOLOGIA_NEOPLASIA 2942 2985	metástasis de tumor Phyllodes de alto grado
+#8	AnnotatorNotes T8	9020/64
+T9	MORFOLOGIA_NEOPLASIA 2459 2506	tumoración en región inferolateral de la órbita
+#9	AnnotatorNotes T9	8000/6

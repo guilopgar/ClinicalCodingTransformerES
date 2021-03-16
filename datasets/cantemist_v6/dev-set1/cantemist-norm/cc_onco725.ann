@@ -1,0 +1,46 @@
+T1	MORFOLOGIA_NEOPLASIA 2440 2459	afectación pulmonar
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 3038 3066	carcinoma ductal infiltrante
+#2	AnnotatorNotes T2	8500/3
+T3	MORFOLOGIA_NEOPLASIA 1790 1803	condrosarcoma
+#3	AnnotatorNotes T3	9220/3
+T4	MORFOLOGIA_NEOPLASIA 3085 3098	condrosarcoma
+#4	AnnotatorNotes T4	9220/3
+T5	MORFOLOGIA_NEOPLASIA 151 157	cáncer
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 1164 1181	células tumorales
+#6	AnnotatorNotes T6	8001/1
+T7	MORFOLOGIA_NEOPLASIA 3366 3385	lesiones pulmonares
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 2513 2523	metástasis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 2564 2574	metástasis
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 4227 4237	metástasis
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 3591 3616	progresa a nivel pulmonar
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 1825 1830	tumor
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 2942 2947	tumor
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 1564 1571	tumoral
+#14	AnnotatorNotes T14	8000/1
+T15	MORFOLOGIA_NEOPLASIA 2233 2240	tumoral
+#15	AnnotatorNotes T15	8000/1
+T16	MORFOLOGIA_NEOPLASIA 1265 1298	proliferación mesenquimal maligna
+#16	AnnotatorNotes T16	8800/3
+T17	MORFOLOGIA_NEOPLASIA 1620 1652	carcinoma metaplásico heterólogo
+#17	AnnotatorNotes T17	8575/3/H
+T18	MORFOLOGIA_NEOPLASIA 1665 1703	carcinoma ductal infiltrante grado III
+#18	AnnotatorNotes T18	8500/33
+T19	MORFOLOGIA_NEOPLASIA 1723 1787	sarcoma de alto grado con diferenciación de matriz cartilaginosa
+#19	AnnotatorNotes T19	8800/34/H
+T20	MORFOLOGIA_NEOPLASIA 1935 1969	fusocelular mesenquimal neoplásico
+#20	AnnotatorNotes T20	8801/3
+T21	MORFOLOGIA_NEOPLASIA 2789 2902	carcinoma de mama metaplásico heterólogo con diferenciación condrosarcomatoide estadio IV con afectación pulmonar
+#21	AnnotatorNotes T21	8575/6
+T22	MORFOLOGIA_NEOPLASIA 2789 2829	carcinoma de mama metaplásico heterólogo
+#22	AnnotatorNotes T22	8575/3/H
+T23	MORFOLOGIA_NEOPLASIA 2789 2867	carcinoma de mama metaplásico heterólogo con diferenciación condrosarcomatoide
+#23	AnnotatorNotes T23	9220/3

@@ -1,0 +1,6 @@
+T1	MORFOLOGIA_NEOPLASIA 432 477	adenocarcinoma de pulmón izquierdo cT4 N2 M1c
+#1	AnnotatorNotes T1	8140/6
+T2	MORFOLOGIA_NEOPLASIA 479 489	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 904 911	tumoral
+#3	AnnotatorNotes T3	8000/1

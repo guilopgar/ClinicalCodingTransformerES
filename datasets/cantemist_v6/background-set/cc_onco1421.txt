@@ -1,0 +1,22 @@
+Anamnesis
+Mujer de 44 años, exfumadora de 20 cigarrillos/día hasta los 37 años (12-14 paquetes/año) y sin otros antecedentes.
+En mayo de 2010, sin clínica asociada y en el contexto de revisión, se realiza una radiografía de tórax que pone devmanifiesto masa pulmonar en el LSD. Tras completar estudio mediante tomografía computarizada (TC), se diagnosticavde adenocarcinoma de pulmón T4N2M0 (estadio IIIB). Inicia quimioterapia (QT) de inducción según esquemavcarboplatino/paclitaxel trisemanal por dos ciclos seguido de quimiorradioterapia (69,5 Gy) concurrente con el mismovesquema de QT semanal, sin toxicidades grado III-IV y respuesta parcial radiológica (noviembre de 2010-Intervalo Librevde Progresión [ILP] 6 meses).
+Sin embargo, la paciente desarrolla clínica de cefalea sin focalidad neurológica y una resonancia magnética (RM)vcerebral identifica tres LOE supratentoriales sugestivas de metástasis. Se realiza entonces radiocirugía con Cyberknifevcon respuesta completa clínica y radiológica y QT de segunda línea con carboplatino/pemetrexed x 6 ciclos seguido devpemetrexed de mantenimiento (11 ciclos), con buena tolerancia y mantenimiento de la respuesta hasta agosto de 2011v(ILP 21 meses). En dicho tiempo acontece nueva progresión cerebral ante lo que se decide reirradiación convradioterapia (RT) holocraneal (20 Gy).
+Dado el comportamiento inusual de la enfermedad y la ausencia de material patológico para análisis mutacional devEGFR/ALK, se realiza mediastinoscopia diagnóstica con resultado de EGFR no mutado (WT) y presencia devtraslocación del gen ALK (2p23) en el 27 % de las células tumorales.
+Inicia por tanto en febrero 2012 tratamiento con Crizotinib a dosis estándar (250 mg vo cada 12 horas) y sin toxicidadvlimitante, que ha mantenido hasta marzo de 2013 (ILP 16 meses), cuando inicia clínica aguda de paraplejia de miembros inferiores e incontinencia de esfínteres.
+
+Examen físico
+ECOG 2. Buen estado general, consciente y orientada, bien hidratada y perfundida. Eupneica. Auscultación: corazón rítmico a buena frecuencia y buen murmullo vesicular bilateral. Exploración neurológica: paresia 1/5 de ambos miembros inferiores, hipoestesia desde nivel periumbilical hasta el nivel distal de ambos miembros inferiores.
+
+Pruebas complementarias
+Analítica: leucocitosis 11,57 x10e9/l (91% de PMN, linfocitos 0,3 x10e9/L).
+RM de columna: lesión de morfología ovoide hiperintensa a la altura de D9, compatible con metástasis intramedular.
+
+Diagnóstico
+Metástasis intramedular a nivel de D9 de novo en paciente con adenocarcinoma de pulmón estadio IV y traslocación de ALK.
+
+Tratamiento
+Valorada en Comité de Neurocirugía, se descarta actitud quirúrgica y se decide radioterapia paliativa y corticoterapia intensiva.
+
+Evolución
+Recibe un total de 5 dosis divididas en 4 Gy, que tolera adecuadamente, pero sin beneficio clínico.

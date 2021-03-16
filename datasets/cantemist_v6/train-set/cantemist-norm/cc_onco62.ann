@@ -1,0 +1,30 @@
+T1	MORFOLOGIA_NEOPLASIA 2652 2661	carcinoma
+#1	AnnotatorNotes T1	8010/3
+T2	MORFOLOGIA_NEOPLASIA 218 239	carcinoma epidermoide
+#2	AnnotatorNotes T2	8070/3
+T3	MORFOLOGIA_NEOPLASIA 2146 2167	carcinoma epidermoide
+#3	AnnotatorNotes T3	8070/3
+T4	MORFOLOGIA_NEOPLASIA 2095 2119	carcinoma no microcítico
+#4	AnnotatorNotes T4	8046/3
+T5	MORFOLOGIA_NEOPLASIA 2768 2782	carcinomatosis
+#5	AnnotatorNotes T5	8010/9
+T6	MORFOLOGIA_NEOPLASIA 4377 4391	carcinomatosis
+#6	AnnotatorNotes T6	8010/9
+T7	MORFOLOGIA_NEOPLASIA 4525 4535	metástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 4867 4882	tumoral maligna
+#8	AnnotatorNotes T8	8000/3
+T9	MORFOLOGIA_NEOPLASIA 109 137	leucemia aguda mieloblástica
+#9	AnnotatorNotes T9	9872/3
+T10	MORFOLOGIA_NEOPLASIA 2351 2410	metástasis de carcinoma epidermoide pobremente diferenciado
+#10	AnnotatorNotes T10	8070/33
+T11	MORFOLOGIA_NEOPLASIA 2621 2649	leucemia aguda mieloblástica
+#11	AnnotatorNotes T11	9872/3
+T12	MORFOLOGIA_NEOPLASIA 2871 2882	metastásica
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 2694 2765	carcinoma epidermoide estadio IV al diagnóstico por nódulos subcutáneos
+#13	AnnotatorNotes T13	8070/6
+T14	MORFOLOGIA_NEOPLASIA 4422 4444	implantes peritoneales
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 2285 2311	nódulo en la región axilar
+#15	AnnotatorNotes T15	8000/6

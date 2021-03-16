@@ -1,0 +1,34 @@
+T1	MORFOLOGIA_NEOPLASIA 5808 5827	enfermedad pulmonar
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 751 761	malignidad
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 4923 4934	metastásica
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2477 2487	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 3709 3719	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 4684 4702	nódulos pulmonares
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 3194 3206	osteosarcoma
+#7	AnnotatorNotes T7	9180/3
+T8	MORFOLOGIA_NEOPLASIA 3903 3914	peritumoral
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 4436 4441	tumor
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 502 512	tumoración
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 83 90	tumores
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 1947 1972	osteosarcoma convencional
+#12	AnnotatorNotes T12	9186/3
+T13	MORFOLOGIA_NEOPLASIA 2219 2230	metastásica
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 2422 2475	osteosarcoma convencional de tibia izquierda G3T2N0M1
+#14	AnnotatorNotes T14	9186/6
+T15	MORFOLOGIA_NEOPLASIA 2939 2962	nodulaciones pulmonares
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 4363 4403	osteosarcoma convencional condroblástico
+#16	AnnotatorNotes T16	9181/3
+T17	MORFOLOGIA_NEOPLASIA 4363 4388	osteosarcoma convencional
+#17	AnnotatorNotes T17	9186/3

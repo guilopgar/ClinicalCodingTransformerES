@@ -1,0 +1,30 @@
+T1	MORFOLOGIA_NEOPLASIA 1542 1557	Macrometástasis
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1799 1821	afectación a distancia
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 2937 2952	lesión cerebral
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 4245 4255	malignidad
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 968 975	maligno
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 2661 2671	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 4445 4455	metástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 1560 1588	micrometástasis de carcinoma
+#8	AnnotatorNotes T8	8010/6
+T9	MORFOLOGIA_NEOPLASIA 1691 1701	neoplásica
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 2131 2138	tumoral
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 1075 1119	carcinoma infiltrante de subtipo no especial
+#11	AnnotatorNotes T11	8010/3/H
+T12	MORFOLOGIA_NEOPLASIA 1454 1481	Carcinoma infiltrante (SNE)
+#12	AnnotatorNotes T12	8010/3/H
+T13	MORFOLOGIA_NEOPLASIA 2393 2430	lesión ocupante de espacio intraaxial
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 3098 3137	metástasis de carcinoma infiltrante SNE
+#14	AnnotatorNotes T14	8010/6/H
+T15	MORFOLOGIA_NEOPLASIA 4313 4338	carcinoma infiltrante SNE
+#15	AnnotatorNotes T15	8010/3/H

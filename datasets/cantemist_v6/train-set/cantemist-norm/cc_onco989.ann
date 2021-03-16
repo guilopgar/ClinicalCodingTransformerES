@@ -1,0 +1,28 @@
+T1	MORFOLOGIA_NEOPLASIA 1273 1276	CDI
+#1	AnnotatorNotes T1	8500/3
+T2	MORFOLOGIA_NEOPLASIA 1352 1354	M0
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 3836 3845	carcinoma
+#3	AnnotatorNotes T3	8010/3
+T4	MORFOLOGIA_NEOPLASIA 659 669	malignidad
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 2550 2574	metástasis por carcinoma
+#5	AnnotatorNotes T5	8010/6
+T6	MORFOLOGIA_NEOPLASIA 3589 3613	metástasis por carcinoma
+#6	AnnotatorNotes T6	8010/6
+T7	MORFOLOGIA_NEOPLASIA 350 359	neoplasia
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 832 861	CDI de mama izquierda grado 3
+#8	AnnotatorNotes T8	8500/33
+T9	MORFOLOGIA_NEOPLASIA 1234 1245	metastásica
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 2200 2215	lesión hepática
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 2352 2388	recaída única hepática por carcinoma
+#11	AnnotatorNotes T11	8010/6
+T12	MORFOLOGIA_NEOPLASIA 3508 3524	recaída pectoral
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 3920 3969	CDI de mama perfil luminal B en recaída sistémica
+#13	AnnotatorNotes T13	8500/6
+T14	MORFOLOGIA_NEOPLASIA 4114 4153	recaída de partes blandas por carcinoma
+#14	AnnotatorNotes T14	8010/6

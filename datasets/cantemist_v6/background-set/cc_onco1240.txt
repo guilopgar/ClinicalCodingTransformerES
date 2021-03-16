@@ -1,0 +1,20 @@
+Anamnesis
+Mujer de 64 años, sin antecedentes patológicos de interés con historia clínica de alteración del hábito intestinal (alternancia de diarrea y estreñimiento), hematoquecia y síndrome constitucional (pérdida de 6 kg de peso en el último mes).
+
+Examen físico
+El examen físico era anodino, con muy buen estado general, performance status (PS) de 0.
+
+Pruebas complementarias
+En la tomografía computarizada (TC) toracoabdominopélvica se objetiva un engrosamiento concéntrico del sigma, adenopatías subcentrimétricas adyacentes y un nódulo hepático indeterminado. La colonoscopia demostró, a 18 cm del margen anal, neoplasia estenosante y ulcerada que se biopsia. El antígeno carcinoembrionario era de 3,4 ng/ml.
+
+Diagnóstico
+Adenocarcinoma de sigma localmente avanzado con nódulo hepático a estudio.
+
+Tratamiento
+Ante un adenocarcinoma (ADC) de sigma localmente avanzado y un nódulo en el lóbulo hepático izquierdo, se interviene el 12/9/2007 mediante resección anterior de recto y ecografía Intraoperatoria hepática que confirma metástasis única. El diagnóstico anatomopatológico (AP) fue de adenocarcinoma pT3N+ 1/16 bien diferenciado y ulcerado con invasión linfática y márgenes libres, KRAS mutado.
+Valorado en Comité de Tumores, se decide cirugía hepática (segmentectomía del 2 y 3) el 9/11/2007, con AP de metástasis por adenocarcinoma tipo intestinal, con bordes libres (R0). Posteriormente, recibe quimioterapia adyuvante con esquema FOLFOX (5-fluorouracilo, leucovorín y oxaliplatino) por 6 meses (fin de julio de 2008). Presentó toxicidad hematológica, neurotoxicidad y astenia moderadas. Inicia seguimiento.
+
+Evolución
+En la TC de control de 5/6/2009 se objetivan 3 lesiones hepáticas, completándose estudio con tomografía por emisión de positrones (PET-TC) que apoya su origen metastásico y descarta enfermedad extrahepática. Se decide en Comité Multidisciplinar reintervenir en julio de 2009 (hepatectomía limitada a segmentos 7, 4a y 4b siendo R0). Debido a neurotoxicidad residual, se pauta adyuvancia con esquema FOLFIRI (5- fluorouracilo, leucovorín e irinotecán) por 6 meses, presentando astenia y toxicidad gastrointestinal moderadas, así como neutropenia severa con varios retrasos, por lo que se asoció factor estimulante de colonias. Reinicia seguimientos trimestrales.
+En la TC de control de 7/2/2011, se observa lesión metastásica única en segmento 8 hepático, de 23 mm, decidiéndose en Comité de Tumores nuevo rescate quirúrgico (segmentectomía del 8 el 8/4/2011). Valorado conjuntamente con la paciente, se decide no administrar nueva adyuvancia.
+En la TC de 7/8/2011 aparece un nódulo subpleural inespecífico de 4 mm, decidiéndose control evolutivo, pero en TC de 30/5/2012 duplica su tamaño (9 mm), por lo que se solicita PET-TC, siendo hipermetabólico y se propone resección del mismo. Se realiza resección transegmentaria en lóbulo inferior izquierdo (noviembre de 2012) con AP de metástasis de adenocarcinoma de 1,3 cm, márgenes libres. Nuevamente se decide seguimiento y presenta actualmente un intervalo libre de enfermedad de 17 meses con muy buen estado general (PS 0) y una supervivencia desde el momento del diagnóstico a marzo de 2014 de 6,5 años.

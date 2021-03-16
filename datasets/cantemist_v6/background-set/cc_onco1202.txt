@@ -1,0 +1,31 @@
+Anamnesis
+Varón de 77 años con antecedentes personales de diabetes, hipertensión arterial, no fumador, que consulta por clínica de pérdida de peso asociada con astenia y decaimiento de alrededor de 3 meses de evolución. En las últimas semanas asociaba disfonía y disfagia. No asociaba disnea, expectoración ni dolor torácico.
+Es valorado en Otorrinolaringología por el cuadro de disfonía, observando parálisis de la cuerda vocal izquierda, por lo que se solicitó una radiografía de tórax. En ella se observó una masa perihiliar izquierda con elevación del diafragma ipsilateral. Se remite a Neumología, que completa el estudio con una TC de tórax y abdomen, en la que se observó una gran masa hiliar izquierda de unos 15 cm de diámetro máximo con marcada invasión mediastínica con infiltración de la arteria pulmonar principal izquierda y de la aorta descendente, así como de la porción distal del esófago. Asociaba también un patrón intersticial bilateral compatible con linfangitis carcinomatosa, múltiples lesiones hepáticas compatibles con metástasis y adenopatías supraclaviculares.
+Se realizó biopsia de conglomerado adenopático supraclavicular izquierdo, con resultado in situ de carcinoma microcítico de probable origen pulmonar. Se remite a Oncología donde, tras el diagnóstico de carcinoma microcítico de pulmón estadio IV, recibe un ciclo de carboplatino-etopósido día 1 cada 28 con reducción de dosis y con apoyo de G-CSF. Muy mala tolerancia al tratamiento, requiriendo ingreso por empeoramiento de la disfagia, neutropenia febril y deterioro del estado general. Tras el tratamiento antibiótico y de soporte el paciente se repone satisfactoriamente del episodio, siendo alta tras 5 días de ingreso.
+El paciente es llevado a Urgencias por pérdida de consciencia y convulsiones tónico-clónicas, decidiendo su ingreso en Medicina Interna. Permanece en situación de coma arreactivo, sin fiebre, ni leucocitosis y con PCR normal, por lo que se contemplan como primeras opciones diagnósticas la afectación metastásica en el SNC o un cuadro isquémico, no confirmadas en pruebas de imagen.
+Tras la aparición de un pico febril, se decide la realización de una punción lumbar, con salida de líquido cefalorraquídeo en agua de roca y a presión normal.
+
+Examen físico
+El paciente se encuentra en coma arreactivo, Glasgow 3, con respiración atáxica y parálisis fláccida de las cuatro extremidades. Reflejos no valorables.
+Temperatura 38,6 ºC. No rigidez de nuca.
+ACR: tonos rítmicos a 115 latidos/minuto. Roncus dispersos que moviliza con la tos.
+TA: 103/62 mmHg. Saturación 85% con ventimask al 35%.
+
+Pruebas complementarias
+- Hemograma: leucocitos 10.500/mm3; hemoglobina 13,5 g/dl; PMN 78,2%.
+- Coagulación normal.
+- Bioquímica: glucosa 196 mg/dl; creatinina 0,9 mg/dl; amilasa 73 UI/l; sodio 130 mEq/l; potasio 4,7 mEq/l; PCR 0,37 mg/l; lactato 6,9; NT-proBNP 1.215 pg/ml.
+- pH venoso 7,23; bicarbonato 26,8 mmol/l.
+- Troponina T 32.
+- TC: no evidencia de afectación metastásica a nivel central ni otros signos de patología aguda. No evidencia de procesos vasculares isquémicos ni hemorrágicos.
+- LCR: proteínas 38,8 mg/dl; glucosa 106 mg/dl; leucocitos 1 por mm3.
+Positividad para ADN virus herpes simple tipo 1.
+
+Diagnóstico
+Encefalitis herpética por virus herpes simple tipo 1.
+
+Tratamiento
+Una vez confirmado el diagnóstico, se inició tratamiento con aciclovir 625 mg cada 8 horas. Las convulsiones se controlaron con levetiracetam 500 mg cada 8 horas. Se mantuvo la cobertura antibiótica con meropenem 1.000 mg cada 8 horas.
+
+Evolución
+El paciente presentó discreta mejoría transitoria con la administración de aciclovir i.v. A las 48 horas de instaurar el tratamiento, el paciente presentó deterioro de su estado clínico, con disnea y agitación incoercible, por lo que se inició sedación paliativa, sobreviniendo el exitus 5 días más tarde.

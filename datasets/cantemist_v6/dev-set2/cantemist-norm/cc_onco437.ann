@@ -1,0 +1,32 @@
+T1	MORFOLOGIA_NEOPLASIA 4579 4603	Carcinoma indiferenciado
+#1	AnnotatorNotes T1	8020/3
+T2	MORFOLOGIA_NEOPLASIA 926 928	M0
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 801 815	adenocarcinoma
+#3	AnnotatorNotes T3	8140/3
+T4	MORFOLOGIA_NEOPLASIA 3865 3876	adenomatosa
+#4	AnnotatorNotes T4	8140/0
+T5	MORFOLOGIA_NEOPLASIA 1469 1476	cTxN3M0
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 1190 1214	carcinoma indiferenciado
+#6	AnnotatorNotes T6	8020/3
+T7	MORFOLOGIA_NEOPLASIA 2272 2296	carcinoma indiferenciado
+#7	AnnotatorNotes T7	8020/3
+T8	MORFOLOGIA_NEOPLASIA 5224 5248	carcinoma indiferenciado
+#8	AnnotatorNotes T8	8020/3
+T9	MORFOLOGIA_NEOPLASIA 1929 1939	malignidad
+#9	AnnotatorNotes T9	8000/3
+T10	MORFOLOGIA_NEOPLASIA 559 566	mieloma
+#10	AnnotatorNotes T10	9732/3
+T11	MORFOLOGIA_NEOPLASIA 296 312	mieloma múltiple
+#11	AnnotatorNotes T11	9732/3
+T12	MORFOLOGIA_NEOPLASIA 1968 1973	tumor
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 1392 1399	tumoral
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 4806 4815	tumorales
+#14	AnnotatorNotes T14	8000/1
+T15	MORFOLOGIA_NEOPLASIA 1323 1357	adenopatía a nivel supraclavicular
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 4022 4048	carcinoma mal diferenciado
+#16	AnnotatorNotes T16	8010/33

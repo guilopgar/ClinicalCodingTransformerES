@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 180 191	hemangiomas
+#1	AnnotatorNotes T1	9120/0
+T2	MORFOLOGIA_NEOPLASIA 4568 4578	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 3702 3743	metástasis de carcinoma de células claras
+#3	AnnotatorNotes T3	8310/6
+T4	MORFOLOGIA_NEOPLASIA 4087 4129	metástasis de carcinoma de células renales
+#4	AnnotatorNotes T4	8312/6
+T5	MORFOLOGIA_NEOPLASIA 783 794	neoplásicos
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 4188 4193	tumor
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 4048 4071	tumor de células claras
+#7	AnnotatorNotes T7	8005/1
+T8	MORFOLOGIA_NEOPLASIA 708 759	cáncer renal de células claras grado III de Furhman
+#8	AnnotatorNotes T8	8005/33
+T9	MORFOLOGIA_NEOPLASIA 3566 3624	neoplasia de células claras con áreas de alto y bajo grado
+#9	AnnotatorNotes T9	8005/34
+T10	MORFOLOGIA_NEOPLASIA 4488 4557	metástasis resecada en el yeyuno de carcinoma renal de células claras
+#10	AnnotatorNotes T10	8310/6

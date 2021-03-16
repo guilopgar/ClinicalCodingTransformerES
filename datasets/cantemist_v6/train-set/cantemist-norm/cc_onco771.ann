@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 1834 1842	melanoma
+#1	AnnotatorNotes T1	8720/3
+T2	MORFOLOGIA_NEOPLASIA 1435 1445	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1593 1603	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1906 1916	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2816 2826	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 3118 3128	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1739 1759	melanoma infiltrante
+#7	AnnotatorNotes T7	8720/3/H
+T8	MORFOLOGIA_NEOPLASIA 3387 3411	afectación leptomeníngea
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 3277 3295	realce ependimario
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 3616 3640	afectación leptomeníngea
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 4465 4487	invasión leptomeníngea
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 3528 3602	recidiva de melanoma maligno de mucosa a nivel de sistema nervioso central
+#12	AnnotatorNotes T12	8720/6

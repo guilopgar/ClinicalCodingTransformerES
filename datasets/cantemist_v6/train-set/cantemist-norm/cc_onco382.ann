@@ -1,0 +1,14 @@
+T1	MORFOLOGIA_NEOPLASIA 175 193	carcinoma escamoso
+#1	AnnotatorNotes T1	8070/3
+T2	MORFOLOGIA_NEOPLASIA 2712 2728	células malignas
+#2	AnnotatorNotes T2	8001/3
+T3	MORFOLOGIA_NEOPLASIA 773 781	papiloma
+#3	AnnotatorNotes T3	8050/0
+T4	MORFOLOGIA_NEOPLASIA 708 752	lesión escamosa intraepitelial de alto grado
+#4	AnnotatorNotes T4	8077/2
+T5	MORFOLOGIA_NEOPLASIA 754 758	SHIL
+#5	AnnotatorNotes T5	8077/2
+T6	MORFOLOGIA_NEOPLASIA 231 249	afectación pleural
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 846 864	progresión pleural
+#7	AnnotatorNotes T7	8000/6

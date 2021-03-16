@@ -1,0 +1,8 @@
+T1	MORFOLOGIA_NEOPLASIA 1344 1358	carcinomatosis
+#1	AnnotatorNotes T1	8010/9
+T2	MORFOLOGIA_NEOPLASIA 1681 1687	cáncer
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 1505 1521	células malignas
+#3	AnnotatorNotes T3	8001/3
+T4	MORFOLOGIA_NEOPLASIA 2342 2351	neoplasia
+#4	AnnotatorNotes T4	8000/1

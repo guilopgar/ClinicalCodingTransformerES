@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 2623 2655	tumor de células de la granulosa
+#1	AnnotatorNotes T1	8620/1
+T2	MORFOLOGIA_NEOPLASIA 615 630	tumoral maligna
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 2505 2573	tumor de células de Sertoli, estroma gonadal pobremente diferenciado
+#3	AnnotatorNotes T3	8631/3
+T4	MORFOLOGIA_NEOPLASIA 2422 2474	tumor de cordones sexuales / estroma gonadal maligno
+#4	AnnotatorNotes T4	8590/1
+T5	MORFOLOGIA_NEOPLASIA 2909 2985	Tumor de cordones sexuales / estroma gonadal maligno (OMS 2004) pT3 cN1 cM1a
+#5	AnnotatorNotes T5	8590/6
+T6	MORFOLOGIA_NEOPLASIA 2660 2670	malignidad
+#6	AnnotatorNotes T6	8000/3
+T7	MORFOLOGIA_NEOPLASIA 839 868	adenopatías supraclaviculares
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 1615 1627	metastásicas
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 1811 1821	malignidad
+#9	AnnotatorNotes T9	8000/3
+T10	MORFOLOGIA_NEOPLASIA 1972 1982	malignidad
+#10	AnnotatorNotes T10	8000/3
+T11	MORFOLOGIA_NEOPLASIA 2108 2118	malignidad
+#11	AnnotatorNotes T11	8000/3
+T12	MORFOLOGIA_NEOPLASIA 3990 4014	lesión osteolítica en L5
+#12	AnnotatorNotes T12	8000/6

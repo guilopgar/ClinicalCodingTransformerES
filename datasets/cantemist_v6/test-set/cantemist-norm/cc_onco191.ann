@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 1623 1625	M0
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 328 356	carcinoma ductal infiltrante
+#2	AnnotatorNotes T2	8500/3
+T3	MORFOLOGIA_NEOPLASIA 1472 1500	carcinoma ductal infiltrante
+#3	AnnotatorNotes T3	8500/3
+T4	MORFOLOGIA_NEOPLASIA 2651 2661	meningioma
+#4	AnnotatorNotes T4	9530/0
+T5	MORFOLOGIA_NEOPLASIA 3681 3690	neoplasia
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 4283 4292	neoplasia
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 1320 1330	neoplásica
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 3567 3577	neoplásica
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 436 443	pT2N0M0
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 3948 3975	progresión a nivel pulmonar
+#10	AnnotatorNotes T10	8000/6

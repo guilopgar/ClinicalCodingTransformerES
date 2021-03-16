@@ -1,0 +1,21 @@
+T1	MORFOLOGIA_NEOPLASIA 3461 3488	Carcinoma de célula pequeña
+T2	MORFOLOGIA_NEOPLASIA 3753 3767	adenocarcinoma
+T3	MORFOLOGIA_NEOPLASIA 4551 4565	adenocarcinoma
+T4	MORFOLOGIA_NEOPLASIA 1027 1053	adenocarcinoma metastásico
+T5	MORFOLOGIA_NEOPLASIA 3606 3627	carcinoma microcítico
+T6	MORFOLOGIA_NEOPLASIA 2879 2906	carcinoma no célula pequeña
+T7	MORFOLOGIA_NEOPLASIA 4321 4334	lesión lítica
+T8	MORFOLOGIA_NEOPLASIA 3094 3104	metástasis
+T9	MORFOLOGIA_NEOPLASIA 3224 3234	metástasis
+T10	MORFOLOGIA_NEOPLASIA 4433 4443	metástasis
+T11	MORFOLOGIA_NEOPLASIA 4465 4472	mieloma
+T12	MORFOLOGIA_NEOPLASIA 4994 5041	nódulos pulmonares subcentimétricos bilaterales
+T13	MORFOLOGIA_NEOPLASIA 1233 1282	metástasis pleurales izquierdas de adenocarcinoma
+T14	MORFOLOGIA_NEOPLASIA 1311 1344	adenocarcinoma pulmonar (TXNXM1a)
+T15	MORFOLOGIA_NEOPLASIA 1627 1667	Progresión tras 10 meses a nivel pleural
+T16	MORFOLOGIA_NEOPLASIA 3153 3200	Masa de nueva aparición en ángulo cardiofrénico
+T17	MORFOLOGIA_NEOPLASIA 4054 4080	enfermedad a nivel del SNC
+T18	MORFOLOGIA_NEOPLASIA 4808 4826	enfermedad pleural
+T19	MORFOLOGIA_NEOPLASIA 4936 4962	enfermedad a nivel pleural
+T20	MORFOLOGIA_NEOPLASIA 5110 5135	progresión a nivel de SNC
+T21	MORFOLOGIA_NEOPLASIA 3329 3347	enfermedad pleural

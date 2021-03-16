@@ -1,0 +1,8 @@
+T1	MORFOLOGIA_NEOPLASIA 1970 1988	Carcinoma Escamoso
+#1	AnnotatorNotes T1	8070/3
+T2	MORFOLOGIA_NEOPLASIA 1395 1425	carcinoma de células escamosas
+#2	AnnotatorNotes T2	8070/3
+T3	MORFOLOGIA_NEOPLASIA 1783 1795	metastásicas
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2593 2623	progresión mediastínica y ósea
+#4	AnnotatorNotes T4	8000/6

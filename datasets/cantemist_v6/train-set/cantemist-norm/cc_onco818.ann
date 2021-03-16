@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 4555 4558	M1a
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 488 502	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 856 877	melanoma en regresión
+#3	AnnotatorNotes T3	8723/3
+T4	MORFOLOGIA_NEOPLASIA 2130 2138	melanoma
+#4	AnnotatorNotes T4	8720/3
+T5	MORFOLOGIA_NEOPLASIA 1520 1536	melanoma maligno
+#5	AnnotatorNotes T5	8720/3
+T6	MORFOLOGIA_NEOPLASIA 1603 1625	metástasis de melanoma
+#6	AnnotatorNotes T6	8720/6
+T7	MORFOLOGIA_NEOPLASIA 1822 1865	melanoma retroauricular izquierdo pT2bNxM1a
+#7	AnnotatorNotes T7	8720/6
+T8	MORFOLOGIA_NEOPLASIA 1994 2005	metastásica
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 4030 4042	metastásicas
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 4436 4444	Melanoma
+#10	AnnotatorNotes T10	8720/3
+T11	MORFOLOGIA_NEOPLASIA 949 982	melanoma de extensión superficial
+#11	AnnotatorNotes T11	8743/3
+T12	MORFOLOGIA_NEOPLASIA 4506 4527	Recaída única cutánea
+#12	AnnotatorNotes T12	8000/6

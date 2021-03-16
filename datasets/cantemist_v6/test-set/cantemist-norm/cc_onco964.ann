@@ -1,0 +1,14 @@
+T1	MORFOLOGIA_NEOPLASIA 220 234	carcinomatosis
+#1	AnnotatorNotes T1	8010/9
+T2	MORFOLOGIA_NEOPLASIA 2208 2222	carcinomatosis
+#2	AnnotatorNotes T2	8010/9
+T3	MORFOLOGIA_NEOPLASIA 1345 1354	neoplasia
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 2742 2761	progresión hepática
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 1745 1752	tumoral
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 94 133	adenocarcinoma gástrico tipo intestinal
+#6	AnnotatorNotes T6	8144/3
+T7	MORFOLOGIA_NEOPLASIA 208 214	TxNxM1
+#7	AnnotatorNotes T7	8000/6

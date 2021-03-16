@@ -1,0 +1,13 @@
+T1	MORFOLOGIA_NEOPLASIA 2049 2053	TGNS
+T2	MORFOLOGIA_NEOPLASIA 1842 1863	carcinoma embrionario
+T3	MORFOLOGIA_NEOPLASIA 1177 1187	metástasis
+T4	MORFOLOGIA_NEOPLASIA 1591 1626	metástasis de carcinoma embrionario
+T5	MORFOLOGIA_NEOPLASIA 3670 3680	neoplásico
+T6	MORFOLOGIA_NEOPLASIA 1894 1902	seminoma
+T7	MORFOLOGIA_NEOPLASIA 1911 1919	teratoma
+T8	MORFOLOGIA_NEOPLASIA 4327 4342	teratoma maduro
+T9	MORFOLOGIA_NEOPLASIA 2017 2047	tumor germinal no seminomatoso
+T10	MORFOLOGIA_NEOPLASIA 372 392	masa supraclavicular
+T11	MORFOLOGIA_NEOPLASIA 1063 1107	adenopática múltiple a nivel supraclavicular
+T12	MORFOLOGIA_NEOPLASIA 1354 1405	adenopática a nivel laterocervical, supraclavicular
+T13	MORFOLOGIA_NEOPLASIA 1641 1677	Carcinoma embrionario con metástasis

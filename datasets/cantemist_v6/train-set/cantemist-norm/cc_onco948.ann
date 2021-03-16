@@ -1,0 +1,22 @@
+T1	MORFOLOGIA_NEOPLASIA 3788 3812	carcinoma neuroendocrino
+#1	AnnotatorNotes T1	8246/3
+T2	MORFOLOGIA_NEOPLASIA 1869 1911	carcinoma neuroendocrino de célula pequeña
+#2	AnnotatorNotes T2	8041/3
+T3	MORFOLOGIA_NEOPLASIA 2393 2403	malignidad
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 2863 2873	neoplásica
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 175 185	tumoración
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 340 350	tumoración
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 3513 3523	tumoración
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 5222 5229	tumoral
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 853 877	carcinoma indiferenciado
+#9	AnnotatorNotes T9	8020/3
+T10	MORFOLOGIA_NEOPLASIA 1180 1204	carcinoma indiferenciado
+#10	AnnotatorNotes T10	8020/3
+T11	MORFOLOGIA_NEOPLASIA 1830 1854	carcinoma indiferenciado
+#11	AnnotatorNotes T11	8020/3

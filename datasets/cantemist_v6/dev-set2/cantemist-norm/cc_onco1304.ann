@@ -1,0 +1,10 @@
+T1	MORFOLOGIA_NEOPLASIA 1741 1748	linfoma
+#1	AnnotatorNotes T1	9590/3
+T2	MORFOLOGIA_NEOPLASIA 1368 1373	tumor
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 1084 1094	tumoración
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 1541 1585	linfoma no Hodgkin B difuso de célula grande
+#4	AnnotatorNotes T4	9680/3
+T5	MORFOLOGIA_NEOPLASIA 1890 1934	Linfoma no Hodgkin B difuso de célula grande
+#5	AnnotatorNotes T5	9680/3

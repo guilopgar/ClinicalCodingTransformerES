@@ -1,0 +1,28 @@
+T1	MORFOLOGIA_NEOPLASIA 1157 1160	CDI
+#1	AnnotatorNotes T1	8500/3
+T2	MORFOLOGIA_NEOPLASIA 1363 1392	adenopatías supraclaviculares
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 61 67	cáncer
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 1083 1097	lesión cutánea
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 1298 1312	lesión cutánea
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 2010 2020	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1230 1254	metástasis por carcinoma
+#7	AnnotatorNotes T7	8010/6
+T8	MORFOLOGIA_NEOPLASIA 515 520	tumor
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 456 492	lesión lítica expansiva en la cadera
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 756 800	adenopatía axilar izquierda, supraclavicular
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 1127 1170	carcinoma ductal infiltrante (CDI), grado 3
+#11	AnnotatorNotes T11	8500/33
+T12	MORFOLOGIA_NEOPLASIA 1612 1644	implantes/adenopatías en epiplón
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 1646 1672	lesiones líticas en huesos
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 1934 1975	CDI de mama bilateral sincrónico, grado 3
+#14	AnnotatorNotes T14	8500/33

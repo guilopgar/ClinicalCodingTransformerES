@@ -1,0 +1,12 @@
+T1	MORFOLOGIA_NEOPLASIA 2382 2414	adenocarcinoma poco diferenciado
+#1	AnnotatorNotes T1	8140/33
+T2	MORFOLOGIA_NEOPLASIA 2223 2233	malignidad
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 1167 1177	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2542 2574	adenocarcinoma de pulmón T4N2M1b
+#4	AnnotatorNotes T4	8140/6
+T5	MORFOLOGIA_NEOPLASIA 2783 2794	metastásica
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 1824 1853	captaciones patológicas óseas
+#6	AnnotatorNotes T6	8000/6

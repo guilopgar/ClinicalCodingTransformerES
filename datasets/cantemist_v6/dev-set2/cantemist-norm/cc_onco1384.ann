@@ -1,0 +1,14 @@
+T1	MORFOLOGIA_NEOPLASIA 2320 2353	carcinoma renal de células claras
+#1	AnnotatorNotes T1	8310/3
+T2	MORFOLOGIA_NEOPLASIA 1255 1303	lesión osteolítica en la cara interna del clivus
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 2363 2371	pT1aN0M0
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2506 2511	tumor
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 1695 1702	tumoral
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 1409 1438	seminoma anaplásico pT2pN3M1b
+#6	AnnotatorNotes T6	9062/6
+T7	MORFOLOGIA_NEOPLASIA 1910 1926	lesión en clivus
+#7	AnnotatorNotes T7	8000/6

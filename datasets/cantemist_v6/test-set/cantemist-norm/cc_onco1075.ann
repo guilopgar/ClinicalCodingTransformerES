@@ -1,0 +1,14 @@
+T1	MORFOLOGIA_NEOPLASIA 1911 1933	Carcinoma inflamatorio
+#1	AnnotatorNotes T1	8530/3
+T2	MORFOLOGIA_NEOPLASIA 1852 1859	maligna
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 1814 1822	malignas
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 1301 1352	neoplasia epitelial maligna pobremente diferenciada
+#4	AnnotatorNotes T4	8010/33
+T5	MORFOLOGIA_NEOPLASIA 1422 1473	neoplasia epitelial maligna pobremente diferenciada
+#5	AnnotatorNotes T5	8010/33
+T6	MORFOLOGIA_NEOPLASIA 1983 1989	T4N1M0
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 2917 2986	carcinoma infiltrante de células escamosas moderadamente diferenciado
+#7	AnnotatorNotes T7	8070/32/H

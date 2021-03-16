@@ -1,0 +1,34 @@
+T1	MORFOLOGIA_NEOPLASIA 726 740	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 3264 3297	adenocarcinoma de tipo intestinal
+#2	AnnotatorNotes T2	8144/3
+T3	MORFOLOGIA_NEOPLASIA 883 890	adenoma
+#3	AnnotatorNotes T3	8140/0
+T4	MORFOLOGIA_NEOPLASIA 4018 4033	lesión cerebral
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 3883 3912	lesión única a nivel cerebral
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 3117 3127	malignidad
+#6	AnnotatorNotes T6	8000/3
+T7	MORFOLOGIA_NEOPLASIA 1408 1423	nódulo hepático
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 1978 1993	nódulo hepático
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 2601 2616	nódulo hepático
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 3088 3103	nódulo pulmonar
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 2679 2697	nódulos pulmonares
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 4504 4523	progresión cerebral
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 3922 3947	progresión pleuropulmonar
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 3563 3568	tumor
+#14	AnnotatorNotes T14	8000/1
+T15	MORFOLOGIA_NEOPLASIA 605 615	tumoración
+#15	AnnotatorNotes T15	8000/1
+T16	MORFOLOGIA_NEOPLASIA 1024 1046	adenocarcinoma grado 1
+#16	AnnotatorNotes T16	8140/31
+T17	MORFOLOGIA_NEOPLASIA 2019 2037	nódulos pulmonares
+#17	AnnotatorNotes T17	8000/6

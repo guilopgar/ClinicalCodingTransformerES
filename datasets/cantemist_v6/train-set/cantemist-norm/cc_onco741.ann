@@ -1,0 +1,26 @@
+T1	MORFOLOGIA_NEOPLASIA 1924 1934	Metástasis
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 856 878	enfermedad a distancia
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1554 1564	malignidad
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 1808 1818	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 583 588	tumor
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 73 80	tumoral
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 182 204	Ca papilar infiltrante
+#7	AnnotatorNotes T7	8503/3
+T8	MORFOLOGIA_NEOPLASIA 205 211	T2N0M0
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 781 798	metástasis de ADC
+#9	AnnotatorNotes T9	8140/6
+T10	MORFOLOGIA_NEOPLASIA 519 537	lesión suprarrenal
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 1722 1746	nódulo de la suprarrenal
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 2075 2092	metástasis de ADC
+#12	AnnotatorNotes T12	8140/6
+T13	MORFOLOGIA_NEOPLASIA 2464 2486	enfermedad a distancia
+#13	AnnotatorNotes T13	8000/6

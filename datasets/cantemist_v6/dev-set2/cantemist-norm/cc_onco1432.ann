@@ -1,0 +1,30 @@
+T1	MORFOLOGIA_NEOPLASIA 738 771	Carcinoma pobremente diferenciado
+#1	AnnotatorNotes T1	8010/33
+T2	MORFOLOGIA_NEOPLASIA 1606 1608	M1
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1699 1701	M1
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1294 1303	carcinoma
+#4	AnnotatorNotes T4	8010/3
+T5	MORFOLOGIA_NEOPLASIA 965 998	carcinoma pobremente diferenciado
+#5	AnnotatorNotes T5	8010/33
+T6	MORFOLOGIA_NEOPLASIA 676 723	metástasis de carcinoma pobremente diferenciado
+#6	AnnotatorNotes T6	8010/63
+T7	MORFOLOGIA_NEOPLASIA 1709 1729	múltiples pulmonares
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 1915 1930	progresión ósea
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 1395 1405	tumoración
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 794 802	cTxN2aM0
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 1189 1244	carcinoma nasofaríngeo indiferenciado no queratinizante
+#11	AnnotatorNotes T11	8072/34
+T12	MORFOLOGIA_NEOPLASIA 1246 1261	linfoepitelioma
+#12	AnnotatorNotes T12	8082/3
+T13	MORFOLOGIA_NEOPLASIA 1325 1332	T2N2bM0
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 1522 1559	lesión blástica dolorosa en el húmero
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 1594 1622	metástasis (M1) de carcinoma
+#15	AnnotatorNotes T15	8010/6

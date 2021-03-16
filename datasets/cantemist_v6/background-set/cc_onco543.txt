@@ -1,0 +1,26 @@
+Anamnesis
+» Paciente varón de 68 años, cuyos antecedentes de interés son la hipertensión arterial, hiperplasia benigna de próstata, y tabaquismo activo de 63 paquetes-año.
+» Buen cumplimentador del tratamiento (olmesartán 20 mg 1c/d, hidroclorotiazida 12,5 mg 1c/d,
+» tamsulosina 0,4mg 1c/d).
+» No tiene antecedentes familiares de interés.
+» Diagnosticado de adenocarcinoma de pulmón estadio IV, T2 (atelectasia), N0, M1c (metástasis cerebrales, pulmonares bilaterales, derrame pleural), EGFR negativo, no translocación de ALK, ROS-1 negativo y PD-L1 positivo en 90 % de las células tumorales.
+» Buen apoyo social e independiente para las actividades básicas de la vida diaria.
+Se realizó radioterapia holocraneal de las metástasis cerebrales, que finalizó el 03/11/2018, siendo tratado con corticoides en pauta descendente por clínica neurológica durante las semanas posteriores. Inició tratamiento de primera línea con pembrolizumab el 23/11/2018.
+» » Acudió a Urgencias el 2/12/2018, presentando disnea de 4 días de evolución, de inicio brusco, con evolución rápida hasta mínimos esfuerzos, con aumento de tos sin expectoración: afebril; no refería clínica de insuficiencia cardíaca, ni otra sintomatología por aparatos o sistemas. Vacunado de la gripe.
+
+Exploración física
+A su llegada a triaje, se presentó con una tensión arterial de 113/77 mm Hg, con una frecuencia cardiaca de 97 lpm y una saturación de oxígeno de 93 % con FiO2 de 35 %. Temperatura de 36,5 ºC y un Glasgow de 15 puntos.
+En la exploración destacó un regular estado general, se mostró consciente y orientado, aunque con deshidratación moderada y taquipnea de 37 respiraciones por minuto.
+En la auscultación cardiaca los tonos eran rítmicos, sin soplos, mientras que en la auscultación pulmonar eran muy llamativos los abundantes roncus y sibilantes bilaterales. La exploración abdominal, sin hallazgos patológicos, así como sin signos de edemas o signos de trombosis venosa en miembros inferiores.
+
+Pruebas complementarias
+En la analítica, no presentó alteraciones en la serie roja ni blanca. La gasometría arterial mantuvo un ph de 7,48, con una insuficiencia respiratoria parcial (PO2 de 53 mm Hg y pCO2 de 30 mm Hg). No tiene alteraciones iónicas, con una función renal y hepática normal. Destacó una proteína C reactiva de 13,2 mg/dl y un dímero D de 975 ng/ml (valor normal < 100). Se realizó una radiografía de tórax que mostraba infiltrados alveolares bilaterales con predominio de afectación intersticial bilateral, así como posible derrame y/o atelectasia en pulmón derecho. En la angio-TC no se observaron defectos de repleción en las arterias pulmonares, destacando mínimo derrame pleural bilateral y aparición de opacidades en vidrio deslustrado en ambas bases pulmonares, no presentes en la TC previa de octubre de 2018. Los antígenos de neumococo, Legionella y PCR de gripe fueron negativos.
+
+Diagnóstico
+Dados los hallazgos en ese momento, se planteó el diagnóstico diferencial entre una neumonitis por pembrolizumab grado 3 (síntomas severos, que ponen en peligro la vida del paciente, con hipoxia y dificultad respiratoria), y una neumonitis infecciosa (fundamentalmente bacteriana, con cobertura de Pneumocystis jirovecii).
+
+Tratamiento
+Se interrumpió el tratamiento con pembrolizumab y se administró metilprednisolona a dosis de 2-3 mg/kg/día. Se añadió antibioterapia con levofloxacino y trimetoprima-sulfametoxazol, así como terapia de soporte.
+
+Evolución
+El paciente presentó mejoría parcial de su sintomatología. Sin embargo, durante los días posteriores reapareció la clínica con aumento de la tos con expectoración, con requerimientos de oxígeno cada vez mayores y empeoramiento del estado general. Se realizó TC-AR de control, fibrobroncoscopia y lavado broncoalveolar. La tinción de Gram observó levaduras, con cultivo positivo para Aspergillus fumigatus, así como serología positiva para citomegalovirus y Aspergillus, y RT-PCR positiva para Pneumocystis jirovecii. Se añadió voriconazol (dosis de carga de 400 mg cada 12 horas y posteriormente 200 mg cada 12 horas) y ganciclovir (10 mg/kg/día). A pesar de esto, persistió evolución desfavorable, falleciendo el paciente seis días después.

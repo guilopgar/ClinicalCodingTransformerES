@@ -1,0 +1,14 @@
+T1	MORFOLOGIA_NEOPLASIA 1300 1308	Melanoma
+#1	AnnotatorNotes T1	8720/3
+T2	MORFOLOGIA_NEOPLASIA 698 708	malignidad
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 310 333	metástasis por melanoma
+#3	AnnotatorNotes T3	8720/6
+T4	MORFOLOGIA_NEOPLASIA 1559 1582	metástasis por melanoma
+#4	AnnotatorNotes T4	8720/6
+T5	MORFOLOGIA_NEOPLASIA 640 645	nevus
+#5	AnnotatorNotes T5	8720/0
+T6	MORFOLOGIA_NEOPLASIA 135 145	tumoración
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 1278 1285	tumoral
+#7	AnnotatorNotes T7	8000/1

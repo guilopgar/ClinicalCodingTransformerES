@@ -1,0 +1,31 @@
+Anamnesis
+Mujer de 59 años de edad, sin antecedentes personales de interés y que no relata hábitos tóxicos.
+En octubre de 1996 es diagnosticada de una neoplasia de mama derecha (pT1cN1aM0). Se realizó tumorectomía y linfadenectomía axilar. El resultado anatomopatológico demostró la presencia de un carcinoma lobulillar infiltrante de 18 mm de tamaño, grado histológico combinado 1/3. Márgenes de resección libres, infiltración ganglionar 1/8, receptores estrogénicos 63%, receptores progestágenos 27%.
+Realizó quimioterapia adyuvante tipo CMF (ciclofosfamida-metotrexato-fluorouracilo), administrándose un total de 6 ciclos. De forma secuencial, se realizó radioterapia locorregional y se inició tratamiento hormonal con tamoxifeno durante 5 años.
+En septiembre de 2006, se realizó una mastectomía simple izquierda (contralateral) debido a un carcinoma intraductal multicéntrico cribiforme, receptores estrogénicos 90%, receptores progestágenos 95%, grado histológico (Van Nuys) 2/3, márgenes de resección libres.
+
+Examen físico
+En enero de 2013, inicia clínica de cervicalgia, con disestesias en extremidad superior derecha y extremidad inferior izquierda. Paresia en extremidad inferior derecha. Posteriormente, la paciente presenta disminución de la agudeza visual, diagnosticándose de neuropatía óptica con deterioro progresivo (fondo de ojo derecho: se observa papila pálida y excavada; ojo izquierdo: palidez temporal con atenuación arteriolar marcada).
+En enero de 2014, ingresa en el Servicio de Neurología. En la exploración física, presenta marcha parética, requiriendo ayuda para deambular, paresia tibial anterior bilateral, con desviación interna y paresia gastrocnemius III-IV de dualidad distal a extremidad superior derecha, tríceps, bíceps, flexores de la muñeca IV, arreflexia aquilea izquierda, hipopalestesia a extremidad superior derecha distal, L5 negativo.
+En mayo 2014, es remitida a nuestro Servicio. Presenta un índice de Karnofsky 70%, con dificultad a la deambulación, por lo que necesita ayuda de muletas. A la exploración física muestra, a nivel de la axila izquierda, una adenopatía móvil, profunda, de unos 2 cm de diámetro, paresia en extremidad inferior derecha y distal de extremidad superior ipsilateral.
+
+Pruebas complementarias
+En mayo de 2013, se realiza una electromiografía, en la que se detecta una clara afectación de nervios sural izquierdo (potencial evocado sensitivo ausente) y a nivel de peroneo derecho (potencial evocado motor del 80% del lado sano, con patrón neuropático a nivel de los músculos). No se observa afectación en las extremidades superiores ni afectación desmielinizante.
+En enero de 2014, se realiza un electromiograma de control, que muestra afectación sensitiva del nervio mediano derecho y sural izquierdo con empeoramiento en relación con el estudio previo. Dada la evolución clínica, se plantea la sospecha diagnóstica de síndrome paraneoplásico. Se realiza un estudio inmunológico que detectó anticuerpos antianfifisina claramente positivos a título alto; el resto de anticuerpos antineuronales negativos (Hu, Yo, Ri, Tr, Recoverina, CV2 y Ma2).
+Ante este resultado, se realiza una TC toracoabdominal que muestra múltiples adenopatías en la región axilar izquierda, la más grande de 15 mm, adenopatía axilar derecha, pequeños ganglios mediastínicos, con algún ganglio hilar bilateral. Se realiza una punción guiada por ecografía de la adenopatía axilar izquierda, siendo positiva para metástasis de carcinoma de mama, receptores estrogénicos 50%, receptores progestágenos positivos con células aisladas, Her2neu polisomía 17, entre 4-6 copias.
+Se completa estudio de extensión con una PET en la que se identifica una lesión hipermetabólica (SUV 8,9) en la región axilar izquierda y otro depósito adyacente de menor intensidad, varios focos de captación en la región paratraqueal derecha, hilar bilateral y subcarinales, estas últimas de significado incierto.
+Marcadores tumorales serológicos: antígeno carcinoembrionario (CEA) 1,25 ng/ml; antígeno carbohidratado 15.3 33,5 UI/ml.
+
+Diagnóstico
+Con los resultados de los estudios complementarios y la clínica de la paciente, se diagnostica de una polineuropatía axonal asimétrica en forma de multineuritis.
+
+Tratamiento
+Se inicia tratamiento con letrozol 2,5 mg/día vía oral.
+
+Evolución
+En mayo de 2013, se diagnostica de multineuritis secundaria a probable hepatitis B debido a detección serológica de anticuerpos antihepatitis Bs y anticuerpos antihepatitis B core. Luego se objetivó la ausencia de carga viral, lo que sugiere que la paciente había pasado la enfermedad. Se realiza tratamiento con corticoides, inmunosupresores (azatioprina y micofenolato) y fisioterapia funcional, con escasa mejoría clínica y electromiográfica.
+Posteriormente, la paciente presenta disminución de la agudeza visual, diagnosticándose de neuropatía óptica con deterioro progresivo (fondo de ojo derecho: se observa papila pálida y excavada; ojo izquierdo, palidez temporal con atenuación arteriolar marcada).
+En enero de 2014, ingresa en el Servicio de Neurología. En la exploración física presenta marcha parética requiriendo ayuda para deambular, paresia tibial anterior bilateral, con desviación interna y paresia gastrocnemius III -IV de dualidad distal a extremidad superior derecha, tríceps, bíceps, flexores de la muñeca IV, arreflexia aquilea izquierda, hipopalestèsia a extremidad superior derecha distal, L5 negativo.
+Ante la positividad de anticuerpos onconeuronales, recibe tratamiento con inmunoglobulinas IgE a dosis de 25 g/día, completa 5 dosis, con la que se logra mejoría importante de la clínica visual, y neurológica.
+Remitida a nuestro Servicio en mayo de 2014, presenta un índice de Karnofsky 70%, con dificultad a la deambulación, por lo que necesita ayuda de muletas. A la exploración física muestra, a nivel de la axila izquierda, una adenopatía móvil, profunda, de unos 2 cm de diámetro, paresia en extremidad inferior derecha y distal de extremidad superior ipsilateral.
+Dadas las características clínicas de la paciente y el patrón de recaída, se considera candidata a tratamiento hormonal.

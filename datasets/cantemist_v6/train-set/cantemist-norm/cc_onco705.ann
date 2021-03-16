@@ -1,0 +1,14 @@
+T1	MORFOLOGIA_NEOPLASIA 342 356	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 2720 2734	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 650 691	adenocarcinoma moderadamente diferenciado
+#3	AnnotatorNotes T3	8140/32
+T4	MORFOLOGIA_NEOPLASIA 4474 4564	adenopatías hipermetabólicas retrocrurales derechas, retroperitoneales y supraclaviculares
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 6302 6363	carcinoma de cérvix estadio IV (adenopatías supraclaviculares
+#5	AnnotatorNotes T5	8010/6
+T6	MORFOLOGIA_NEOPLASIA 4438 4462	infiltración mesorrectal
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 6376 6400	infiltración mesorrectal
+#7	AnnotatorNotes T7	8000/6

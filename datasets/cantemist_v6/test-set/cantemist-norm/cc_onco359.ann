@@ -1,0 +1,18 @@
+T1	MORFOLOGIA_NEOPLASIA 980 1006	cáncer de mama metastásico
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1076 1096	infiltración medular
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 2067 2087	infiltración medular
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2312 2317	tumor
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 954 961	tumoral
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 796 822	Cuadro leucoeritroblástico
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1746 1808	carcinoma infiltrante de mama izquierda grado II de Nottingham
+#7	AnnotatorNotes T7	8010/32/H
+T8	MORFOLOGIA_NEOPLASIA 2222 2256	linfangitis pulmonar carcinomatosa
+#8	AnnotatorNotes T8	8000/3
+T9	MORFOLOGIA_NEOPLASIA 2259 2288	metástasis óseas de carcinoma
+#9	AnnotatorNotes T9	8010/6

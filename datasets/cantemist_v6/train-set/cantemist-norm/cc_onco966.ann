@@ -1,0 +1,62 @@
+T1	MORFOLOGIA_NEOPLASIA 2017 2039	enfermedad a distancia
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 3387 3399	melanocitoma
+#2	AnnotatorNotes T2	8726/0
+T3	MORFOLOGIA_NEOPLASIA 5181 5193	melanocitoma
+#3	AnnotatorNotes T3	8726/0
+T4	MORFOLOGIA_NEOPLASIA 5205 5221	melanoma maligno
+#4	AnnotatorNotes T4	8720/3
+T5	MORFOLOGIA_NEOPLASIA 3202 3212	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 4126 4136	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 4557 4567	metástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 4770 4780	metástasis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 6587 6597	metástasis
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 1353 1363	tumoración
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 4337 4344	tumoral
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 5398 5405	tumoral
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 227 259	melanocitoma de grado intermedio
+#13	AnnotatorNotes T13	8728/32
+T14	MORFOLOGIA_NEOPLASIA 367 386	tumor de bajo grado
+#14	AnnotatorNotes T14	8000/11
+T15	MORFOLOGIA_NEOPLASIA 1238 1264	diseminación leptomeníngea
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 1777 1818	melanocitoma cerebral de grado intermedio
+#16	AnnotatorNotes T16	8728/32
+T17	MORFOLOGIA_NEOPLASIA 1832 1853	meningioma pigmentado
+#17	AnnotatorNotes T17	9530/0/H
+T18	MORFOLOGIA_NEOPLASIA 1967 1989	neoplasias pigmentadas
+#18	AnnotatorNotes T18	8000/1/H
+T19	MORFOLOGIA_NEOPLASIA 3405 3430	melanoma cerebral maligno
+#19	AnnotatorNotes T19	8720/3
+T20	MORFOLOGIA_NEOPLASIA 4212 4219	maligna
+#20	AnnotatorNotes T20	8000/3
+T21	MORFOLOGIA_NEOPLASIA 4369 4399	metástasis de melanoma maligno
+#21	AnnotatorNotes T21	8720/6
+T22	MORFOLOGIA_NEOPLASIA 4901 4908	maligna
+#22	AnnotatorNotes T22	8000/3
+T23	MORFOLOGIA_NEOPLASIA 5167 5174	maligna
+#23	AnnotatorNotes T23	8000/3
+T24	MORFOLOGIA_NEOPLASIA 5639 5646	maligna
+#24	AnnotatorNotes T24	8000/3
+T25	MORFOLOGIA_NEOPLASIA 3375 3382	maligna
+#25	AnnotatorNotes T25	8000/3
+T26	MORFOLOGIA_NEOPLASIA 3268 3286	lesiones hepáticas
+#26	AnnotatorNotes T26	8000/6
+T27	MORFOLOGIA_NEOPLASIA 3991 4009	lesiones hepáticas
+#27	AnnotatorNotes T27	8000/6
+T28	MORFOLOGIA_NEOPLASIA 4710 4745	lesiones múltiples a nivel pulmonar
+#28	AnnotatorNotes T28	8000/6
+T29	MORFOLOGIA_NEOPLASIA 6511 6526	lesión cerebral
+#29	AnnotatorNotes T29	8000/6
+T30	MORFOLOGIA_NEOPLASIA 6554 6572	nódulos pulmonares
+#30	AnnotatorNotes T30	8000/6
+T31	MORFOLOGIA_NEOPLASIA 6484 6502	lesiones hepáticas
+#31	AnnotatorNotes T31	8000/6

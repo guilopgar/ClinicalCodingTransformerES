@@ -1,0 +1,36 @@
+T1	MORFOLOGIA_NEOPLASIA 1076 1090	Leiomiosarcoma
+#1	AnnotatorNotes T1	8890/3
+T2	MORFOLOGIA_NEOPLASIA 1581 1614	enfermedad residual y a distancia
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 120 129	leiomioma
+#3	AnnotatorNotes T3	8890/0
+T4	MORFOLOGIA_NEOPLASIA 711 725	leiomiosarcoma
+#4	AnnotatorNotes T4	8890/3
+T5	MORFOLOGIA_NEOPLASIA 1483 1497	leiomiosarcoma
+#5	AnnotatorNotes T5	8890/3
+T6	MORFOLOGIA_NEOPLASIA 3401 3411	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 541 546	mioma
+#7	AnnotatorNotes T7	8895/0
+T8	MORFOLOGIA_NEOPLASIA 678 683	mioma
+#8	AnnotatorNotes T8	8895/0
+T9	MORFOLOGIA_NEOPLASIA 729 734	mioma
+#9	AnnotatorNotes T9	8895/0
+T10	MORFOLOGIA_NEOPLASIA 3606 3625	progresión hepática
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 3760 3779	progresión hepática
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 3989 4008	progresión hepática
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 2644 2651	sarcoma
+#13	AnnotatorNotes T13	8800/3
+T14	MORFOLOGIA_NEOPLASIA 1234 1244	tumoración
+#14	AnnotatorNotes T14	8000/1
+T15	MORFOLOGIA_NEOPLASIA 3086 3099	LOE hepáticas
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 4257 4282	lesiones líticas lumbares
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 4221 4254	progresión mediastínica, hepática
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 4058 4099	progresa de forma masiva a nivel hepático
+#18	AnnotatorNotes T18	8000/6

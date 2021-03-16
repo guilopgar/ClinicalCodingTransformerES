@@ -1,0 +1,22 @@
+T1	MORFOLOGIA_NEOPLASIA 2669 2681	osteosarcoma
+#1	AnnotatorNotes T1	9180/3
+T2	MORFOLOGIA_NEOPLASIA 3488 3493	tumor
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 4024 4029	tumor
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 4781 4786	tumor
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 1194 1233	osteosarcoma convencional de alto grado
+#5	AnnotatorNotes T5	9180/34
+T6	MORFOLOGIA_NEOPLASIA 2747 2786	osteosarcoma convencional de alto grado
+#6	AnnotatorNotes T6	9180/34
+T7	MORFOLOGIA_NEOPLASIA 2788 2795	pT2N0M0
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 3383 3390	tumoral
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 4303 4310	tumoral
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 3572 3603	enfermedad a nivel mediastínico
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 4569 4592	enfermedad mediastínica
+#11	AnnotatorNotes T11	8000/6

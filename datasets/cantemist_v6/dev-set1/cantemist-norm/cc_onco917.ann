@@ -1,0 +1,32 @@
+T1	MORFOLOGIA_NEOPLASIA 1709 1730	carcinoma epidermoide
+#1	AnnotatorNotes T1	8070/3
+T2	MORFOLOGIA_NEOPLASIA 2594 2621	enfermedad a nivel hepático
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 3582 3601	lesiones cerebrales
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 4683 4702	lesiones cerebrales
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2170 2181	metastásica
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 2816 2827	metastásica
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1441 1453	metastásicas
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 2460 2470	metástasis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 2667 2677	metástasis
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 3680 3690	metástasis
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 4618 4628	metástasis
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 3629 3659	nódulos pulmonares bilaterales
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 3803 3810	tumoral
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 1043 1095	lesiones ocupantes de espacio en hemisferio cerebral
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 1837 1892	carcinoma epidermoide de pulmón estadio IV, cT4 cN0 M1c
+#15	AnnotatorNotes T15	8070/6
+T16	MORFOLOGIA_NEOPLASIA 4214 4245	lesiones pulmonares y hepáticas
+#16	AnnotatorNotes T16	8000/6

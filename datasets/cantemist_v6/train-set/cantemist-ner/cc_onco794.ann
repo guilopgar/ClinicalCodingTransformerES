@@ -1,0 +1,10 @@
+T1	MORFOLOGIA_NEOPLASIA 887 893	T1N0M0
+T2	MORFOLOGIA_NEOPLASIA 781 790	carcinoma
+T3	MORFOLOGIA_NEOPLASIA 1003 1051	carcinoma de células renales tipo células claras
+T4	MORFOLOGIA_NEOPLASIA 1396 1429	carcinoma renal de células claras
+T5	MORFOLOGIA_NEOPLASIA 810 832	enfermedad a distancia
+T6	MORFOLOGIA_NEOPLASIA 1318 1336	nódulos pulmonares
+T7	MORFOLOGIA_NEOPLASIA 1241 1248	tumoral
+T8	MORFOLOGIA_NEOPLASIA 1003 1106	carcinoma de células renales tipo células claras, estadio patológico pT1b, grado nuclear Fuhrman III/IV
+T9	MORFOLOGIA_NEOPLASIA 2575 2602	progresión a nivel pulmonar
+T10	MORFOLOGIA_NEOPLASIA 1999 2030	enfermedad radiológica pulmonar

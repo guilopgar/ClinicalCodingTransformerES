@@ -1,0 +1,10 @@
+T1	MORFOLOGIA_NEOPLASIA 3113 3129	Melanoma maligno
+#1	AnnotatorNotes T1	8720/3
+T2	MORFOLOGIA_NEOPLASIA 1413 1424	metastásica
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1318 1328	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1019 1064	Melanoma de células epitelioides y fusiformes
+#4	AnnotatorNotes T4	8770/3
+T5	MORFOLOGIA_NEOPLASIA 3163 3170	pT4N3M0
+#5	AnnotatorNotes T5	8000/6

@@ -1,0 +1,26 @@
+T1	MORFOLOGIA_NEOPLASIA 2413 2427	Carcinomatosis
+#1	AnnotatorNotes T1	8010/9
+T2	MORFOLOGIA_NEOPLASIA 255 266	metastásica
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 3475 3486	metastásica
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 184 238	adenocarcinoma (ADC) de pulmón, estadio IV (cT2bN2M1b)
+#4	AnnotatorNotes T4	8140/6
+T5	MORFOLOGIA_NEOPLASIA 200 203	ADC
+#5	AnnotatorNotes T5	8140/3
+T6	MORFOLOGIA_NEOPLASIA 773 790	metástasis de ADC
+#6	AnnotatorNotes T6	8140/6
+T7	MORFOLOGIA_NEOPLASIA 2446 2449	ADC
+#7	AnnotatorNotes T7	8140/3
+T8	MORFOLOGIA_NEOPLASIA 3595 3612	metástasis de ADC
+#8	AnnotatorNotes T8	8140/6
+T9	MORFOLOGIA_NEOPLASIA 295 336	lesiones blásticas en cuerpos vertebrales
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 2645 2682	progresión exclusiva a nivel meníngeo
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 3496 3511	nódulos en mama
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 3856 3859	CLM
+#12	AnnotatorNotes T12	8010/9
+T13	MORFOLOGIA_NEOPLASIA 4217 4220	CLM
+#13	AnnotatorNotes T13	8010/9

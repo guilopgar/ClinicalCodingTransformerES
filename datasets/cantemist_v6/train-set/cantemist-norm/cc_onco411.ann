@@ -1,0 +1,18 @@
+T1	MORFOLOGIA_NEOPLASIA 1657 1671	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 1836 1850	carcinomatosis
+#2	AnnotatorNotes T2	8010/9
+T3	MORFOLOGIA_NEOPLASIA 2133 2147	carcinomatosis
+#3	AnnotatorNotes T3	8010/9
+T4	MORFOLOGIA_NEOPLASIA 1391 1401	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2613 2623	neoplásico
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 777 787	tumoración
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 1678 1744	neoplasia mucinosa papilar intraductal con displasia de alto grado
+#7	AnnotatorNotes T7	8453/2
+T8	MORFOLOGIA_NEOPLASIA 1998 2072	Adenocarcinoma de páncreas estadio IV, con infiltración del retroperitoneo
+#8	AnnotatorNotes T8	8140/6
+T9	MORFOLOGIA_NEOPLASIA 2228 2266	adenocarcinoma de páncreas metastásico
+#9	AnnotatorNotes T9	8140/6

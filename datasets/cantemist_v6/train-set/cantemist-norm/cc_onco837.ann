@@ -1,0 +1,26 @@
+T1	MORFOLOGIA_NEOPLASIA 1674 1695	carcinoma microcítico
+#1	AnnotatorNotes T1	8041/3
+T2	MORFOLOGIA_NEOPLASIA 1498 1508	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1611 1672	metástasis de carcinoma poco diferenciado de células pequeñas
+#3	AnnotatorNotes T3	8041/33
+T4	MORFOLOGIA_NEOPLASIA 2690 2759	Carcinoma microcítico de pulmón estadio IV por afectación suprarrenal
+#4	AnnotatorNotes T4	8041/6
+T5	MORFOLOGIA_NEOPLASIA 3475 3544	carcinoma microcítico de pulmón estadio IV por afectación suprarrenal
+#5	AnnotatorNotes T5	8041/6
+T6	MORFOLOGIA_NEOPLASIA 2905 2907	M1
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1541 1567	adenopatía supraclavicular
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 1340 1397	Adenopatías mediastínicas bilaterales y supraclaviculares
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 1432 1465	Nódulo de 31 mm en la suprarrenal
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 2148 2172	implantes leptomeníngeos
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 1712 1756	lesión nodular a nivel del tallo hipofisario
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 1833 1868	lesión nodular en tallo hipofisario
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 4181 4208	enfermedad a nivel cerebral
+#13	AnnotatorNotes T13	8000/6

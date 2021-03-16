@@ -1,0 +1,34 @@
+T1	MORFOLOGIA_NEOPLASIA 1711 1718	angioma
+#1	AnnotatorNotes T1	9120/0
+T2	MORFOLOGIA_NEOPLASIA 888 916	carcinoma de células renales
+#2	AnnotatorNotes T2	8312/3
+T3	MORFOLOGIA_NEOPLASIA 1214 1247	carcinoma renal de células claras
+#3	AnnotatorNotes T3	8310/3
+T4	MORFOLOGIA_NEOPLASIA 2744 2763	lesiones pulmonares
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 506 516	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 3979 3989	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1721 1739	nódulos pulmonares
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 1880 1898	nódulos pulmonares
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 2265 2283	nódulos pulmonares
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 4006 4021	progresión ósea
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 1099 1106	tumoral
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 2011 2018	tumoral
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 705 713	cT3aN0Mx
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 888 936	carcinoma de células renales tipo células claras
+#14	AnnotatorNotes T14	8310/3
+T15	MORFOLOGIA_NEOPLASIA 3435 3501	metástasis en parénquima testicular de carcinoma de células claras
+#15	AnnotatorNotes T15	8310/6
+T16	MORFOLOGIA_NEOPLASIA 3716 3745	progresión a nivel testicular
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 3904 3932	lesión de aspecto lítico D11
+#17	AnnotatorNotes T17	8000/6

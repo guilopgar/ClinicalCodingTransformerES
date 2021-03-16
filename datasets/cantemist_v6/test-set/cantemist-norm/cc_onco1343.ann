@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 2907 2930	glioblastoma multiforme
+#1	AnnotatorNotes T1	9440/3
+T2	MORFOLOGIA_NEOPLASIA 1479 1485	glioma
+#2	AnnotatorNotes T2	9380/3
+T3	MORFOLOGIA_NEOPLASIA 1467 1474	linfoma
+#3	AnnotatorNotes T3	9590/3
+T4	MORFOLOGIA_NEOPLASIA 1750 1757	linfoma
+#4	AnnotatorNotes T4	9590/3
+T5	MORFOLOGIA_NEOPLASIA 1888 1898	neoplásico
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 1328 1335	tumoral
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 2379 2386	tumoral
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 2154 2186	astrocitoma granular de grado II
+#8	AnnotatorNotes T8	9400/32
+T9	MORFOLOGIA_NEOPLASIA 2154 2174	astrocitoma granular
+#9	AnnotatorNotes T9	9580/3
+T10	MORFOLOGIA_NEOPLASIA 2249 2269	Astrocitoma granular
+#10	AnnotatorNotes T10	9580/3
+T11	MORFOLOGIA_NEOPLASIA 2249 2281	Astrocitoma granular de grado II
+#11	AnnotatorNotes T11	9400/32
+T12	MORFOLOGIA_NEOPLASIA 1858 1898	células granulares de aspecto neoplásico
+#12	AnnotatorNotes T12	9580/1

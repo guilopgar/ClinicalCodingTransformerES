@@ -1,0 +1,50 @@
+T1	MORFOLOGIA_NEOPLASIA 2880 2925	Carcinoma renal de células claras metastásico
+#1	AnnotatorNotes T1	8310/6
+T2	MORFOLOGIA_NEOPLASIA 3341 3374	carcinoma renal de células claras
+#2	AnnotatorNotes T2	8310/3
+T3	MORFOLOGIA_NEOPLASIA 506 512	cáncer
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 3456 3478	enfermedad a distancia
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 281 297	hemangioblastoma
+#5	AnnotatorNotes T5	9161/1
+T6	MORFOLOGIA_NEOPLASIA 4542 4558	hemangioblastoma
+#6	AnnotatorNotes T6	9161/1
+T7	MORFOLOGIA_NEOPLASIA 2351 2361	hemangioma
+#7	AnnotatorNotes T7	9120/0
+T8	MORFOLOGIA_NEOPLASIA 2985 3004	lesiones pulmonares
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 3089 3099	metástasis
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 2818 2865	metástasis de carcinoma renal de células claras
+#10	AnnotatorNotes T10	8310/6
+T11	MORFOLOGIA_NEOPLASIA 2545 2568	micronódulos pulmonares
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 2721 2744	micronódulos pulmonares
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 3551 3574	micronódulos pulmonares
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 4369 4392	micronódulos pulmonares
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 2666 2676	neoplásico
+#15	AnnotatorNotes T15	8000/1
+T16	MORFOLOGIA_NEOPLASIA 3421 3433	sarcomatoide
+#16	AnnotatorNotes T16	8033/3
+T17	MORFOLOGIA_NEOPLASIA 4598 4603	tumor
+#17	AnnotatorNotes T17	8000/1
+T18	MORFOLOGIA_NEOPLASIA 4405 4415	tumoración
+#18	AnnotatorNotes T18	8000/1
+T19	MORFOLOGIA_NEOPLASIA 4447 4457	tumoración
+#19	AnnotatorNotes T19	8000/1
+T20	MORFOLOGIA_NEOPLASIA 2288 2295	tumoral
+#20	AnnotatorNotes T20	8000/1
+T21	MORFOLOGIA_NEOPLASIA 2456 2463	tumoral
+#21	AnnotatorNotes T21	8000/1
+T22	MORFOLOGIA_NEOPLASIA 3410 3418	rabdoide
+#22	AnnotatorNotes T22	8963/3
+T23	MORFOLOGIA_NEOPLASIA 3480 3503	lesión tumoral coroidea
+#23	AnnotatorNotes T23	8000/6
+T24	MORFOLOGIA_NEOPLASIA 3891 3923	metástasis coroidea de su cáncer
+#24	AnnotatorNotes T24	8000/6
+T25	MORFOLOGIA_NEOPLASIA 3819 3845	tumoración sólida coroidea
+#25	AnnotatorNotes T25	8000/6

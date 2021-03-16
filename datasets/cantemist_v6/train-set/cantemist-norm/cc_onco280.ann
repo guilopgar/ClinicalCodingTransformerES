@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 3303 3324	Enfermedad de Hodgkin
+#1	AnnotatorNotes T1	9650/3
+T2	MORFOLOGIA_NEOPLASIA 2130 2147	Neoplasia maligna
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 2928 2946	linfoma no Hodgkin
+#3	AnnotatorNotes T3	9591/3
+T4	MORFOLOGIA_NEOPLASIA 2365 2378	mielofibrosis
+#4	AnnotatorNotes T4	9961/3
+T5	MORFOLOGIA_NEOPLASIA 2405 2415	neoplásica
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 1975 2002	síndrome linfoproliferativo
+#6	AnnotatorNotes T6	9970/1
+T7	MORFOLOGIA_NEOPLASIA 2249 2291	sarcoma de células dendríticas foliculares
+#7	AnnotatorNotes T7	9758/3
+T8	MORFOLOGIA_NEOPLASIA 2456 2551	Sarcoma de células dendríticas foliculares estadio IV (por infiltración de MO y lesiones óseas)
+#8	AnnotatorNotes T8	9758/6
+T9	MORFOLOGIA_NEOPLASIA 3852 3902	Linfoma de Hodgkin clásico tipo esclerosis nodular
+#9	AnnotatorNotes T9	9663/3
+T10	MORFOLOGIA_NEOPLASIA 1912 1934	lesiones líticas óseas
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 585 638	adenopatías a nivel lateterocervical, supraclavicular
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 1677 1745	adenopática supra e infradiafragmática de predominio supraclavicular
+#12	AnnotatorNotes T12	8000/6

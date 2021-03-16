@@ -1,0 +1,22 @@
+T1	MORFOLOGIA_NEOPLASIA 1213 1247	Carcinoma de pulmón no microcítico
+#1	AnnotatorNotes T1	8046/3
+T2	MORFOLOGIA_NEOPLASIA 2056 2077	carcinoma epidermoide
+#2	AnnotatorNotes T2	8070/3
+T3	MORFOLOGIA_NEOPLASIA 1084 1132	carcinoma epidermoide moderadamente diferenciado
+#3	AnnotatorNotes T3	8070/32
+T4	MORFOLOGIA_NEOPLASIA 2462 2472	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2654 2689	metástasis de carcinoma epidermoide
+#5	AnnotatorNotes T5	8070/6
+T6	MORFOLOGIA_NEOPLASIA 1565 1575	tumoración
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 2611 2621	tumoración
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 968 1001	linfoma B difuso de célula grande
+#8	AnnotatorNotes T8	9680/3
+T9	MORFOLOGIA_NEOPLASIA 1147 1191	Linfoma no Hodgkin B difuso de célula grande
+#9	AnnotatorNotes T9	9680/3
+T10	MORFOLOGIA_NEOPLASIA 1213 1267	Carcinoma de pulmón no microcítico subtipo epidermoide
+#10	AnnotatorNotes T10	8070/3
+T11	MORFOLOGIA_NEOPLASIA 1616 1624	cT3cN1M0
+#11	AnnotatorNotes T11	8000/6

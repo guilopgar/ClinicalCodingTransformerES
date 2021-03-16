@@ -1,0 +1,14 @@
+T1	MORFOLOGIA_NEOPLASIA 2043 2062	lesiones pulmonares
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 2090 2101	metastásica
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1349 1394	Adenocarcinoma gástrico difuso IV (pT3 pN2 M1
+#3	AnnotatorNotes T3	8145/6
+T4	MORFOLOGIA_NEOPLASIA 1788 1857	adenocarcinoma difuso e infiltrante en anillo de sello con metástasis
+#4	AnnotatorNotes T4	8145/6
+T5	MORFOLOGIA_NEOPLASIA 1788 1842	adenocarcinoma difuso e infiltrante en anillo de sello
+#5	AnnotatorNotes T5	8490/3
+T6	MORFOLOGIA_NEOPLASIA 1985 1996	metástasi,s
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1951 1969	lesiones pumonares
+#7	AnnotatorNotes T7	8000/6

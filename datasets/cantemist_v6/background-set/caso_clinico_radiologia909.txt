@@ -1,0 +1,44 @@
+Caso clínico
+
+Paciente masculino de 16 años de edad, se presenta al Departamento de Emergencias con fiebre de 8 días de evolución, náuseas, vómitos, dolor abdominal, diarrea, tos y disnea.
+
+Antecedente de consumo diario de marihuana y vapeo ("vaping").
+
+Presentación inicial:
+
+  Taquipnea (frecuencia respiratoria de 28 respiraciones/minuto)
+  Hipoxia (saturación de oxígeno de 88%)
+  Taquicardia (frecuencia cardíaca de 123 lpm)
+  Afebril, normotenso
+
+A la auscultación presenta rales crepitantes en ambos campos pulmonares.
+
+A la palpación presenta abdomen blando, sin signos de peritonitis, defensa ni reacción peritoneal.
+
+Glóbulos blancos normales (8.8 × 109/L)
+
+Proteína C-reactiva elevada (>297)
+
+Panel viral negativo, incluyendo adenovirus, coronavirus, metapneumovirus, rhinovirus, influenza, parainfluenza y virus sincicial respiratorio.
+
+Resultados negativos para Mycoplasma, Chlamydia y Bordetella.
+
+Análisis de orina toxicológico positivo para cannabinoides.
+
+
+Se realiza radiografía de tórax (Rx) frente y perfil.
+
+Al examen radiográfico se muestran leves opacidades intersticiales bilaterales. Los diagnósticos diferenciales incluyen edema pulmonar, neumonia viral o atípica.
+
+El paciente es ingresado en la Unidad de Cuidados Intensivos (UCI) para administración de oxígeno suplementario y terapia antibiótica empírica. Los síntomas respiratorios empeoran en los siguientes dos días.
+
+Se realiza nueva Rx de tórax, y se continúa con tomografía computarizada.
+
+La nueva rx muestra aumento de las opacidades intersticiales bilaterales, así como nueva ocupación del espacio aéreo.
+• La TC presenta engrosamiento septal bilateral, opacidades con atenuación en vidrio esmerilado y leve derrame pleural derecho.
+• Los hallazgos imagenológicos son consistentes con edema pulmonar no cardiogénico en el contexto de injuria pulmonar aguda.
+• Menor probabilidad de neumonías virales o atípicas debido a la presencia de engrosamiento septal y al derrame pleural.
+
+Dados los resultados negativos para infecciones, el fallo de la terapia antibiótica, el patrón de edema pulmonar no cardiogénico y el antecedente de vapeo, se sugiere el diagnóstico de lesión pulmonar relacionada al vapeo ("vaping")
+• El paciente comienza tratamiento con corticoides intravenosos, presentando mejoría clínica y radiológica a lo largo de varios días, finalmente dándose de alta.
+• La rx de tóraxde seguimiento una vez concluido un ciclo de corticoides demuestra resolución completa de los hallazgos radiológicos.

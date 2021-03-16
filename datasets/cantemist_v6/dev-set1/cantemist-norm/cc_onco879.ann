@@ -1,0 +1,18 @@
+T1	MORFOLOGIA_NEOPLASIA 1365 1379	Adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 1406 1408	M0
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1313 1327	adenocarcinoma
+#3	AnnotatorNotes T3	8140/3
+T4	MORFOLOGIA_NEOPLASIA 2913 2924	metastásica
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2163 2173	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 4017 4046	metástasis por adenocarcinoma
+#6	AnnotatorNotes T6	8140/6
+T7	MORFOLOGIA_NEOPLASIA 993 1014	masa pulmonar maligna
+#7	AnnotatorNotes T7	8000/3
+T8	MORFOLOGIA_NEOPLASIA 1996 2032	LOE de 14 x 17 mm en región parietal
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 2745 2757	LOE cerebral
+#9	AnnotatorNotes T9	8000/6

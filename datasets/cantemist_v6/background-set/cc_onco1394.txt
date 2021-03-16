@@ -1,0 +1,23 @@
+Anamnesis
+Mujer de 48 años, con el antecedente de tabaquismo. Menarquía a los 11 años. Sin embarazos y sin ingesta de anticonceptivos orales. Padre fallecido por cáncer de páncreas.
+En enero de 2010 acude por eritema indoloro en la mama izquierda, siendo tratada con antibiótico sin mejoría, por lo que se realiza una mamografía, que evidencia masa en mama izquierda.
+
+Examen físico
+Mama izquierda con eritema y edema en zona periareolar, extendiéndose 4-5 cm más allá del pezón sin masa delimitable. Se palpan adenopatías axilares de aproximadamente 2 cm de diámetro.
+
+Pruebas complementarias
+En la RM se identifica una afectación de prácticamente todo el parénquima glandular que presenta curvas de realce patológicas. Además, se objetivan adenopatías patológicas en la axila izquierda.
+La biopsia con aguja gruesa demuestra: carcinoma ductal infiltrante de alto grado con receptores de estrógenos positivos en un 40 %; Her2: ++/+++.
+El estudio de extensión resulta negativo.
+
+Diagnóstico
+Carcinoma ductal infiltrante inflamatorio con adenopatías axilares sospechosas (T4N2M0).
+
+Tratamiento
+Se propone tratamiento con quimioterapia neoadyuvante según el esquema TAC.
+
+Evolución
+Recibe dos ciclos, y al recibir los resultados de anatomía patológica, donde el FISH para Her2 resulta amplificado, se cambia el esquema a docetaxel, ciclofosfamida y trastuzumab. CH, completando en total 6 ciclos de neoadyuvancia sin objetivarse respuesta clínica. Por ello, es intervenida en agosto de 2010. Se realiza una mastectomía radical con informe anatomopatológico sin evidencia de respuesta tumoral a la quimioterapia pT4N2.
+Tras la cirugía, se programa para recibir adyuvancia y, tras un ciclo de doxorrubicina-ciclofosfamida, presenta recaída con infiltración dérmica confirmada con histología (10/2010). Inicia radioterapia, recibiendo un total de 60 Gy sobre el lecho de la mastectomía, con aceptable tolerancia.
+En enero de 2011 reinicia trastuzumab, con el objetivo de completar un año de tratamiento, pero en junio se detecta en TC de control una recaída ganglionar contralateral (ganglio paratraqueal derecho de 24 x 14 mm), confirmada anatomopatológicamente.
+En este contexto, se sugiere a la paciente participar en el ensayo clínico Bolero RAD001 para mujeres con cáncer de mama estadio IV (everolimus/placebo + vinorelbina + trastuzumab), que acepta, iniciándose el 26 de julio de 2011 con esquema semanal de administración de quimioterapia. En octubre de 2012 se suspende vinorelbina por toxicidad hematólogica y mantiene herceptina +/- everolimus. Continúa en tratamiento con excelente tolerancia.

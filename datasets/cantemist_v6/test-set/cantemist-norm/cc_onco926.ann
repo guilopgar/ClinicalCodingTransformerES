@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 3328 3352	carcinoma no microcítico
+#1	AnnotatorNotes T1	8046/3
+T2	MORFOLOGIA_NEOPLASIA 1130 1137	lipomas
+#2	AnnotatorNotes T2	8850/0
+T3	MORFOLOGIA_NEOPLASIA 2846 2856	neoplásico
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 3036 3071	nódulos parenquimatosos bilaterales
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 969 979	tumoración
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 3387 3414	carcinoma poro diferenciado
+#6	AnnotatorNotes T6	8010/33
+T7	MORFOLOGIA_NEOPLASIA 3451 3461	tumoración
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 3510 3551	metástasis de carcinoma poco diferenciado
+#8	AnnotatorNotes T8	8010/63

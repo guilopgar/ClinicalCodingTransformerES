@@ -1,0 +1,36 @@
+T1	MORFOLOGIA_NEOPLASIA 365 372	Angioma
+#1	AnnotatorNotes T1	9120/0
+T2	MORFOLOGIA_NEOPLASIA 4462 4472	Metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 2762 2773	metastásica
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 5645 5652	tumoral
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 322 340	nevus melanocítico
+#5	AnnotatorNotes T5	8720/0
+T6	MORFOLOGIA_NEOPLASIA 4399 4427	Melanoma estadio IV TxN2bM1c
+#6	AnnotatorNotes T6	8720/6
+T7	MORFOLOGIA_NEOPLASIA 4762 4780	lesión sacroiliaca
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 5497 5525	conglomerado supraclavicular
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 5538 5552	lesiones óseas
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 6356 6374	lesión sacroiliaca
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 6475 6497	lesión supraclavicular
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 6509 6518	letálides
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 6155 6164	letálides
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 3605 3618	Lesión lítica
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 2054 2078	lesión de partes blandas
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 3631 3686	masa de partes blandas en arco posterior de 9ª costilla
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 3714 3755	lesión lítica ya conocida en hueso iliaco
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 3843 3881	lesión probable en el cuerpo vertebral
+#18	AnnotatorNotes T18	8000/6

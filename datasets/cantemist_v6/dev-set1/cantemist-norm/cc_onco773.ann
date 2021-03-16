@@ -1,0 +1,14 @@
+T1	MORFOLOGIA_NEOPLASIA 186 192	cáncer
+#1	AnnotatorNotes T1	8000/3
+T2	MORFOLOGIA_NEOPLASIA 2036 2065	múltiples implantes en omento
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 319 329	neoplasias
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 640 645	tumor
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 821 860	mesotelioma maligno epitelioide papilar
+#5	AnnotatorNotes T5	9052/3
+T6	MORFOLOGIA_NEOPLASIA 1074 1096	MP epitelioide papilar
+#6	AnnotatorNotes T6	9052/3
+T7	MORFOLOGIA_NEOPLASIA 3145 3175	mesotelioma peritoneal maligno
+#7	AnnotatorNotes T7	9050/3

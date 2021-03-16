@@ -1,0 +1,18 @@
+T1	MORFOLOGIA_NEOPLASIA 1108 1118	Tumoración
+#1	AnnotatorNotes T1	8000/1
+T2	MORFOLOGIA_NEOPLASIA 1748 1762	carcinomatosis
+#2	AnnotatorNotes T2	8010/9
+T3	MORFOLOGIA_NEOPLASIA 915 937	enfermedad a distancia
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1340 1345	tumor
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 234 244	tumoración
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 952 988	CARCINOMA RENAL DE DUCTOS COLECTORES
+#6	AnnotatorNotes T6	8319/3
+T7	MORFOLOGIA_NEOPLASIA 1401 1457	carcinoma de ductos colectores pT3b , grado 2 de Fuhrman
+#7	AnnotatorNotes T7	8319/32
+T8	MORFOLOGIA_NEOPLASIA 1702 1731	enfermedad a nivel peritoneal
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 1795 1826	carcinoma de túbulos de Bellini
+#9	AnnotatorNotes T9	8319/3

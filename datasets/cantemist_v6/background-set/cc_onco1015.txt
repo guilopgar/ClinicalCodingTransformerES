@@ -1,0 +1,20 @@
+Anamnesis
+Varón de 61 años, exfumador de 7 paquetes-año y con úlcera gástrica intervenida a los 20 años como único antecedente médico. Entre los antecedentes familiares destaca cáncer de tiroides en una hermana, cáncer de laringe en abuelo materno y hepatocarcinoma en abuela materna. Es estudiado en Medicina Interna por clínica de tenesmo, tendencia al estreñimiento y pérdida de peso en el plazo de un mes.
+
+Exploración física
+ECOG 0. Independiente para todas las actividades de la vida diaria. Exploración por aparatos sin hallazgos relevantes a ningún nivel.
+
+Pruebas complementarias
+Se realiza analítica, colonoscopia completa con toma de biopsias de una lesión visualizada a nivel de colon sigmoide y tomografía computarizada (TC) toracoabdominopélvica, donde no se observa enfermedad a distancia.
+
+Diagnóstico
+Es diagnosticado de un adenocarcinoma de sigma T3N0M0.
+
+Tratamiento
+Se interviene mediante sigmoidectomía laparoscópica, siendo el resultado de la anatomía patológica de adenocarcinoma colorrectal grado 2 pT3 N0/22 (AJCC Cancer Staging Handbook, 7th edition, 2010) con ausencia de invasión linfática, vascular ni perineural.
+
+Evolución
+Los marcadores tumorales tanto CEA como Ca 19,9 estaban elevados al diagnóstico.
+Al tratarse de un estadio II, analizamos inestabilidad de microsatélites, con resultado negativo ( microsatellite stable [MSS]) y tras ello realizamos test genético con la plataforma Oncotype Dx, obteniendo puntuación de bajo riesgo. Con estos resultados, se decide de manera consensuada en el comité de tumores y con el propio paciente, evitar tratamiento quimioterápico adyuvante y mantener seguimiento.
+En la primera TC de control a los tres meses de la cirugía se observan cuatro lesiones hepáticas para las que se completó estudio con RM, en los segmentos 2, 4a, 5 y 7 La primera de 15 mm compatible con metástasis, pero el resto no presentaban comportamiento típico en el estudio, por tanto, no caracterizables. Inicia entonces quimioterapia de inducción según esquema FOLFOX con buena tolerancia. Resulta ser BRAF/RAS nativo. En una TC posterior se describe una imagen nodular de densidad de partes blandas en contacto con la cabeza pancreática que, examinando las pruebas retrospectivamente ya se encontraba en el estudio previo y permanecía en ese momento estable, existiendo además respuesta parcial hepática y respuesta serológica. Se confirma que la imagen del páncreas corresponde a una lesión hipermetabólica mediante PET-TC. En el mismo acto quirúrgico de las metástasis hepáticas, se valora por palpación la presencia de dicha lesión sospechosa en el páncreas. Se solicita diagnóstico anatomopatológico intraoperatorio de las biopsias de las lesiones hepáticas en los segmentos 2 y 4, confirmando el origen pancreático, por lo que en ese momento se desestima la cirugía del páncreas al tratarse de una segunda neoplasia maligna primaria metastásica.
+Considerado cáncer de páncreas borderline resecable en un paciente fit, inicia quimioterapia según esquema FOLFIRINOX, está vez con intención neoadyuvante para la neoplasia pancreática, dado que las metástasis hepáticas fueron ya resecadas suponiendo el origen colónico.

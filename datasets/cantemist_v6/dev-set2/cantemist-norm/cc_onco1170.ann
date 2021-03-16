@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 3563 3584	Carcinoma epidermoide
+#1	AnnotatorNotes T1	8070/3
+T2	MORFOLOGIA_NEOPLASIA 1001 1030	adenopatías supraclaviculares
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 5311 5320	carcinoma
+#3	AnnotatorNotes T3	8010/3
+T4	MORFOLOGIA_NEOPLASIA 675 696	carcinoma epidermoide
+#4	AnnotatorNotes T4	8070/3
+T5	MORFOLOGIA_NEOPLASIA 3956 3977	carcinoma epidermoide
+#5	AnnotatorNotes T5	8070/3
+T6	MORFOLOGIA_NEOPLASIA 3437 3446	neoplasia
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 2848 2865	neoplasia maligna
+#7	AnnotatorNotes T7	8000/3
+T8	MORFOLOGIA_NEOPLASIA 1796 1806	tumoración
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 2773 2783	tumoración
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 2657 2664	tumoral
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 4608 4615	tumoral
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 4781 4788	tumoral
+#12	AnnotatorNotes T12	8000/1

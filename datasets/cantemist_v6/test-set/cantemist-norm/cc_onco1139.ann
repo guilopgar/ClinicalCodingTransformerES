@@ -1,0 +1,52 @@
+T1	MORFOLOGIA_NEOPLASIA 4506 4524	lesiones hepáticas
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1352 1365	masa pulmonar
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 5729 5740	metastásica
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1804 1816	metastásicos
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 5584 5596	metastáticos
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 3775 3785	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 6166 6176	metástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 523 532	neoplasia
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 565 574	neoplasia
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 1393 1411	nódulos pulmonares
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 2617 2635	nódulos pulmonares
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 3047 3065	nódulos pulmonares
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 5093 5112	progresión cerebral
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 2201 2216	teratoma maduro
+#14	AnnotatorNotes T14	9080/0
+T15	MORFOLOGIA_NEOPLASIA 2932 2947	teratoma maduro
+#15	AnnotatorNotes T15	9080/0
+T16	MORFOLOGIA_NEOPLASIA 2599 2604	tumor
+#16	AnnotatorNotes T16	8000/1
+T17	MORFOLOGIA_NEOPLASIA 2106 2139	tumor de células germinales mixto
+#17	AnnotatorNotes T17	9085/3
+T18	MORFOLOGIA_NEOPLASIA 2838 2871	tumor de células germinales mixto
+#18	AnnotatorNotes T18	9085/3
+T19	MORFOLOGIA_NEOPLASIA 2161 2187	tumor del seno endodérmico
+#19	AnnotatorNotes T19	9071/3
+T20	MORFOLOGIA_NEOPLASIA 2889 2915	tumor del seno endodérmico
+#20	AnnotatorNotes T20	9071/3
+T21	MORFOLOGIA_NEOPLASIA 3629 3639	tumoración
+#21	AnnotatorNotes T21	8000/1
+T22	MORFOLOGIA_NEOPLASIA 2189 2197	yolk sac
+#22	AnnotatorNotes T22	9071/3
+T23	MORFOLOGIA_NEOPLASIA 2917 2925	yolk sac
+#23	AnnotatorNotes T23	9071/3
+T24	MORFOLOGIA_NEOPLASIA 3085 3137	metástasis pulmonares del tumor del seno endodérmico
+#24	AnnotatorNotes T24	9071/6
+T25	MORFOLOGIA_NEOPLASIA 4485 4502	nódulos pumonares
+#25	AnnotatorNotes T25	8000/6
+T26	MORFOLOGIA_NEOPLASIA 4883 4897	masas parietal
+#26	AnnotatorNotes T26	8000/6

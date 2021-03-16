@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 4841 4870	enfermedad linfoproliferativa
+#1	AnnotatorNotes T1	9970/1
+T2	MORFOLOGIA_NEOPLASIA 2902 2912	neoplásica
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 2245 2271	proceso linfoproliferativo
+#3	AnnotatorNotes T3	9970/1
+T4	MORFOLOGIA_NEOPLASIA 3837 3863	proceso linfoproliferativo
+#4	AnnotatorNotes T4	9970/1
+T5	MORFOLOGIA_NEOPLASIA 4228 4254	proceso linfoproliferativo
+#5	AnnotatorNotes T5	9970/1
+T6	MORFOLOGIA_NEOPLASIA 2564 2571	tumoral
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 2473 2501	linfoma difuso de alto grado
+#7	AnnotatorNotes T7	9591/34
+T8	MORFOLOGIA_NEOPLASIA 2994 3027	Linfoma Difuso de Célula Grande B
+#8	AnnotatorNotes T8	9680/3
+T9	MORFOLOGIA_NEOPLASIA 5087 5125	LINFOMA HODGKIN PREDOMINIO LINFOCÍTICO
+#9	AnnotatorNotes T9	9651/3
+T10	MORFOLOGIA_NEOPLASIA 6092 6136	enfermedad de Hodgkin predominio linfocítico
+#10	AnnotatorNotes T10	9651/3

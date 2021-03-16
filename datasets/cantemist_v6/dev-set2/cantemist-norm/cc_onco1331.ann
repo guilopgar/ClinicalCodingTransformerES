@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 689 737	carcinoma de células renales tipo células claras
+#1	AnnotatorNotes T1	8310/3
+T2	MORFOLOGIA_NEOPLASIA 518 540	implantes peritoneales
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 181 191	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 415 425	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 1537 1547	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 317 326	neoplasia
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 822 830	pT2aNxM1
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 689 796	carcinoma de células renales tipo células claras con áreas desdiferenciadas y sarcomatoides, con metástasis
+#8	AnnotatorNotes T8	8318/64

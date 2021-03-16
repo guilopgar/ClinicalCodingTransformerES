@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 851 880	adenopatías supraclaviculares
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 2414 2436	afectación a distancia
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 2309 2318	carcinoma
+#3	AnnotatorNotes T3	8010/3
+T4	MORFOLOGIA_NEOPLASIA 186 192	cáncer
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 6084 6103	células neoplásicas
+#5	AnnotatorNotes T5	8001/1
+T6	MORFOLOGIA_NEOPLASIA 2387 2398	metastásico
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 6399 6409	neoplásico
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 2973 2978	tumor
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 2043 2127	carcinoma ductal infiltrante con patrón sólido predominantemente grado histológico 3
+#9	AnnotatorNotes T9	8500/33
+T10	MORFOLOGIA_NEOPLASIA 2043 2089	carcinoma ductal infiltrante con patrón sólido
+#10	AnnotatorNotes T10	8230/3
+T11	MORFOLOGIA_NEOPLASIA 2797 2860	Carcinoma ductal infiltrante de mama izquierda de 2 cm, grado 3
+#11	AnnotatorNotes T11	8500/33
+T12	MORFOLOGIA_NEOPLASIA 2875 2883	cT2cN1M0
+#12	AnnotatorNotes T12	8000/6

@@ -1,0 +1,50 @@
+T1	MORFOLOGIA_NEOPLASIA 3398 3420	enfermedad a distancia
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 6098 6117	lesiones cerebrales
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 7942 7961	lesiones cerebrales
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 3262 3269	maligna
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 4673 4683	malignidad
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 6825 6833	melanoma
+#6	AnnotatorNotes T6	8720/3
+T7	MORFOLOGIA_NEOPLASIA 3884 3904	melanoma metastásico
+#7	AnnotatorNotes T7	8720/6
+T8	MORFOLOGIA_NEOPLASIA 6136 6146	metástasis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 3008 3030	metástasis de melanoma
+#9	AnnotatorNotes T9	8720/6
+T10	MORFOLOGIA_NEOPLASIA 5344 5374	metástasis de melanoma maligno
+#10	AnnotatorNotes T10	8720/6
+T11	MORFOLOGIA_NEOPLASIA 3081 3090	neoplasia
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 6601 6610	neoplasia
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 3975 4000	sarcoma de partes blandas
+#13	AnnotatorNotes T13	8800/3
+T14	MORFOLOGIA_NEOPLASIA 435 445	tumoración
+#14	AnnotatorNotes T14	8000/1
+T15	MORFOLOGIA_NEOPLASIA 1830 1840	tumoración
+#15	AnnotatorNotes T15	8000/1
+T16	MORFOLOGIA_NEOPLASIA 2193 2203	tumoración
+#16	AnnotatorNotes T16	8000/1
+T17	MORFOLOGIA_NEOPLASIA 5118 5128	tumoración
+#17	AnnotatorNotes T17	8000/1
+T18	MORFOLOGIA_NEOPLASIA 342 352	neoplásica
+#18	AnnotatorNotes T18	8000/1
+T19	MORFOLOGIA_NEOPLASIA 735 757	tumor de tipo desmoide
+#19	AnnotatorNotes T19	8821/1
+T20	MORFOLOGIA_NEOPLASIA 2233 2306	tumor maligno de la vaina nerviosa periférica, epitelioide, G-3 de la OMS
+#20	AnnotatorNotes T20	9540/33
+T21	MORFOLOGIA_NEOPLASIA 3745 3810	Tumor maligno de la vaina nerviosa periférica epitelioide grado 3
+#21	AnnotatorNotes T21	9540/33
+T22	MORFOLOGIA_NEOPLASIA 5285 5327	metástasis cutánea pobremente diferenciada
+#22	AnnotatorNotes T22	8000/63
+T23	MORFOLOGIA_NEOPLASIA 6836 6841	TMVNP
+#23	AnnotatorNotes T23	9540/3
+T24	MORFOLOGIA_NEOPLASIA 8128 8155	lesiones de la zona frontal
+#24	AnnotatorNotes T24	8000/6
+T25	MORFOLOGIA_NEOPLASIA 8408 8422	lesión frontal
+#25	AnnotatorNotes T25	8000/6

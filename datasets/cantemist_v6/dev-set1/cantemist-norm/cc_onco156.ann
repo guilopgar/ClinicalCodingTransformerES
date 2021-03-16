@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 4303 4315	angiosarcoma
+#1	AnnotatorNotes T1	9120/3
+T2	MORFOLOGIA_NEOPLASIA 2688 2707	células neoplásicas
+#2	AnnotatorNotes T2	8001/1
+T3	MORFOLOGIA_NEOPLASIA 5223 5245	implantes peritoneales
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 5908 5920	omental cake
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 4257 4265	sarcomas
+#5	AnnotatorNotes T5	8800/3
+T6	MORFOLOGIA_NEOPLASIA 3593 3600	tumores
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 3001 3030	angiosarcoma cardíaco grado 3
+#7	AnnotatorNotes T7	9120/33
+T8	MORFOLOGIA_NEOPLASIA 5166 5194	progresión a nivel abdominal
+#8	AnnotatorNotes T8	8000/6

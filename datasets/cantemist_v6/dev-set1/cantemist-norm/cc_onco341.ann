@@ -1,0 +1,50 @@
+T1	MORFOLOGIA_NEOPLASIA 5722 5746	carcinoma seroso papilar
+#1	AnnotatorNotes T1	8461/3
+T2	MORFOLOGIA_NEOPLASIA 5438 5460	implantes peritoneales
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 5859 5881	implantes peritoneales
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2285 2295	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 6091 6101	neoplásica
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 2697 2715	nódulos pulmonares
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 5481 5486	tumor
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 4536 4543	tumoral
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 4861 4868	tumoral
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 4942 4949	tumoral
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 275 277	Ca
+#11	AnnotatorNotes T11	8000/3
+T12	MORFOLOGIA_NEOPLASIA 305 307	Ca
+#12	AnnotatorNotes T12	8000/3
+T13	MORFOLOGIA_NEOPLASIA 351 353	Ca
+#13	AnnotatorNotes T13	8000/3
+T14	MORFOLOGIA_NEOPLASIA 393 395	Ca
+#14	AnnotatorNotes T14	8000/3
+T15	MORFOLOGIA_NEOPLASIA 403 405	Ca
+#15	AnnotatorNotes T15	8000/3
+T16	MORFOLOGIA_NEOPLASIA 1471 1503	lesiones blásticas a nivel de L1
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 2204 2226	Afectación de apófisis
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 2248 2270	focos nodulares en D11
+#18	AnnotatorNotes T18	8000/6
+T19	MORFOLOGIA_NEOPLASIA 1945 1976	afectación del cuerpo vertebral
+#19	AnnotatorNotes T19	8000/6
+T20	MORFOLOGIA_NEOPLASIA 1994 2008	expansión ósea
+#20	AnnotatorNotes T20	8000/6
+T21	MORFOLOGIA_NEOPLASIA 2481 2532	Carcinoma Ductal Infiltrante Grado II de Nottingham
+#21	AnnotatorNotes T21	8500/32
+T22	MORFOLOGIA_NEOPLASIA 2807 2861	lesiones de predominio lítico en unión condro-esternal
+#22	AnnotatorNotes T22	8000/6
+T23	MORFOLOGIA_NEOPLASIA 3026 3070	Carcinoma Ductal Infiltrante de Mama cT4NxM1
+#23	AnnotatorNotes T23	8500/6
+T24	MORFOLOGIA_NEOPLASIA 5946 5948	Ca
+#24	AnnotatorNotes T24	8000/3
+T25	MORFOLOGIA_NEOPLASIA 6047 6049	Ca
+#25	AnnotatorNotes T25	8000/3

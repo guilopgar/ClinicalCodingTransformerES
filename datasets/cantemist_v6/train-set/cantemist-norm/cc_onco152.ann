@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 1736 1738	M0
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 137 143	cáncer
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 200 206	cáncer
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 254 260	cáncer
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 301 307	cáncer
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 351 357	cáncer
+#6	AnnotatorNotes T6	8000/3
+T7	MORFOLOGIA_NEOPLASIA 434 440	cáncer
+#7	AnnotatorNotes T7	8000/3
+T8	MORFOLOGIA_NEOPLASIA 1627 1634	tumoral
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 1144 1191	Adenocarcinoma de endometrio tipo endometrioide
+#9	AnnotatorNotes T9	8380/3
+T10	MORFOLOGIA_NEOPLASIA 1423 1489	adenocarcinoma bien diferenciado de endometrio, tipo endometrioide
+#10	AnnotatorNotes T10	8380/31

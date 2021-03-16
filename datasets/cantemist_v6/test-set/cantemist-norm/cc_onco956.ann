@@ -1,0 +1,6 @@
+T1	MORFOLOGIA_NEOPLASIA 2018 2046	enfermedad a nivel sistémico
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1751 1761	malignidad
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 1896 1906	metástasis
+#3	AnnotatorNotes T3	8000/6

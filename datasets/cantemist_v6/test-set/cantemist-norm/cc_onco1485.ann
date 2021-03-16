@@ -1,0 +1,22 @@
+T1	MORFOLOGIA_NEOPLASIA 2462 2491	carcinoma medular de tiroides
+#1	AnnotatorNotes T1	8510/3
+T2	MORFOLOGIA_NEOPLASIA 1944 1958	feocromocitoma
+#2	AnnotatorNotes T2	8700/3
+T3	MORFOLOGIA_NEOPLASIA 2520 2534	feocromocitoma
+#3	AnnotatorNotes T3	8700/3
+T4	MORFOLOGIA_NEOPLASIA 1756 1774	lesiones hepáticas
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 1658 1668	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 1842 1852	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 2014 2083	metástasis de carcinoma tiroideo, muy probablemente de origen medular
+#7	AnnotatorNotes T7	8510/6
+T8	MORFOLOGIA_NEOPLASIA 2414 2423	neoplasia
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 3244 3267	progresión a nivel óseo
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 944 1010	adenomegalias bilaterales, cervicales y en fosas supraclaviculares
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 3158 3196	carcinoma medular tiroideo pT4a pN1 M1
+#11	AnnotatorNotes T11	8510/6

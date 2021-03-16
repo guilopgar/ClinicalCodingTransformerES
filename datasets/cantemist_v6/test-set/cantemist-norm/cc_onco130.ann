@@ -1,0 +1,12 @@
+T1	MORFOLOGIA_NEOPLASIA 2194 2214	carcinoma lobulillar
+#1	AnnotatorNotes T1	8520/3
+T2	MORFOLOGIA_NEOPLASIA 3064 3084	carcinoma lobulillar
+#2	AnnotatorNotes T2	8520/3
+T3	MORFOLOGIA_NEOPLASIA 2286 2302	células malignas
+#3	AnnotatorNotes T3	8001/3
+T4	MORFOLOGIA_NEOPLASIA 2909 2919	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2702 2742	carcinoma lobulillar de mama infiltrante
+#5	AnnotatorNotes T5	8520/3
+T6	MORFOLOGIA_NEOPLASIA 3134 3173	neoplasia de mama luminal A metastásica
+#6	AnnotatorNotes T6	8000/6

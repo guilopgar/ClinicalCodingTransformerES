@@ -1,0 +1,14 @@
+T1	MORFOLOGIA_NEOPLASIA 1340 1354	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 5587 5597	malignidad
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 5451 5458	tumoral
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 2035 2080	adenocarcinoma de pulmón estadio IV (TxNxM1a)
+#4	AnnotatorNotes T4	8140/6
+T5	MORFOLOGIA_NEOPLASIA 1737 1767	nódulos pulmonares bilaterales
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 5546 5563	nódulo subpleural
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 4348 4362	lesión pleural
+#7	AnnotatorNotes T7	8000/6

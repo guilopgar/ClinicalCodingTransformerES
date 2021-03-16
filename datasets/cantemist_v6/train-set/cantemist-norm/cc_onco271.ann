@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 2024 2028	GIST
+#1	AnnotatorNotes T1	8936/3
+T2	MORFOLOGIA_NEOPLASIA 3195 3199	GIST
+#2	AnnotatorNotes T2	8936/3
+T3	MORFOLOGIA_NEOPLASIA 3523 3537	carcinomatosis
+#3	AnnotatorNotes T3	8010/9
+T4	MORFOLOGIA_NEOPLASIA 248 254	cáncer
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 3189 3194	tumor
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 1681 1708	tumor de células fusiformes
+#6	AnnotatorNotes T6	8004/3
+T7	MORFOLOGIA_NEOPLASIA 1988 2022	tumor del estroma gastrointestinal
+#7	AnnotatorNotes T7	8936/3
+T8	MORFOLOGIA_NEOPLASIA 2067 2074	tumoral
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 1114 1133	celularidad maligna
+#9	AnnotatorNotes T9	8001/3
+T10	MORFOLOGIA_NEOPLASIA 1399 1431	implantes peritoneales múltiples
+#10	AnnotatorNotes T10	8000/6

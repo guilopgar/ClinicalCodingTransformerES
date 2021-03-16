@@ -1,0 +1,48 @@
+T1	MORFOLOGIA_NEOPLASIA 1195 1211	carcinoma ductal
+#1	AnnotatorNotes T1	8500/3
+T2	MORFOLOGIA_NEOPLASIA 445 473	carcinoma ductal infiltrante
+#2	AnnotatorNotes T2	8500/3
+T3	MORFOLOGIA_NEOPLASIA 1040 1068	carcinoma ductal infiltrante
+#3	AnnotatorNotes T3	8500/3
+T4	MORFOLOGIA_NEOPLASIA 1821 1849	carcinoma ductal infiltrante
+#4	AnnotatorNotes T4	8500/3
+T5	MORFOLOGIA_NEOPLASIA 4814 4836	lesión retroperitoneal
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 5052 5074	lesión retroperitoneal
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 4601 4619	masa paravertebral
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 4019 4039	masa retroperitoneal
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 4449 4469	masa retroperitoneal
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 6587 6598	metastásica
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 8081 8092	metastásica
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 8628 8639	metastásica
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 1258 1268	metástasis
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 4722 4732	metástasis
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 6098 6108	neoplásico
+#15	AnnotatorNotes T15	8000/1
+T16	MORFOLOGIA_NEOPLASIA 5347 5354	tumoral
+#16	AnnotatorNotes T16	8000/1
+T17	MORFOLOGIA_NEOPLASIA 7763 7770	tumoral
+#17	AnnotatorNotes T17	8000/1
+T18	MORFOLOGIA_NEOPLASIA 7854 7861	tumoral
+#18	AnnotatorNotes T18	8000/1
+T19	MORFOLOGIA_NEOPLASIA 532 538	cN1cM0
+#19	AnnotatorNotes T19	8000/6
+T20	MORFOLOGIA_NEOPLASIA 5100 5134	carcinoma escasamente diferenciado
+#20	AnnotatorNotes T20	8010/33
+T21	MORFOLOGIA_NEOPLASIA 5216 5284	Carcinoma ductal de mama triple negativo con recaída retroperitoneal
+#21	AnnotatorNotes T21	8500/6
+T22	MORFOLOGIA_NEOPLASIA 6461 6504	recaída retroperitoneal de carcinoma ductal
+#22	AnnotatorNotes T22	8500/6
+T23	MORFOLOGIA_NEOPLASIA 7907 7923	masa retrocrural
+#23	AnnotatorNotes T23	8000/6
+T24	MORFOLOGIA_NEOPLASIA 8407 8423	masa retrocrural
+#24	AnnotatorNotes T24	8000/6

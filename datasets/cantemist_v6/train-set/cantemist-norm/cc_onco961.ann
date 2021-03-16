@@ -1,0 +1,10 @@
+T1	MORFOLOGIA_NEOPLASIA 1167 1172	tumor
+#1	AnnotatorNotes T1	8000/1
+T2	MORFOLOGIA_NEOPLASIA 1833 1838	tumor
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 844 854	tumoración
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 1195 1205	neoplásica
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 1654 1740	Tumor rabdoide-teratoide atípico grado IV de la Organización Mundial de la Salud (OMS)
+#5	AnnotatorNotes T5	9508/34

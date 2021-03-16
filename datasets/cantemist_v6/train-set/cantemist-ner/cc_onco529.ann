@@ -1,0 +1,15 @@
+T1	MORFOLOGIA_NEOPLASIA 1196 1210	adenocarcinoma
+T2	MORFOLOGIA_NEOPLASIA 2518 2532	carcinomatosis
+T3	MORFOLOGIA_NEOPLASIA 1131 1141	metástasis
+T4	MORFOLOGIA_NEOPLASIA 1500 1543	adenocarcinoma pulmonar categoría cT2bN3M1c
+T5	MORFOLOGIA_NEOPLASIA 1561 1581	diseminación pleural
+T6	MORFOLOGIA_NEOPLASIA 3311 3342	adenocarcinoma mal diferenciado
+T7	MORFOLOGIA_NEOPLASIA 3932 3939	maligno
+T8	MORFOLOGIA_NEOPLASIA 559 585	adenopatía supraclavicular
+T9	MORFOLOGIA_NEOPLASIA 979 1008	adenopatías supraclaviculares
+T10	MORFOLOGIA_NEOPLASIA 1066 1098	lesiones líticas a nivel de axis
+T11	MORFOLOGIA_NEOPLASIA 3676 3695	lesiones pulmonares
+T12	MORFOLOGIA_NEOPLASIA 3701 3726	linfangitis carcinomatosa
+T13	MORFOLOGIA_NEOPLASIA 2485 2515	nódulos pulmonares bilaterales
+T14	MORFOLOGIA_NEOPLASIA 3122 3150	lesiones en la región costal
+T15	MORFOLOGIA_NEOPLASIA 4598 4619	afectación peritoneal

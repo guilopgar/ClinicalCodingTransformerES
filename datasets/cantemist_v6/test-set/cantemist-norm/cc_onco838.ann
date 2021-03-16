@@ -1,0 +1,32 @@
+T1	MORFOLOGIA_NEOPLASIA 5694 5703	cutánides
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 5510 5529	células neoplásicas
+#2	AnnotatorNotes T2	8001/1
+T3	MORFOLOGIA_NEOPLASIA 4088 4111	enfermedad a nivel óseo
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2069 2083	lesiones óseas
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 5261 5271	malignidad
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 3771 3782	metastásica
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1980 1990	metástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 2250 2260	metástasis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 5596 5606	metástasis
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 4521 4530	neoplasia
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 5800 5809	neoplasia
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 4994 5005	neoplásicas
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 2509 2534	cistoadenoma seromucinoso
+#13	AnnotatorNotes T13	8470/0
+T14	MORFOLOGIA_NEOPLASIA 2509 2534	cistoadenoma seromucinoso
+#14	AnnotatorNotes T14	8441/0
+T15	MORFOLOGIA_NEOPLASIA 3341 3387	Carcinoma ductal infiltrante variante apocrina
+#15	AnnotatorNotes T15	8500/3/H
+T16	MORFOLOGIA_NEOPLASIA 5977 5992	recaída cutánea
+#16	AnnotatorNotes T16	8000/6

@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 1987 1991	GIST
+#1	AnnotatorNotes T1	8936/3
+T2	MORFOLOGIA_NEOPLASIA 2277 2281	GIST
+#2	AnnotatorNotes T2	8936/3
+T3	MORFOLOGIA_NEOPLASIA 3301 3305	GIST
+#3	AnnotatorNotes T3	8936/3
+T4	MORFOLOGIA_NEOPLASIA 2969 2988	células neoplásicas
+#4	AnnotatorNotes T4	8001/1
+T5	MORFOLOGIA_NEOPLASIA 3105 3124	células neoplásicas
+#5	AnnotatorNotes T5	8001/1
+T6	MORFOLOGIA_NEOPLASIA 1939 1946	linfoma
+#6	AnnotatorNotes T6	9590/3
+T7	MORFOLOGIA_NEOPLASIA 2506 2516	metástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 1917 1927	tumoración
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 2383 2393	tumoración
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 1949 1985	tumores del estroma gastrointestinal
+#10	AnnotatorNotes T10	8936/3
+T11	MORFOLOGIA_NEOPLASIA 2590 2628	tumoración sólida, estirpe mesenquimal
+#11	AnnotatorNotes T11	8800/1
+T12	MORFOLOGIA_NEOPLASIA 3261 3297	Leiomiosarcoma yeyunal de alto grado
+#12	AnnotatorNotes T12	8890/34

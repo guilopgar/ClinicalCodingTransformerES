@@ -1,0 +1,26 @@
+Anamnesis
+Presentamos el caso de un varón de 54 años sin antecedentes medicoquirúrgicos de interés, salvo ser exfumador, que consulta en septiembre 2016 por dolor costal derecho de varias semanas de evolución, en aumento progresivo en los últimos días; sin otros síntomas en la historia dirigida.
+
+Exploración física
+Buen estado nutricional, índice de Karnofsky (IK) 90 % sin hallazgos de interés.
+
+Pruebas complementarias
+» Analítica: sin hallazgos de interés
+» Radiografía de tórax: gran masa en LMD, con derrame pleural.
+» Broncoscopia: estenosis por infiltración en subsegmento anterior del segmento anterior de LSD. Infiltración mucosa grado 2 en LID; rigidez a la entrada de pirámide basal y LMD, pero permeable.
+» TC tórax-abdomen: masa pulmonar sólida con extensa necrosis central que presenta unos diámetros aproximados de 11 cm x 7 cm y produce imagen de amputación del bronquio del LSD y LMD, así como signos de invasión mediastínica con compresión sobre cava superior y pérdida de la separación grasa con el pericardio. También se observa la existencia de un voluminoso derrame pleural derecho que condiciona atelectasia compresiva del LID, objetivándose captación lineal de la pleura por probable afectación metastásica a dicho nivel. Exploración abdominal sin alteraciones significativas.
+» Biopsia de la masa dirigida por TC: se envía muestra a Anatomía Patológica.
+» Anatomía Patológica: fragmentos de parénquima pulmonar sin lesiones histológicas y dos pequeños fragmentos de una proliferación de células fusiformes densa, con escaso estroma, bien vascularizada por capilares formada por células de citoplasma escaso y mal delimitado y núcleos moderadamente pleomorfos, atípicos, sin nucléolo visible. Se encuentran escasas mitosis. Las células neoplásicas reaccionan con anticuerpos contra bcl-2 de forma difusa, CD56 y CD99 la mayor parte y, de manera focal, con anticuerpos contra citoqueratina AE1-AE3 y EMA. No se observa reacción con anticuerpos contra S100, citoqueratina 7, citoqueratina 5/6, CD31, CD34, actina, desmina, p40, TTF- 1, sinaptofisina, calretinina, ni WT1. Traslocación t(X; 18) (p11.q11). Citología pleural: intensa inflamación aguda, negativo para células malignas en el material remitido.
+» » PET: gran masa pulmonar hipermetabólica en LSD y LM compatible con tumor primario conocido. Adenopatía ligeramente hipermetabólica en región paratraqueal superior derecha que no es posible descartar malignidad a pesar de su índice metabólico.
+
+Diagnóstico
+Sarcoma sinovial pulmonar irresecable.
+
+Tratamiento
+Se presenta el caso en comité multidisciplinar.
+
+Evolución
+Dada la gran extensión tumoral se desestima la posibilidad quirúrgica inicial y se propone tratamiento con quimioterapia con intención neoadyuvante según esquema ifosfamida a dosis altas (12 g/m2 en infusión continua de 6 días), recibiendo el primer ciclo el 30 de enero 2017 con buena tolerancia y sin toxicidades agudas. Tras el tercer ciclo, se objetiva reducción importante de la masa en radiografía de tórax, y se plantea intentar quimioterapia-radioterapia concomitantes, pero no fue posible por presentar el paciente, en el 4º ciclo, cistitis hemorrágica leve, aunque prolongada durante dos semanas (a pesar de haber recibido correcta profilaxis con mesna) e importante anemización, que precisó varias transfusiones de hematíes. Se administraron 5 ciclos de ifosfamida a altas dosis y posterior radioterapia neoadyuvante desde el 26 de mayo al 30 de junio de 2017.
+Tras finalizar neoadyuvancia, se solicita nueva TC donde se objetiva una importante disminución de tamaño de la masa descrita previamente a nivel del LSD, que sigue presentando extensa necrosis central; se evidencia un aumento en el tamaño de la adenopatía paratraqueal derecha y el resto de las adenopatías mediastínicas sin cambios; persiste mínimo nódulo pulmonar en LM sin cambios. Dada la buena respuesta, se realizada nueva interconsulta a cirugía torácica y el paciente es intervenido el 5 de septiembre de 2017, realizándose neumonectomía derecha tras biopsia de adenopatía 4R intraoperatoria negativa (tumor invadiendo mediastino: VCS y VCI, pericardio, arteria pulmonar derecha y vena principal de LSD).
+La anatomía patológica definitiva fue informada como respuesta completa patológica, siendo todos los ganglios antracóticos.
+En febrero de 2018, el paciente presenta IK 100 % en la TC con cambios postneumonectomía sin signos de recurrencia; actualmente sigue revisiones periódicas en la consulta de Oncología Médica sin presentar datos de enfermedad.

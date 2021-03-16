@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 1146 1153	tumoral
+#1	AnnotatorNotes T1	8000/1
+T2	MORFOLOGIA_NEOPLASIA 3741 3748	tumoral
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 1008 1031	captación leptomeníngea
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1889 1930	captaciones radiológicas a nivel meníngeo
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2311 2355	infiltración meníngea por carcinoma escamoso
+#5	AnnotatorNotes T5	8070/6
+T6	MORFOLOGIA_NEOPLASIA 2568 2619	neoplasia cerebral diseminada a nivel leptomeníngeo
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 4285 4298	malignización
+#7	AnnotatorNotes T7	8000/3
+T8	MORFOLOGIA_NEOPLASIA 4301 4348	carcinoma escamoso y diseminación leptomeníngea
+#8	AnnotatorNotes T8	8070/6

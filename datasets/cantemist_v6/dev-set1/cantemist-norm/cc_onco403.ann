@@ -1,0 +1,8 @@
+T1	MORFOLOGIA_NEOPLASIA 740 781	adenocarcinoma moderadamente diferenciado
+#1	AnnotatorNotes T1	8140/32
+T2	MORFOLOGIA_NEOPLASIA 897 915	lesiones hepáticas
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 613 623	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 579 597	LOE intracraneales
+#4	AnnotatorNotes T4	8000/6

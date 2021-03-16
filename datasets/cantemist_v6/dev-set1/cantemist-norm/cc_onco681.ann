@@ -1,0 +1,50 @@
+T1	MORFOLOGIA_NEOPLASIA 2279 2293	Lesiones óseas
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 2215 2231	Masa suprarrenal
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1624 1650	adenopatía supraclavicular
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 660 687	carcinoma de célula pequeña
+#4	AnnotatorNotes T4	8041/3
+T5	MORFOLOGIA_NEOPLASIA 108 114	cáncer
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 5086 5113	enfermedad a nivel cerebral
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 5151 5171	enfermedad sistémica
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 2084 2103	implantes pleurales
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 914 939	linfangitis carcinomatosa
+#9	AnnotatorNotes T9	8000/3
+T10	MORFOLOGIA_NEOPLASIA 974 996	masa de partes blandas
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 842 853	metastásica
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 2203 2213	metástasis
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 3583 3593	metástasis
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 4029 4039	metástasis
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 6727 6745	progresión pleural
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 4220 4245	progresión pleuropulmonar
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 1155 1207	carcinoma microcítico de pulmón enfermedad extendida
+#17	AnnotatorNotes T17	8041/6
+T18	MORFOLOGIA_NEOPLASIA 1682 1729	carcinoma pobremente diferenciado tipo oat-cell
+#18	AnnotatorNotes T18	8041/33
+T19	MORFOLOGIA_NEOPLASIA 1926 1982	adenopatías patológicas mediastínicas, supraclaviculares
+#19	AnnotatorNotes T19	8000/6
+T20	MORFOLOGIA_NEOPLASIA 2140 2173	nódulos hiperecogénicos hepáticos
+#20	AnnotatorNotes T20	8000/6
+T21	MORFOLOGIA_NEOPLASIA 2712 2764	Carcinoma microcítico de pulmón enfermedad extendida
+#21	AnnotatorNotes T21	8041/6
+T22	MORFOLOGIA_NEOPLASIA 2765 2772	T4N3M1c
+#22	AnnotatorNotes T22	8000/6
+T23	MORFOLOGIA_NEOPLASIA 3932 3968	lesión de 6 mm a nivel mesencefálico
+#23	AnnotatorNotes T23	8000/6
+T24	MORFOLOGIA_NEOPLASIA 5831 5848	tumor microcítico
+#24	AnnotatorNotes T24	8002/1
+T25	MORFOLOGIA_NEOPLASIA 7074 7081	RP ósea
+#25	AnnotatorNotes T25	8000/6

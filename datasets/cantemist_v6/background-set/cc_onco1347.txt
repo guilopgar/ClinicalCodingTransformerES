@@ -1,0 +1,23 @@
+Anamnesis
+Mujer de 57 años, con antecedentes de mastectomía radical modificada en noviembre de 1997 por carcinoma ductal infiltrante en la mama derecha pT2N3M0 y receptores hormonales negativos. Recibió 6 ciclos de quimioterapia adyuvante, según esquema fluoracilo-doxorrubicina-ciclofosfamida (FAC), y radioterapia adyuvante con acelerador multiláminas de 6 MV sobre la pared costal y ápex axilar alcanzando una dosis de 50 Gy con ritmo de 200 cGy/sesión, 5 veces semanales, entre 20/07/98 y 21/08/98.
+Continuó revisiones periódicas sin evidenciar recaída.
+
+Examen físico
+Tras 8 años, en noviembre de 2006 presenta una lesión cutánea multinodular irregular de 9 x 7cm maculopapular, eritematosa, indolora con lesiones satélite sobre la cicatriz de la mastectomía de 2 meses de evolución.
+
+Pruebas complementarias
+Resonancia magnética (RM) de ambas mamas (15/11/06): lesiones en la piel y grasa del tejido celular subcutáneo en la mama derecha, la de mayor tamaño de 2,5 x 1,35 cm y un nódulo en la mama izquierda en la línea intercuadrántica interna cercano al surco intermamario.
+Tomografía computarizada (TC) toracoabdominopélvica (13/11/06): no evidencia enfermedad a distancia.
+Biopsia de la lesión cutánea (24/11/06): angiosarcoma epiteloide grado intermedio. Proliferación vascular difusa con canales vasculares anastomosados, tapizados por células endoteliales atípicas. Infiltra la dermis sin alcanzar a tejido subcutáneo. Inmunohistoquímica: CD31+ CD34+ vimentina+ CK- AE1: AE3- con Ki67 de 60 %.
+
+Diagnóstico
+Angiosarcoma de mama derecha epitelioide grado intermedio, de 9 x 7 cm, que infiltra la dermis y afectación de la mama contralateral.
+
+Tratamiento
+Según criterios oncológicos era subsidiaria de exéresis en bloque y cobertura con injerto libre de piel hendida, que se realiza el 28 de noviembre de 2006, con márgenes libres en el estudio anatomopatológico. En enero de 2007 por PET-FDG no se evidencia enfermedad macroscópica.
+
+Evolución
+En febrero de 2007 presenta recaída local. Tras estudio genético: no mutación en los exones 9, 11, 13 y 17 de c-kit ni en 12,18 de PDGFRA, inicia doxorrubicina 50 mg/m2 cada 28 días, con respuesta parcial tras 6 ciclos.
+En agosto de 2007, ante progresión clínica, se propone 2.ª línea con paclitaxel 175 mg/m2 cada 21 días, con progresión tras 4 ciclos. Inicia 3.ª linea con Ifosfamida a altas dosis, con progresión a los 6 ciclos.
+En junio de 2008 se realiza un análisis de la expresión de BRCA1, ERCC1, XPG niveles bajos que indican un perfil poco sensible a para valorar perfil a trabectedina, por lo que se propone 4.ª línea con gemcitabina-dacarbacina.
+En agosto de 2008, tras 2 ciclos, la paciente se pierde para seguimiento.

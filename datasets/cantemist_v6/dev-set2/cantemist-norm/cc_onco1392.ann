@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 2255 2285	Tumor germinal no seminomatoso
+#1	AnnotatorNotes T1	9065/3
+T2	MORFOLOGIA_NEOPLASIA 2291 2305	coriocarcinoma
+#2	AnnotatorNotes T2	9100/3
+T3	MORFOLOGIA_NEOPLASIA 2069 2080	metastásico
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1975 1985	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2225 2240	nódulo pulmonar
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 1159 1175	suelta de globos
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1469 1485	suelta de globos
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 2000 2017	nódulo pararrenal
+#8	AnnotatorNotes T8	8000/6

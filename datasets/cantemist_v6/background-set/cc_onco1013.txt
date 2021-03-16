@@ -1,0 +1,20 @@
+Anamnesis
+Mujer de 56 años, con antecedentes de cáncer de mama izquierda localizado (CDI, pT1b, pNOsn, receptores hormonales negativos, HER-2+) y tratado con cirugía, quimioterapia (esquema fluorouracilo 600 mg/m2, epirrubicina 90 mg/m2 y ciclofosfamida 600 mg/m2 cada 21 días durante 4 ciclos, seguido de paclitaxel 100 mg/m2 durante 8 semanas) asociado a trastuzumab semanal, con radioterapia posterior. Estando en tratamiento con trastuzumab, inició un cuadro clínico de astenia de varias semanas de evolución junto con tos con escasa expectoración purulenta de predominio matutino y febrícula diaria en los últimos 6 días.
+
+Exploración física
+Durante la exploración física, en el momento del cuadro clínico descrito, destacaban la presencia de crepitantes bibasales en la auscultación, la palidez cutáneo-mucosa, la ausencia de adenopatías y la presencia de síntomas B como la febrícula vespertina y episodios de sudoración nocturna. No se apreciaron datos de trombosis venosa profunda ni otras alteraciones asociadas.
+
+Pruebas complementarias
+Con la sospecha inicial de neumonitis secundaria a fármacos (trastuzumab), a descartar también una recaída pulmonar de su enfermedad oncológica como menos probable, la paciente ingresó para estudio a cargo del Servicio de Neumología, donde se realizaron pruebas diagnósticas.
+En la TC destacaba la presencia de nódulos pulmonares bilaterales con áreas de alveolización e imágenes de condensación alveolar en el lóbulo inferior derecho, así como la presencia de múltiples adenopatías a nivel carinal con un nódulo de bordes irregulares periférico en hemitórax derecho.
+La PET-TC puso de manifiesto una extensa afectación metastásica pulmonar bilateral, de predominio en lóbulos inferiores y en pulmón derecho (SUVmax = 25,4) sin presencia de afectación patológica de los ganglios estudiados (supra e infradiafragmáticos).
+Mediante biopsia transbronquial, se consiguió el resultado anatomopatológico de proceso linfoproliferativo compatible con linfoma no Hodgkin (LNH) de células B de alto grado, con positividad inmunohistoquímica para CD10, BCL-6 y BCL-2.
+
+Diagnóstico
+Linfoma no Hodgkin pulmonar bilateral de células B de alto grado en paciente con antecedentes de CDI de mama izquierda localizado tratado con cirugía, quimioterapia + trastuzumab y radioterapia.
+
+Tratamiento
+Con el diagnóstico antes descrito, la paciente inició tratamiento con quimioterapia según esquema R-CHOP (prednisona 100 mg pre-rituximab y durante 4 días más, rituximab 375 mg/m2, vincristina 1,4 mg/m2, doxorrubicina 50 mg/m2 y ciclofosfamida 750 mg/m2 todos administrados el día 1) cada 21 días.
+
+Evolución
+La paciente ha recibido hasta la fecha 6 ciclos, con buena tolerancia y excelente respuesta clínica, pendiente de reevaluación mediante técnicas de imagen.

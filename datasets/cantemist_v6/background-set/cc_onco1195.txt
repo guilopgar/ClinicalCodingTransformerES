@@ -1,0 +1,29 @@
+Anamnesis
+Se trata de una mujer de 44 años sin antecedentes de interés. Acudió en tres ocasiones a Urgencias refiriendo lumbalgia de 6 semanas de evolución, a pesar de tratamiento analgésico ambulatorio, con irradiación hacia la pierna derecha con aparición de signos inflamatorios en esa extremidad.
+
+Examen físico
+A la exploración física presenta palidez cutánea, eupneica. Auscultación cardiaca y pulmonar normales. Abdomen sin hallazgos. Extremidad inferior derecha con signos inflamatorios locales sugestivos de trombosis venosa profunda. ECOG 1.
+
+Pruebas complementarias
+En las pruebas realizadas en Urgencias encontramos:
+- Analítica sanguínea: creatinina 1,84 mg/dl, leucocitos 28.500, neutrófilos 24.800, hemoglobina 10,3 g/dl, plaquetas 435.000, actividad de protrombina 104%.
+- Analítica de orina: sedimento urinario normal. Test de embarazo (bHCG) positivo.
+- Radiografía de tórax: masa parahiliar derecha de 45 mm con disminución de volumen en el lóbulo superior derecho.
+- Radiografía de columna lumbar: normal.
+- Eco-Doppler de las extremidades inferiores: trombosis venosa profunda de la iliaca externa, femoral común, superficial poplítea y femoral de la pierna derecha.
+Ante estos hallazgos, ingresa en Medicina Interna para su estudio:
+- Marcadores tumorales: AFP, CEA, CA15.3, CA19.9 normales. CA125 78.5 u/ml, bHCG suero 76,85 ng/ml.
+- TC-body: tumoración necrosada y cavitada en el lóbulo superior derecho con infiltración del mediastino que se continúa con un conglomerado adenopático que comprime e infiltra la vena cava superior. Adenopatías mediastínicas múltiples. Nódulos pulmonares metastásicos bilaterales y linfangitis carcinomatosa pulmonar. Trombosis de la vena cava inferior hasta las venas iliacas, incluyendo las venas renales bilaterales. Metástasis suprarrenal izquierda. Adenopatías retroperitoneales e iliacas bilaterales. Nódulo metastásico de partes blandas en la pared abdominal. Metástasis osteolítica en la primera costilla dorsal.
+- Biopsia intraoperatoria durante la ecobroncoscopia: adenopatías mediastínicas metastatizadas por tumor epitelial maligno con células de talla grande sugestivo de adenocarcinoma medianamente diferenciado.
+- Resultado definitivo de Anatomía Patológica de la ecobroncoscopia: neoplasia maligna indiferenciada con IHQ positiva para HCG, FAP, CKAE1/AE3, CK5/6 y CK7. Negativa para TTF1 y CK20. Sugestivo de coriocarcinoma.
+
+Diagnóstico
+Con el diagnóstico provisional de neoplasia pulmonar metastásica (nódulos pulmonares bilaterales, linfangitis carcinomatosa, adenopatías mediastínicas y retroperitoneales, metástasis suprarrenal y trombosis extensa de vena cava inferior), la paciente es trasladada a Oncología.
+Ante la discordancia entre las biopsias por ecobroncoscopia, se solicita la revisión del caso por parte de Anatomía Patológica.
+
+Tratamiento
+La paciente presenta un rápido empeoramiento clínico en pocos días, con insuficiencia respiratoria. Ante la sospecha diagnóstica de tumor germinal, y ante la necesidad de empezar tratamiento sistémico por deterioro clínico, se decide iniciar tratamiento de quimioterapia (esquema BEP). Tres días después presentó un episodio de insuficiencia respiratoria grave con parada cardiorrespiratoria, que se consiguió revertir a ritmo sinusal tras 4 minutos de maniobras de reanimación cardiopulmonar.
+
+Evolución
+La paciente fue trasladada a la UCI. Se monitorizaron los niveles de bHCG con incremento progresivo, a pesar de haber iniciado quimioterapia (bHCG 165 ng/ml 5 días post-QT y 217 ng/ml 7 días post-QT). A pesar del tratamiento intensivo de soporte, la paciente presentó un fracaso multiorgánico, falleciendo tras una semana de estancia en la UCI.
+La revisión de la anatomía patológica definitiva determinó que se trataba de una neoplasia epitelial maligna de alto grado con notable pleomorfismo y expresión en IHQ para bHCG y queratinas. Estos datos, junto con la presentación clínica y radiológica, establecieron el diagnóstico definitivo de carcinoma escamoso broncogénico desdiferenciado con expresión tópica de bHCG.

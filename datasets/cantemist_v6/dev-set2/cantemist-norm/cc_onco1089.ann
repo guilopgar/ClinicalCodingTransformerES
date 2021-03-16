@@ -1,0 +1,48 @@
+T1	MORFOLOGIA_NEOPLASIA 3399 3426	carcinoma de célula pequeña
+#1	AnnotatorNotes T1	8041/3
+T2	MORFOLOGIA_NEOPLASIA 4076 4103	carcinoma de célula pequeña
+#2	AnnotatorNotes T2	8041/3
+T3	MORFOLOGIA_NEOPLASIA 4864 4878	carcinomatosis
+#3	AnnotatorNotes T3	8010/9
+T4	MORFOLOGIA_NEOPLASIA 3298 3315	células tumorales
+#4	AnnotatorNotes T4	8001/1
+T5	MORFOLOGIA_NEOPLASIA 4131 4139	melanoma
+#5	AnnotatorNotes T5	8720/3
+T6	MORFOLOGIA_NEOPLASIA 3801 3812	metastásica
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 2177 2187	metástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 4779 4789	metástasis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 3733 3742	neoplasia
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 6076 6094	nódulos pulmonares
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 4111 4116	tumor
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 5767 5777	tumoración
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 3146 3153	tumoral
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 3244 3251	tumoral
+#14	AnnotatorNotes T14	8000/1
+T15	MORFOLOGIA_NEOPLASIA 5279 5286	tumoral
+#15	AnnotatorNotes T15	8000/1
+T16	MORFOLOGIA_NEOPLASIA 3567 3574	tumores
+#16	AnnotatorNotes T16	8000/1
+T17	MORFOLOGIA_NEOPLASIA 2645 2686	carcinoma vesicular con invasión hepática
+#17	AnnotatorNotes T17	8010/6
+T18	MORFOLOGIA_NEOPLASIA 2993 3023	carcinoma de vesícula T3 N1 M1
+#18	AnnotatorNotes T18	8010/6
+T19	MORFOLOGIA_NEOPLASIA 3176 3224	tumoral maligna indiferenciada de célula pequeña
+#19	AnnotatorNotes T19	8002/34
+T20	MORFOLOGIA_NEOPLASIA 3998 4025	neoplasia de célula pequeña
+#20	AnnotatorNotes T20	8002/1
+T21	MORFOLOGIA_NEOPLASIA 4380 4414	metástasis hepática por tumor PNET
+#21	AnnotatorNotes T21	9473/6
+T22	MORFOLOGIA_NEOPLASIA 4464 4480	sarcoma de Ewing
+#22	AnnotatorNotes T22	9260/3
+T23	MORFOLOGIA_NEOPLASIA 4506 4522	sarcoma de Ewing
+#23	AnnotatorNotes T23	9260/3
+T24	MORFOLOGIA_NEOPLASIA 4588 4604	sarcoma de Ewing
+#24	AnnotatorNotes T24	9260/3

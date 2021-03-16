@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 1159 1173	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 1711 1725	Adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 1307 1349	adenopatías cervicales y supraclaviculares
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2664 2706	adenopatías cervicales y supraclaviculares
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 64 90	adenopatía supraclavicular
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 1092 1118	adenopatía supraclavicular
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 2772 2790	lesiones hepáticas
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 1574 1625	lesiones focales en los segmentos II y VI hepáticos
+#8	AnnotatorNotes T8	8000/6

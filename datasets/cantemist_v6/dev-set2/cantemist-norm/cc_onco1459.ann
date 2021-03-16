@@ -1,0 +1,10 @@
+T1	MORFOLOGIA_NEOPLASIA 525 551	adenopatía supraclavicular
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 4054 4065	metastásica
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 398 408	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 320 370	carcinoma renal de células claras, grado 4 Fuhrman
+#4	AnnotatorNotes T4	8310/34
+T5	MORFOLOGIA_NEOPLASIA 447 454	T2bN1M0
+#5	AnnotatorNotes T5	8000/6

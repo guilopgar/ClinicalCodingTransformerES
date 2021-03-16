@@ -1,0 +1,12 @@
+T1	MORFOLOGIA_NEOPLASIA 62 90	carcinoma ductal infiltrante
+T2	MORFOLOGIA_NEOPLASIA 2612 2633	carcinoma infiltrante
+T3	MORFOLOGIA_NEOPLASIA 1848 1862	carcinomatosis
+T4	MORFOLOGIA_NEOPLASIA 3256 3270	carcinomatosis
+T5	MORFOLOGIA_NEOPLASIA 1895 1907	metastásicas
+T6	MORFOLOGIA_NEOPLASIA 393 403	metástasis
+T7	MORFOLOGIA_NEOPLASIA 2559 2564	tumor
+T8	MORFOLOGIA_NEOPLASIA 347 354	tumoral
+T9	MORFOLOGIA_NEOPLASIA 1190 1255	carcinoma lobulillar infiltrante tipo mixto (ductal y lobulillar)
+T10	MORFOLOGIA_NEOPLASIA 2404 2469	carcinoma lobulillar infiltrante tipo mixto (ductal y lobulillar)
+T11	MORFOLOGIA_NEOPLASIA 3314 3328	masas ováricas
+T12	MORFOLOGIA_NEOPLASIA 1880 1894	masas ováricas

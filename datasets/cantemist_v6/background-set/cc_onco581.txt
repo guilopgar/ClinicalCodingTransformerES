@@ -1,0 +1,21 @@
+Anamnesis
+Se presenta el caso de una mujer de 64 años natural de Bulgaria alérgica a quinolonas, y metamizol con antecedentes de síndrome ansioso depresivo y psoriasis. La paciente es diagnosticada en enero de 2019 de un adenocarcinoma de recto alto a raíz de clínica de hematoquecia y molestias en hipogastrio.
+Tras estudio de extensión, se estadía inicialmente como T2N+ decidiéndose en comité tratamiento neoadyuvante con radioterapia (Rt) corta que recibe del 06/02/2019 al 12/02/2019 (5 sesiones de 5 Gy/día) y ulterior cirugía, interviniéndose el 20/02/2019. La Anatomía Patológica definitiva resultó en un adenocarcinoma de recto ypT3N1b (2/11 ganglios), sin inestabilidad en microsatélites y con un SCORE de 3 puntos (respuesta a radioterapia pobre o ausente).
+Después de una correcta recuperación, comienza el 21/03/2019 quimioterapia adyuvante esquema XELOX (capecitabina 3.600 mg/día + oxaliplatino 209,3 mg). Ese mismo día, durante el inicio de la administración de oxaliplatino, la paciente desarrolla reacción infusional tipo prurito grado 1 y disestesias laringofaríngeas grado 1 que se resuelven con la administración de dexclorfeniramina 5 mg e hidrocortisona 100 mg. Resuelto el cuadro, finaliza tratamiento sin otras incidencias.
+Tras finalizar la infusión de oxaliplatino, la paciente comienza con nueva reacción infusional, manifestando ptosis palpebral y empeoramiento de las disestesias laringofaríngeas (ahora grado 2) así como visión borrosa momentánea y disfonía junto con sensación disneica sin broncoespasmo. Por este motivo, se administra nueva dosis de hidrocortisona 100 mg y se procede a traslado de la paciente a Urgencias.
+
+Exploración física
+A la exploración física destacaba únicamente la mencionada ptosis palpebral bilateral junto con la disfonía.
+
+Pruebas complementarias
+En Urgencias se realizó TC de cráneo urgente y analítica que no mostraron hallazgos reseñables.
+
+Diagnóstico
+Se estableció el diagnóstico de posible neurotoxicidad aguda por oxaliplatino.
+
+Tratamiento
+La paciente continuó en área de observación monitorizada con tanda de corticoides (metilprednisolona 40 mg IV cada 8 horas).
+
+Evolución
+Tras 12 horas en observación, la paciente es dada de alta, encontrándose asintomática en dicho momento y no desarrollando nuevos episodios de blefaroptosis hasta la fecha actual.
+Debido a la toxicidad sufrida de forma aguda y la ulterior clínica de diarrea que llegó a alcanzar el grado 3, la paciente continuó con capecitabina adyuvante en monoterapia a dosis reducidas (3.000 mg/24 horas), previa suspensión temporal hasta resolución de la toxicidad digestiva del mencionado agente quimioterápico.

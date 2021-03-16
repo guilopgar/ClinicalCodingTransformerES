@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 2840 2849	neoplasia
+#1	AnnotatorNotes T1	8000/1
+T2	MORFOLOGIA_NEOPLASIA 222 246	síndrome mielodisplásico
+#2	AnnotatorNotes T2	9989/3
+T3	MORFOLOGIA_NEOPLASIA 1788 1798	tumoración
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 1940 1950	tumoración
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 590 620	carcinoma escamoso infiltrante
+#5	AnnotatorNotes T5	8070/3/H
+T6	MORFOLOGIA_NEOPLASIA 2331 2376	carcinoma escamoso infiltrante queratinizante
+#6	AnnotatorNotes T6	8071/3/H
+T7	MORFOLOGIA_NEOPLASIA 2737 2765	lesiones líticas en acromion
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 3170 3207	carcinoma escamoso de pulmón, T4N2M1b
+#8	AnnotatorNotes T8	8070/6

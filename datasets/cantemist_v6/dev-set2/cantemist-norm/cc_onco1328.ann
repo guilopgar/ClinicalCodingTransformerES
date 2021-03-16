@@ -1,0 +1,8 @@
+T1	MORFOLOGIA_NEOPLASIA 1939 1949	malignidad
+#1	AnnotatorNotes T1	8000/3
+T2	MORFOLOGIA_NEOPLASIA 2067 2072	tumor
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 1702 1771	tumoración de células epiteliales con empalizada periférica basaloide
+#3	AnnotatorNotes T3	8083/3
+T4	MORFOLOGIA_NEOPLASIA 1964 1983	Carcinoma basaloide
+#4	AnnotatorNotes T4	8123/3

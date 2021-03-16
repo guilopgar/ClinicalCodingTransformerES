@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 4807 4828	Carcinoma microcítico
+#1	AnnotatorNotes T1	8041/3
+T2	MORFOLOGIA_NEOPLASIA 3952 3966	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 4068 4082	adenocarcinoma
+#3	AnnotatorNotes T3	8140/3
+T4	MORFOLOGIA_NEOPLASIA 4721 4765	carcinoma indiferenciado de células pequeñas
+#4	AnnotatorNotes T4	8041/34
+T5	MORFOLOGIA_NEOPLASIA 3482 3489	linfoma
+#5	AnnotatorNotes T5	9590/3
+T6	MORFOLOGIA_NEOPLASIA 3969 3976	linfoma
+#6	AnnotatorNotes T6	9590/3
+T7	MORFOLOGIA_NEOPLASIA 3601 3611	metástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 7931 7936	tumor
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 5794 5801	tumoral
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 7668 7675	tumoral
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 4110 4136	proceso linfoproliferativo
+#11	AnnotatorNotes T11	9970/1
+T12	MORFOLOGIA_NEOPLASIA 4721 4792	carcinoma indiferenciado de células pequeñas, de aspecto neuroendocrino
+#12	AnnotatorNotes T12	8574/34

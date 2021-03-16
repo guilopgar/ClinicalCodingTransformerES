@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 395 410	hepatocarcinoma
+#1	AnnotatorNotes T1	8170/3
+T2	MORFOLOGIA_NEOPLASIA 347 362	lesión hepática
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 2393 2403	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 473 501	metástasis de adenocarcinoma
+#4	AnnotatorNotes T4	8140/6
+T5	MORFOLOGIA_NEOPLASIA 684 702	nódulos pulmonares
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 3643 3661	nódulos pulmonares
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1019 1050	metástasis de colangiocarcinoma
+#7	AnnotatorNotes T7	8160/6
+T8	MORFOLOGIA_NEOPLASIA 1154 1196	metástasis pulmonares de colangiocarcinoma
+#8	AnnotatorNotes T8	8160/6

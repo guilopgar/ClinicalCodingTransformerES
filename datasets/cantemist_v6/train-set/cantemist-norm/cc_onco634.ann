@@ -1,0 +1,42 @@
+T1	MORFOLOGIA_NEOPLASIA 1184 1188	GIST
+#1	AnnotatorNotes T1	8936/3
+T2	MORFOLOGIA_NEOPLASIA 1307 1311	GIST
+#2	AnnotatorNotes T2	8936/3
+T3	MORFOLOGIA_NEOPLASIA 933 952	implante peritoneal
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2108 2127	implante peritoneal
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2297 2315	lesiones hepáticas
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 2154 2164	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 3598 3608	metástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 1377 1424	metástasis de carcinoma renal de células claras
+#8	AnnotatorNotes T8	8310/6
+T9	MORFOLOGIA_NEOPLASIA 3831 3849	nódulos pulmonares
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 3301 3320	progresión pulmonar
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 860 865	tumor
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 1148 1182	tumor del estroma gastrointestinal
+#12	AnnotatorNotes T12	8936/3
+T13	MORFOLOGIA_NEOPLASIA 480 546	carcinoma de células claras de 1,4cm pT1pN0M0, grado IV de Fuhrman
+#13	AnnotatorNotes T13	8310/34
+T14	MORFOLOGIA_NEOPLASIA 517 525	pT1pN0M0
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 1358 1372	masa abdominal
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 2027 2056	recidiva a nivel perihepático
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 2513 2558	carcinoma renal de células claras metastásico
+#17	AnnotatorNotes T17	8310/6
+T18	MORFOLOGIA_NEOPLASIA 2560 2564	CCRm
+#18	AnnotatorNotes T18	8310/6
+T19	MORFOLOGIA_NEOPLASIA 3690 3716	masa en la pared abdominal
+#19	AnnotatorNotes T19	8000/6
+T20	MORFOLOGIA_NEOPLASIA 601 623	masa de partes blandas
+#20	AnnotatorNotes T20	8000/6
+T21	MORFOLOGIA_NEOPLASIA 3781 3800	nódulos subcutáneos
+#21	AnnotatorNotes T21	8000/6

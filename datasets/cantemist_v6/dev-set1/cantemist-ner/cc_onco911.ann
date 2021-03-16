@@ -1,0 +1,19 @@
+T1	MORFOLOGIA_NEOPLASIA 55 72	colangiocarcinoma
+T2	MORFOLOGIA_NEOPLASIA 95 101	cáncer
+T3	MORFOLOGIA_NEOPLASIA 5985 5991	cáncer
+T4	MORFOLOGIA_NEOPLASIA 6360 6380	infiltración medular
+T5	MORFOLOGIA_NEOPLASIA 2793 2807	leucemia aguda
+T6	MORFOLOGIA_NEOPLASIA 1579 1591	masa anexial
+T7	MORFOLOGIA_NEOPLASIA 5673 5683	metástasis
+T8	MORFOLOGIA_NEOPLASIA 535 537	M0
+T9	MORFOLOGIA_NEOPLASIA 436 474	adenocarcinoma gástrico de tipo difuso
+T10	MORFOLOGIA_NEOPLASIA 436 513	adenocarcinoma gástrico de tipo difuso antral, con células en anillo de sello
+T11	MORFOLOGIA_NEOPLASIA 834 900	adenocarcinoma gástrico de tipo difuso con células en anillo sello
+T12	MORFOLOGIA_NEOPLASIA 834 872	adenocarcinoma gástrico de tipo difuso
+T13	MORFOLOGIA_NEOPLASIA 901 909	ypT3N0M0
+T14	MORFOLOGIA_NEOPLASIA 1397 1405	ypT4N0M0
+T15	MORFOLOGIA_NEOPLASIA 1697 1741	recidiva ovárica bilateral de adenocarcinoma
+T16	MORFOLOGIA_NEOPLASIA 5748 5841	infiltración masiva de médula ósea por adenocarcinoma gástrico con células en anillo de sello
+T17	MORFOLOGIA_NEOPLASIA 6280 6308	progresión ganglionar y ósea
+T18	MORFOLOGIA_NEOPLASIA 6441 6532	infiltración masiva difusa de médula ósea por adenocarcinoma con células en anillo de sello
+T19	MORFOLOGIA_NEOPLASIA 6713 6797	infiltración masiva de médula ósea por adenocarcinoma con células en anillo de sello

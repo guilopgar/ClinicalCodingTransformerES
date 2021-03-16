@@ -1,0 +1,44 @@
+T1	MORFOLOGIA_NEOPLASIA 237 243	Cáncer
+#1	AnnotatorNotes T1	8000/3
+T2	MORFOLOGIA_NEOPLASIA 2172 2180	Fibromas
+#2	AnnotatorNotes T2	8810/0
+T3	MORFOLOGIA_NEOPLASIA 1019 1029	Tumoración
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 727 760	carcinoma pobremente diferenciado
+#4	AnnotatorNotes T4	8010/33
+T5	MORFOLOGIA_NEOPLASIA 589 595	lipoma
+#5	AnnotatorNotes T5	8850/0
+T6	MORFOLOGIA_NEOPLASIA 3940 3948	malignas
+#6	AnnotatorNotes T6	8000/3
+T7	MORFOLOGIA_NEOPLASIA 2462 2473	metastásica
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 1767 1777	metástasis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 1878 1888	metástasis
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 1969 1979	metástasis
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 2158 2168	metástasis
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 3962 3972	metástasis
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 4433 4471	metástasis de carcinoma neuroendocrino
+#13	AnnotatorNotes T13	8246/6
+T14	MORFOLOGIA_NEOPLASIA 2931 2940	neoplasia
+#14	AnnotatorNotes T14	8000/1
+T15	MORFOLOGIA_NEOPLASIA 3236 3246	neoplásica
+#15	AnnotatorNotes T15	8000/1
+T16	MORFOLOGIA_NEOPLASIA 3548 3558	neoplásica
+#16	AnnotatorNotes T16	8000/1
+T17	MORFOLOGIA_NEOPLASIA 3260 3265	tumor
+#17	AnnotatorNotes T17	8000/1
+T18	MORFOLOGIA_NEOPLASIA 499 509	tumoración
+#18	AnnotatorNotes T18	8000/1
+T19	MORFOLOGIA_NEOPLASIA 5845 5852	tumoral
+#19	AnnotatorNotes T19	8000/1
+T20	MORFOLOGIA_NEOPLASIA 1587 1628	tumoral muy proliferativa o de alto grado
+#20	AnnotatorNotes T20	8000/14
+T21	MORFOLOGIA_NEOPLASIA 2497 2533	metástasis del cáncer indiferenciado
+#21	AnnotatorNotes T21	8000/64
+T22	MORFOLOGIA_NEOPLASIA 4851 4879	tumor neuroendocrino cutáneo
+#22	AnnotatorNotes T22	8247/3

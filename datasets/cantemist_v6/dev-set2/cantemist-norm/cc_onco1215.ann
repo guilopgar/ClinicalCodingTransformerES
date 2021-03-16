@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 2077 2095	carcinoma escamoso
+#1	AnnotatorNotes T1	8070/3
+T2	MORFOLOGIA_NEOPLASIA 1980 2002	enfermedad a distancia
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 819 863	lesión escamosa intraepitelial de alto grado
+#3	AnnotatorNotes T3	8077/2
+T4	MORFOLOGIA_NEOPLASIA 1700 1711	metastásica
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 968 973	tumor
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 491 535	lesión intraepitelial escamosa de alto grado
+#6	AnnotatorNotes T6	8077/2
+T7	MORFOLOGIA_NEOPLASIA 537 550	HSIL, CIN III
+#7	AnnotatorNotes T7	8077/2
+T8	MORFOLOGIA_NEOPLASIA 753 784	carcinoma escamoso microinvasor
+#8	AnnotatorNotes T8	8076/3

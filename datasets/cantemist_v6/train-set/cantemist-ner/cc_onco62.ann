@@ -1,0 +1,15 @@
+T1	MORFOLOGIA_NEOPLASIA 2652 2661	carcinoma
+T2	MORFOLOGIA_NEOPLASIA 218 239	carcinoma epidermoide
+T3	MORFOLOGIA_NEOPLASIA 2146 2167	carcinoma epidermoide
+T4	MORFOLOGIA_NEOPLASIA 2095 2119	carcinoma no microcítico
+T5	MORFOLOGIA_NEOPLASIA 2768 2782	carcinomatosis
+T6	MORFOLOGIA_NEOPLASIA 4377 4391	carcinomatosis
+T7	MORFOLOGIA_NEOPLASIA 4525 4535	metástasis
+T8	MORFOLOGIA_NEOPLASIA 4867 4882	tumoral maligna
+T9	MORFOLOGIA_NEOPLASIA 109 137	leucemia aguda mieloblástica
+T10	MORFOLOGIA_NEOPLASIA 2351 2410	metástasis de carcinoma epidermoide pobremente diferenciado
+T11	MORFOLOGIA_NEOPLASIA 2621 2649	leucemia aguda mieloblástica
+T12	MORFOLOGIA_NEOPLASIA 2871 2882	metastásica
+T13	MORFOLOGIA_NEOPLASIA 2694 2765	carcinoma epidermoide estadio IV al diagnóstico por nódulos subcutáneos
+T14	MORFOLOGIA_NEOPLASIA 4422 4444	implantes peritoneales
+T15	MORFOLOGIA_NEOPLASIA 2285 2311	nódulo en la región axilar

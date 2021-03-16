@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 1290 1312	enfermedad a distancia
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1207 1227	estesioneuroblastoma
+#2	AnnotatorNotes T2	9522/3
+T3	MORFOLOGIA_NEOPLASIA 1412 1432	estesioneuroblastoma
+#3	AnnotatorNotes T3	9522/3
+T4	MORFOLOGIA_NEOPLASIA 1881 1915	estesioneuroblastoma de alto grado
+#4	AnnotatorNotes T4	9522/34
+T5	MORFOLOGIA_NEOPLASIA 2469 2479	malignidad
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 1668 1673	tumor
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 1764 1799	neoplasia maligna de célula pequeña
+#7	AnnotatorNotes T7	8002/3
+T8	MORFOLOGIA_NEOPLASIA 1815 1852	neuroblastoma olfatorio de alto grado
+#8	AnnotatorNotes T8	9500/34

@@ -1,0 +1,56 @@
+T1	MORFOLOGIA_NEOPLASIA 821 835	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 7121 7135	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 7036 7053	carcinoma papilar
+#3	AnnotatorNotes T3	8260/3
+T4	MORFOLOGIA_NEOPLASIA 7269 7286	carcinoma papilar
+#4	AnnotatorNotes T4	8260/3
+T5	MORFOLOGIA_NEOPLASIA 6068 6085	células tumorales
+#5	AnnotatorNotes T5	8001/1
+T6	MORFOLOGIA_NEOPLASIA 3508 3518	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 908 934	proceso linfoproliferativo
+#7	AnnotatorNotes T7	9970/1
+T8	MORFOLOGIA_NEOPLASIA 6151 6161	tumoración
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 4835 4842	tumoral
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 5374 5381	tumoral
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 6682 6689	tumoral
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 6780 6787	tumoral
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 7935 7942	tumores
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 381 425	carcinoma sólido papilar infiltrante grado 2
+#14	AnnotatorNotes T14	8050/32
+T15	MORFOLOGIA_NEOPLASIA 432 463	hamartoma quístico retrorrectal
+#15	AnnotatorNotes T15	8000/0
+T16	MORFOLOGIA_NEOPLASIA 465 482	quiste de Tailgut
+#16	AnnotatorNotes T16	8000/0
+T17	MORFOLOGIA_NEOPLASIA 381 397	carcinoma sólido
+#17	AnnotatorNotes T17	8230/3
+T18	MORFOLOGIA_NEOPLASIA 3621 3636	sólido-quística
+#18	AnnotatorNotes T18	8452/1
+T19	MORFOLOGIA_NEOPLASIA 3992 4023	hamartoma quístico retrorrectal
+#19	AnnotatorNotes T19	8000/0
+T20	MORFOLOGIA_NEOPLASIA 4025 4042	quiste de Tailgut
+#20	AnnotatorNotes T20	8000/0
+T21	MORFOLOGIA_NEOPLASIA 3941 3957	carcinoma sólido
+#21	AnnotatorNotes T21	8230/3
+T22	MORFOLOGIA_NEOPLASIA 3941 3985	carcinoma sólido papilar infiltrante grado 2
+#22	AnnotatorNotes T22	8050/32
+T23	MORFOLOGIA_NEOPLASIA 4440 4464	Carcinoma sólido papilar
+#23	AnnotatorNotes T23	8050/3
+T24	MORFOLOGIA_NEOPLASIA 4440 4456	Carcinoma sólido
+#24	AnnotatorNotes T24	8230/3
+T25	MORFOLOGIA_NEOPLASIA 4471 4502	hamartoma quístico retrorrectal
+#25	AnnotatorNotes T25	8000/0
+T26	MORFOLOGIA_NEOPLASIA 5027 5078	carcinoma sólido-papilar moderadamente diferenciado
+#26	AnnotatorNotes T26	8050/32
+T27	MORFOLOGIA_NEOPLASIA 5027 5043	carcinoma sólido
+#27	AnnotatorNotes T27	8230/3
+T28	MORFOLOGIA_NEOPLASIA 7210 7266	hamartoma quístico retrorrectal con degeneración maligna
+#28	AnnotatorNotes T28	8000/3

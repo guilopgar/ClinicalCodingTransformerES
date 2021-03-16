@@ -1,0 +1,22 @@
+T1	MORFOLOGIA_NEOPLASIA 3330 3348	carcinoma escamoso
+#1	AnnotatorNotes T1	8070/3
+T2	MORFOLOGIA_NEOPLASIA 4199 4216	células tumorales
+#2	AnnotatorNotes T2	8001/1
+T3	MORFOLOGIA_NEOPLASIA 2305 2315	malignidad
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 4608 4618	malignidad
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 2621 2644	diseminación neoplásica
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 2779 2833	carcinoma escamoso no queratinizante, mal diferenciado
+#6	AnnotatorNotes T6	8072/33
+T7	MORFOLOGIA_NEOPLASIA 3402 3409	cT3N0M0
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 3819 3873	carcinoma escamoso no queratinizante, mal diferenciado
+#8	AnnotatorNotes T8	8072/33
+T9	MORFOLOGIA_NEOPLASIA 4167 4193	carcinoma escamoso in situ
+#9	AnnotatorNotes T9	8070/2
+T10	MORFOLOGIA_NEOPLASIA 4762 4769	pT4N0M0
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 3116 3132	neoproliferativo
+#11	AnnotatorNotes T11	8000/1

@@ -1,0 +1,28 @@
+T1	MORFOLOGIA_NEOPLASIA 2942 2968	Adenopatía supraclavicular
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1692 1719	Adenopatías supraclavicular
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1320 1329	carcinoma
+#3	AnnotatorNotes T3	8010/3
+T4	MORFOLOGIA_NEOPLASIA 3471 3498	carcinoma de células claras
+#4	AnnotatorNotes T4	8310/3
+T5	MORFOLOGIA_NEOPLASIA 235 241	cáncer
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 912 924	hipernefroma
+#6	AnnotatorNotes T6	8312/3
+T7	MORFOLOGIA_NEOPLASIA 2533 2545	hipernefroma
+#7	AnnotatorNotes T7	8312/3
+T8	MORFOLOGIA_NEOPLASIA 2980 2987	maligna
+#8	AnnotatorNotes T8	8000/3
+T9	MORFOLOGIA_NEOPLASIA 1359 1369	metástasis
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 3004 3028	metástasis por carcinoma
+#10	AnnotatorNotes T10	8010/6
+T11	MORFOLOGIA_NEOPLASIA 2613 2620	tumoral
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 3320 3375	Carcinoma renal de células claras, estadio IV (pT3N2M1)
+#12	AnnotatorNotes T12	8310/6
+T13	MORFOLOGIA_NEOPLASIA 3381 3433	afectación ganglionar mediastínica y supraclavicular
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 4035 4085	lesiones ganglionares torácicas, y supraclavicular
+#14	AnnotatorNotes T14	8000/6

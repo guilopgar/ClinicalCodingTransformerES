@@ -1,0 +1,24 @@
+Anamnesis
+Varón de 52 años de edad, con los siguientes antecedentes personales: fumador de un paquete de tabaco al día hasta dos meses antes del diagnóstico y enolismo moderado. Intervenido quirúrgicamente de dos hernias inguinales.
+En septiembre de 2011 acude a Urgencias por dolor abdominal localizado en fosa ilíaca derecha de 24 horas de evolución con distensión abdominal.
+
+Exploración física
+Presentaba abdomen distendido y doloroso a la palpación en hemiabdomen inferior, con defensa y Blumberg +, sin palpación de masas.
+
+Pruebas complementarias
+• Analítica: normal, salvo procalcitonina 0,858 ng/mL.
+• Ecografía abdominal: mala visualización de fosa ilíaca derecha por abundante meteorismo objetivándose discreta cantidad de líquido libre en región paracólica derecha.
+• TC abdominopélvica: apéndice de tamaño patológico aumentado de calibre con diámetro máximo hasta 14 mm y presencia de cambios inflamatorios en la grasa periapendicular. Se objetivaron dos pequeñasburbujas aéreas extraluminales adyacentes a la región más distal del apéndice. Pequeña cantidad de líquido libre intraperitoneal en fosa ilíaca derecha. Hallazgos compatibles con apendicitis aguda perforada.
+
+Tratamiento
+Valorado por el Servicio de Cirugía como Peritonitis secundaria a perforación apendicular, fue intervenido quirúrgicamente de urgencia mediante laparotomía, realizándose apendicectomía abierta.
+El curso postoperatorio fue satisfactorio.
+
+Anatomía patológica
+Proliferación neoplásica apendicular con características de tumor mixto con diferenciación glandular (exocrina y endocrina), compatible con goblet-cell carcinoide (carcinoide mucinoso) de la clasificación de la WHO.
+Las células presentaban imagen similar a células en anillo de sello con un pequeño nucléolo comprimido y abundante mucina intracitoplasmática. Inmunohistoquímica positiva para: CK7, CK 20, CDX2 con parcial positividad, en algunas células, para cromogranina.
+El tumor afectaba a toda la longitud apendicular con margen artefactado no valorable, pero aparentemente a <0,1cm. La neoplasia afectaba submucosa, pared muscular en todo su espesor y meso apendicular con focos de localización subserosa Apendicitis aguda.
+
+Valoración oncológica
+Se valoró como peritonitis secundaria a perforación apendicular por apendicitis aguda en el contexto de tumor carcinoide mucinoso pT3NxM0. El estudio de extensión poscirugía con PET, TC, octreoscán y colonoscopia fue normal, a excepción de un pólipo sésil en sigma con Anatomía Patológica de adenoma tubular.
+Se comentó el caso en el Comité de tumores digestivos, donde se indicó ampliación de la resección mediante colectomía derecha reglada, omentectomía mayor completa, colecistectomía, resección del ligamento redondo y tratamiento adyuvante con HIPEC (peritonectomía con quimiohipertermia peritoneal) según protocolo con oxaliplatino más 5-fluorouracilo y anastomosis ileocólica látero-lateral manual con resección de cicatriz de McBurney.

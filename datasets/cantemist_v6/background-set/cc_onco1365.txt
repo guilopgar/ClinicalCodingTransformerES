@@ -1,0 +1,25 @@
+Anamnesis
+Varón de 50 años de edad sin alergias medicamentosas conocidas ni antecedentes médicos de interés.
+Inicia cuadro clínico consistente en epigastralgia con vómitos ocasionales asociados y molestias abdominales difusas de nueva aparición, por lo que consulta al Servicio de Urgencias.
+
+Examen físico
+A la exploración física destaca hepatomegalia escasamene dolorosa de 2 traveses de dedo; resto de la exploración sin alteraciones destacables.
+Debido a la hepatomegalia detectada y la clínica que presenta, ingresa para estudio.
+
+Pruebas complementarias
+Análisis sanguíneo: gammaglutaminasa (GGT) 146 UI/l, fosfatasa alcalina (FA) 225 UI/l; CEA y Ca 19.9 dentro de los parámetros de normalidad.
+Ecografía abdominal: múltiples lesiones nodulares hepáticas de características sólidas y adenopatías peripancreáticas patológicas.
+Fibrogastroscopia: a nivel de la curvatura mayor se aprecia un pliegue de aspecto tumoral con dos ulceraciones en la base; sin otros hallazgos destacables. Se obtienen múltiples biopsias.
+Histología de las biopsias gástricas positiva para células malignas compatibles con adenocarcinoma gástrico, Her2 negativo.
+Tomografía computarizada (TC) toracoabdominal: masa ulcerada en cuerpo/curvatura mayor gástrica de unos 7 cm, implantes tumorales en ligamento gastrohepático, omentales y en hilio esplénico. Múltiples lesiones hipodensas hepáticas bilobares compatibles con metástasis. Adenopatías de aspecto patológico retroperitoneales y retrocrurales.
+Biopsia hepática compatible con carcinoma poco diferenciado de origen gástrico.
+
+Diagnóstico
+Se valora el caso como varón de 50 años afecto de adenocarcinoma gástrico estadio IV por metástasis hepáticas, metástasis adenopáticas y carcinomatosis peritoneal candidato a quimioterapia paliativa.
+
+Tratamiento
+Inicia quimioterapia con oxaliplatino a 100 mg/m2 día 1 y capecitabina 1.000 mg/m2/12 horas durante 14 días cada 21 días.
+
+Evolución
+Tras el cuarto ciclo de tratamiento, presenta reacción cutánea en forma de lesiones anulares, eritemato-escamosas en cuello, brazos, tronco y cuero cabelludo, por lo que se realiza interconsulta al Servicio de Dermatología que orienta el caso como un lupus eritematoso cutáneo subagudo, probablemente inducido por fármacos, por lo que se realiza biopsia de una lesión cutánea, que muestra una dermatitis linfocitaria perivascular y de interfase compatible con lupus. Se amplia estudio inmunológico con ANA, anticuerpos antihistonas, anti-Ro y anti-La, que resultan negativos, y complemento C3 y C4 que están en el rango de la normalidad.
+Se confirma el diagnóstico de lupus inducido por capecitabina, por lo que se retira el tratamiento con dicho fármaco, presentando de este modo progresiva mejoría de las lesiones cutáneas.

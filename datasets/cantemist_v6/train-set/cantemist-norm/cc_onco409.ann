@@ -1,0 +1,14 @@
+T1	MORFOLOGIA_NEOPLASIA 1304 1318	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 1726 1736	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1674 1707	Adenocarcinoma de pulmón cT1NxM1a
+#3	AnnotatorNotes T3	8140/6
+T4	MORFOLOGIA_NEOPLASIA 3555 3562	maligna
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 4255 4273	lesiones hepáticas
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 2913 2936	enfermedad a nivel óseo
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 3749 3780	enfermedad radiológica (pleural
+#7	AnnotatorNotes T7	8000/6

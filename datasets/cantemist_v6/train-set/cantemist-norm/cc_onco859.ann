@@ -1,0 +1,30 @@
+T1	MORFOLOGIA_NEOPLASIA 1126 1154	carcinoma ductal infiltrante
+#1	AnnotatorNotes T1	8500/3
+T2	MORFOLOGIA_NEOPLASIA 1472 1500	carcinoma ductal infiltrante
+#2	AnnotatorNotes T2	8500/3
+T3	MORFOLOGIA_NEOPLASIA 2010 2038	carcinoma ductal infiltrante
+#3	AnnotatorNotes T3	8500/3
+T4	MORFOLOGIA_NEOPLASIA 2345 2355	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2382 2392	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 2488 2511	metástasis de carcinoma
+#6	AnnotatorNotes T6	8010/6
+T7	MORFOLOGIA_NEOPLASIA 1956 1971	micrometástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 1694 1699	tumor
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 492 501	carcinoma
+#9	AnnotatorNotes T9	8010/3
+T10	MORFOLOGIA_NEOPLASIA 1302 1338	carcinoma ductal infiltrante grado 2
+#10	AnnotatorNotes T10	8500/32
+T11	MORFOLOGIA_NEOPLASIA 1524 1539	comedocarcinoma
+#11	AnnotatorNotes T11	8501/3
+T12	MORFOLOGIA_NEOPLASIA 1646 1661	macrometástasis
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 3678 3764	Carcinoma ductal infiltrante de mama subtipo luminal B, estadio IV por afectación ósea
+#13	AnnotatorNotes T13	8500/6
+T14	MORFOLOGIA_NEOPLASIA 2068 2070	Mx
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 1410 1439	enfermedad de Paget del pezón
+#15	AnnotatorNotes T15	8540/3

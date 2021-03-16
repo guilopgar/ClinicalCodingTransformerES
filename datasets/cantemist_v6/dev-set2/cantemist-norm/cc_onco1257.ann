@@ -1,0 +1,36 @@
+T1	MORFOLOGIA_NEOPLASIA 1486 1496	Metástasis
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1692 1702	Metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 2030 2063	adenocarcinoma de tipo intestinal
+#3	AnnotatorNotes T3	8144/3
+T4	MORFOLOGIA_NEOPLASIA 153 194	adenocarcinoma moderadamente diferenciado
+#4	AnnotatorNotes T4	8140/32
+T5	MORFOLOGIA_NEOPLASIA 2187 2197	malignidad
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 1473 1484	metastásica
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 2276 2287	metastásica
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 1680 1690	metástasis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 46 55	neoplasia
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 472 482	tumoración
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 1836 1846	tumoración
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 2229 2236	tumoral
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 247 260	pT3N1(2/12)Mx
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 1015 1033	Nódulos pulmonares
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 1401 1445	nódulos infracentimétricos en ambos pulmones
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 2079 2106	metástasis (de su carcinoma
+#16	AnnotatorNotes T16	8010/6
+T17	MORFOLOGIA_NEOPLASIA 2590 2605	lesión tiroidea
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 1945 1960	lesión tiroidea
+#18	AnnotatorNotes T18	8000/6

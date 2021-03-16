@@ -1,0 +1,22 @@
+T1	MORFOLOGIA_NEOPLASIA 59 87	carcinoma ductal infiltrante
+#1	AnnotatorNotes T1	8500/3
+T2	MORFOLOGIA_NEOPLASIA 588 594	cáncer
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 646 652	cáncer
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 1601 1607	cáncer
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 5216 5221	tumor
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 372 379	tumoral
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 5468 5475	tumoral
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 1561 1563	Mx
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 1467 1515	Carcinoma papilar seroso de ovario de alto grado
+#9	AnnotatorNotes T9	8461/34
+T10	MORFOLOGIA_NEOPLASIA 942 971	adenopatías supraclaviculares
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 2105 2125	recaída mediastínica
+#11	AnnotatorNotes T11	8000/6

@@ -1,0 +1,18 @@
+T1	MORFOLOGIA_NEOPLASIA 1432 1449	células tumorales
+#1	AnnotatorNotes T1	8001/1
+T2	MORFOLOGIA_NEOPLASIA 2406 2428	implantes peritoneales
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 2549 2559	malignidad
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 2221 2230	neoplasia
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 2737 2754	neoplasia maligna
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 2768 2817	tumor desmoplásico de células pequeñas y redondas
+#6	AnnotatorNotes T6	8806/3
+T7	MORFOLOGIA_NEOPLASIA 2819 2824	TDCPR
+#7	AnnotatorNotes T7	8806/3
+T8	MORFOLOGIA_NEOPLASIA 3154 3208	TDCPR intraabdominal estadio IV por afectación pleural
+#8	AnnotatorNotes T8	8806/6
+T9	MORFOLOGIA_NEOPLASIA 1817 1844	síndrome linfoproliferativo
+#9	AnnotatorNotes T9	9970/1

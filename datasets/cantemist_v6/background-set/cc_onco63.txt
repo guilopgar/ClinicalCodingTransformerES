@@ -1,0 +1,51 @@
+Anamnesis
+Mujer de 49 años, fumadora de 20 paquetes-años. Como antecedentes personales destacan: hipertensión en tratamiento farmacológico con buen control, artrosis lumbosacra (2008), síndrome ansioso depresivo, conización por CIN III (2006) seguida posteriormente con exploraciones normales, artrodesis L4-L5 por hernia discal (2010), con estenosis foraminal posterior que requirió artrodesis L3-L4 y L4-S1.
+
+A principios de noviembre de 2014 presenta cuadro de tos, expectoración blanquecina, febrícula, dolor en la escápula derecha y disnea de moderados esfuerzos. Refiere además pérdida de 12 kg de peso en los últimos 4 meses. Recibe tratamiento antibiótico sin mejoría, por lo que finalmente se realiza una radiografía de tórax (18/11/2014), en la que se visualiza una masa en el lóbulo superior derecho. Es remitida por este motivo a Neumología para su estudio. El 27/11/2014 se realiza una broncoscopia exploratoria, que objetiva un nódulo blanquecino en el bronquio subsegmentario superior sobre el que se toma biopsia. El informe anatomopatológico describe un adenocarcinoma de tipo fetal bien diferenciado, sin poder descartar que se trate de un blastoma en otras zonas no muestreadas. Se solicita una TC torácica para completar el estudio (9/12/2014), que confirma la presencia de una masa en el lóbulo superior derecho de 8,7 x 7 x 8 cm, junto con adenopatías paratraqueales derechas y prevasculares. El 15/12/2014 se completa el estudio de extensión con una PET, que muestra un elevado consumo de glucosa en la masa ya conocida, con una pequeña lesión satélite, y en adenopatías paratraqueales derechas altas e hiliares derechas.
+
+Con estos hallazgos se presenta el caso en sesión multidisciplinar, decidiéndose intervención quirúrgica. El 22/12/2014 es sometida a toracotomía exploradora, y tras no objetivarse infiltración de la pared torácica ni de estructuras vasculares ni mediastínicas, se lleva a cabo la lobectomía superior derecha junto con linfadenectomía 2R, 4R, 7, 10R y 11R. El postoperatorio transcurre sin incidencias.
+
+En el informe anatomopatológico se confirma el diagnóstico de adenocarcinoma de tipo fetal bien diferenciado pT3 pN2, estadio IIIA de la UICC.
+
+Es dada de alta el 25/12/2014, permaneciendo asintomática en su domicilio hasta principios de enero, cuando comienza con cefalea de características orgánicas que no cede con analgesia habitual. Asocia posteriormente náuseas y vómitos, por lo que acude a Urgencias el 14/1/2015, donde se realiza una TC craneal que objetiva metástasis cerebrales múltiples supra e infratentoriales. Es valorada por el Servicio de Radioterpia, administrándose radioterapia holocraneal desde el 16/1/2015 hasta el 29/1/2015, recibiendo un total de 30 Gy (3 Gy/sesión), con buena tolerancia y mejoría clínica.
+
+Exploración física
+ECOG 1. Consciente y orientada en tiempo, espacio y persona. Bien hidratada y perfundida.
+Neurológico: pares craneales normales; sin focalidad de vías largas; no alteraciones del lenguaje.
+Tórax: cicatriz de toracotomía sin signos de sobreinfección. Resto del examen sistémico dentro de la normalidad.
+
+Pruebas complementarias
+» Bioquímica (18/11/2015): creatinina 0,50 mg/dl; HDL-colesterol 37 mg/dl; resto normal.
+
+» Hemograma (18/11/2014): 9.600 leucocitos (fórmula normal); hemoglobina 12,3 g/dl; 520.000 plaquetas.
+
+» Radiografía de tórax (18/11/2014): masa en el lóbulo superior derecho.
+
+» TC toracoabdominal (9/12/2014): en el LSD se observa una gran masa de 8,7 x 7 cm en el plano axial de 8 cm de longitud craneocaudal que contacta con el ápex pulmonar sin aparente afectación de las primeras costillas; también contacta con la pared torácica anterosuperior, así como con la vena cava superior y la pared traqueal derecha; oblitera el bronquio del LSD; adenopatías paratraqueales derechas y prevasculares de hasta 12 mm en el eje corto; instrumentación metálica en columna lumbar.
+
+» PET (15/12/2014): el estudio pone de manifiesto un elevado consumo de glucosa por parte de la neoformación del pulmón derecho (SUV 10,6), con un diámetro máximo de 9,2 cm, teniendo adyacente a la misma una lesión satélite, en el plano posterior, donde se concentra mayor captación de glucosa; la masa contacta con una adenopatía mediastínica paratraqueal superior derecha (SUV 5,28) y está muy próxima a la adenopatía pretraqueal baja derecha (SUV 4,88); además, la masa engloba adenopatías interbronquiales e hiliares derechas; no hay otras captaciones patológicas en el resto del organismo estudiado.
+
+» Anatomía patológica (22/12/2014): adenocarcinoma bien diferenciado de tipo fetal de 7,5 cm de eje máximo que infiltra la pleura visceral y metastatiza en dos de los tres ganglios linfáticos hiliares examinados (4R) y respeta el borde quirúrgco de resección; positivo para citoqueratinas AE1/AE3 y CD30; negativo para cromogranina, sinaptofisina, CD56, PLAP, lactógeno placentario, b-HCG y alfa-fetoproteína. Mutación EGFR y traslocación ALK negativas.
+
+» TC craneal (14/1/2015): se objetiva la presencia de varias lesiones ocupantes de espacio (LOE), de aspecto quístico, infra y supratentoriales, que captan contraste en anillo; la mayor de ellas está localizada en el hemisferio cerebeloso izquierdo de 34 x 27 x 23 mm, que genera efecto expansivo con colapso del IV ventrículo con hidrocefalia asociada; a nivel de la protuberancia, en el lado derecho, se observa otra LOE subcentimétrica con realce en anillo; se observan otras cuatro LOE a nivel cerebral en ambos hemisferios.
+
+» TC toracoabdominopélvica (4/2/2015): pequeño nódulo en la pleura derecha a nivel subescapular de 7 mm de diámetro que pudiera estar en relación con metástasis pleural; masa hipodensa de 4,5 x 3,1 cm de diámetro en el lóbulo hepático izquierdo que no se observaba en el estudio previo, compatible con metástasis; quiste en el anejo derecho de 5,3 x 4,5 cm; en la fosa isquiorrectal derecha se observa una masa sólida de 2,8 cm que probablemente corresponde a una metástasis, al igual que otra masa sólida en situación del anejo izquierdo en contacto con la trompa de ese lado de 4,7 x 3 cm; en el polo superior del riñón derecho se observa una masa de 1,9 cm con centro necrótico que no se detectaba en el anterior estudio y que probablemente corresponde a una metástasis.
+
+Diagnóstico
+Adenocarcinoma de tipo fetal bien diferenciado pT3pN2 M0 (noviembre de 2014), mutación EGFR y traslocación ALK negativas.
+
+Recaída cerebral, pleural, renal y pélvica (enero de 2015).
+
+Tratamiento
+Tras completar tratamiento de radioterapia holocraneal y documentarse recaída sistémica, se inicia quimioterapia con intención paliativa el día 17/2/2015 con esquema cisplatino (75 mg/m2 día 1) y etopósido (100 mg/m2 días 1 a 3) cada 21 días. Recibe únicamente dos ciclos.
+
+Por otra parte, precisa tratamiento con dexametasona a dosis de 4 mg/8 h por cefalea secundaria a hipertensión intracraneal.
+
+Evolución
+Tras ser valorada por el Servicio de Radioterapia, se remite a nuestra consulta para valoración terapéutica. Se solicita TC corporal (4/2/2015) para completar el estudio sistémico, que pone de manifiesto recaída sistémica, con afectación pleural, hepática, renal y pélvica.
+
+Ante la sospecha de blastoma pulmonar con comportamiento agresivo, se presenta el caso en sesión conjunta con el Servicio de Anatomía Patológica, confirmándose el diagnóstico.
+
+Por este motivo se inicia tratamiento quimioterápico con intención paliativa con esquema cisplatino/etopósido, del que solo llega a recibir dos ciclos (el último el 13/3/2015) por mala tolerancia y deterioro clínico progresivo. Tras el segundo ciclo se decide suspender el tratamiento activo, y se solicita valoración por la Unidad de Cuidados Paliativos para seguimiento conjunto.
+
+El 27/3/2015 ingresa por deterioro clínico, edemas en los miembros inferiores y disnea progresiva hasta hacerse de reposo. Se instaura tratamiento sintomático con diuréticos, antibioterapia por posible infección respiratoria y morfina para el control del dolor y la disnea, sin mejoría. Ante la imposibilidad de manejo domiciliario y la situación clínica estable se decide su traslado a un centro de media estancia, donde fallece el día 6/4/2015.

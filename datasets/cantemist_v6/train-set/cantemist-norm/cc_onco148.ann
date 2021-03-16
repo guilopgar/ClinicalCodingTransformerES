@@ -1,0 +1,28 @@
+T1	MORFOLOGIA_NEOPLASIA 445 448	TCG
+#1	AnnotatorNotes T1	9064/3
+T2	MORFOLOGIA_NEOPLASIA 1579 1660	Tumor de células germinales testicular estadio III por enfermedad retroperitoneal
+#2	AnnotatorNotes T2	9064/6
+T3	MORFOLOGIA_NEOPLASIA 4172 4182	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 3704 3712	teratoma
+#4	AnnotatorNotes T4	9080/1
+T5	MORFOLOGIA_NEOPLASIA 887 892	tumor
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 3717 3722	tumor
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 4078 4085	tumoral
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 1363 1385	tumor seno endodérmico
+#8	AnnotatorNotes T8	9071/3
+T9	MORFOLOGIA_NEOPLASIA 1348 1357	TCG mixto
+#9	AnnotatorNotes T9	9064/3/H
+T10	MORFOLOGIA_NEOPLASIA 1392 1400	seminoma
+#10	AnnotatorNotes T10	9061/3
+T11	MORFOLOGIA_NEOPLASIA 3825 3847	tumor germinal maligno
+#11	AnnotatorNotes T11	9064/3
+T12	MORFOLOGIA_NEOPLASIA 3856 3881	tumor de seno endodérmico
+#12	AnnotatorNotes T12	9071/3
+T13	MORFOLOGIA_NEOPLASIA 1085 1097	masa pélvica
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 2188 2206	afectación pélvica
+#14	AnnotatorNotes T14	8000/6

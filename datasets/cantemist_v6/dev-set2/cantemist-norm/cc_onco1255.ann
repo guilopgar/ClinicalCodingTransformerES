@@ -1,0 +1,30 @@
+T1	MORFOLOGIA_NEOPLASIA 2311 2325	Tumor germinal
+#1	AnnotatorNotes T1	9064/3
+T2	MORFOLOGIA_NEOPLASIA 941 955	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 1120 1134	adenocarcinoma
+#3	AnnotatorNotes T3	8140/3
+T4	MORFOLOGIA_NEOPLASIA 1393 1407	carcinomatosis
+#4	AnnotatorNotes T4	8010/9
+T5	MORFOLOGIA_NEOPLASIA 335 345	hemangioma
+#5	AnnotatorNotes T5	9120/0
+T6	MORFOLOGIA_NEOPLASIA 1842 1864	implantes peritoneales
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 601 606	tumor
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 1579 1584	tumor
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 2041 2067	tumor del seno endodérmico
+#9	AnnotatorNotes T9	9071/3
+T10	MORFOLOGIA_NEOPLASIA 2376 2402	tumor del seno endodérmico
+#10	AnnotatorNotes T10	9071/3
+T11	MORFOLOGIA_NEOPLASIA 1711 1721	tumoración
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 515 561	metástasis de adenocarcinoma bien diferenciado
+#12	AnnotatorNotes T12	8140/61
+T13	MORFOLOGIA_NEOPLASIA 660 678	adenomas tubulares
+#13	AnnotatorNotes T13	8211/0
+T14	MORFOLOGIA_NEOPLASIA 1998 2024	neoplasia de tipo germinal
+#14	AnnotatorNotes T14	9064/3
+T15	MORFOLOGIA_NEOPLASIA 2432 2474	afectación adenopática peritoneal múltiple
+#15	AnnotatorNotes T15	8000/6

@@ -1,0 +1,20 @@
+Anamnesis
+Varón de 48 años, sin antecedentes médico-quirúrgicos de interés. Diagnosticado en noviembre de 2010 de un adenocarcinoma de pulmón cT2BN3M1 por nódulos pulmonares bilaterales, portador de la traslocación de ALK. Ante la falta de disponibilidad de crizotinib en dicho momento, se decide iniciar primera línea de quimioterapia según esquema cisplatino-pemetrexed, recibiendo un total de 6 ciclos hasta marzo de 2011 y evaluado como respuesta parcial. Inicia pemetrexed de mantenimiento, recibiendo 8 ciclos hasta septiembre de 2011 con estabilización de la enfermedad y pasa a seguimiento.
+Progresión pulmonar en enero de 2012; el paciente inicia tratamiento con crizotinib 250 mg cada 12 horas, presentando como toxicidad astenia grado 1 y neutropenia grado 1, presentando respuesta parcial mantenida.
+En octubre de 2013 el paciente acude a Urgencias por cuadro de cefalea de 3 días de evolución acompañada de vómitos en escopetazo y desorientación temporoespacial.
+
+Examen físico
+ECOG PS2. Índice de Karnofsky 60%. Bradipsiquico. Resto de la exploración física dentro de la normalidad.
+
+Pruebas complementarias
+- TC cerebral: múltiples lesiones nodulares encefálicas, las mayores de aproximadamente 2,5 cm de diámetro, la mayoría con realce anular tras la administración de contraste y otras de comportamiento quístico, sin edema perilesional significativo, compatibles con metástasis.
+- TC toracoabdominal: enfermedad estable.
+
+Diagnóstico
+Progresión cerebral sintomática en paciente con adenocarcinoma de pulmón estadio IV portador de traslocación de ALK en tratamiento con crizotinib.
+
+Tratamiento
+Se inicia corticoterapia con dexametasona. Dado el beneficio obtenido, se decide administrar radioterapia holocraneal paliativa (un total de 30 Gy en 5 fracciones) y mantener el crizotinib, excepto durante la radioterapia.
+
+Evolución
+El paciente continúa con crizotinib 250 mg cada 12 horas. En la TC de enero, abril y junio de 2014 mantiene respuesta parcial cerebral y enfermedad estable a nivel torácico.

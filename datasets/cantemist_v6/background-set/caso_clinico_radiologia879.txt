@@ -1,0 +1,150 @@
+Sexo: Femenino
+
+Edad: 73 años
+
+Antecedentes: HTA, Obesa (BMI 42). Asma en tratamiento con broncodilatadores. Disnea habitual CF II.
+
+ 
+Enfermedad actual
+
+En seguimiento por médico de cabecera quien solicita estudios de rutina. Se realiza:
+
+ Examen físico: 09/09/14 Ecocardiograma: Vid 4.91 Vis 3.73 Spe d1.39 PPD 1.17 GSVI conservada HK IBB, PSAP 58 mmHg FSVD conservada patrón de relajación prolongada.
+
+En junio de 2015 presenta internación en cardiología por disnea súbita sin descompensación hemodinámica.
+
+ ExF: Hemodinamicamente estable, bien perfundida, TA de ingreso 140/89 mmHg, buena mecánica ventilatoria, con hipoventilación general, saturación de oxígeno aire ambiente 93%.
+
+ECG de Ingreso: Ritmo sinusal PR 120 mseg, QRS 80 mseg FC 75 lpm sobrecarga de VD y AD (presenta S en DI y T neg en DIII).
+
+29/06/15 Ecocardiograma ingreso: 
+
+ Área de AI 10.2 Área de AD 20.7 
+
+ volúmenes y Función de ventrículo izquierdo conservado. 
+
+ septum paradojal. 
+
+ Ventrículo derecho con dilatación severa. 
+
+ TAPSE 18 mm PSAP 102 mmHg 
+
+ VCI no dilatada con colapso superior al 50%.
+
+ 
+
+29/06/15 TAC con protocolo para TEP:
+
+ 
+
+Derecho: defecto de relleno que compromete la arteria pulmonar derecha, arteria lobar del lóbulo medio arteria lobar del lóbulo medio, arteria lobar del lóbulo inferior derecho y algunas arterias subsegmentarias con posterior re permeabilización distal.
+
+Izquierdo: Defecto de relleno que compromete arteria lobar del lóbulo inferior izquierdo. La previa se asocia a abombamiento del septo interventricular con aumento del diámetro del VD.
+
+Aumento del diámetro del tronco de la pulmonar alcanzando 33 mm de diámetro.
+
+ 
+
+30/06/15 Ecodoppler de MMI sin evidencia de trombosis
+
+La paciente es dada de alta con seguimiento ambulatorio por la sección de insuficiencia cardiaca e hipertensión pulmonar.
+
+La paciente evoluciona con: disnea progresiva y signos de insuficiencia cardiaca derecha a pesar del tto anticoagulante + BNP 225. Se solicitan estudios para valorar circulación pulmonar.
+
+ratamiento
+
+ 
+
+ 10/09/15 Ecocardiograma
+
+• Diámetros diastólico del Ventrículo izquierdo 4. 
+
+• Diámetros sistólica del Ventrículo izquierdo 2,66
+
+• Área de AI 24 Área AD 19 
+
+• Diámetro del Ventrículo derecho (DB 48 mm DM 39 mm DL 9.15 mm)
+
+• TAPSE 18 mm PSAP 77 mmHg 
+
+Se observa persistencia de Presión sistólica de la arteria pulmonar elevada, a pesar de haberse encontrado en rango de anticoagulación durante los últimos 3 meses.
+
+ 
+
+17/09/15 ANGIO TAC:
+
+Sin defectos de relleno compatibles con TEP a nivel del tronco de la arteria pulmonar ramas pulmonares, lobares ni segmentarias. Diámetro de la arteria 29 mm. Relación VD/VI conservada. Presenta zonas de mosaico con zonas de mayor atenuación.
+
+18/09/15 test de marcha:
+
+Recorrió 330 m Borg 3 FC 77-115 Sat 95-89%   
+
+18/09/15 Centello v/q:
+
+hipo perfusión en segmento anterior de lóbulo superior del pulmón izq y con mayor compromiso en segmento apical del mismo lóbulo. Atrapamiento aéreo a nivel bronquial bilateral con ventilación adecuada en ambas playas pulmonares. 
+
+Tratamiento
+
+Ante la alta sospecha de Hipertensión pulmonar tromboembolia crónica se realiza: 
+
+1/10/15 Arteriografía pulmonar: lesión severa en arteria lobar del lóbulo medio de pulmón derecho. Defecto de relleno con TEP crónico en izquierdo
+
+1/10/15 Cateterismo derecho: 
+
+• FC 70 lat/min
+
+• TA 116/55/75 mmHg
+
+• PAD 7 mmHg
+
+• PAP 70/19/39 mmHg 
+
+• PCP 10 mmHg
+
+• IC 2.5 L/min/m2
+
+• VM 5.5 L/min/m2
+
+• RVP 419 dinas/cm-5
+
+• RVS 983 dinas/cm-5
+
+ 
+
+PAS: presión arterial sistémica, PAP: presión de arteria pulmonar. PAD: presión de aurícula derecha, PCP: presión capilar pulmonar RVP: Resistencia vascular pulmonar. IC: índice cardiaco VM: volumen minuto.
+
+Se diagnóstica Hipertensión pulmonar tromboembólica crónica, decidiéndose tromboendarterectomía pulmonar. 
+
+La paciente continúa seguimiento observándose en cateterismo derecho control posterior a la cirugía Hipertensión pulmonar residual 
+
+ 
+
+Cateterismo Derecho post cirugía: 
+
+ 
+
+• FC 88 lat/min
+
+• TA 120/60/82 mmHg
+
+• PAD 5 mmHg
+
+• PAP 47/22/32 mmHg
+
+• PCP 15 mmHg
+
+• IC 2.6 L/min/m2
+
+• GC 5.7 L/min/m2
+
+• RVS 1083 dinas/cm-5
+
+• RVP 239 dinas/cm-5
+
+ 
+
+PAS: presión arterial sistémica, PAP: presión de arteria pulmonar. PAD: presión de aurícula derecha, PCP: presión capilar pulmonar RVP: Resistencia vascular pulmonar. IC: índice cardiaco VM: volumen minuto
+
+Se inicia tratamiento con riociguat.
+
+Actualmente se encuentra con dosis del mismo de 2,5 mg c/8 hs, con buena tolerancia. CF II, sin edemas ni signos de insuficiencia cardiaca 

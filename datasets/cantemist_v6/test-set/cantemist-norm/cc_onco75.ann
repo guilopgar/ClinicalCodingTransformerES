@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 1652 1674	afectación a distancia
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 7375 7427	carcinoma ductal infiltrante pobremente diferenciado
+#2	AnnotatorNotes T2	8500/33
+T3	MORFOLOGIA_NEOPLASIA 2210 2231	carcinoma infiltrante
+#3	AnnotatorNotes T3	8010/3/H
+T4	MORFOLOGIA_NEOPLASIA 7603 7620	células tumorales
+#4	AnnotatorNotes T4	8001/1
+T5	MORFOLOGIA_NEOPLASIA 7485 7510	linfangitis carcinomatosa
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 1620 1631	metastásico
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 7643 7653	metástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 318 324	miomas
+#8	AnnotatorNotes T8	8895/0
+T9	MORFOLOGIA_NEOPLASIA 7808 7815	tumoral
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 572 588	(LOE) cerebrales
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 1072 1097	lesiones supratentoriales
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 5831 5871	neoplasia de mama estadio IV (metástasis
+#12	AnnotatorNotes T12	8000/6

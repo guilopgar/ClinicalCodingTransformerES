@@ -1,0 +1,42 @@
+T1	MORFOLOGIA_NEOPLASIA 3760 3787	enfermedad a nivel cerebral
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 4461 4480	enfermedad pulmonar
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 4376 4395	implantes pleurales
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 3815 3834	lesiones cerebrales
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2790 2802	metastásicas
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 3345 3355	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 4352 4362	metástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 1240 1252	neurofibroma
+#8	AnnotatorNotes T8	9540/0
+T9	MORFOLOGIA_NEOPLASIA 2437 2449	neurofibroma
+#9	AnnotatorNotes T9	9540/0
+T10	MORFOLOGIA_NEOPLASIA 880 893	neurofibromas
+#10	AnnotatorNotes T10	9540/0
+T11	MORFOLOGIA_NEOPLASIA 1167 1180	neurofibromas
+#11	AnnotatorNotes T11	9540/0
+T12	MORFOLOGIA_NEOPLASIA 1036 1053	neurofibromatosis
+#12	AnnotatorNotes T12	9540/1
+T13	MORFOLOGIA_NEOPLASIA 3088 3105	neurofibromatosis
+#13	AnnotatorNotes T13	9540/1
+T14	MORFOLOGIA_NEOPLASIA 554 572	nódulos pulmonares
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 1938 1957	sarcoma fusocelular
+#15	AnnotatorNotes T15	8801/3
+T16	MORFOLOGIA_NEOPLASIA 91 124	sarcoma pleomórfico de alto grado
+#16	AnnotatorNotes T16	8802/34
+T17	MORFOLOGIA_NEOPLASIA 3323 3338	suelta de globo
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 1787 1819	neoplásica de patrón fusocelular
+#18	AnnotatorNotes T18	8004/1
+T19	MORFOLOGIA_NEOPLASIA 3140 3189	sarcoma retroperitoneal pleomórfico de alto grado
+#19	AnnotatorNotes T19	8802/34
+T20	MORFOLOGIA_NEOPLASIA 3224 3308	tumor maligno de vaina nerviosa periférica estadio IV por la presencia de metástasis
+#20	AnnotatorNotes T20	9540/6
+T21	MORFOLOGIA_NEOPLASIA 4405 4423	implante en pleura
+#21	AnnotatorNotes T21	8000/6

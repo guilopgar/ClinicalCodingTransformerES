@@ -1,0 +1,39 @@
+Anamnesis
+Mujer de 49 años de edad, sin hábitos tóxicos ni antecedentes personales de interés, derivada en 2008 por su médico de cabecera al servicio de Aparato Digestivo para estudio de anemia ferropénica de 4 meses de evolución, diagnosticada tras consultar por astenia, debilidad e insomnio.
+
+Examen físico
+A la exploración, normotensa, taquicárdica, con buen estado general. Palidez de piel y mucosas.
+Exploración normal por órganos y aparatos.
+
+Pruebas complementarias
+- En la analítica destaca anemia microcítica hipocroma (Hb 10,3 g/dl, hematocrito 32,2%, VCM 74 fl, hierro 8 mcg/dl, ferritina 20 ng/ml).
+- La endoscopia evidencia una lesión gástrica ulcerada con restos hemáticos en la incisura angularis que se extiende hacia el antro y la curvatura menor.
+- En la TC tóraco-abdómino-pélvica presenta engrosamiento de la curvatura mayor gástrica. No otras alteraciones.
+
+Diagnóstico
+Se extrajeron varias biopsias de la lesión, con resultado de adenocarcinoma gástrico.
+
+Tratamiento
+Se realiza gastrectomía oncológica con linfadenectomía y reconstrucción con esofagoyeyunostomía.
+El análisis anatomopatológico concluye que se trata de un adenocarcinoma intestinal, bien diferenciado, que infiltra la muscular propia y subserosa (pT2b). De los 35 ganglios extirpados, solo uno parece afectado, sin rebasamiento capsular (pN1). Márgenes libres de tumor.
+Se repite la TC tóraco-abdómino-pélvica para valorar la enfermedad a distancia, la cual es negativa.
+En conclusión, se trata de un adenocarcinoma gástrico estadio IIb (pT2N1M0).
+Ante estos resultados, inicia tratamiento adyuvante mediante esquema Mc Donald (radioterapia más 5-fluorouracilo en bolo), completando los cinco ciclos, sin toxicidad relevante.
+
+Evolución
+Inicia revisiones encontrándose asintomática, con estudios de extensión sin evidencia de enfermedad y marcadores tumorales normales.
+Dieciséis meses tras la cirugía, presenta dolor en el hipocondrio derecho con hepatomegalia dura a la exploración. En la ecografía se evidencia una masa de 5,5 x 4,8 cm, que en la PET-TC presenta actividad metabólica elevada (SUV: 7,5), no hallándose afectación extrahepática.
+Se presenta en Comité Oncológico, que decide tratamiento quirúrgico más quimioterápico.
+Se realiza hepatectomía limitada de los segmentos V y VI mediante laparotomía, con buena evolución postoperatoria, y la biopsia confirma la recidiva.
+Se determina la sobreexpresión de cerbB2 en la muestra tumoral, resultando negativa, por lo que se decide iniciar tratamiento quimioterápico con esquema ECF (4-epirrubicina, cisplatino, 5-fluorouracilo). Completa los seis ciclos, con dos retrasos puntuales por neutropenia grado II.
+Una vez más, reinicia las revisiones encontrándose asintomática, con TC sin evidencia de enfermedad y marcadores tumorales negativos.
+Año y medio tras la recidiva refiere molestias en el hipocondrio derecho y sensación de masa subcutánea en dicha zona. Se realiza una ecografía abdominal, que confirma la presencia de una lesión nodular de 4 cm en la pared abdominal, adyacente a la zona hepática resecada. En la PET-TC se identifica como foco hipermetabólico compatible con infiltración tumoral (SUV 8,8). A su vez, la analítica muestra elevación de marcadores tumorales (CEA: 5,64 ng/ml, Ca 19.9: 26,8 UI/ml).
+Se realiza una PAAF que confirma la recaída tumoral.
+Vuelve a presentarse en Comité Oncológico, decidiéndose iniciar tratamiento quimioterápico, en esta ocasión con esquema DCF (docetaxel, cisplatino, 5-fluorouracilo) con profilaxis primaria para neutropenia con pegfilgrastim.
+La respuesta clínica se hace evidente al mes de iniciar el tratamiento, no palpándose masa alguna.
+Presentó toxicidad grado 3 de tipo hematológica, que obligó a reducir la dosis. No obstante, volvió a presentarse en el siguiente ciclo, por lo que se suspende el tratamiento en vistas de la mala tolerancia, además del aumento progresivo de los marcadores tumorales (CEA: 10,2 ng/ml, Ca 19.9: 88,3 UI/ml), habiendo completado un total de siete ciclos.
+En estos momentos, la paciente presenta regular estado general (PS: 2) con desnutrición proteico-calórica severa (peso < 40 kg), por lo que se prioriza la mejoría del estado general, reiniciando las revisiones.
+Con el tiempo, recupera parte del peso perdido (46 kg), mejora el estado general (PS: 1) y los marcadores tumorales vuelven finalmente a la normalidad.
+En enero de 2013, se palpa una masa en la cicatriz subcostal derecha, que en la ecografía abdominal se identifica como lesión nodular en la pared abdominal de 4,5 x 2,3 cm, sugestiva de implante tumoral. En la PET-TC se informa como foco hipermetabólico en el área adyacente a la cirugía hepática (SUV: 5,3) y la PAAF confirma, una vez más, la recidiva.
+En esta ocasión, se decide resecar la lesión. Retoma revisiones, sin evidencia de enfermedad.
+El 16 de mayo de 2014 acude nuevamente a revisión. Se encuentra asintomática, con buen estado general y ha ganado peso (58 kg). Aporta el resultado de la última TC. En esta se aprecia una lesión nodular en el parénquima pulmonar de 8,9 mm, localizada en el lóbulo superior derecho. No se aprecian adenopatías ni otras lesiones. Se solicita una PET-TC para valorar el rescate quirúrgico.

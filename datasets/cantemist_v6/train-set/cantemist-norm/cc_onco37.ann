@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 1872 1884	angiosarcoma
+#1	AnnotatorNotes T1	9120/3
+T2	MORFOLOGIA_NEOPLASIA 1987 1999	angiosarcoma
+#2	AnnotatorNotes T2	9120/3
+T3	MORFOLOGIA_NEOPLASIA 1079 1089	malignidad
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 2176 2187	metastásica
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2038 2050	neoformación
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 1872 1896	angiosarcoma epitelioide
+#6	AnnotatorNotes T6	8804/3
+T7	MORFOLOGIA_NEOPLASIA 1987 2011	angiosarcoma epitelioide
+#7	AnnotatorNotes T7	8804/3
+T8	MORFOLOGIA_NEOPLASIA 2103 2127	Angiosarcoma epitelioide
+#8	AnnotatorNotes T8	8804/3
+T9	MORFOLOGIA_NEOPLASIA 2103 2115	Angiosarcoma
+#9	AnnotatorNotes T9	9120/3
+T10	MORFOLOGIA_NEOPLASIA 1478 1500	nodulares subpleurales
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 1798 1816	lesiones pleurales
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 1963 1980	lesión subpleural
+#12	AnnotatorNotes T12	8000/6

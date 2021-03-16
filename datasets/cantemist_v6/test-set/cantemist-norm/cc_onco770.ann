@@ -1,0 +1,56 @@
+T1	MORFOLOGIA_NEOPLASIA 809 856	adenopatías laterocervicales, supraclaviculares
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 2448 2457	carcinoma
+#2	AnnotatorNotes T2	8010/3
+T3	MORFOLOGIA_NEOPLASIA 2864 2888	carcinoma indiferenciado
+#3	AnnotatorNotes T3	8020/3
+T4	MORFOLOGIA_NEOPLASIA 4761 4785	carcinoma indiferenciado
+#4	AnnotatorNotes T4	8020/3
+T5	MORFOLOGIA_NEOPLASIA 5874 5898	carcinoma indiferenciado
+#5	AnnotatorNotes T5	8020/3
+T6	MORFOLOGIA_NEOPLASIA 2517 2531	carcinomatosis
+#6	AnnotatorNotes T6	8010/9
+T7	MORFOLOGIA_NEOPLASIA 429 435	cáncer
+#7	AnnotatorNotes T7	8000/3
+T8	MORFOLOGIA_NEOPLASIA 4678 4695	células tumorales
+#8	AnnotatorNotes T8	8001/1
+T9	MORFOLOGIA_NEOPLASIA 5983 6002	enfermedad hepática
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 3384 3402	lesiones hepáticas
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 3682 3700	lesiones hepáticas
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 5406 5424	lesiones hepáticas
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 1976 1988	metastásicas
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 1274 1279	mioma
+#14	AnnotatorNotes T14	8895/0
+T15	MORFOLOGIA_NEOPLASIA 390 399	neoplasia
+#15	AnnotatorNotes T15	8000/1
+T16	MORFOLOGIA_NEOPLASIA 3757 3767	neoplásico
+#16	AnnotatorNotes T16	8000/1
+T17	MORFOLOGIA_NEOPLASIA 3151 3156	tumor
+#17	AnnotatorNotes T17	8000/1
+T18	MORFOLOGIA_NEOPLASIA 2549 2559	tumoración
+#18	AnnotatorNotes T18	8000/1
+T19	MORFOLOGIA_NEOPLASIA 4470 4477	tumoral
+#19	AnnotatorNotes T19	8000/1
+T20	MORFOLOGIA_NEOPLASIA 4588 4595	tumoral
+#20	AnnotatorNotes T20	8000/1
+T21	MORFOLOGIA_NEOPLASIA 6091 6100	tumorales
+#21	AnnotatorNotes T21	8000/1
+T22	MORFOLOGIA_NEOPLASIA 4377 4384	tumores
+#22	AnnotatorNotes T22	8000/1
+T23	MORFOLOGIA_NEOPLASIA 2163 2178	sólido-quística
+#23	AnnotatorNotes T23	8452/1
+T24	MORFOLOGIA_NEOPLASIA 3621 3655	carcinoma altamente indiferenciado
+#24	AnnotatorNotes T24	8020/3
+T25	MORFOLOGIA_NEOPLASIA 3803 3837	carcinoma altamente indiferenciado
+#25	AnnotatorNotes T25	8020/3
+T26	MORFOLOGIA_NEOPLASIA 3909 3922	LOE hepáticas
+#26	AnnotatorNotes T26	8000/6
+T27	MORFOLOGIA_NEOPLASIA 4205 4263	cáncer de pulmón célula grande (escamoso y adenocarcinoma)
+#27	AnnotatorNotes T27	8560/3
+T28	MORFOLOGIA_NEOPLASIA 4205 4235	cáncer de pulmón célula grande
+#28	AnnotatorNotes T28	8012/3

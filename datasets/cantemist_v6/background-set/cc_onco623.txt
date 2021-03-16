@@ -1,0 +1,39 @@
+Anamnesis
+Mujer de 56 años, premenopáusica, sin alergias medicamentosas conocidas, exfumadora desde hace 16 años con un índice acumulado de 25 paquetes-año, hipertensa en tratamiento con enalapril/hidroclorotiazida, a la que se le realizó histerectomía por miomas a los 43 años y resección de tumor de células gigantes en el dedo índice de la mano derecha a los 45 años.
+En el árbol genealógico de la paciente se observan familiares de primer y segundo grado de consanguinidad.
+
+Resumen de la historia oncológica
+En el año 2012, a los 50 años de edad, encontrándose asintomática, la paciente se realiza la primera mamografía de control dentro del programa de cribado de cáncer de mama, evidenciándose nódulo mamario derecho. Se completa estudio mediante biopsia con aguja gruesa (BAG), con Anatomía Patológica (AP) compatible con carcinoma ductal infiltrante (CDI) grado 2 (G2) de Nottingham de mama derecha con receptores de estrógeno positivos (90 %), receptores de progesterona positivos (90 %), HER-2 negativo, Ki67 50 % y e-cadherina positivo por inmunohistoquímica.
+Se procede a intervención quirúrgica mediante cuadrantectomía y linfadenectomía axilar derecha, con AP compatible con carcinoma micropapilar de mama derecha G2 pT1c pN2a (4/18).
+Con estadio IIB (AJCC 8ª edición) en mujer premenopáusica, recibe tratamiento adyuvante con quimioterapia según esquema DAC x 6 ciclos (docetaxel 75 mg/m2, adriamicina 50 mg/m2, ciclofosfamida 500 mg/m2) junto con soporte con factores estimulantes de colonias de granulocitos, radioterapia externa adyuvante alcanzando 50 Gy sobre área mamaria derecha con sobreimpresión de 10 Gy a lecho quirúrgico y hormonoterapia con tamoxifeno 20 mg/día.
+En julio de 2014, estando asintomática y en tratamiento hormonal adyuvante con tamoxifeno, se evidencia elevación analítica del antígeno carcinoembrionario (CEA) a valores de 11 ng/ml. Se completa estudio mediante tomografía computarizada toracoabdominopélvica (TC-TAP) objetivando lesiones ganglionares y óseas, y BAG de adenopatía supraclavicular, compatible con metástasis de carcinoma de mama, con expresión de receptores hormonales y HER-2 negativo. Con un intervalo libre de enfermedad (ILE) de 2 años, inicia la primera línea de tratamiento con endocrinoterapia basada en letrozol 2,5 mg asociando ácido zoledrónico 4 mg (con el que continúa a fecha de hoy), con respuesta parcial radiológica y respuesta bioquímica (normalización de CEA).
+Así mismo, dada la historia personal y familiar de la paciente, es remitida a nuestra Unidad de Consejo Genético en cáncer donde es valorada en noviembre de 2015. Teniendo en cuenta que la paciente fue diagnosticada de un cáncer de mama unilateral a los 50 años y el antecedente familiar de la tía paterna diagnosticada de cáncer de mama bilateral, el primero con 42 años, se propone a la paciente realizar estudio germinal de los genes BRCA-1 y BRCA-2, relacionados con el síndrome de cáncer de mama y ovario hereditario (SCMOH). En dicho análisis, se detecta una variante en el exón 11 del gen BRCA-2; c.3922G > T (nomenclatura HGVS), p.Glu1308Stop, descrita en la literatura médica como patogénica.
+En diciembre de 2016, a raíz de elevación de CEA a 37 ng/ml, se solicita TC-TAP evidenciándose progresión ganglionar. Inicia segunda línea hormonal con exemestano 2,5 mg y everolimus 10 mg, con enfermedad estable radiológica como máxima respuesta, y progresión hepática (tres lesiones, la mayor de 1,7cm) así como aumento de CEA a 46 ng/ml tras cinco meses de tratamiento.
+En mayo de 2017 inicia tercera línea con fulvestrant 500 mg mensual a altas dosis, con progresión radiológica ganglionar y hepática a los tres meses.
+En agosto se propone primera línea de tratamiento quimioterápico según esquema paclitaxel 90 mg/m2 días 1, 8 y 15 y bevacizumab 10 mg/kg días 1 y 8 cada 28 días, presentando como toxicidad más reseñable neurotoxicidad grado 1 y diarrea grado 1. Tras dos ciclos de tratamiento presenta reducción de un 16 % de las lesiones diana (RECIST 1.1). Sin embargo, tras cuatro ciclos de tratamiento presenta progresión radiológica ganglionar y hepática, así como progresión bioquímica (CEA 168 ng/ml basal; CEA 905 ng/ml en noviembre de 2017).
+En noviembre de 2017 inicia segunda línea de tratamiento quimioterápico con capecitabina 1.000 mg/m 2 cada 12 horas días 1-14 cada 21 días, evidenciando respuesta parcial radiológica tras los primeros tres ciclos de tratamiento. Mantiene respuesta parcial radiológica y respuesta bioquímica (CEA 10 ng/ml), pero tras seis ciclos presenta síndrome palmoplantar grado 3 que precisa reducción de la dosis. En diciembre de 2018, tras 17 ciclos de tratamiento, se objetiva progresión hepática y ganglionar por TC y bioquímica (CEA 195 ng/ml).
+
+Exploración física
+» PS ECOG 1. Buen estado general, bien hidratada y perfundida. Eupneica.
+» Cabeza y cuello: sin adenopatías periféricas palpables.
+» Exploración mamaria: cicatriz de cuadrantectomía en mama derecha, no hay datos de recaída local. Mama izquierda sin nodulaciones.
+» Auscultación cardiaca: rítmico.
+» Auscultación pulmonar: buena ventilación global.
+» Abdomen blando, depresible, no doloroso en la palpación.
+
+Pruebas complementarias
+TC-TAP 17/12/2018: progresión ganglionar y hepática. Crecimiento de un 26 % de las lesiones diana (RECIST 1.1).
+» Aumento de tamaño de las tres lesiones hepáticas metastásicas. La de mayor tamaño, localizada en segmento VII, mide 44 mm; otras dos lesiones de 27 mm y 22 mm localizadas en segmento III de lóbulo hepático izquierdo.
+» Crecimiento de las adenopatías localizadas en hilio hepático, ligamento gastrohepático, peritronco celiaco e interaortocavas; superan los 23 mm de eje menor, a control como enfermedad ganglionar diana.
+» » Lesiones óseas blásticas sin modificaciones, sin masa de partes blandas.
+Analítica de sangre 21/12/2018: creatinina 0,75 mg/dl, perfil hepático dentro del rango de normalidad, hemoglobina 12,9 g/dl, CEA 195 ng/ml.
+
+Diagnóstico
+» Carcinoma micropapilar de mama estadio IV (hepáticas, ganglionares) en progresión a cinco líneas de tratamiento (letrozol, exemestano-everolimus, fulvestrant, paclitaxel, capecitabina).
+» Variante patogénica en el exón 11 del gen BRCA-2; c.3922G>T (nomenclatura HGVS), p.Glu1308Stop.
+
+Tratamiento
+Ante mujer de 56 años diagnosticada de carcinoma de mama estadio IV con progresión a múltiples líneas de tratamiento, tanto hormonal como quimioterápico, y portadora de una variante patogénica en el gen BRCA-2, se solicita talazoparib dentro de uso expandido, iniciándolo en febrero de 2019 a dosis de 1 mg cada 24 horas, con excelente tolerancia y respuesta bioquímica y radiológica.
+
+Evolución
+Se observa la evolución del CEA durante el tratamiento con talazoparib. En el momento actual, la paciente continúa en tratamiento activo con talazoparib.

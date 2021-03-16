@@ -1,0 +1,14 @@
+T1	MORFOLOGIA_NEOPLASIA 1765 1769	GIST
+#1	AnnotatorNotes T1	8936/3
+T2	MORFOLOGIA_NEOPLASIA 1261 1275	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 2681 2697	células malignas
+#3	AnnotatorNotes T3	8001/3
+T4	MORFOLOGIA_NEOPLASIA 652 662	tumoración
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 717 741	Carcinoma adrenocortical
+#5	AnnotatorNotes T5	8370/3
+T6	MORFOLOGIA_NEOPLASIA 848 872	carcinoma adrenocortical
+#6	AnnotatorNotes T6	8370/3
+T7	MORFOLOGIA_NEOPLASIA 1711 1735	carcinoma adrenocortical
+#7	AnnotatorNotes T7	8370/3

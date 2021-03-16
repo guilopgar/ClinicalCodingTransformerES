@@ -1,0 +1,30 @@
+T1	MORFOLOGIA_NEOPLASIA 3561 3578	Carcinoma coloide
+#1	AnnotatorNotes T1	8480/3
+T2	MORFOLOGIA_NEOPLASIA 1381 1395	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 1414 1421	cT2N0M0
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1671 1678	cT3N0M0
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 4761 4770	carcinoma
+#5	AnnotatorNotes T5	8010/3
+T6	MORFOLOGIA_NEOPLASIA 1290 1307	carcinoma coloide
+#6	AnnotatorNotes T6	8480/3
+T7	MORFOLOGIA_NEOPLASIA 3188 3205	células tumorales
+#7	AnnotatorNotes T7	8001/1
+T8	MORFOLOGIA_NEOPLASIA 1225 1235	tumoración
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 1543 1553	tumoración
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 3433 3440	tumoral
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 4623 4630	tumoral
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 3514 3523	tumorales
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 2955 3034	tumoración epitelial infiltrante constituida por muy abundante material coloide
+#13	AnnotatorNotes T13	8480/3
+T14	MORFOLOGIA_NEOPLASIA 3610 3624	pT3aN1(1/16)M0
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 4528 4584	carcinoma renal de células claras, grado 1-2 de Fürhman
+#15	AnnotatorNotes T15	8310/32

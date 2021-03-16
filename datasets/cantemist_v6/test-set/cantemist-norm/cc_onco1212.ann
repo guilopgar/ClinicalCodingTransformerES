@@ -1,0 +1,26 @@
+T1	MORFOLOGIA_NEOPLASIA 2401 2440	carcinoma de células en anillo de sello
+#1	AnnotatorNotes T1	8490/3
+T2	MORFOLOGIA_NEOPLASIA 154 160	cáncer
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 1285 1311	células en anillo de sello
+#3	AnnotatorNotes T3	8490/3
+T4	MORFOLOGIA_NEOPLASIA 1939 1965	células en anillo de sello
+#4	AnnotatorNotes T4	8490/3
+T5	MORFOLOGIA_NEOPLASIA 2059 2085	células en anillo de sello
+#5	AnnotatorNotes T5	8490/3
+T6	MORFOLOGIA_NEOPLASIA 2967 2993	células en anillo de sello
+#6	AnnotatorNotes T6	8490/3
+T7	MORFOLOGIA_NEOPLASIA 1648 1658	malignidad
+#7	AnnotatorNotes T7	8000/3
+T8	MORFOLOGIA_NEOPLASIA 3142 3152	malignidad
+#8	AnnotatorNotes T8	8000/3
+T9	MORFOLOGIA_NEOPLASIA 2318 2325	maligno
+#9	AnnotatorNotes T9	8000/3
+T10	MORFOLOGIA_NEOPLASIA 695 705	tumoración
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 1215 1234	Tumor de Krukenberg
+#11	AnnotatorNotes T11	8490/6
+T12	MORFOLOGIA_NEOPLASIA 1869 1888	tumor de Krukenberg
+#12	AnnotatorNotes T12	8490/6
+T13	MORFOLOGIA_NEOPLASIA 1989 2008	tumor de Krukenberg
+#13	AnnotatorNotes T13	8490/6

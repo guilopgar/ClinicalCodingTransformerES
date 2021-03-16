@@ -1,0 +1,38 @@
+T1	MORFOLOGIA_NEOPLASIA 3255 3274	afectación cerebral
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 2768 2774	cáncer
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 2801 2807	cáncer
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 3032 3051	células neoplásicas
+#4	AnnotatorNotes T4	8001/1
+T5	MORFOLOGIA_NEOPLASIA 3725 3744	células neoplásicas
+#5	AnnotatorNotes T5	8001/1
+T6	MORFOLOGIA_NEOPLASIA 3334 3353	lesiones cerebrales
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1636 1661	lesiones supratentoriales
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 391 401	metástasis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 1741 1751	metástasis
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 1912 1922	metástasis
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 2962 2972	metástasis
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 3287 3297	metástasis
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 3400 3410	metástasis
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 3626 3636	metástasis
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 4111 4121	neoplasias
+#15	AnnotatorNotes T15	8000/1
+T16	MORFOLOGIA_NEOPLASIA 96 144	adenocarcinoma de próstata (pT2bN0M0), Gleason 7
+#16	AnnotatorNotes T16	8140/32
+T17	MORFOLOGIA_NEOPLASIA 124 132	pT2bN0M0
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 1959 2008	Metástasis cerebrales múltiples de adenocarcinoma
+#18	AnnotatorNotes T18	8140/6
+T19	MORFOLOGIA_NEOPLASIA 2274 2319	lesiones dispersas por el parénquima cerebral
+#19	AnnotatorNotes T19	8000/6

@@ -1,0 +1,34 @@
+T1	MORFOLOGIA_NEOPLASIA 2466 2487	enfermedad secundaria
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 2546 2567	enfermedad secundaria
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 4900 4919	lesiones pulmonares
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 6039 6058	lesiones pulmonares
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 5424 5434	malignidad
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 1658 1669	metastásica
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 4920 4932	metastásicas
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 6059 6071	metastásicas
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 1218 1227	neoplasia
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 2288 2298	tumoración
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 484 491	tumoral
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 3443 3450	tumoral
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 4632 4639	tumoral
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 5807 5814	tumoral
+#14	AnnotatorNotes T14	8000/1
+T15	MORFOLOGIA_NEOPLASIA 549 585	carcinoma escamoso no queratinizante
+#15	AnnotatorNotes T15	8072/3
+T16	MORFOLOGIA_NEOPLASIA 2150 2186	carcinoma escamoso no queratinizante
+#16	AnnotatorNotes T16	8072/3
+T17	MORFOLOGIA_NEOPLASIA 4150 4194	Carcinoma escamoso de orofaringe (cT3cN2cM1)
+#17	AnnotatorNotes T17	8070/6

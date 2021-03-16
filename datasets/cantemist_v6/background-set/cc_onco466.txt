@@ -1,0 +1,32 @@
+Anamnesis
+Antecedentes
+Varón de 65 años, sin alergias medicamentosas, exfumador desde hace 20 años (40 paquetes/año); obeso, hipertenso en tratamiento con amlodipino y losartán, dislipémico en tratamiento con simvastatina y portador de CPAP por síndrome apnea del sueño. Sin antecedentes familiares de interés y jubilado tras haber trabajado como administrativo, realizando vida activa.
+
+Historia oncológica
+» En 2009, tras estudio por hematuria monosintomática se realizó RTU de carcinoma urotelial transicional pT1G3, con 6 sesiones de BCG adyuvante.
+» En 2012 se detectó una recidiva vesical que se trató nuevamente con RTU de carcinoma transicional pTisG3, con nueva adyuvancia con BCG.
+» En 2016 en la citología de control, se encontraron células atípicas sugestivas de carcinoma urotelial de alto grado, con cistoscopia sin hallazgos, por lo que se repitió el tratamiento con BCG x6 sesiones.
+En septiembre de 2017 tras una TC abdominopélvica con adenopatías retroperitoneales inespecíficas se realizó una PET-TC que mostraba lesiones hipercaptantes metabólicamente en adenopatías supraclaviculares, mediastínicas y retroperitoneales; óseas en cuerpo esternal y trocánter mayor izquierdo; hepáticas múltiples y dos nódulos subcentimétricos pulmonares.
+» Se realiza biopsia hepática en octubre de 2017 compatible con metástasis por carcinoma transicional de vejiga y se actualiza estudio con TAC T-A-P, incluyéndose en ensayo clínico IMvigor130 correspondiéndole tras la aleatorización la rama de atezolizumab 1.200 mg en monoterapia (primer ciclo 2/11/2017).
+» Recibe los dos primeros ciclos sin toxicidad relevante, en la visita previa al tercer ciclo refiere astenia y anorexia G2, que no impide la administración de éste.
+
+Enfermedad actual
+Acude a su visita programada el 2/1/2018 para evaluación y administración del cuarto ciclo en silla de ruedas, con deterioro marcado del estado general, refiriendo dolor lumbar de nueva aparición, edemas bilaterales en miembros inferiores, disnea de esfuerzo y astenia intensa que le dificultan la deambulación, por lo que en la última semana realiza vida cama-sillón. No presenta semiología infecciosa ni otra clínica por aparatos y sistemas.
+Exploración física
+Presentaba un mal estado general, con un performance status de 3. En la exploración física, se encontraba estable hemodinámicamente, en situación de anasarca, con crepitantes bibasales y aumento del perímetro abdominal con ascitis no a tensión y hepatomegalia no dolorosa de 2 traveses de dedo. El resto de la exploración por aparatos fue anodina.
+
+Pruebas complementarias
+En la bioquímica destacaba un deterioro marcado de función renal con una creatinina de 3,4 mg/dl, unido a una hiperuricemia de 22,4 mg/dl, LDH de 2.457 U/l, hipoalbuminemia de 2,3 g/dl, hiperpotasemia de 6,1 mEq/l, hiperfosfatemia de 5,8 mg/dl, todo ello de nueva aparición. El resto de determinaciones analíticas (incluido hemograma, hemostasia, gasometría venosa, análisis de orina y hormonas tiroideas) eran normales.
+La TC realizada ambulatoriamente para evaluación de la enfermedad tras 3 ciclos el 28/1/2017 mostraba estabilidad de la enfermedad ganglionar con desarrollo de hepatomegalia metastásica infiltrativa con desarrollo de ascitis y aparición de múltiples lesiones óseas en raquis con crecimiento de las ya conocidas.
+Se realizó de forma urgente un ECG que no mostraba alteraciones debidas a la hiperkaliemia y una ecografía abdominal que descartó dilatación de vía excretora renal.
+
+Diagnóstico
+Dada la presencia de deterioro de función renal con elevación clara de potasio, ácido úrico, LDH y fósforo se establece el diagnóstico de síndrome de lisis tumoral en paciente con carcinoma urotelial metastásico en tratamiento inmunoterápico.
+
+Tratamiento
+Se decidió ingreso hospitalario del paciente con fluidoterapia con diuréticos, bicarbonato y rasburicasa. Dada la insuficiencia renal, la situación de anasarca y la necesidad de fluidoterapia agresiva, se realizó interconsulta a Nefrología para manejo conjunto.
+
+Evolución
+En los primeros días del ingreso se corrigieron las alteraciones iónicas y el ácido úrico descendió a niveles normales, manteniéndose tras el cambio de rasburicasa a ácido úrico el 10/1/2018. En ese momento, la función renal se había estabilizado en torno a 2,3 mg/dl, persistiendo edemas en MMII y ascitis que habían mejorado parcialmente.
+Tras conseguir la estabilidad clínica estando el paciente con un PS 2, tras explicar al paciente la situación de progresión de la enfermedad y los pros y los contras de un tratamiento quimioterápico, se decide iniciar carboplatino AUC 5 y gemcitabina con reducción del 25 % de dosis (750 mg/m2), ajustando al peso ideal dados los edemas, recibiendo el 15/1/2018 la primera dosis.
+Desgraciadamente, tras la administración de la quimioterapia, el paciente presentó deterioro clínico progresivo, con empeoramiento de la disnea y ortopnea. Se decidió no pautar la gemcitabina del día +8 dado el deterioro clínico, centrándose exclusivamente en control de síntomas. El 23/1/2018 inició un cuadro de hematemesis franca y melenas, iniciando sedación paliativa, y falleciendo en las siguientes 24 horas.

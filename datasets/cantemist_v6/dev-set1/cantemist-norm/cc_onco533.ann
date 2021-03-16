@@ -1,0 +1,30 @@
+T1	MORFOLOGIA_NEOPLASIA 2489 2503	Lesiones óseas
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 3645 3659	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 1852 1890	adenocarcinoma pobremente diferenciado
+#3	AnnotatorNotes T3	8140/33
+T4	MORFOLOGIA_NEOPLASIA 3369 3389	carcinoma lobulillar
+#4	AnnotatorNotes T4	8520/3
+T5	MORFOLOGIA_NEOPLASIA 4104 4124	carcinoma lobulillar
+#5	AnnotatorNotes T5	8520/3
+T6	MORFOLOGIA_NEOPLASIA 3135 3167	carcinoma lobulillar infiltrante
+#6	AnnotatorNotes T6	8520/3
+T7	MORFOLOGIA_NEOPLASIA 3465 3479	carcinomatosis
+#7	AnnotatorNotes T7	8010/9
+T8	MORFOLOGIA_NEOPLASIA 3752 3768	implante tumoral
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 2458 2468	malignidad
+#9	AnnotatorNotes T9	8000/3
+T10	MORFOLOGIA_NEOPLASIA 2577 2587	metástasis
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 2545 2554	neoplasia
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 1673 1683	neoplásica
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 2672 2677	tumor
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 3412 3463	Carcinoma lobulillar de mama IV con afectación ósea
+#14	AnnotatorNotes T14	8520/6
+T15	MORFOLOGIA_NEOPLASIA 3493 3514	infiltración colónica
+#15	AnnotatorNotes T15	8000/6

@@ -1,0 +1,30 @@
+T1	MORFOLOGIA_NEOPLASIA 1749 1760	metastásico
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1045 1055	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1094 1104	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 848 858	tumoración
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 2171 2181	tumoración
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 1469 1476	tumoral
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 2481 2488	tumoral
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 2713 2720	tumoral
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 3815 3822	tumoral
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 1390 1415	linfoma folicular grado 2
+#10	AnnotatorNotes T10	9691/3
+T11	MORFOLOGIA_NEOPLASIA 1552 1582	carcinoma de células de Merkel
+#11	AnnotatorNotes T11	8247/3
+T12	MORFOLOGIA_NEOPLASIA 1501 1536	carcinoma anaplásico neuroendocrino
+#12	AnnotatorNotes T12	8246/34
+T13	MORFOLOGIA_NEOPLASIA 1597 1662	Carcinoma de células de Merkel estadio IV por afectación hepática
+#13	AnnotatorNotes T13	8247/6
+T14	MORFOLOGIA_NEOPLASIA 1686 1703	linfoma folicular
+#14	AnnotatorNotes T14	9690/3
+T15	MORFOLOGIA_NEOPLASIA 1745 1748	CMM
+#15	AnnotatorNotes T15	8000/6

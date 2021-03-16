@@ -1,0 +1,28 @@
+T1	MORFOLOGIA_NEOPLASIA 3606 3627	afectación secundaria
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 4146 4187	carcinoma neuroendocrino de célula grande
+#2	AnnotatorNotes T2	8013/3
+T3	MORFOLOGIA_NEOPLASIA 4264 4281	células tumorales
+#3	AnnotatorNotes T3	8001/1
+T4	MORFOLOGIA_NEOPLASIA 3495 3505	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 4655 4662	tumoral
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 3539 3551	macroadenoma
+#6	AnnotatorNotes T6	8140/0
+T7	MORFOLOGIA_NEOPLASIA 3888 3940	carcinoma no célula pequeña, pobremente diferenciado
+#7	AnnotatorNotes T7	8046/33
+T8	MORFOLOGIA_NEOPLASIA 4315 4358	carcinoma neuroendocrino de células grandes
+#8	AnnotatorNotes T8	8013/3
+T9	MORFOLOGIA_NEOPLASIA 2862 2881	afectación hepática
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 2818 2857	diseminación a nivel infradiafragmático
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 2945 2973	implantes a nivel subcutáneo
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 3824 3844	lesiones subcutáneas
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 3564 3588	lesiones parenquimatosas
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 3450 3467	lesión pituitaria
+#14	AnnotatorNotes T14	8000/6

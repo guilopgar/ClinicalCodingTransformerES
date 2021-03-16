@@ -1,0 +1,28 @@
+Anamnesis
+Mujer de 38 años de edad, premenopáusica y exfumadora desde hace 3 años. No tiene otros antecedentes personales ni familiares de interés. Sin tratamiento habitual e independiente para todas las actividades de la vida diaria.
+Autopalpación de un nódulo mamario en cuadrante superoexterno de mama derecha en septiembre de 2013, sin clínica constitucional ni otra sintomatología.
+
+Exploración física
+En la primera consulta, la paciente presenta un ECOG 0, se palpa una tumoración de unos 3 cm en cuadrante superoexterno de mama derecha, y no se aprecian adenopatías axilares, supra ni infraclaviculares. Pezón sin retracción ni secreciones. No tiene lesiones cutáneas ni megalias palpables.
+
+Pruebas complementarias
+» » Bioquímica, hemograma y coagulación normales. Placa de tórax normal.
+» » Se realiza estudio completo con mamografía que sugiere lesión maligna (BIRADS 5) por lo que se realiza biopsia de dicha lesión que demuestra un carcinoma ductal infiltrante con receptores hormonales positivos (RRHH +) ,HER-2 positivo y Ki67 del 40 %. CA 15,5 al diagnóstico 72 U/ml. Se completa estudio de extensión con TC toracoabdominal, objetivando enfermedad diseminada por afectación adenopática contralateral. No aparece lesión a otros niveles.
+
+Diagnóstico
+Carcinoma de mama metastásico RRHH positivos y HER-2 negativo.
+
+Tratamiento
+Se presenta en comité de tumores, y se decide inicio de quimioterapia sistémica con antraciclinas-paclitaxel x 12 ciclos con respuesta completa metabólica en PET-TC de reevaluación. Posteriormente, se procede a cirugía (julio 2014) del primario (mastectomía) y linfadenectomía bilateral.
+
+Evolución
+Tras la cirugía, la paciente recibe terapia hormonal con tamoxifeno y supresión ovárica con agonistas de GnRh (premenopáusica). En enero de 2015 (sin enfermedad durante más de siete meses y con ECOG 0), presenta progresión adenopática y cutánea torácica extensa no dolorosa (gran coraza sin eritema, ni signos de exudado, ni sobreinfección), por lo que inició capecitabina-bevacizumab durante 12 ciclos con respuesta parcial mantenida pero, tras la misma, progresión cutánea en lecho de mastectomía y bioquímica (julio 2016).
+En este escenario, se decide 2ª línea con platino-gemcitabina x 12 ciclos con progresión locorregional a posteriori, no visceral. Además, sufre dolor neuropático en relación con infiltración tipo coraza que requiere manejo con opiáceos. Se inicia 3ª línea con eribulina.
+En TC reevaluación en marzo de 2017, se aprecia crecimiento de los nódulos subcutáneos torácicos. Se presenta de nuevo en comité y se comienza tratamiento con palbociclib + fulvestrant + bloqueo hormonal (premenopáusica) desde marzo hasta mayo de 2017 por nueva progresión tumoral pulmonar (nódulo derecho de nueva aparición sin ninguna otra clínica sobreañadida).
+En agosto de 2017, progresión pulmonar y ósea en TC toracoabdominal, comenzando tratamiento (5º línea) con everolimus-exemestano. Recibe el último ciclo el 16/02/2018.
+En marzo de 2018 comienza con disnea para moderados y ortopnea de una semana de evolución, por lo que decide acudir a Urgencias donde se aprecia ausencia de murmullo vesicular hasta campo medio izquierdo y derrame pleural bilateral con mayor cuantía en lado izquierdo en placa de tórax.
+Saturación basal del 90 %. Se procede a toracocentesis diagnóstica y terapéutica con citología compatible con exudado tumoral.Exploración física
+En la primera consulta, la paciente presenta un ECOG 0, se palpa una tumoración de unos 3 cm en cuadrante superoexterno de mama derecha, y no se aprecian adenopatías axilares, supra ni infraclaviculares. Pezón sin retracción ni secreciones. No tiene lesiones cutáneas ni megalias palpables.
+La paciente ingresa para estudio donde se realiza TC que informa de progresión tumoral (cutánea y ósea), significativo derrame pericárdico y pleural bilateral. Se realiza también ecocardiograma con derrame pericárdico grave, aunque sin compromiso hemodinámico. Debido a la dificultad técnica para llevar a cabo un drenaje simple percutáneo por la gran coraza extensa, se decidió realizar una pericardiocentesis. Por este motivo, se trasladó a la paciente a un centro de referencia para practicar una ventana pericárdica vía subxifoidea y colocación de dos tubos de tórax bilaterales. El procedimiento cursó sin incidencias y la paciente pudo regresar a nuestro hospital tras 48 horas de la intervención.
+Se pudo realizar talcaje bilateral y retirada de los tubos endopleurales. Se colocó un catéter subcutáneo pericárdico que finalmente pudo ser retirado con excelente evolución clínica y mejoría franca de la disnea y ortopnea.
+Actualmente, en tratamiento con nab-paclitaxel con buena tolerancia, ECOG 0, ausencia de disnea, mejoría de la coraza torácica con regresión parcial y pendiente de nueva TC de reevaluación.

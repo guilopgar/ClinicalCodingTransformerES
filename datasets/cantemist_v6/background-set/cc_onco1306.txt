@@ -1,0 +1,23 @@
+Anamnesis
+Mujer de 50 años con antecedentes personales de fiebre reumática y dislipemia. Se diagnostica de cáncer de mama ductal infiltrante en agosto de 2004, estadio IIB (T2N1M0), luminal B, iniciando neoadyuvancia con esquema basado en antraciclinas y taxanos, presentando respuesta parcial clínica y anatomopatológica tanto en mama como en axila. En mayo de 2005, se practica cirugía conservadora más linfadenectomía axilar y completa adyuvancia con radioterapia y tamoxifeno durante 5 años. En noviembre de 2011, existe progresión bioquímica y ósea (L5) más ganglionar mediastínica y retroperitoneal evidenciada en TC. Se realiza EBUS para biopsia ganglionar mediastínica con persistencia del subtipo histológico luminal (RE+, RP-,Her2-), y se reinicia tamoxifeno. En enero de 2012 presenta progresión clínica (tos y disfonía) y bioquímica, por lo que recibe doxorrubicina liposomal-docetaxel-zoledrónico (8 ciclos) con respuesta metabólica completa en PET. En noviembre de 2012 comienza con lumbalgia, se detecta captación gammagráfica en L5 y nuevo aumento de marcadores tumorales, por lo que inicia carboplatino (3 ciclos). En enero de 2013 empeora neurológicamente (ataxia, diplopía, parálisis facial derecha e inestabilidad de la marcha), por lo que es ingresada para punción lumbar ante la sospecha de carcinomatosis meníngea (CM).
+
+Examen físico
+ECOG 1. Consciente y orientada en las 3 esferas. Palidez cutáneo-mucosa. Parálisis facial periférica derecha. Signo de Bell derecho. Desconjugación ocular en mirada lateral bilateral (diplopía horizontal). Reflejos ausentes en extremidades.
+Reflejo cutáneo-plantar indiferente bilateral. Romberg inestable. Marcha en "sttepage". Ausencia de elevación del velo del paladar casi completa. Resto de la exploración anodina.
+
+Pruebas complementarias
+Citología del líquido cefalorraquídeo (LCR) x 2: negativa para malignidad. Hiperproteinorraquia. CEA 2,47 ng/ml, CA 15.3 58,19 U/ml. FA normal.
+RM craneal: normal.
+RM columna (figs. 1 y 2): lesiones hipointensas en T11, L5. Disrupción de la cortical de L5 y mínima invasión del canal.
+TC body: imagen lítica en L5, resto normal.
+EMG: severa polirradiculopatía lumbar múltiple bilateral.
+
+Diagnóstico
+Carcinomatosis meníngea difusa en progresión. Polirradiculopatía mixta periférica y radicular de origen infiltrativo.
+Cáncer de mama estadio IV.
+
+Tratamiento
+La CM se trata con citarabina liposomal (CL)/2 semanas intratecal (x 3: inducción) más dexametasona intratecal y sistémica, para prevenir aracnoiditis.
+
+Evolución
+Tras 1.er ciclo de CL desciende de la proteinorraquia y mejora la ataxia. Tras 3 ciclos, esta empeora y se añade parálisis facial y queratitis bilaterales, se dificulta más la deglución, colocándose gastrostomía. Actualmente con ECOG 3, sigue cuidados paliativos.

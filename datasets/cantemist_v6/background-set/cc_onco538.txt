@@ -1,0 +1,27 @@
+Anamnesis
+Varón de 34 años no fumador y sin antecedentes personales o familiares de interés.
+En marzo de 2018, acude al Servicio de Urgencias por presentar disnea de 15 días de evolución. Se realiza electrocardiograma donde se observa QRS con datos de bajo voltaje y cardiomegalia en radiografía anterior de tórax. Es ingresado en Medicina Interna para estudio, diagnosticándose finalmente de derrame pericárdico grave sin compromiso hemodinámico. Se realiza estudio serológico y autoinmune siendo ambos negativos. Puesto que el paciente presenta favorable respuesta al tratamiento esteroideo y antiinflamatorio, se da de alta con seguimiento por Cardiología, atribuyéndose el cuadro a un origen idiopático.
+En octubre de 2018, requiere ingreso hospitalario al presentar de nuevo derrame pericárdico grave con criterios ecocardiográficos de taponamiento cardiaco, por lo que se realiza pericardiocentesis evacuadora, siendo el líquido compatible con exudado no complicado por criterios de light. Resultado microbiológico negativo y no es analizado por Anatomía Patológica. Se realiza posteriormente RM cardiaca con hallazgos compatibles con miopericarditis, función sistólica biventricular conservada y moderado derrame pericárdico sin datos de constricción. Se instaura de nuevo tratamiento esteroideo con respuesta rápida favorable por lo que es dado de alta.
+En diciembre de 2018, ingresa por el mismo cuadro clínico. Ante la recidiva cada vez más precoz del derrame pericárdico, se propone realizar pericardiectomía al sospechar una incipiente pericarditis efusivo-constrictiva.
+
+Exploración física
+Diciembre de 2018: buen estado general. ECOG 0. Estable hemodinámicamente. Eupneico en reposo con buena mecánica respiratoria. Sin datos de congestión sistémica o pulmonar. Sin datos clínicos o exploratorios de taponamiento cardiaco. Facie Cushingoide. ACP: ruidos rítmicos sin soplos ni roces. Buen murmullo vesicular. Abdomen blando y depresible, no es doloroso a la palpación, sin masas o megalias. MMII sin hallazgos patológicos.
+
+Pruebas complementarias
+Se realiza en diciembre 2018 TC de tórax y abdomen previa a la intervención donde se observa conglomerado adenopático paratraqueal e hiliar derecho de 44 x 20 mm e imagen nodular de 17 x 12 mm en continuidad con hilio derecho. Se identifican, además, múltiples nódulos subcentimétricos bilaterales. Voluminoso derrame pericárdico con un espesor máximo de 16 mm. Sin otros hallazgos a destacar.
+En PET-TC se identifica depósitos patológicos en relación con adenopatías hiliomediastínicas bilaterales, infraclaviculares y laterocervicales derechas. Nódulo hiliar derecho de 14 mm y numerosas lesiones nodulares subcentimétricas bilaterales. En plano anterior al pericárdico izquierdo, se identifica otra lesión milimétrica sugestiva de malignidad. Engrosamiento pleural derecho y depósito focal hepático de 10 mm, ambos con captación patológica del trazador.
+En control analítico presentaba elevación de CEA (87), CA 12,5 (1.261), CA 15,3 (48,9), SNE (49,6).
+Ante estos hallazgos, se solicita EBUS con toma de biopsia de adenopatía paratraqueal derecha, que finalmente resulta compatible con carcinoma de células no pequeñas tipo adenocarcinoma. Las células neoplásicas fueron negativas para tinción inmunohistoquímica con p40 y CD56 y positivas para factor 1 de transcripción tiroideo (TTf1) y CK. Queda pendiente el estudio de biomarcadores.
+
+Diagnóstico
+Al tratarse de un adenocarcinoma de pulmón, TxN3M1, estadio IV por afectación hepática y pericárdica, en enero 2019 se presenta el caso en comité multidisciplinar, decidiéndose tratamiento oncológico.
+
+Tratamiento
+Al no disponer aún de resultados de biomarcadores por Anatomía Patológica, decidimos esperar a iniciar tratamiento. Finalmente, en febrero 2019, obtenemos los siguientes resultados: EGFR negativo, ALK positivo, ROS-1 negativo, PDL-1 del 90 %.
+Al confirmase translocación ALK, se solicita RM craneal que descarta enfermedad a este nivel, e inicia primera línea paliativa con alectinib 600 mg cada 12 horas diario.
+
+Evolución
+En el primer control analítico, se constata disminución de todos los marcadores tumorales, comprobándose también disminución del derrame pericárdico por ecocardiografía que permitió reducción de las dosis de corticoides con mejoría de su disnea, así como reversión progresiva de los efectos secundarios al tratamiento esteroideo.
+En abril 2019, a los 2 meses de iniciar el tratamiento, se realiza TC de tórax y abdomen donde se observa respuesta parcial de la masa primaria mediastínica-hilar derecha (en más del 50 % del volumen) y de todo el componente adenopático en tórax y abdomen, así como de la afectación pulmonar metastásica bilateral, observándose ahora escasos micronódulos que no superan los 3 mm. Ligero derrame pericárdico. No se observaron lesiones hepáticas aunque, para su correcta valoración de respuesta, precisaremos de una nueva PET/TC posteriormente.
+Actualmente, tras 3 meses de tratamiento, refiere ausencia de disnea sin precisar corticoides. Presenta derrame pericárdico escaso sin datos de compromiso hemodinámico y los marcadores tumorales han descendido significativamente CEA (8), CA 12,5 (19,3), CA 15.3 (14), SNE (19).
+Como toxicidad, únicamente ha presentado eritema en MMII tras exposición solar leve sin necesidad de detener o reducir dosis del tratamiento y disgeusia.

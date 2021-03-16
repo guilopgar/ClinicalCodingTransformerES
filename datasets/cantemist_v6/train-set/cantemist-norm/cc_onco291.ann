@@ -1,0 +1,34 @@
+T1	MORFOLOGIA_NEOPLASIA 3229 3246	células tumorales
+#1	AnnotatorNotes T1	8001/1
+T2	MORFOLOGIA_NEOPLASIA 3523 3531	melanoma
+#2	AnnotatorNotes T2	8720/3
+T3	MORFOLOGIA_NEOPLASIA 2919 2931	metastásicos
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 3830 3840	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 6177 6187	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 4046 4061	rabdomiosarcoma
+#6	AnnotatorNotes T6	8900/3
+T7	MORFOLOGIA_NEOPLASIA 1436 1448	tumoraciones
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 2974 2984	tumoración
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 2687 2694	tumoral
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 3025 3032	tumoral
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 74 118	leucemia linfoblástica aguda L1 de células B
+#11	AnnotatorNotes T11	9835/36
+T12	MORFOLOGIA_NEOPLASIA 211 238	leucemia linfobástica aguda
+#12	AnnotatorNotes T12	9835/3
+T13	MORFOLOGIA_NEOPLASIA 743 767	rabdomiosarcoma alveolar
+#13	AnnotatorNotes T13	8920/3
+T14	MORFOLOGIA_NEOPLASIA 1366 1407	adenopatías cervicales, supraclaviculares
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 3578 3602	rabdomiosarcoma alveolar
+#15	AnnotatorNotes T15	8920/3
+T16	MORFOLOGIA_NEOPLASIA 3691 3699	leucemia
+#16	AnnotatorNotes T16	9800/3
+T17	MORFOLOGIA_NEOPLASIA 3704 3728	rabdomiosarcoma alveolar
+#17	AnnotatorNotes T17	8920/3

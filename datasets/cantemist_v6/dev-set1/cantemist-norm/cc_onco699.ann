@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 352 361	carcinoma
+#1	AnnotatorNotes T1	8010/3
+T2	MORFOLOGIA_NEOPLASIA 1505 1533	carcinoma ductal infiltrante
+#2	AnnotatorNotes T2	8500/3
+T3	MORFOLOGIA_NEOPLASIA 3472 3500	carcinoma ductal infiltrante
+#3	AnnotatorNotes T3	8500/3
+T4	MORFOLOGIA_NEOPLASIA 3121 3138	colangiocarcinoma
+#4	AnnotatorNotes T4	8160/3
+T5	MORFOLOGIA_NEOPLASIA 1353 1363	malignidad
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 3045 3055	malignidad
+#6	AnnotatorNotes T6	8000/3
+T7	MORFOLOGIA_NEOPLASIA 4272 4282	malignidad
+#7	AnnotatorNotes T7	8000/3
+T8	MORFOLOGIA_NEOPLASIA 3109 3119	metástasis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 3554 3564	metástasis
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 1790 1856	carcinoma ductal infiltrante de 1,3 cm, moderadamente diferenciado
+#10	AnnotatorNotes T10	8500/32

@@ -1,0 +1,30 @@
+Anamnesis
+Se trata de un varón de 75 años, fumador con un IPA de 60, bebedor activo con cirrosis hepática (child A5) de probable etiología enólica sin tratamiento. Sin antecedentes familiares de interés.
+El paciente fue diagnosticado en 2011 de un melanoma cutáneo en la espalda, estadio III. Se extirpó quirúrgicamente y se administró adyuvancia con interferón a altas dosis durante un año.
+Presentó una recidiva en ganglio axilar izquierdo en 2014, que se resecó confirmándose malignidad y evidenciando en estudio de extensión metástasis hepáticas, con LDH de 334 U/l. Se estudió BRAF, con resultado nativo. Se iniciaron 6 ciclos de dacarbazina con progresión hepática y adrenal, administrándose posteriormente 4 ciclos de ipilimumab desde mayo de 2015, con respuesta parcial mantenida hasta abril de 2016, momento en el cual se evidencia progresión hepática, esplénica, adrenal y pulmonar. En junio de 2016 se pautó pembrolizumab, recibiendo el paciente un total de 16 ciclos, con respuesta casi completa salvo persistencia de una única lesión hepática. En junio de 2017, se suspendió el tratamiento con inmunoterapia, manteniéndose el paciente en remisión, mostrando la último TC de control en julio de 2018 enfermedad estable.
+En septiembre de 2018 el paciente acudió a consulta por disnea y aumento de perímetro de MMII. Presentaba desde hacía varios meses un cuadro de edemas en extremidades y aumento del tamaño del perímetro abdominal, tratados mediante furosemida y espironolactona y puestos en relación de su hepatopatía de base, con función renal con creatinina en torno a 1,5 mg/dl.
+Ante el empeoramiento del cuadro, y aparición de disnea, acudió a Urgencias en septiembre de 2018, presentando a su llegada como dato más destacable una creatinina de 3,08 mg/dl.
+
+Exploración física
+El paciente presentaba aumento de perímetro abdominal, y presencia de edemas en ambas extremidades inferiores, hasta raíz de miembros.
+
+Pruebas complementarias
+» Analítica al ingreso: hemograma: leucocitos 3.500 (neutrófilos 84,7 %; linfocitos 11,9 %), hemoglobina 10,9 g/dl (VCM 105,3), plaquetas 101.000. LDH 364 U/l. Bioquímica: proteínas totales 6, albúmina 3,3, HbA1C 4,70 %, urea 96 mg/dl, creatinina 3,08 mg/dl, FG 18,7. Perfil abdominal: GGT 239 U/l, FA 107 U/l, bilirrubina total 0,6 mg/dl. Ceruloplasmina negativa. Proteinograma: normal.
+» Uroanálisis: proteínas 200; hematíes 150; leucocitos 0; nitritos negativo.
+» Orina 24 horas (31/08/2018): volumen 700 cc; 0,97 g de proteínas (73,3 % de albúmina, no pico monoclonal en orina); excreción urea 7.392 (límite bajo 24.000); excreción Na 32,9 (límite bajo 40).
+» Estudio de autoinmunidad: perfil antifosfolípido normal. pANCA y cANCA negativos. ANAnegativos. No consumo de complemento. Serologías: VHB, VHC, VHD y sífilis negativa.
+» Hemocultivos, urocultivos, cultivos de esputo y cultivos de líquido ascítico negativos.
+» Paracentesis diagnóstica (06/09/2018): albúmina 1,7; LDH 132; ADA 11,2; hematíes 3.100; Leucocitos 400 (100 % mononucleares); glucosa 123.
+» Ecografía abdominal 31/2008: Hepatopatía crónica. Riñones con tamaño dentro de la normalidad sin evidencia de dilatación pielocalicial. Líquido libre perihepático, periesplénico, en ambos flancos y en pelvis. Ecocardiografía transtorácica (12/09/2018): sin hallazgos significativos.
+» Endoscopia digestiva alta (13/09): bulbo-duodenitis papulosa, que en AP se informa comometástasis de melanoma amelanótico.
+» Biopsia renal (20/09/2018): metástasis intraglomerular de melanoma.
+
+Diagnóstico
+Glomerulonefritis rápidamente progresiva secundaria a metástasis intraglomerulares de melanoma.
+
+Tratamiento
+» Durante el ingreso, el paciente presentó episodio de descompensación hidrópica así como deterioro progresivo de la función renal, siendo necesario el establecimiento de pauta de hemodiálisis.
+» Dada la buena respuesta al tratamiento previo con inmunoterapia, se decidió iniciar nuevamente tratamiento con pembrolizumab, recibiendo una dosis.
+
+Evolución
+A pesar de retomar el tratamiento con inmunoterapia y el tratamiento de soporte con hemodiálisis, el paciente presentó gran deterioro clínico y analítico, con desarrollo de encefalopatía urémica por fallo renal progresivo, disminución del nivel de consciencia, empeoramiento de la ascitis y aparición de cuadro de insuficiencia respiratoria. Se decidió en conjunto con su familia priorizar medidas de confort, falleciendo a los 72 h

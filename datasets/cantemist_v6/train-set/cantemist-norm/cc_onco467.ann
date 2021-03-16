@@ -1,0 +1,10 @@
+T1	MORFOLOGIA_NEOPLASIA 5924 5940	Melanoma maligno
+#1	AnnotatorNotes T1	8720/3
+T2	MORFOLOGIA_NEOPLASIA 231 239	melanoma
+#2	AnnotatorNotes T2	8720/3
+T3	MORFOLOGIA_NEOPLASIA 918 926	melanoma
+#3	AnnotatorNotes T3	8720/3
+T4	MORFOLOGIA_NEOPLASIA 511 533	metástasis de melanoma
+#4	AnnotatorNotes T4	8720/6
+T5	MORFOLOGIA_NEOPLASIA 1456 1487	recidiva intestinal de melanoma
+#5	AnnotatorNotes T5	8720/6

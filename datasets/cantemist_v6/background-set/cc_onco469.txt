@@ -1,0 +1,30 @@
+Anamnesis
+Antecedentes personales
+Varón de 51 años, sin antecedentes médicos ni quirúrgicos de interés. ECOG 0. No recibe tratamiento crónico. Adecuado soporte socio-familiar.
+
+Historia oncológica
+Diagnosticado en abril de 2018 (50 años) de adenocarcinoma de pulmón estadio IVb (8ª edición AJJCC Cancer Staging Manual, 2017), PD-L1 60 %, sin evidencia de alteraciones moleculares en EGFR, ALK y ROS-1.
+Inició tratamiento de primera línea con pembrolizumab (200 mg cada 3 semanas), alcanzando respuesta parcial tras el 4º ciclo. Recibió un total de 10 ciclos hasta diciembre de 2018, manteniendo respuesta.
+
+Historia actual
+En enero de 2019, tras el 11º ciclo, consultó en Urgencias por febrícula, sin clínica de focalidad infecciosa. En la analítica, se objetivó insuficiencia renal leve (creatinina 1,60 mg/dl). Se descartó infección complicada/causa obstructiva (ecografía abdominal) y, al observar discreta mejoría inicial con hidratación parenteral, dada la sospecha de infección del tracto urinario inferior con fracaso prerrenal asociado, se decidió manejo ambulatorio con antibioterapia de amplio espectro (cultivos de orina negativos), tras lo cual remitió la febrícula y mejoró la función renal.
+Posteriormente, recibió 2 ciclos adicionales de pembrolizumab. Entonces la febrícula reapareció y, en marzo de 2019, volvió a consultar en Urgencias, en este caso por pico febril de hasta 38 ºC. Asimismo, presentaba en los días-semanas previos gonalgia izquierda aguda de características inflamatorias y cuadro de poliuria (diuresis estimada de aproximadamente 3 l de orina), sin claro predominio nocturno ni causa farmacológica evidente.
+
+Exploración física
+En la exploración, se encontraba febril (38 ºC). Destacaban signos de deshidratación mucocutánea y monoartritis de rodilla izquierda, con marcada inflamación e impotencia funcional.
+
+Pruebas complementarias
+La analítica mostró insuficiencia renal grave (creatinina 2,60 mg/dl) sin respuesta a fluidoterapia ni datos de obstrucción (ecografía abdominal); junto con una profunda acidosis metabólica hiperclorémica no compensada (pH 7,19; HCO3- 14,5 mEq/l; pCO2 30 mm Hg; cloruro 110 mEq/l) y cifras de potasio en el límite inferior de la normalidad (K+ 3,5 mEq/l). El estudio de la orina confirmó la poliuria (volumen orina 24 horas: 4,5 l) y mostró una inadecuada compensación ácido-base e iónica (pH urinario > 6,5; anión GAP urinario 22), así como leucocituria aséptica (nitratos, bacterias y cultivos negativos). El estudio del eje renina-angiotensina aldosterona puso de manifiesto un hiperaldosteronismo hiperreninémico (aldosterona: 336 pg/ml; actividad renina 22,8 ng/ml/h). Se descartó insuficiencia suprarrenal. De forma global, los hallazgos fueron compatibles con nefritis túbulo-intersticial aguda y acidosis tubular renal proximal/tipo II.
+El estudio del líquido sinovial extraído de la articulación inflamada (rodilla izquierda) objetivó un patrón inflamatorio muy marcado (aspecto opaco, filancia disminuida, consumo de glucosa, proteínas aumentadas, leucocitos 50.000/ul). Se descartó artritis microcristalina e infecciosa. El hemograma mostró anemia normocítica-normocrómica (inflamatoria) y leucocitosis con neutrofilia y monocitosis absoluta, así como trombocitosis reactivas. Los reactantes de fase aguda (PCR, VSG) se encontraban elevados. El estudio de autoinmunidad realizado posteriormente evidenció positividad para autoanticuerpos antinucleares (ANA) a título elevado (1/160), así como valores de factor reumatoide (FR) y anticuerpos antipéptido cíclico citrulinado (aPCC) más de 2 veces por encima del límite superior de la normalidad (FR: 25 UI/ml, aPCC: 147,4 UI/ml). Los criterios serológicos eran compatibles con artritis reumatoide.
+Dado que ambas complicaciones eran de mecanismo inmunomediado (se descartaron etiologías comunes: infecciosa, farmacológica), coincidieron en el tiempo y guardaban secuencia temporal inequívoca con pembrolizumab, fueron atribuidas al anticuerpo anti-PD-1.
+
+Diagnóstico
+Nefritis túbulo-intersticial aguda, acidosis tubular renal proximal/tipo II y monoartritis inflamatoria con criterios serológicos de artritis reumatoide secundarios a pembrolizumab.
+
+Tratamiento
+Se iniciaron corticoides sistémicos a dosis elevadas (prednisona 1 mg/kg/ día), junto con soporte hidroelectrolítico y ácido-base vigoroso para reponer las pérdidas renales de líquidos, potasio y bicarbonato (> 1 mEq/kg/día), así como analgesia no nefrotóxica para el control del dolor articular.
+
+Evolución
+Durante los primeros días del tratamiento, la evolución fue favorable. Analíticamente, se constató el comienzo de la recuperación del aclaramiento de creatinina, así como disminución significativa de los requerimientos parenterales de bicarbonato y potasio, hasta alcanzar unos niveles que permitieron el cambio a suplementación oral. Se produjo también normalización del hemograma y una disminución generalizada de todos los marcadores inflamatorios. Clínicamente, el paciente quedó afebril y con remisión de la gonartrosis.
+Ante la mejoría sustancial, se continuó el seguimiento de forma ambulatoria, con descenso lentamente progresivo de la dosis de corticoides y mejoría continua de los parámetros analíticos. Coincidiendo con un descenso de la dosis de corticoides (prednisona < 10 mg/día), volvió a presentar otro episodio de acidosis metabólica grave que precisó nuevo ingreso hospitalario. En este punto, se decidió no reiniciar el tratamiento con pembrolizumab de forma definitiva, dada la toxicidad grado 2 inmunomediada no resuelta.
+En su última reevaluación en junio 2019, en tratamiento con dosis bajas de corticoides (prednisona 10 mg/día), el paciente presenta una creatinina en torno a 0,80 mg/dl, un pH superior a 7,20 y adecuados niveles de bicarbonato y potasio séricos con suplementación oral. La enfermedad oncológica sigue en situación de respuesta parcial mantenida sin precisar el inicio de una segunda línea de tratamiento.

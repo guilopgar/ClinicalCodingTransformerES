@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 1379 1381	M1
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 473 483	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1355 1365	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 3202 3211	neoplasia
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 3256 3263	tumores
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 643 711	carcinoma de células renales tipo células claras grado 3 de Fürhman
+#6	AnnotatorNotes T6	8312/33
+T7	MORFOLOGIA_NEOPLASIA 1127 1133	T3N0M1
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 1409 1412	CCR
+#8	AnnotatorNotes T8	8312/3
+T9	MORFOLOGIA_NEOPLASIA 1616 1630	lesión cutánea
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 4229 4253	cáncer de células claras
+#10	AnnotatorNotes T10	8005/3
+T11	MORFOLOGIA_NEOPLASIA 643 691	carcinoma de células renales tipo células claras
+#11	AnnotatorNotes T11	8310/3
+T12	MORFOLOGIA_NEOPLASIA 1212 1230	lesión supraciliar
+#12	AnnotatorNotes T12	8000/6

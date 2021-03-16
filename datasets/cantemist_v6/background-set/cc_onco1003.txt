@@ -1,0 +1,28 @@
+Anamnesis
+ANTECEDENTES PERSONALES:
+Sin alergias medicamentosas conocidas. Sin antecedentes personales de interés excepto hipercolesterolemia familiar en tratamiento con rosuvastatina 20 mg al día y ezetimiba 10 mg al día. Sin antecedentes oncológicos familiares
+MOTIVO DE CONSULTA:
+Consulta en marzo de 2016 en Urgencias Médicas por dolor en cadera izquierda de 4 meses de evolución que no cede a pesar de analgesia de primer escalón de la OMS.
+
+Exploración física
+ECOG-PS 2 por dolor en cadera izquierda invalidante.
+No hay deformidad, crepitación ni hematoma. Sin acortamiento ni actitud en rotación externa ni interna. Movilidad activa conservada. Rotaciones tanto a 0º como a 90º conservadas pero dolorosas. No hay dolor durante la compresión axial, tampoco en la palpación trocantérea ni inguinal.
+El resto de la exploración física destaca una hepatomegalia de tres traveses de dedo no dolorosa.
+
+Pruebas complementarias
+El 14/03/16, se realiza tomografía computarizada (TC) donde se identifica una lesión lítica en región intertrocantérea-diáfisis proximal del fémur izquierdo con adelgazamiento y ruptura de la cortical, así como componente de partes blandas asociado.
+Analítica: debemos destacar únicamente una hipertransaminasemia G2 de meses de evolución que habían asociado al tratamiento hipolipemiante.
+
+Diagnóstico
+Ante una paciente de 29 años con una lesión osteoblástica en cadera izquierda, tras presentar el caso en Comité de Tumores Musculoesqueléticos y no disponer de diagnóstico histológico, se decide biopsia excisional. Previo a la intervención, el 30/3/16, presenta fractura patológica de cadera izquierda. El 1 de abril de 2016 se realiza toma de biopsia quirúrgica tras la cual se produjo sangrado procediendo mediante radiología intervencionista a la embolización de la arteria circunfleja femoral lateral con posterior cese del sangrado.
+El 07/04/16 se realiza enclavado medular de fémur izquierdo sin complicaciones.
+Se completó estudio mediante TC toracoabdominopélvica en la que se evidencian masas hepáticas heterogéneas e hipervasculares sugestivas de hepatocarcinoma fibrolamelar.
+Se realiza analítica completa con alfa-fetoproteína, serología hepática y pruebas de autoinmunidad. Destaca una alfa-fetoproteína (AFP) de 182,6 ng/ml; hipertransaminasemia G2; GOT > GPT desde el inicio, con un índice de MELD de 9. El resto de estudios son negativos por lo que la sospecha diagnóstica inicial fue de un hepatocarcinoma fibrolamelar estadio IV por metástasis óseas. No se realizó biopsia hepática para confirmar el diagnóstico por el alto riesgo de sangrado de la paciente.
+Sin embargo, el resultado definitivo de la anatomía patología es de metástasis por hepatocarcinoma celular clásico con positividad débil a moderada y difusa para hepatocito en todas las células tumorales. Se muestra discrepancia con las imágenes radiológicas, edad de la paciente y antecedentes.
+
+Tratamiento
+En un primer momento, ante sospecha de un hepatocarcinoma variante fibrolamelar por la edad de la paciente, imágenes radiológicas y ausencia de factores de riesgo, se inicia, dado el riesgo de sangrado de la paciente y la inestabilidad secundaria a la biopsia excisional, primera línea de tratamiento quimioterápico con esquema gemcitabina 1000 mg/m2 + oxaliplatino 100 mg/m2 cada 14 días, siendo el primer ciclo el 14/04/16.
+Recibe un total de 3 ciclos, el último el 13/05/16. Presenta aumento progresivo de la AFP, con un valor de 182,60 ng/ml previo al inicio del tratamiento y de 939,20 ng/ml tras el último ciclo, así como deterioro de la función hepática con aumento de la bilirrubina 1,22 mg/dl. Se solicita nueva TC para descartar progresión de enfermedad (11/5/16), manteniendo criterios de enfermedad estable.
+Se realiza en este momento FibroScan® tras estabilización de la paciente que objetiva una fibrosis grado 4 (40,9 Kp) compatible con cirrosis hepática.
+Se completó el estudio con una gastroscopia donde no se aprecian varices esofágicas ni signos de gastropatía por hipertensión portal.
+Tras comentar en Comité de Tumores Hepatobiliares con el radiólogo, sin objetivar progresión de enfermedad pero, dado el aumento progresivo de la AFP, el empeoramiento de la función hepática y la confirmación histológica de que nos encontramos ante un hepatocarcinoma clásico BCLC estadio C, se decide suspender el tratamiento quimioterápico e inicio de sorafenib 200 mg/12 h con aumento progresivo según tolerancia hasta progresión o toxicidad.

@@ -1,0 +1,22 @@
+T1	MORFOLOGIA_NEOPLASIA 3239 3251	neoformativo
+#1	AnnotatorNotes T1	8000/1
+T2	MORFOLOGIA_NEOPLASIA 3446 3458	neoformativo
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 1025 1032	tumoral
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 3590 3597	tumoral
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 794 861	meduloblastoma clásico de localización vermiana, grado IV de la OMS
+#5	AnnotatorNotes T5	9470/34
+T6	MORFOLOGIA_NEOPLASIA 3660 3686	diseminación leptomeníngea
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 4147 4171	afectación leptomeníngea
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 2013 2037	afectación leptomeníngea
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 4638 4704	meduloblastoma clásico de localización vermiana grado IV de la OMS
+#9	AnnotatorNotes T9	9470/34
+T10	MORFOLOGIA_NEOPLASIA 4916 4940	afectación leptomeníngea
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 5302 5324	realces leptomeníngeos
+#11	AnnotatorNotes T11	8000/6

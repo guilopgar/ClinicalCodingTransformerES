@@ -1,0 +1,8 @@
+T1	MORFOLOGIA_NEOPLASIA 1389 1427	carcinoma pulmonar de células pequeñas
+#1	AnnotatorNotes T1	8041/3
+T2	MORFOLOGIA_NEOPLASIA 1606 1616	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1769 1821	metástasis de carcinoma pulmonar de células pequeñas
+#3	AnnotatorNotes T3	8041/6
+T4	MORFOLOGIA_NEOPLASIA 1879 1900	lesión de la vértebra
+#4	AnnotatorNotes T4	8000/6

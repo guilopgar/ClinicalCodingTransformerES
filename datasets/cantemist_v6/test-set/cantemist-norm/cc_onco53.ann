@@ -1,0 +1,60 @@
+T1	MORFOLOGIA_NEOPLASIA 5410 5420	Metástasis
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 5655 5683	afectación de partes blandas
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 5282 5301	implantes pleurales
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 5619 5638	implantes pleurales
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 7072 7096	lesión de partes blandas
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 506 514	melanoma
+#6	AnnotatorNotes T6	8720/3
+T7	MORFOLOGIA_NEOPLASIA 922 930	melanoma
+#7	AnnotatorNotes T7	8720/3
+T8	MORFOLOGIA_NEOPLASIA 288 321	melanoma de extensión superficial
+#8	AnnotatorNotes T8	8743/3
+T9	MORFOLOGIA_NEOPLASIA 2995 3007	metastásicas
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 5817 5829	metastásicas
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 6643 6655	metastásicas
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 4543 4554	metastásico
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 2310 2320	metástasis
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 5987 5997	metástasis
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 6227 6237	metástasis
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 6849 6859	neoplásica
+#16	AnnotatorNotes T16	8000/1
+T17	MORFOLOGIA_NEOPLASIA 2644 2663	nódulos subcutaneos
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 3382 3401	nódulos subcutáneos
+#18	AnnotatorNotes T18	8000/6
+T19	MORFOLOGIA_NEOPLASIA 7351 7361	tumoración
+#19	AnnotatorNotes T19	8000/1
+T20	MORFOLOGIA_NEOPLASIA 8530 8540	tumoración
+#20	AnnotatorNotes T20	8000/1
+T21	MORFOLOGIA_NEOPLASIA 9547 9554	tumoral
+#21	AnnotatorNotes T21	8000/1
+T22	MORFOLOGIA_NEOPLASIA 4737 4746	tumorales
+#22	AnnotatorNotes T22	8000/1
+T23	MORFOLOGIA_NEOPLASIA 2137 2185	enfermedad a nivel del tejido celular subcutáneo
+#23	AnnotatorNotes T23	8000/6
+T24	MORFOLOGIA_NEOPLASIA 3437 3464	lesiones a nivel subpleural
+#24	AnnotatorNotes T24	8000/6
+T25	MORFOLOGIA_NEOPLASIA 6914 6938	implante retroperitoneal
+#25	AnnotatorNotes T25	8000/6
+T26	MORFOLOGIA_NEOPLASIA 7034 7053	implante subpleural
+#26	AnnotatorNotes T26	8000/6
+T27	MORFOLOGIA_NEOPLASIA 7971 8017	Melanoma estadio IV politratado con metástasis
+#27	AnnotatorNotes T27	8720/6
+T28	MORFOLOGIA_NEOPLASIA 9048 9080	enfermedad a nivel paravertebral
+#28	AnnotatorNotes T28	8000/6
+T29	MORFOLOGIA_NEOPLASIA 7597 7619	lesiones paravertebral
+#29	AnnotatorNotes T29	8000/6
+T30	MORFOLOGIA_NEOPLASIA 7694 7712	afectación adrenal
+#30	AnnotatorNotes T30	8000/6

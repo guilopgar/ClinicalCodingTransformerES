@@ -1,0 +1,38 @@
+Anamnesis
+Varón de 44 años. Sin alergias medicamentosas conocidas.
+Historia de tabaquismo 52 paquetes/año y enolismo de 60 g de alcohol/día.
+Diagnosticado de carcinoma de mucosa yugal derecha a partir de clínica de ulceración en el trígono retromolar.
+Se interviene quirúrgicamente mediante vaciamiento cervical supraomohioideo derecho y extirpación de una lesión en la mucosa yugal derecha y paladar blando, que es reconstruida con colgajo radial izquierdo. La anatomía patológica de la pieza quirúrgica informa de carcinoma epidermoide pT1pN2acM0 con afectación del margen lateral de resección.
+Recibió tratamiento adyuvante con radioterapia: cadenas ganglionares cervicales bilaterales: 44 Gy; cadenas claviculares bilaterales: 50 Gy; CTVt: 60 Gy; borde posterior del lecho tumoral: 72 Gy. Concomitancia con cisplatino 100 mg/m2 cada 21 días, del que se suspendió la tercera por mucositis grado 4.
+Como secuela del tratamiento el paciente presentó trismus con apertura bucal de 1 cm y dolor mixto faríngeo de intensidad EVA 5/10 que precisó tratamiento con analgésicos de primer escalón.
+Con un intervalo libre de progresión de 4 años, presenta recaída tumoral en el lecho amigdalino, sin evidencia de enfermedad a otro nivel, detectada mediante biopsia amigdalar, ya que en las pruebas de imagen no se aprecia masa tumoral alguna, sino únicamente engrosamiento leve de la amígdala derecha e hipercaptación inespecífica en la base de la lengua derecha.
+Se ofrece llevar a cabo tratamiento quirúrgico, pero el paciente rechaza tratamiento alguno en ese momento.
+Seis meses después, por progresión clínica con aumento del dolor y bultoma cervical, el paciente acepta el tratamiento con quimioterapia neoadyuvante.
+Comienza pues, quimioterapia neoadyuvante con cisplatino 75 mg/m2 + docetaxel 75 mg/m2 + 5-FU 750 mg/m2 días 1-5, quincenal, del que recibió 2 ciclos en total, y el segundo ciclo modificado (cisplatino 45 mg/m2 y docetaxel 45 mg/m2 quincenal), ya que el paciente desarrolla desde la primera dosis mucositis grado 4, que precisa la colocación de una sonda de gastrostomía, que porta hasta la actualidad. Se decide no administrar radioterapia tampoco en ese momento dada la toxicidad aparecida. A partir de entonces, se produce una evolución tórpida de la clínica orofaríngea, sin respuesta a fármacos habituales para el tratamiento de la mucositis (anestésicos locales, antifúngicos tópicos).
+En la TC de reevaluación, se observa enfermedad estable según criterios RECIST, pero además se objetiva colección laterocervical derecha comunicada a la cavidad oral en la topografia del injerto muco-cutáneo previo como hallazgo de nueva aparición.
+Ante la persistencia de la enfermedad inicia tratamiento sistémico con esquema ERBITAX (taxol semanal 145 mg/m2 + cetuximab 465 mg/m2), recibiendo 15 dosis. En la posterior reevaluación, se objetiva enfermedad estable.
+Un mes después, y por la persistencia de la enfermedad tras quimioterapia, se realiza reirradiación con IMRT (trígono/orofaringe derecha: 45 Gy; niveles ganglionares cervicales II/III izquierdos: 55 Gy), presentando progresivamente dolor de intensidad creciente en la zona. Precisa analgesia de tercer escalón y trismus completo.
+Se realiza una nueva TC por mala evolución de la sintomatología (trismus, dolor orofacial), en la que no se observa progresión tumoral pero se observa comunicación orocervical derecha, con pequeña colección líquida residual y osteorradionecrosis mandibular derecha.
+Se inicia tratamiento para osteorradionecrosis con fluconazol 50 mg/día, amoxicilina/ácido clavulánico 2 comp./12 h; prednisona 10 mg/día y ciprofloxacino 500/12 h x 1 mes, que el enfermo no toleró por toxicidad gastrointestinal con diarrea grado 3 y náuseas y vómitos grado 2.
+Ingresó en Oncología Médica un mes después de este tratamiento por dolor complejo orofacial, de intensidad basal EVA 6/10 con episodios de dolor irruptivo 10/10 con alivio parcial con pulsaciones de fentanilo intranasal. Se intentó incluso rotación con metadona, sin mejoría. Finalmente se logra un aceptable control del dolor (4/10) añadiendo jarabe de ketamina al tratamiento, y bloqueo de 1ª y 2ª ramas del trigémino por la Unidad del Dolor, precisando un rescate de fentanilo al día por un episodio de dolor irruptivo. Durante el ingreso precisó antibioterapia por colección infecciosa a nivel mandibular derecho.
+Acude a Urgencias por ulceración de colección submandibular con fistulización al exterior y abundante supuración maloliente.
+
+Examen físico
+ECOG: 1; TAS: 107 mmHg; TAD: 64 mmHg; FC: 106 lpm; temperatura: 36,8 ºC. Cabeza y cuello: úlcera abierta en la zona submandibular derecha, con abundante supuración, maloliente y con dolor a la palpación.
+Auscultación cardiaca: rítmica, sin soplos.
+Auscultación pulmonar: murmullo vesicular conservado sin ruidos patológicos.
+Tras el curetaje se evidencia una gran ulceración cervical derecha con amplia exposición de estructuras de encrucijada aerodigestiva, hioides y paquete vasculonervioso del cuello.
+
+Pruebas complementarias
+TC cervicofacial: pequeñas adenopatías necróticas bilaterales en el nivel III izquierdo y IV derecho compatibles con recidiva ganglionar. Osteoradionecrosis mandibular y maxilar derecha complicada con fractura patológica mandibular, gran ulceración orofaríngea derecha y masa probablemente inflamatoria en el espacio masticador. Arteria carótida interna derecha de localización muy superficial respecto a la cavidad orofaríngea.
+
+Diagnóstico
+Fístula submandibular por osteorradionecrosis de mandíbula y progresión tumoral locorregional.
+
+Tratamiento
+Ante la magnitud de las estructuras expuestas (en especial, la carótida interna derecha, con riesgo de disección) y el importante componente infeccioso, se opta por tratamiento quirúrgico. Se realiza disección del colgajo anterolateral del muslo con dos islas cutáneas basadas en una perforante de la cara anterior del muslo izquierdo. Anastomosis a la arteria tiroidea izquierda (sutura T-T) y vena yugular izquierda (sutura T-L). Se coloca parte del colgajo para cerrar la faringe y la otra mitad para cubrir el defecto cutáneo.
+
+Evolución
+Durante el curso postoperatorio presenta una pérdida de toda la zona del colgajo anterolateral del muslo que cubría el defecto cutáneo y parte del colgajo faríngeo, por lo que se plantea nueva cirugía, practicándosele disección del colgajo miocutáneo del pectoral mayor derecho para cerrar el defecto cutáneo cervical derecho. Durante el segundo curso postoperatorio presenta tres comunicaciones faríngeo-cutáneas en los bordes del colgajo pectoral (posterior y anterior, absceso en la fosa supraclavicular derecha drenado).
+La biopsia del tejido escisional y de la colección necrótico-infecciosa informa de infiltración masiva por tejido tumoral.
+Dada la evolución tórpida y los resultados de la biopsia, se decide el traslado a Oncología Médica para el ajuste del tratamiento paliativo. Permanece en la actualidad ingresado en la sección de Cuidados Paliativos, presentando abundante supuración y colonización por microorganismos resistentes (Pseudomonas aeruginosa multirresistente y Klebsiella pneumoniae productora de BLEES en los últimos cultivos), con aceptable control del dolor y tratamiento antibiótico.

@@ -1,0 +1,22 @@
+T1	MORFOLOGIA_NEOPLASIA 3878 3902	Neoplasia indiferenciada
+#1	AnnotatorNotes T1	8000/14
+T2	MORFOLOGIA_NEOPLASIA 3011 3032	sarcoma granulocítico
+#2	AnnotatorNotes T2	9930/3
+T3	MORFOLOGIA_NEOPLASIA 3333 3354	sarcoma granulocítico
+#3	AnnotatorNotes T3	9930/3
+T4	MORFOLOGIA_NEOPLASIA 3691 3712	sarcoma granulocítico
+#4	AnnotatorNotes T4	9930/3
+T5	MORFOLOGIA_NEOPLASIA 3945 3966	sarcoma granulocítico
+#5	AnnotatorNotes T5	9930/3
+T6	MORFOLOGIA_NEOPLASIA 4069 4090	sarcoma granulocítico
+#6	AnnotatorNotes T6	9930/3
+T7	MORFOLOGIA_NEOPLASIA 5428 5435	tumoral
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 6043 6050	tumoral
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 6077 6084	tumoral
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 2174 2222	células con caracteres citológicos de malignidad
+#10	AnnotatorNotes T10	8001/3
+T11	MORFOLOGIA_NEOPLASIA 5013 5035	tumor neuroectodérmico
+#11	AnnotatorNotes T11	9364/3

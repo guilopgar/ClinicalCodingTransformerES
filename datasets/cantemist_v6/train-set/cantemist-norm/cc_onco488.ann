@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 1064 1074	Tumoración
+#1	AnnotatorNotes T1	8000/1
+T2	MORFOLOGIA_NEOPLASIA 2222 2232	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 5488 5497	neoplasia
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 559 593	carcinoma de las células de Merkel
+#4	AnnotatorNotes T4	8247/3
+T5	MORFOLOGIA_NEOPLASIA 1541 1551	tumoración
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 1779 1791	metastásicas
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1900 1959	metástasis por carcinoma neuroendocrino de células pequeñas
+#7	AnnotatorNotes T7	8041/6
+T8	MORFOLOGIA_NEOPLASIA 2006 2040	carcinoma de las células de Merkel
+#8	AnnotatorNotes T8	8247/3
+T9	MORFOLOGIA_NEOPLASIA 2152 2219	Carcinoma de células de Merkel estadio IV por implante rectovaginal
+#9	AnnotatorNotes T9	8247/6
+T10	MORFOLOGIA_NEOPLASIA 2317 2329	metastásicas
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 3128 3140	metastásicas
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 3270 3282	metastásicas
+#12	AnnotatorNotes T12	8000/6

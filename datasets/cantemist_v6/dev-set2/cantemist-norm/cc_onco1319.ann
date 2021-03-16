@@ -1,0 +1,18 @@
+T1	MORFOLOGIA_NEOPLASIA 1160 1185	Astrocitoma de alto grado
+#1	AnnotatorNotes T1	9400/34
+T2	MORFOLOGIA_NEOPLASIA 723 730	tumoral
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 1765 1772	tumoral
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 2139 2146	tumoral
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 2452 2459	tumoral
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 178 203	astrocitoma de bajo grado
+#6	AnnotatorNotes T6	9400/31
+T7	MORFOLOGIA_NEOPLASIA 778 794	tumoración glial
+#7	AnnotatorNotes T7	9380/1
+T8	MORFOLOGIA_NEOPLASIA 982 1002	astrocitoma grado IV
+#8	AnnotatorNotes T8	9400/34
+T9	MORFOLOGIA_NEOPLASIA 1295 1333	astrocitoma que ha virado a alto grado
+#9	AnnotatorNotes T9	9400/34

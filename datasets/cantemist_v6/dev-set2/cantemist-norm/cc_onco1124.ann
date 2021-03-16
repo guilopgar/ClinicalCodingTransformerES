@@ -1,0 +1,42 @@
+T1	MORFOLOGIA_NEOPLASIA 3472 3482	Metástasis
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 912 914	Mx
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 4454 4475	carcinoma epidermoide
+#3	AnnotatorNotes T3	8070/3
+T4	MORFOLOGIA_NEOPLASIA 563 602	carcinoma epidermoide bien diferenciado
+#4	AnnotatorNotes T4	8070/31
+T5	MORFOLOGIA_NEOPLASIA 1002 1023	extensión a distancia
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 6540 6551	lesión ósea
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1313 1323	malignidad
+#7	AnnotatorNotes T7	8000/3
+T8	MORFOLOGIA_NEOPLASIA 3281 3293	metastásicos
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 3728 3738	metástasis
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 5521 5531	metástasis
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 1895 1927	metástasis de carcinoma escamoso
+#11	AnnotatorNotes T11	8070/6
+T12	MORFOLOGIA_NEOPLASIA 4371 4381	neoplásico
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 1092 1107	nódulo pulmonar
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 1328 1343	nódulo pulmonar
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 1577 1592	nódulo pulmonar
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 4749 4756	tumoral
+#16	AnnotatorNotes T16	8000/1
+T17	MORFOLOGIA_NEOPLASIA 6492 6499	tumoral
+#17	AnnotatorNotes T17	8000/1
+T18	MORFOLOGIA_NEOPLASIA 3599 3652	Carcinoma epidermoide de vulva estadio IV (metástasis
+#18	AnnotatorNotes T18	8070/6
+T19	MORFOLOGIA_NEOPLASIA 3337 3383	recidiva tumoral a nivel del periné, bronquial
+#19	AnnotatorNotes T19	8000/6
+T20	MORFOLOGIA_NEOPLASIA 5445 5495	lesión lítica en el tercio interno de la clavícula
+#20	AnnotatorNotes T20	8000/6
+T21	MORFOLOGIA_NEOPLASIA 5610 5658	lesiones de carácter infiltrante en la clavícula
+#21	AnnotatorNotes T21	8000/6

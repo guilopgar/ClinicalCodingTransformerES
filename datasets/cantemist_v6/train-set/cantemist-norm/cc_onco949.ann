@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 981 1010	carcinoma medular de tiroides
+#1	AnnotatorNotes T1	8510/3
+T2	MORFOLOGIA_NEOPLASIA 599 609	malignidad
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 768 778	malignidad
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 1268 1278	malignidad
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 2366 2376	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 2306 2324	nódulos pulmonares
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1125 1130	tumor
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 1173 1190	metástasis de CMT
+#8	AnnotatorNotes T8	8510/6
+T9	MORFOLOGIA_NEOPLASIA 1382 1399	metástasis de CMT
+#9	AnnotatorNotes T9	8510/6
+T10	MORFOLOGIA_NEOPLASIA 1447 1484	CMT (pT3), con afectación metastásica
+#10	AnnotatorNotes T10	8510/6

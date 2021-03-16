@@ -1,0 +1,28 @@
+T1	MORFOLOGIA_NEOPLASIA 390 421	adenocarcinoma mal diferenciado
+#1	AnnotatorNotes T1	8140/33
+T2	MORFOLOGIA_NEOPLASIA 706 730	carcinoma neuroendocrino
+#2	AnnotatorNotes T2	8246/3
+T3	MORFOLOGIA_NEOPLASIA 868 889	diseminación hepática
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2665 2683	lesiones hepáticas
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 500 510	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 1051 1061	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 471 486	nódulo hepático
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 640 655	nódulo hepático
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 1389 1408	progresión hepática
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 1944 1963	progresión hepática
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 289 299	tumoración
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 4956 4963	tumoral
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 1000 1034	lesiones hipervasculares hepáticas
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 6344 6396	Tumor neuroendocrino de páncreas diseminado hepático
+#14	AnnotatorNotes T14	8150/6

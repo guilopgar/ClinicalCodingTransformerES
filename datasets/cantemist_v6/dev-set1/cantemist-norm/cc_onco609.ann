@@ -1,0 +1,8 @@
+T1	MORFOLOGIA_NEOPLASIA 2463 2485	enfermedad a distancia
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 2416 2423	tumoral
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 82 99	CIN III de cérvix
+#3	AnnotatorNotes T3	8077/2
+T4	MORFOLOGIA_NEOPLASIA 2152 2195	linfoma anaplásico de células grandes (ALK)
+#4	AnnotatorNotes T4	9714/3

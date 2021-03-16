@@ -1,0 +1,40 @@
+T1	MORFOLOGIA_NEOPLASIA 674 688	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 5300 5314	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 6527 6541	adenocarcinoma
+#3	AnnotatorNotes T3	8140/3
+T4	MORFOLOGIA_NEOPLASIA 1027 1068	adenocarcinoma de colon bien diferenciado
+#4	AnnotatorNotes T4	8140/31
+T5	MORFOLOGIA_NEOPLASIA 2256 2282	adenocarcinoma infiltrante
+#5	AnnotatorNotes T5	8140/3/H
+T6	MORFOLOGIA_NEOPLASIA 2505 2546	adenocarcinoma moderadamente diferenciado
+#6	AnnotatorNotes T6	8140/32
+T7	MORFOLOGIA_NEOPLASIA 1317 1339	enfermedad a distancia
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 309 324	hepatocarcinoma
+#8	AnnotatorNotes T8	8170/3
+T9	MORFOLOGIA_NEOPLASIA 4015 4030	lesión hepática
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 3667 3677	malignidad
+#10	AnnotatorNotes T10	8000/3
+T11	MORFOLOGIA_NEOPLASIA 5122 5132	malignidad
+#11	AnnotatorNotes T11	8000/3
+T12	MORFOLOGIA_NEOPLASIA 6623 6633	malignidad
+#12	AnnotatorNotes T12	8000/3
+T13	MORFOLOGIA_NEOPLASIA 3156 3167	metastásica
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 2359 2369	metástasis
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 2597 2607	metástasis
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 5017 5027	metástasis
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 1257 1262	tumor
+#17	AnnotatorNotes T17	8000/1
+T18	MORFOLOGIA_NEOPLASIA 769 779	tumoración
+#18	AnnotatorNotes T18	8000/1
+T19	MORFOLOGIA_NEOPLASIA 3123 3130	tumoral
+#19	AnnotatorNotes T19	8000/1
+T20	MORFOLOGIA_NEOPLASIA 4179 4262	adenocarcinoma intestinal moderadamente diferenciado con un componente mucosecretor
+#20	AnnotatorNotes T20	8481/32

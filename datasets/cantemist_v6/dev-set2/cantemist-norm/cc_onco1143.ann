@@ -1,0 +1,6 @@
+T1	MORFOLOGIA_NEOPLASIA 842 849	linfoma
+#1	AnnotatorNotes T1	9590/3
+T2	MORFOLOGIA_NEOPLASIA 852 874	astrocitoma anaplásico
+#2	AnnotatorNotes T2	9401/3
+T3	MORFOLOGIA_NEOPLASIA 965 992	astrocitoma anaplásico GIII
+#3	AnnotatorNotes T3	9401/33

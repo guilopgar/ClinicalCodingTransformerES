@@ -1,0 +1,30 @@
+T1	MORFOLOGIA_NEOPLASIA 271 274	CDI
+#1	AnnotatorNotes T1	8500/3
+T2	MORFOLOGIA_NEOPLASIA 1884 1908	carcinoma ductal in situ
+#2	AnnotatorNotes T2	8500/2
+T3	MORFOLOGIA_NEOPLASIA 1812 1826	carcinomatosis
+#3	AnnotatorNotes T3	8010/9
+T4	MORFOLOGIA_NEOPLASIA 536 542	cáncer
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 2211 2217	cáncer
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 1701 1720	lesiones cerebrales
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1437 1447	metástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 101 110	neoplasia
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 140 149	neoplasia
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 341 350	neoplasia
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 230 283	carcinoma ductal infiltrante tipo común (CDI) grado 3
+#11	AnnotatorNotes T11	8500/33
+T12	MORFOLOGIA_NEOPLASIA 428 439	CDI grado 1
+#12	AnnotatorNotes T12	8500/31
+T13	MORFOLOGIA_NEOPLASIA 651 662	CDI grado 3
+#13	AnnotatorNotes T13	8500/33
+T14	MORFOLOGIA_NEOPLASIA 1039 1081	carcinoma pulmonar pobremente diferenciado
+#14	AnnotatorNotes T14	8010/33
+T15	MORFOLOGIA_NEOPLASIA 2013 2050	CDI en la mama contralateral, grado 3
+#15	AnnotatorNotes T15	8500/33

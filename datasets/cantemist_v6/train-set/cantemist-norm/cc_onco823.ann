@@ -1,0 +1,12 @@
+T1	MORFOLOGIA_NEOPLASIA 2401 2411	metástasis
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1255 1292	tumor maligno de crecimiento bifásico
+#2	AnnotatorNotes T2	8000/3/H
+T3	MORFOLOGIA_NEOPLASIA 2156 2172	metástasis de SS
+#3	AnnotatorNotes T3	9040/6
+T4	MORFOLOGIA_NEOPLASIA 1619 1667	Sarcoma sinovial primario cardiaco de alto grado
+#4	AnnotatorNotes T4	9040/34
+T5	MORFOLOGIA_NEOPLASIA 2356 2386	nódulos pulmonares bilaterales
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 3334 3375	lesión de 5 cm entre esófago y ventrículo
+#6	AnnotatorNotes T6	8000/6

@@ -1,0 +1,23 @@
+Anamnesis
+Paciente de 72 años, con antecedentes personales de infarto agudo de miocardio, intervenido de un doble bypass coronario en febrero de 2010 e insuficiencia renal crónica. Exfumador desde hace 30 años de 10 año/paquete.
+La clínica del paciente debutó con un síndrome miccional de un año de evolución. En febrero de 2013 consultó en Urología y fue diagnosticado mediante resección transuretral (RTU) de un carcinoma vesical pT2 grado 3.
+En mayo de 2012 se sometió a una cistectomía radical con derivación tipo Bricker y una linfadenectomía bilateral con resultado anatomopatológico de carcinoma urotelial de alto grado en la cara posterior, trígono, pared lateral izquierda de 3,2 cm que infiltra grasa perivesical y márgenes no afectados. Metástasis en 10 de los 14 ganglios aislados, con rotura capsular. Ante un carcinoma urotelial de vejiga pT3b pN3 M0 asociado a una insuficiencia renal grado 3 se desestimó tratamiento adyuvante con quimioterapia y se decidió seguimiento.
+En octubre de 2012 presentó una progresión adenopática retroperitoneal, e inició quimioterapia según esquema carboplatino AUC 5 día 1 y gemcitabina 1.000 mg/m2 días 1 y 8 cada 21 días ajustado a la función renal. Presentó toxicidad hematológica de serie roja que requirió reducción de dosis, soporte con eritropoyetina y transfusiones repetidas. Tras 6 ciclos de tratamiento presentó una respuesta completa clínica y radiológica.
+En abril de 2013 consultó por una erupción eritematosa fotodistribuida poiquilodérmica en la cara, un edema periocular o rash heliotropo acompañado de pápulas de Gottron interfalángicas en las manos y debilidad a nivel de la musculatura proximal simétrica en los miembros inferiores asociada a una elevación de la creatinfosfocinasa (CPK). Se biopsiaron las lesiones, siendo compatibles con una dermatomiositis. Se realizó un estudio de extensión, que fue negativo. Inició corticoterapia a dosis de 1 mg/kg/día sin presentar mejoría, por lo que recibió metotrexato 15 mg/semanales. Ante la escasa respuesta, en junio de 2013 se administraron inmunoglobulinas intravenosas 400 mg/kg/día durante 3 días con una evolución favorable inicial de las lesiones cutáneas y de la debilidad en los miembros inferiores.
+
+Examen físico
+En agosto de 2013 consultó por una erupción violácea fotodistribuida, distrofia y telangiectasias en las cutículas y debilidad proximal simétrica de los músculos extensores.
+
+Pruebas complementarias
+- Analítica: linfopenia, CPK elevada 261 UI/l, mioglobina 290 UI/l y niveles de anticuerpos circulantes ENA, ANA, anti-Jo1 y anti-Mi1 negativos.
+- TC de extensión: se evidenciaron signos de recaída ganglionar en la hemipelvis derecha y retroperitoneal, metástasis hepáticas y una lesión ósea en L4 con masa de partes blandas anterior.
+
+Diagnóstico
+Recaída ganglionar, hepática y ósea de un carcinoma urotelial de vejiga.
+
+Tratamiento
+Se decidió iniciar quimioterapia según esquema carboplatino AUC 5 día 1 y gemcitabina 1.000 mg/m2 días 1 y 8 cada 21 días ajustado al 75% por plaquetopenia inicial.
+
+Evolución
+Al día +2 del primer ciclo el paciente presentó un empeoramiento clínico con un eritema difuso en la espalda y la porción proximal de las extremidades inferiores > 30% de superficie corporal, con algunas pequeñas ampollas indemnes en los brazos, erosiones con despegamiento epidérmico en la espalda y en la mucosa oral con disfagia grado IV secundaria. Para realizar el diagnóstico diferencial con la dermatomiositis ampollosa paraneoplásica, se repitió la biopsia cutánea, siendo compatible con necrólisis epidérmica tóxica (NET) o síndrome de Lyell.
+Tras valoración en conjunto por Dermatología y Oncología, se revisó la medicación que había recibido el paciente durante el periodo del ingreso, y se asoció la NET a la Gemcitabina. Ante la gravedad del cuadro, precisó tratamiento en la Unidad de Cuidados Intensivos, siendo éxitus a día +6 por una insuficiencia respiratoria.

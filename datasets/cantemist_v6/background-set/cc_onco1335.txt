@@ -1,0 +1,22 @@
+Anamnesis
+Varón de 66 años, que acude a Urgencias por clínica de 3 meses de hiporexia, adelgazamiento, astenia e intenso dolor abdominal en hipocondrio derecho refractario a analgesia habitual.
+Antecedentes personales: sin hábitos tóxicos. Trabajó como celador. Hipertensión arterial a tratamiento, herniorrafia inguinal izquierda. Ningún tratamiento crónico.
+
+Examen físico
+Regular estado general, karnofsky 60 %, delgadez y palidez cutaneomucosa. No se palpan adenopatías. Auscultación cardiopulmonar normal. En abdomen, hepatomegalia a unos 8 cm de reborde costal derecho, muy dolorosa solamente con el roce. Dificultad para la marcha por el dolor abdominal y mínimos edemas perimaleolares.
+
+Pruebas complementarias
+Hemograma: hemoglobina 9,3 g/dl; coagulación: normal.
+Bioquímica: fosfatasa alcalina 196 U/l, gammaGT 187 U/l, hierro 11; resto normal.
+Gastroscopia: masa de 4 cm en antro gástrico ulcerada, friable y sangrante.
+Tomografía computarizada (TC): múltiples LOES hepáticas.
+
+Diagnóstico
+Biopsia gástrica: adenocarcinoma de antro gástrico tipo intestinal de Lauren moderadamente diferenciado, estadio IV erbB2 + (FISH3+).
+
+Tratamiento
+Se ofrece ensayo clínico, estudio HerXO en 1.ª línea de tratamiento del cáncer gástrico avanzado erbB2+, "Estudio fase II para evaluar la eficacia y seguridad de trastuzumab en combinación con XELOX como 1.ª línea para el cáncer gástrico avanzado o metastásico en pacientes HER2-positivo".
+
+Evolución
+Recibe 1.ª línea de tratamiento con capecitabina 1.000 mg/m2/12 horas x 14 días, oxaliplatino 130 mg/m2 día 1 y trastuzumab 8 mg/kg/peso de carga seguido de 6 mg/kg/peso en ciclos sucesivos cada 3 semanas, durante 6 ciclos, continuando mantenimiento con trastuzumab. Tras el primer ciclo obtuvo respuesta clínica y analítica confirmada en TC repetida cada 3 ciclos. Como toxicidad, neuropatía de grado 2 y síndrome palmoplantar de grado 2. A los 9 meses se confirma la progresión por imagen. Se ofrece tratamiento dentro de ensayo clínico en 2.ª línea con T-DM1,
+Estudio GATSBY BO27952, no ciego: "Estudio fase II-III, aleatorizado, multicéntrico, para evaluar la eficacia y seguridad de trastuzumab-emtansina (T-DM1) versus taxanos (docetaxel o paclitaxel) en cáncer gástrico avanzado, HER2+". El paciente logra importante respuesta y presenta como única toxicidad trombopenia de grado 1. Actualmente mantiene un estado general tras 5 meses en respuesta a TD-M1.

@@ -1,0 +1,23 @@
+Anamnesis
+Hombre de 40 años, con síndrome de Down, dependiente parcial para las actividades básicas de la vida diaria con antecedentes de intervención por criptorquidia izquierda en la infancia y trastorno conductual en tratamiento psicotropo.
+El paciente consulta en octubre de 2012 por crecimiento progresivo de tumoración en teste izquierdo de un año de evolución sin otra clínica acompañante.
+
+Examen físico
+Masa escrotal izquierda firme sin ningún otro hallazgo a destacar.
+
+Pruebas complementarias
+Ecografía escrotal: teste izquierdo aumentado de tamaño, con alteración de su morfología y con múltiples áreas nodulares.
+Analítica sanguínea: B-HCG 2 u.int/l (<5) y AFP 3,8 mcg/l (0-9,9).
+TC toracoabdominopélvica: múltiples conglomerados adenopáticos mediastínicos, los mayores a nivel hiliar derecho y subcarinal; no se detectan adenopatías abdominopélvicas ni retroperitoneales.
+
+Diagnóstico
+Ante la sospecha de un tumor testicular con afectación metastásica, se realiza orquiectomía vía inguinal izquierda. La anatomía patológica (AP) informa de un seminoma clásico de 2,8 cm de diámetro sin infiltración de la capa albugínea, vaginal, epidídimo, rete testis ni cordón espermático. Se observan imágenes aisladas de invasión vascular angiolinfática a nivel de la capa albugínea. Estadio pT2Nx.
+Se valora inicialmente como un seminoma testicular M1a, estadio III (UICC/AJCC), de buen pronóstico por la clasificación de IGCCCG y se deriva a nuestro Servicio.
+
+Tratamiento
+El paciente acude asintomático dos meses después, por lo que antes de iniciar el tratamiento decidimos reestadiarlo.
+
+Evolución
+Se realiza un nueva TC donde informan de estabilidad de las adenopatías mediastínicas. Los marcadores tumorales son negativos (BHCG <1 u.int/l, AFP 3,3 mcg/l, LDH 2,5 mckat/l).
+Ante la presencia de adenopatías mediastínicas sin enfermedad retroperitoneal, siendo este el primer sitio de drenaje linfático de los tumores germinales testiculares, se solicitó una ecobroncoscopia con punción por aspiración aguja fina (PAAF) para confirmación histológica de neoplasia. Las biopsias de las adenopatías 7 y 4R fueron negativas para malignidad. Asimismo, se realizó un BAS con estudio microbiológico que fue negativo para bacterias y micobacterias. Al no tener diagnóstico de malignidad, se procedió a una segunda biopsia por videomediastinoscopia. La AP informó de abundantes granulomas epitelioides no necrotizantes, sin evidencia de neoplasia. Tinción de Ziehl-Neelsen negativa.
+Ante estos hallazgos patológicos y radiológicos, se diagnosticó de sarcoidosis en un paciente con seminoma testicular estadio I (UICC/AJCC) sin factores de riesgo (<4 cm y sin afectación de la rete testis), por lo que no requirió tratamiento con quimioterapia adyuvante.

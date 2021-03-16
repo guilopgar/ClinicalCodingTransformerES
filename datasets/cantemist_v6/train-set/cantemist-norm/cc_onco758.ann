@@ -1,0 +1,42 @@
+T1	MORFOLOGIA_NEOPLASIA 1938 1948	malignidad
+#1	AnnotatorNotes T1	8000/3
+T2	MORFOLOGIA_NEOPLASIA 3943 3954	metastásica
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 2475 2485	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2280 2289	neoplasia
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 3556 3566	neoplásica
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 110 120	tumoración
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 592 622	neoplasia pulmonar metastásica
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 395 424	adenopatías supraclaviculares
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 436 458	afectación suprarrenal
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 1209 1236	adenopático supraclavicular
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 1657 1686	adenopatías supraclaviculares
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 1708 1742	afectación de glándula suprarrenal
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 2078 2108	neoplasia pulmonar metastásica
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 2790 2816	proceso linfoproliferativo
+#14	AnnotatorNotes T14	9970/1
+T15	MORFOLOGIA_NEOPLASIA 3700 3727	linfoma folicular, grado 3A
+#15	AnnotatorNotes T15	9698/3
+T16	MORFOLOGIA_NEOPLASIA 3846 3854	malignas
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 4336 4386	linfoma folicular grado 3A estadio IVA (metástasis
+#17	AnnotatorNotes T17	9698/6
+T18	MORFOLOGIA_NEOPLASIA 5123 5152	adenopatías supraclaviculares
+#18	AnnotatorNotes T18	8000/6
+T19	MORFOLOGIA_NEOPLASIA 5159 5185	consolidaciones pulmonares
+#19	AnnotatorNotes T19	8000/6
+T20	MORFOLOGIA_NEOPLASIA 331 346	lesión pulmonar
+#20	AnnotatorNotes T20	8000/6
+T21	MORFOLOGIA_NEOPLASIA 2905 2931	adenopatía supraclavicular
+#21	AnnotatorNotes T21	8000/6

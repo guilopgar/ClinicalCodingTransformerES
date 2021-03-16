@@ -1,0 +1,22 @@
+T1	MORFOLOGIA_NEOPLASIA 121 129	melanoma
+#1	AnnotatorNotes T1	8720/3
+T2	MORFOLOGIA_NEOPLASIA 244 255	metastásica
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1488 1499	metastásica
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1871 1881	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 338 343	tumor
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 1271 1314	melanoma de células fusiformes desmoplásico
+#6	AnnotatorNotes T6	8745/3
+T7	MORFOLOGIA_NEOPLASIA 1271 1301	melanoma de células fusiformes
+#7	AnnotatorNotes T7	8772/3
+T8	MORFOLOGIA_NEOPLASIA 1759 1783	melanoma no desmoplásico
+#8	AnnotatorNotes T8	8720/3/H
+T9	MORFOLOGIA_NEOPLASIA 2480 2515	Melanoma con enfermedad metastásica
+#9	AnnotatorNotes T9	8720/6
+T10	MORFOLOGIA_NEOPLASIA 2541 2544	M1c
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 3315 3345	lesiones cutáneas y pulmonares
+#11	AnnotatorNotes T11	8000/6

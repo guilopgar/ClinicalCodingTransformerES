@@ -1,0 +1,18 @@
+T1	MORFOLOGIA_NEOPLASIA 4204 4210	TxN3M0
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 3374 3400	adenopatía supraclavicular
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 3214 3224	malignidad
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 3670 3693	metástasis de carcinoma
+#4	AnnotatorNotes T4	8010/6
+T5	MORFOLOGIA_NEOPLASIA 2779 2788	neoplasia
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 3527 3536	neoplasia
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 5660 5669	neoplasia
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 830 840	neoplásica
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 4136 4168	carcinoma de células no pequeñas
+#9	AnnotatorNotes T9	8046/3

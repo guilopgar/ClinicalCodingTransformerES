@@ -1,0 +1,8 @@
+T1	MORFOLOGIA_NEOPLASIA 1458 1464	T2N1M0
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1246 1260	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 820 878	carcinoma ductal infiltrante clásico con GN II y GH II-III
+#3	AnnotatorNotes T3	8500/33
+T4	MORFOLOGIA_NEOPLASIA 1409 1441	Adenoarcinoma ductal infiltrante
+#4	AnnotatorNotes T4	8500/3

@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 812 816	TGNS
+#1	AnnotatorNotes T1	9065/3
+T2	MORFOLOGIA_NEOPLASIA 2158 2162	TGNS
+#2	AnnotatorNotes T2	9065/3
+T3	MORFOLOGIA_NEOPLASIA 822 843	carcinoma embrionario
+#3	AnnotatorNotes T3	9070/3
+T4	MORFOLOGIA_NEOPLASIA 376 398	enfermedad a distancia
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 1938 1948	malignidad
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 602 607	tumor
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 846 872	tumor del seno endodérmico
+#7	AnnotatorNotes T7	9071/3
+T8	MORFOLOGIA_NEOPLASIA 2196 2210	tumor germinal
+#8	AnnotatorNotes T8	9064/3
+T9	MORFOLOGIA_NEOPLASIA 761 810	tumor mixto de células germinales no seminomatoso
+#9	AnnotatorNotes T9	9065/3/H
+T10	MORFOLOGIA_NEOPLASIA 4226 4241	teratoma maduro
+#10	AnnotatorNotes T10	9080/0

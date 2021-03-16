@@ -1,0 +1,44 @@
+T1	MORFOLOGIA_NEOPLASIA 1553 1567	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 1377 1387	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 2984 2994	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 3740 3750	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 3234 3246	metastásicas
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 1439 1482	neoplasia de pulmón en estadio IV (T4N3M1b)
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1762 1822	adenocarcinoma de pulmón estadio IV, con afectación hepática
+#7	AnnotatorNotes T7	8140/6
+T8	MORFOLOGIA_NEOPLASIA 1276 1302	adenopatía supraclavicular
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 4468 4491	enfermedad a nivel óseo
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 4113 4128	enfermedad ósea
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 3560 3579	lesiones cerebrales
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 4192 4211	lesiones cerebrales
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 1334 1352	lesiones hepáticas
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 2713 2731	lesiones hepáticas
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 4423 4441	lesiones hepáticas
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 3219 3233	lesiones óseas
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 1514 1529	lesión hepática
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 926 936	malignidad
+#18	AnnotatorNotes T18	8000/3
+T19	MORFOLOGIA_NEOPLASIA 1931 1938	tumoral
+#19	AnnotatorNotes T19	8000/1
+T20	MORFOLOGIA_NEOPLASIA 1962 1981	afectación hepática
+#20	AnnotatorNotes T20	8000/6
+T21	MORFOLOGIA_NEOPLASIA 4577 4604	enfermedad a nivel cerebral
+#21	AnnotatorNotes T21	8000/6
+T22	MORFOLOGIA_NEOPLASIA 4773 4800	enfermedad a nivel cerebral
+#22	AnnotatorNotes T22	8000/6

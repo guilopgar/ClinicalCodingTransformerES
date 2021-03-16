@@ -1,0 +1,22 @@
+T1	MORFOLOGIA_NEOPLASIA 2486 2503	Carcinoma papilar
+#1	AnnotatorNotes T1	8260/3
+T2	MORFOLOGIA_NEOPLASIA 1840 1854	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 2987 3001	adenocarcinoma
+#3	AnnotatorNotes T3	8140/3
+T4	MORFOLOGIA_NEOPLASIA 125 142	carcinoma papilar
+#4	AnnotatorNotes T4	8260/3
+T5	MORFOLOGIA_NEOPLASIA 2217 2231	carcinomatosis
+#5	AnnotatorNotes T5	8010/9
+T6	MORFOLOGIA_NEOPLASIA 2691 2705	carcinomatosis
+#6	AnnotatorNotes T6	8010/9
+T7	MORFOLOGIA_NEOPLASIA 3465 3479	carcinomatosis
+#7	AnnotatorNotes T7	8010/9
+T8	MORFOLOGIA_NEOPLASIA 1807 1823	células malignas
+#8	AnnotatorNotes T8	8001/3
+T9	MORFOLOGIA_NEOPLASIA 428 483	adenocarcinoma de pulmón estadio IV por afectación ósea
+#9	AnnotatorNotes T9	8140/6
+T10	MORFOLOGIA_NEOPLASIA 2192 2215	diseminación secundaria
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 2562 2606	Adenocarcinoma de pulmón derecho c T2c N3 M1
+#11	AnnotatorNotes T11	8140/3

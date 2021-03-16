@@ -1,0 +1,18 @@
+T1	MORFOLOGIA_NEOPLASIA 1876 1890	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 133 161	carcinoma ductal infiltrante
+#2	AnnotatorNotes T2	8500/3
+T3	MORFOLOGIA_NEOPLASIA 1503 1522	lesiones pulmonares
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2769 2780	metastásica
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 3169 3179	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 1834 1852	nódulos pulmonares
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 189 196	pT1N2M0
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 2006 2083	leucemia aguda mieloide con displasia trilineal de la clasificación de la OMS
+#8	AnnotatorNotes T8	9895/3
+T9	MORFOLOGIA_NEOPLASIA 2317 2320	LAM
+#9	AnnotatorNotes T9	9861/3

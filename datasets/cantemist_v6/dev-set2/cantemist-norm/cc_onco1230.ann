@@ -1,0 +1,36 @@
+T1	MORFOLOGIA_NEOPLASIA 245 269	carcinoma neuroendocrino
+#1	AnnotatorNotes T1	8246/3
+T2	MORFOLOGIA_NEOPLASIA 1285 1309	carcinoma neuroendocrino
+#2	AnnotatorNotes T2	8246/3
+T3	MORFOLOGIA_NEOPLASIA 1161 1179	lesiones hepáticas
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2391 2409	lesiones hepáticas
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 3211 3229	lesiones hepáticas
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 5574 5592	lesiones hepáticas
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 3458 3473	lesión hepática
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 1229 1239	metástasis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 2839 2849	metástasis
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 743 755	neoformación
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 898 912	neuroendocrino
+#11	AnnotatorNotes T11	8240/3
+T12	MORFOLOGIA_NEOPLASIA 5916 5923	tumoral
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 3319 3326	tumores
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 2621 2645	neoplasia neuroendocrina
+#14	AnnotatorNotes T14	8240/3
+T15	MORFOLOGIA_NEOPLASIA 3833 3880	metástasis de carcinoma neuroendocrino grado II
+#15	AnnotatorNotes T15	8249/6
+T16	MORFOLOGIA_NEOPLASIA 4155 4206	carcinoma neuroendocrino moderadamente diferenciado
+#16	AnnotatorNotes T16	8249/3
+T17	MORFOLOGIA_NEOPLASIA 3935 3986	carcinoma neuroendocrino moderadamente diferenciado
+#17	AnnotatorNotes T17	8249/3
+T18	MORFOLOGIA_NEOPLASIA 4834 4868	lesiones en el parénquima hepático
+#18	AnnotatorNotes T18	8000/6

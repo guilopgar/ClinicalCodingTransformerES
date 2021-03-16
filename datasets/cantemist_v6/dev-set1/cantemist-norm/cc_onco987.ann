@@ -1,0 +1,40 @@
+T1	MORFOLOGIA_NEOPLASIA 937 965	carcinoma ductal infiltrante
+#1	AnnotatorNotes T1	8500/3
+T2	MORFOLOGIA_NEOPLASIA 605 629	carcinomas basocelulares
+#2	AnnotatorNotes T2	8090/3
+T3	MORFOLOGIA_NEOPLASIA 7228 7242	carcinomatosis
+#3	AnnotatorNotes T3	8010/9
+T4	MORFOLOGIA_NEOPLASIA 8146 8152	cáncer
+#4	AnnotatorNotes T4	8000/3
+T5	MORFOLOGIA_NEOPLASIA 7049 7068	células neoplásicas
+#5	AnnotatorNotes T5	8001/1
+T6	MORFOLOGIA_NEOPLASIA 1543 1579	lesión lítica en el cuerpo vertebral
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 6700 6711	lesión ósea
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 326 350	macroadenoma hipofisario
+#8	AnnotatorNotes T8	8272/0
+T9	MORFOLOGIA_NEOPLASIA 3587 3611	macroadenoma hipofisario
+#9	AnnotatorNotes T9	8272/0
+T10	MORFOLOGIA_NEOPLASIA 1187 1197	malignidad
+#10	AnnotatorNotes T10	8000/3
+T11	MORFOLOGIA_NEOPLASIA 2373 2383	malignidad
+#11	AnnotatorNotes T11	8000/3
+T12	MORFOLOGIA_NEOPLASIA 1367 1377	metástasis
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 6386 6396	metástasis
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 6474 6484	metástasis
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 7205 7215	metástasis
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 1692 1715	metástasis de carcinoma
+#16	AnnotatorNotes T16	8010/6
+T17	MORFOLOGIA_NEOPLASIA 6774 6781	tumoral
+#17	AnnotatorNotes T17	8000/1
+T18	MORFOLOGIA_NEOPLASIA 8595 8602	tumoral
+#18	AnnotatorNotes T18	8000/1
+T19	MORFOLOGIA_NEOPLASIA 237 244	mixomas
+#19	AnnotatorNotes T19	8840/0
+T20	MORFOLOGIA_NEOPLASIA 723 758	tumor papilar intraquístico grado I
+#20	AnnotatorNotes T20	8504/31

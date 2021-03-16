@@ -1,0 +1,26 @@
+T1	MORFOLOGIA_NEOPLASIA 676 702	Adenopatía supraclavicular
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1737 1759	Implantes peritoneales
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 2237 2263	adenopatía supraclavicular
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2345 2367	implantes peritoneales
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2794 2812	lesiones hepáticas
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 3592 3610	lesiones hepáticas
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 3749 3767	lesión mesentérica
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 3833 3851	lesión suprarrenal
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 1870 1880	tumoración
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 1936 1993	metástasis por carcinoma neuroendocrino bien diferenciado
+#10	AnnotatorNotes T10	8240/6
+T11	MORFOLOGIA_NEOPLASIA 1325 1338	LOE hepáticas
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 2522 2618	Tumor neuroendocrino de probable origen gastroenteropancreático bien diferenciado con metástasis
+#12	AnnotatorNotes T12	8240/6
+T13	MORFOLOGIA_NEOPLASIA 3033 3084	tumor neruroendocrino bien diferenciado metastásico
+#13	AnnotatorNotes T13	8240/6

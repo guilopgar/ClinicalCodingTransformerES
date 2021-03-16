@@ -1,0 +1,30 @@
+T1	MORFOLOGIA_NEOPLASIA 1623 1633	malignidad
+T2	MORFOLOGIA_NEOPLASIA 3321 3333	sarcomatoide
+T3	MORFOLOGIA_NEOPLASIA 964 974	tumoración
+T4	MORFOLOGIA_NEOPLASIA 1805 1815	tumoración
+T5	MORFOLOGIA_NEOPLASIA 364 376	osteosarcoma
+T6	MORFOLOGIA_NEOPLASIA 168 184	OS de bajo grado
+T7	MORFOLOGIA_NEOPLASIA 618 644	Osteosarcoma de bajo grado
+T8	MORFOLOGIA_NEOPLASIA 847 960	osteosarcoma de bajo grado (de 4x3 cm) fusocelular, esclerosante, con formación de matriz ósea, bien diferenciado
+T9	MORFOLOGIA_NEOPLASIA 1308 1348	tumor fibroso esclerosante de bajo grado
+T10	MORFOLOGIA_NEOPLASIA 1993 2003	metastasis
+T11	MORFOLOGIA_NEOPLASIA 2108 2129	sarcoma de alto grado
+T12	MORFOLOGIA_NEOPLASIA 2587 2599	osteosarcoma
+T13	MORFOLOGIA_NEOPLASIA 2637 2709	sarcoma pleomorfo indiferenciado de alto grado en estadio IV (metástasis
+T14	MORFOLOGIA_NEOPLASIA 3458 3490	Sarcoma pleomorfo indiferenciado
+T15	MORFOLOGIA_NEOPLASIA 3526 3576	neoformación típica sarcomatoide de partes blandas
+T16	MORFOLOGIA_NEOPLASIA 3767 3798	Sarcoma pleomorfo de alto grado
+T17	MORFOLOGIA_NEOPLASIA 3815 3825	Metastasis
+T18	MORFOLOGIA_NEOPLASIA 3840 3863	Osteosarcoma bajo grado
+T19	MORFOLOGIA_NEOPLASIA 5570 5622	sarcoma de alto grado en progresión a nivel pulmonar
+T20	MORFOLOGIA_NEOPLASIA 5810 5829	progresión pulmonar
+T21	MORFOLOGIA_NEOPLASIA 847 897	osteosarcoma de bajo grado (de 4x3 cm) fusocelular
+T22	MORFOLOGIA_NEOPLASIA 1497 1516	celularidad tumoral
+T23	MORFOLOGIA_NEOPLASIA 4359 4378	enfermedad pulmonar
+T24	MORFOLOGIA_NEOPLASIA 5048 5067	lesiones cerebrales
+T25	MORFOLOGIA_NEOPLASIA 4401 4419	lesiones hepáticas
+T26	MORFOLOGIA_NEOPLASIA 4921 4940	progresión hepática
+T27	MORFOLOGIA_NEOPLASIA 1194 1210	recaida pulmonar
+T28	MORFOLOGIA_NEOPLASIA 1935 1950	nodulo pulmunar
+T29	MORFOLOGIA_NEOPLASIA 4827 4852	lesiones a nivel cerebral
+T30	MORFOLOGIA_NEOPLASIA 5494 5521	enfermedad a nivel pulmonar

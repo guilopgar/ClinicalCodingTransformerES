@@ -1,0 +1,44 @@
+T1	MORFOLOGIA_NEOPLASIA 1438 1459	Carcinoma epidermoide
+#1	AnnotatorNotes T1	8070/3
+T2	MORFOLOGIA_NEOPLASIA 2726 2736	carcinoide
+#2	AnnotatorNotes T2	8240/3
+T3	MORFOLOGIA_NEOPLASIA 3266 3276	carcinoide
+#3	AnnotatorNotes T3	8240/3
+T4	MORFOLOGIA_NEOPLASIA 4579 4589	carcinoide
+#4	AnnotatorNotes T4	8240/3
+T5	MORFOLOGIA_NEOPLASIA 4851 4861	carcinoide
+#5	AnnotatorNotes T5	8240/3
+T6	MORFOLOGIA_NEOPLASIA 6422 6432	carcinoide
+#6	AnnotatorNotes T6	8240/3
+T7	MORFOLOGIA_NEOPLASIA 6818 6828	carcinoide
+#7	AnnotatorNotes T7	8240/3
+T8	MORFOLOGIA_NEOPLASIA 7390 7400	carcinoide
+#8	AnnotatorNotes T8	8240/3
+T9	MORFOLOGIA_NEOPLASIA 2040 2051	metastásico
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 1011 1021	metástasis
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 1783 1793	metástasis
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 2905 2915	metástasis
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 3164 3174	metástasis
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 7565 7575	metástasis
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 1514 1530	tumor carcinoide
+#15	AnnotatorNotes T15	8240/3
+T16	MORFOLOGIA_NEOPLASIA 209 233	tumor carcinoide atípico
+#16	AnnotatorNotes T16	8249/3
+T17	MORFOLOGIA_NEOPLASIA 284 308	tumor carcinoide atípico
+#17	AnnotatorNotes T17	8249/3
+T18	MORFOLOGIA_NEOPLASIA 145 184	carcinoma epidermoide bien diferenciado
+#18	AnnotatorNotes T18	8070/31
+T19	MORFOLOGIA_NEOPLASIA 1653 1710	lesiones sólidas distribuidas por ambos lóbulos hepáticos
+#19	AnnotatorNotes T19	8000/6
+T20	MORFOLOGIA_NEOPLASIA 1956 1977	infiltración hepática
+#20	AnnotatorNotes T20	8000/6
+T21	MORFOLOGIA_NEOPLASIA 2078 2106	metástasis hepáticas por TNE
+#21	AnnotatorNotes T21	8240/6
+T22	MORFOLOGIA_NEOPLASIA 3220 3265	metástasis hepáticas por tumor neuroendocrino
+#22	AnnotatorNotes T22	8240/6

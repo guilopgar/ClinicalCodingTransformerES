@@ -1,0 +1,18 @@
+T1	MORFOLOGIA_NEOPLASIA 3872 3892	infiltración medular
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 2907 2914	linfoma
+#2	AnnotatorNotes T2	9590/3
+T3	MORFOLOGIA_NEOPLASIA 3754 3773	progresión pulmonar
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2084 2122	linfoma de Hodgkin, esclerosis nodular
+#4	AnnotatorNotes T4	9663/3
+T5	MORFOLOGIA_NEOPLASIA 2281 2315	linfoma Hodgkin esclerosis nodular
+#5	AnnotatorNotes T5	9663/3
+T6	MORFOLOGIA_NEOPLASIA 3210 3247	progresión supra e infradiafragmática
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 2737 2757	afectación esplénica
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 3252 3272	afectación esplénica
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 4381 4418	progresión supra e infradiafragmática
+#9	AnnotatorNotes T9	8000/6

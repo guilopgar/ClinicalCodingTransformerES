@@ -1,0 +1,32 @@
+T1	MORFOLOGIA_NEOPLASIA 2566 2568	M0
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 2533 2547	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 4840 4854	adenocarcinoma
+#3	AnnotatorNotes T3	8140/3
+T4	MORFOLOGIA_NEOPLASIA 7465 7503	carcinoma neuroendocrino de alto grado
+#4	AnnotatorNotes T4	8246/34
+T5	MORFOLOGIA_NEOPLASIA 8003 8049	lesiones ocupantes de espacio supratentoriales
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 6568 6578	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 6703 6712	neoplasia
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 1948 1958	neoplásica
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 2099 2109	neoplásica
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 6545 6550	tumor
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 6461 6495	tumor neuroendocrino de alto grado
+#11	AnnotatorNotes T11	8240/34
+T12	MORFOLOGIA_NEOPLASIA 1609 1619	tumoración
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 1963 2039	neoformación epitelial moderada/pobremente diferenciada, de hábito glandular
+#13	AnnotatorNotes T13	8010/13/H
+T14	MORFOLOGIA_NEOPLASIA 2364 2412	carcinoma pobremente diferenciado no microcítico
+#14	AnnotatorNotes T14	8046/33
+T15	MORFOLOGIA_NEOPLASIA 4880 4938	adenocarcinoma de pulmón estadio IV por afectación pleural
+#15	AnnotatorNotes T15	8140/6
+T16	MORFOLOGIA_NEOPLASIA 5764 5785	implante en la pleura
+#16	AnnotatorNotes T16	8000/6

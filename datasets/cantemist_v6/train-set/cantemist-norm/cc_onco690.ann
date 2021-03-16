@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 703 709	T3N0M0
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 4605 4624	lesiones pulmonares
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1301 1312	metastásica
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1061 1071	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 1244 1262	nódulos pulmonares
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 1764 1782	nódulos pulmonares
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1612 1631	progresión pulmonar
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 762 779	recidiva hepática
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 605 643	adenocarcinoma de colon mixto mucinoso
+#9	AnnotatorNotes T9	8480/3
+T10	MORFOLOGIA_NEOPLASIA 605 634	adenocarcinoma de colon mixto
+#10	AnnotatorNotes T10	8323/3

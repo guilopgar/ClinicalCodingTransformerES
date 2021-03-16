@@ -1,0 +1,14 @@
+T1	MORFOLOGIA_NEOPLASIA 2415 2439	carcinoma ductal in situ
+#1	AnnotatorNotes T1	8500/2
+T2	MORFOLOGIA_NEOPLASIA 3278 3306	carcinoma ductal infiltrante
+#2	AnnotatorNotes T2	8500/3
+T3	MORFOLOGIA_NEOPLASIA 3401 3418	carcinoma in situ
+#3	AnnotatorNotes T3	8010/2
+T4	MORFOLOGIA_NEOPLASIA 2242 2297	carcinoma ductal infiltrante, grado histológico (GH) II
+#4	AnnotatorNotes T4	8500/32
+T5	MORFOLOGIA_NEOPLASIA 2518 2542	metástasis por carcinoma
+#5	AnnotatorNotes T5	8010/6
+T6	MORFOLOGIA_NEOPLASIA 3935 3957	enfermedad a distancia
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 2091 2101	malignidad
+#7	AnnotatorNotes T7	8000/3

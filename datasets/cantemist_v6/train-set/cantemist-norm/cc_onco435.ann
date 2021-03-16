@@ -1,0 +1,6 @@
+T1	MORFOLOGIA_NEOPLASIA 117 131	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 166 176	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1280 1299	PE a nivel pulmonar
+#3	AnnotatorNotes T3	8000/6

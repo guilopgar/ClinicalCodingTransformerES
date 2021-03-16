@@ -1,0 +1,28 @@
+T1	MORFOLOGIA_NEOPLASIA 2394 2421	infiltración de médula ósea
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 655 662	linfoma
+#2	AnnotatorNotes T2	9590/3
+T3	MORFOLOGIA_NEOPLASIA 3180 3190	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 757 770	neuroblastoma
+#4	AnnotatorNotes T4	9500/3
+T5	MORFOLOGIA_NEOPLASIA 923 936	neuroblastoma
+#5	AnnotatorNotes T5	9500/3
+T6	MORFOLOGIA_NEOPLASIA 665 679	tumor desmoide
+#6	AnnotatorNotes T6	8821/1
+T7	MORFOLOGIA_NEOPLASIA 250 252	Ca
+#7	AnnotatorNotes T7	8000/3
+T8	MORFOLOGIA_NEOPLASIA 284 299	Ca. Microcítico
+#8	AnnotatorNotes T8	8002/3
+T9	MORFOLOGIA_NEOPLASIA 1764 1797	metástasis óseas de neuroblastoma
+#9	AnnotatorNotes T9	9500/6
+T10	MORFOLOGIA_NEOPLASIA 2687 2747	Neuroblastoma abdominal intervenido con recidiva metastásica
+#10	AnnotatorNotes T10	9500/6
+T11	MORFOLOGIA_NEOPLASIA 1558 1574	afectación sacra
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 2542 2567	afectación de médula ósea
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 2580 2615	masa de partes blandas prevertebral
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 3241 3253	lesión sacra
+#14	AnnotatorNotes T14	8000/6

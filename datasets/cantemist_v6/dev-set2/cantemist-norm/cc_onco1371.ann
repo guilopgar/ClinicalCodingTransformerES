@@ -1,0 +1,6 @@
+T1	MORFOLOGIA_NEOPLASIA 84 87	CDI
+#1	AnnotatorNotes T1	8500/3
+T2	MORFOLOGIA_NEOPLASIA 54 82	carcinoma ductal infiltrante
+#2	AnnotatorNotes T2	8500/3
+T3	MORFOLOGIA_NEOPLASIA 359 369	metástasis
+#3	AnnotatorNotes T3	8000/6

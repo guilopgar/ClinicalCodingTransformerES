@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 3025 3039	carcinomatosis
+#1	AnnotatorNotes T1	8010/9
+T2	MORFOLOGIA_NEOPLASIA 3235 3245	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 2554 2563	neoplasia
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 75 95	carcinoma lobulillar
+#4	AnnotatorNotes T4	8520/3
+T5	MORFOLOGIA_NEOPLASIA 241 252	metastásica
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 309 320	metastásica
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 2217 2272	carcinoma lobulillar infiltrante grado II de Nottingham
+#7	AnnotatorNotes T7	8520/32
+T8	MORFOLOGIA_NEOPLASIA 3795 3815	Carcinoma lobulillar
+#8	AnnotatorNotes T8	8520/3
+T9	MORFOLOGIA_NEOPLASIA 3925 3936	metastásica
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 5053 5062	carcinoma
+#10	AnnotatorNotes T10	8010/3
+T11	MORFOLOGIA_NEOPLASIA 5129 5163	metástasis de carcinoma lobulillar
+#11	AnnotatorNotes T11	8520/6
+T12	MORFOLOGIA_NEOPLASIA 436 465	adenopatías supraclaviculares
+#12	AnnotatorNotes T12	8000/6

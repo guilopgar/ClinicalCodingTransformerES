@@ -1,0 +1,38 @@
+T1	MORFOLOGIA_NEOPLASIA 1444 1454	metástasis
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 2963 2973	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 947 967	tumor neuroendocrino
+#3	AnnotatorNotes T3	8240/3
+T4	MORFOLOGIA_NEOPLASIA 1233 1243	tumoración
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 1538 1548	tumoración
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 2890 2897	tumoral
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 4753 4760	tumoral
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 5268 5275	tumoral
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 5885 5892	tumoral
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 991 1021	glucagonoma estadio IV (T3N0M1
+#10	AnnotatorNotes T10	8152/6
+T11	MORFOLOGIA_NEOPLASIA 1852 1905	tumor neuroendocrino con un grado de diferenciación 2
+#11	AnnotatorNotes T11	8249/3
+T12	MORFOLOGIA_NEOPLASIA 2521 2585	tumor neuroendocrino de 4,2 cm, con un grado 2 de diferenciación
+#12	AnnotatorNotes T12	8249/3
+T13	MORFOLOGIA_NEOPLASIA 2603 2614	glucagonoma
+#13	AnnotatorNotes T13	8152/1
+T14	MORFOLOGIA_NEOPLASIA 2692 2711	metastásica tumoral
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 3096 3134	metástasis de carcinoma neuroendocrino
+#15	AnnotatorNotes T15	8246/6
+T16	MORFOLOGIA_NEOPLASIA 4849 4860	metastásica
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 5514 5525	glucagonoma
+#17	AnnotatorNotes T17	8152/1
+T18	MORFOLOGIA_NEOPLASIA 1570 1588	lesiones hepáticas
+#18	AnnotatorNotes T18	8000/6
+T19	MORFOLOGIA_NEOPLASIA 5086 5130	nódulos a nivel de tejido celular subcutáneo
+#19	AnnotatorNotes T19	8000/6

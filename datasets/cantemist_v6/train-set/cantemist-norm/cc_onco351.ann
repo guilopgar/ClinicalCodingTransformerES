@@ -1,0 +1,32 @@
+T1	MORFOLOGIA_NEOPLASIA 3683 3711	Carcinoma ductal infiltrante
+#1	AnnotatorNotes T1	8500/3
+T2	MORFOLOGIA_NEOPLASIA 154 182	carcinoma ductal infiltrante
+#2	AnnotatorNotes T2	8500/3
+T3	MORFOLOGIA_NEOPLASIA 4019 4047	carcinoma ductal infiltrante
+#3	AnnotatorNotes T3	8500/3
+T4	MORFOLOGIA_NEOPLASIA 3390 3400	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 4229 4239	neoplasias
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 4433 4442	tumorales
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 545 557	osteosarcoma
+#7	AnnotatorNotes T7	9180/3
+T8	MORFOLOGIA_NEOPLASIA 601 621	lesiones a distancia
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 926 970	osteosarcoma osteoide osteoblástico grado IV
+#9	AnnotatorNotes T9	9180/34
+T10	MORFOLOGIA_NEOPLASIA 1028 1037	pT1pN0cM0
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 3803 3867	Osteosarcoma osteoide osteoblástico con recaída local y pulmonar
+#11	AnnotatorNotes T11	9180/6
+T12	MORFOLOGIA_NEOPLASIA 4061 4073	osteosarcoma
+#12	AnnotatorNotes T12	9180/3
+T13	MORFOLOGIA_NEOPLASIA 4342 4368	metástasis de osteosarcoma
+#13	AnnotatorNotes T13	9180/6
+T14	MORFOLOGIA_NEOPLASIA 4291 4306	lesión cerebral
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 1510 1537	progresión a nivel pulmonar
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 3922 3957	Lesión ocupante de espacio cerebral
+#16	AnnotatorNotes T16	8000/6

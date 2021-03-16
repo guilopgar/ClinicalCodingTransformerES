@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 2056 2070	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 431 456	linfangitis carcinomatosa
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 2190 2199	neoplasia
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 1815 1820	tumor
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 359 392	adenocarcinoma de pulmón T2 N1 M1
+#5	AnnotatorNotes T5	8140/6
+T6	MORFOLOGIA_NEOPLASIA 410 428	afectación pleural
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 631 642	metastásica
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 2268 2279	metastásica
+#8	AnnotatorNotes T8	8000/6

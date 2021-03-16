@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 1371 1403	Adenocarcinoma poco diferenciado
+#1	AnnotatorNotes T1	8140/33
+T2	MORFOLOGIA_NEOPLASIA 1815 1847	Adenocarcinoma poco diferenciado
+#2	AnnotatorNotes T2	8140/33
+T3	MORFOLOGIA_NEOPLASIA 1874 1889	Nódulo pulmonar
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 3512 3528	células malignas
+#4	AnnotatorNotes T4	8001/3
+T5	MORFOLOGIA_NEOPLASIA 2076 2091	lesión pulmonar
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 3109 3124	lesión pulmonar
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 3349 3364	lesión pulmonar
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 441 451	tumoración
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 1050 1060	tumoración
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 1722 1773	Nódulo hipermetabólico a nivel de vértice de pulmón
+#10	AnnotatorNotes T10	8000/6

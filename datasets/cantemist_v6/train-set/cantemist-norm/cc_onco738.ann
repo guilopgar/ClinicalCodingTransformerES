@@ -1,0 +1,42 @@
+T1	MORFOLOGIA_NEOPLASIA 4315 4329	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 4936 4945	carcinoma
+#2	AnnotatorNotes T2	8010/3
+T3	MORFOLOGIA_NEOPLASIA 6015 6024	carcinoma
+#3	AnnotatorNotes T3	8010/3
+T4	MORFOLOGIA_NEOPLASIA 1806 1836	carcinoma seroso de alto grado
+#4	AnnotatorNotes T4	8441/34
+T5	MORFOLOGIA_NEOPLASIA 1392 1406	carcinomatosis
+#5	AnnotatorNotes T5	8010/9
+T6	MORFOLOGIA_NEOPLASIA 350 356	cáncer
+#6	AnnotatorNotes T6	8000/3
+T7	MORFOLOGIA_NEOPLASIA 2476 2482	cáncer
+#7	AnnotatorNotes T7	8000/3
+T8	MORFOLOGIA_NEOPLASIA 5984 6000	células malignas
+#8	AnnotatorNotes T8	8001/3
+T9	MORFOLOGIA_NEOPLASIA 4292 4311	células neoplásicas
+#9	AnnotatorNotes T9	8001/1
+T10	MORFOLOGIA_NEOPLASIA 218 230	neurofibroma
+#10	AnnotatorNotes T10	9540/0
+T11	MORFOLOGIA_NEOPLASIA 1219 1231	neurofibroma
+#11	AnnotatorNotes T11	9540/0
+T12	MORFOLOGIA_NEOPLASIA 2013 2030	neurofibromatosis
+#12	AnnotatorNotes T12	9540/1
+T13	MORFOLOGIA_NEOPLASIA 3330 3335	tumor
+#13	AnnotatorNotes T13	8000/1
+T14	MORFOLOGIA_NEOPLASIA 5614 5621	tumoral
+#14	AnnotatorNotes T14	8000/1
+T15	MORFOLOGIA_NEOPLASIA 1459 1492	implantes subcapsulares hepáticos
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 1944 1963	implante peritoneal
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 2159 2201	carcinoma de ovario (seroso de alto grado)
+#17	AnnotatorNotes T17	8441/34
+T18	MORFOLOGIA_NEOPLASIA 2900 2909	neurinoma
+#18	AnnotatorNotes T18	9560/0
+T19	MORFOLOGIA_NEOPLASIA 3286 3325	carcinoma seroso residual de alto grado
+#19	AnnotatorNotes T19	8441/34
+T20	MORFOLOGIA_NEOPLASIA 3368 3377	YpT2aN0Mx
+#20	AnnotatorNotes T20	8000/6
+T21	MORFOLOGIA_NEOPLASIA 1267 1293	tumoración sólido-quística
+#21	AnnotatorNotes T21	8452/1

@@ -1,0 +1,24 @@
+Anamnesis
+Varón de 70 años, sin antecedentes de interés, que en noviembre de 2017 es derivado a digestivo para estudio por anemia refractaria a tratamiento y dispepsia de 6 meses de evolución.
+
+Exploración física
+La exploración resulta anodina.
+
+Pruebas complementarias
+» » Analítica: Hb 10,5 g/dl, CEA 31,8 ng/ml, Ca 19,9: 1.319 U/ml.
+» » Gastroscopia: a nivel de incisura y con extensión de unos 3 cm por curvatura menor, y también por cara posterior, se identifica una lesión excavada de bordes sobreelevados y fiebre al roce. El resto es normal. AP: adenocarcinoma de tipo intestinal. HER-2 negativo.
+» » TC-TAP: conglomerado adenopático a nivel de ligamento gastrohepático de unos 25 x 40 mm. El resto es normal.
+» Ecoendoscopia: lesión en curvatura menor que afecta al 50 % de la circunferencia con pérdida de definición de todas sus capas, infiltrado la grasa adyacente y extendiéndose desde los 3 cm por debajo de la unión gastroesofágica hasta antro proximal. Se observan 5 adenopatías de aspecto infiltrativo.
+
+Diagnóstico
+Adenocarcinoma gástrico. Estadio cT4cN2cM0.
+
+Tratamiento
+Ante adenocarcinoma gástrico localmente avanzado, se decide tratamiento neoadyuvante con esquema FLOT por 4 ciclos (estudio FLOT4-AIO), cirugía radical y posterior adyuvancia con otros 4 ciclos de FLOT.
+
+Evolución
+En enero de 2018 se inicia tratamiento con intención neoadyuvante con esquema FLOT (docetaxel 50 mg/m2, ácido folínico 200 mg/m2, oxaliplatino 85 mg/m2 y 5-FU 2.600 mg/m2 días 1 cada 14 días). Muy buena tolerancia al tratamiento. Náuseas y vómitos G1. Tras el 4º ciclo, la respuesta parcial fue de disminución de conglomerado adenopático a nivel de ligamento gastrohepático que actualmente mide 15 x 25 mm.
+Ante respuesta parcial radiológica, el día 21/3/2018 se realiza gastrectomía total y linfadenectomía D2. En la Anatomía Patológica se observa adenocarcinoma pobremente diferenciado que afecta a tejido perigástrico alcanzando la serosa visceral. Escasa respuesta a tratamiento (grado 3 CAP). Invasión linfovascular y perineural. Bordes libres. 11 ganglios afectos de 16. HER-2 negativo. Estadio ypT4apN3acM0.
+Posteriormente a la intervención, recibe sólo 2 ciclos de FLOT adyuvante. Se suspende ante mala tolerancia digestiva y toxicidad hematológica (último ciclo el 20/6/2018).
+En revisión de febrero de 2019 el paciente acude a consulta con dolor lumbar de 15 días de evolución, acompañado de debilidad y pérdida de fuerza 3/5 en ambos miembros inferiores, así como incontinencia urinaria. El paciente ingresa para estudio. Se realiza TC-TAP donde se observa recaída ganglionar retroperitoneal, así como metástasis pulmonares. En RM cerebral y columna completa se observa alteración morfológica en cola de caballo de tipo pseudonodular que, tras la administración de contraste intravenoso, realza intensamente en leptomeníngeo y de morfología nodular con diseminación metastásica. A nivel cerebral se observan múltiples lesiones cerebelosas, vérnix y corona radiata derecha. Se realiza punción lumbar y la citología del líquido cefalorraquídeo es positiva para malignidad.
+Se inicia tratamiento con corticoides a dosis altas y se plantea tratamiento con RT paliativa, pero el paciente empeora neurológicamente de forma progresiva falleciendo el 21/2/2019, 3 semanas después del inicio de la sintomatología.

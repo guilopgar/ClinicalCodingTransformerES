@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 1803 1822	células neoplásicas
+#1	AnnotatorNotes T1	8001/1
+T2	MORFOLOGIA_NEOPLASIA 2187 2197	malignidad
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 768 778	tumoración
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 1504 1514	tumoración
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 531 552	carcinoma basocelular
+#5	AnnotatorNotes T5	8090/3
+T6	MORFOLOGIA_NEOPLASIA 1751 1797	linfoma no Hodgkin B difuso de células grandes
+#6	AnnotatorNotes T6	9680/3
+T7	MORFOLOGIA_NEOPLASIA 2767 2774	Linfoma
+#7	AnnotatorNotes T7	9590/3
+T8	MORFOLOGIA_NEOPLASIA 2862 2908	linfoma no Hodgkin B difuso de células grandes
+#8	AnnotatorNotes T8	9680/3

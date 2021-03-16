@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 882 894	glioblastoma
+#1	AnnotatorNotes T1	9440/3
+T2	MORFOLOGIA_NEOPLASIA 1375 1398	glioblastoma multiforme
+#2	AnnotatorNotes T2	9440/3
+T3	MORFOLOGIA_NEOPLASIA 2440 2463	glioblastoma multiforme
+#3	AnnotatorNotes T3	9440/3
+T4	MORFOLOGIA_NEOPLASIA 3192 3215	glioblastoma multiforme
+#4	AnnotatorNotes T4	9440/3
+T5	MORFOLOGIA_NEOPLASIA 2340 2350	neoplásico
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 2503 2508	tumor
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 612 622	tumoración
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 1148 1158	tumoración
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 3311 3321	tumoración
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 2925 2932	tumoral
+#10	AnnotatorNotes T10	8000/1

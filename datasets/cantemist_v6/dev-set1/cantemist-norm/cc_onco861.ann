@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 2514 2539	afectación de médula ósea
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1214 1231	infiltración ósea
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1932 1945	neuroblastoma
+#3	AnnotatorNotes T3	9500/3
+T4	MORFOLOGIA_NEOPLASIA 2623 2636	neuroblastoma
+#4	AnnotatorNotes T4	9500/3
+T5	MORFOLOGIA_NEOPLASIA 3017 3030	neuroblastoma
+#5	AnnotatorNotes T5	9500/3
+T6	MORFOLOGIA_NEOPLASIA 2018 2025	tumoral
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 2699 2706	tumoral
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 3895 3902	tumoral
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 4691 4698	tumoral
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 5095 5102	tumoral
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 2488 2539	neuroblastoma estadio IV (afectación de médula ósea
+#11	AnnotatorNotes T11	9500/6
+T12	MORFOLOGIA_NEOPLASIA 4315 4325	RC medular
+#12	AnnotatorNotes T12	8000/6

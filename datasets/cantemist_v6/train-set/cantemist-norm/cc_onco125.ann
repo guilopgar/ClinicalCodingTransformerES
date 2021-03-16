@@ -1,0 +1,12 @@
+T1	MORFOLOGIA_NEOPLASIA 62 80	síndrome de Gorlin
+#1	AnnotatorNotes T1	8090/3
+T2	MORFOLOGIA_NEOPLASIA 438 459	tumores basocelulares
+#2	AnnotatorNotes T2	8090/1
+T3	MORFOLOGIA_NEOPLASIA 545 569	carcinomas basocelulares
+#3	AnnotatorNotes T3	8090/3
+T4	MORFOLOGIA_NEOPLASIA 923 947	Síndrome de Gorlin-Goltz
+#4	AnnotatorNotes T4	8090/3
+T5	MORFOLOGIA_NEOPLASIA 778 799	quistes odontogénicos
+#5	AnnotatorNotes T5	9301/0
+T6	MORFOLOGIA_NEOPLASIA 1734 1755	quistes odontogénicos
+#6	AnnotatorNotes T6	9301/0

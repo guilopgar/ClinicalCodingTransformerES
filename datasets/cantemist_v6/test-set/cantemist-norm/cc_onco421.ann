@@ -1,0 +1,8 @@
+T1	MORFOLOGIA_NEOPLASIA 1675 1696	Carcinoma epidermoide
+#1	AnnotatorNotes T1	8070/3
+T2	MORFOLOGIA_NEOPLASIA 1720 1726	T1N0M0
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 74 89	hepatocarcinoma
+#3	AnnotatorNotes T3	8170/3
+T4	MORFOLOGIA_NEOPLASIA 1539 1584	carcinoma de células escamosas queratinizante
+#4	AnnotatorNotes T4	8071/3

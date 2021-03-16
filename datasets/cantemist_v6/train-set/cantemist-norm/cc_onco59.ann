@@ -1,0 +1,22 @@
+T1	MORFOLOGIA_NEOPLASIA 3286 3296	metástasis
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1919 1928	neoplasia
+#2	AnnotatorNotes T2	8000/1
+T3	MORFOLOGIA_NEOPLASIA 1487 1492	tumor
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 3747 3752	tumor
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 943 953	tumoración
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 1603 1610	tumoral
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 2353 2360	tumoral
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 2482 2489	tumoral
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 1278 1323	liposarcoma desdiferenciado de 27 cm, grado 2
+#9	AnnotatorNotes T9	8858/32
+T10	MORFOLOGIA_NEOPLASIA 1692 1743	liposarcoma retroperitoneal desdiferenciado grado 2
+#10	AnnotatorNotes T10	8858/32
+T11	MORFOLOGIA_NEOPLASIA 3240 3259	lesiones pulmonares
+#11	AnnotatorNotes T11	8000/6

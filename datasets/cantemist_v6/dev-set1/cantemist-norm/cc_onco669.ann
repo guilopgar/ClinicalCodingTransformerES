@@ -1,0 +1,30 @@
+T1	MORFOLOGIA_NEOPLASIA 1167 1181	Adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 414 416	M0
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1201 1203	M0
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 1223 1239	Recaída pulmonar
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 248 262	adenocarcinoma
+#5	AnnotatorNotes T5	8140/3
+T6	MORFOLOGIA_NEOPLASIA 620 633	masa pulmonar
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 835 848	masa pulmonar
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 1489 1502	masa pulmonar
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 899 927	metástasis de adenocarcinoma
+#9	AnnotatorNotes T9	8140/6
+T10	MORFOLOGIA_NEOPLASIA 1783 1798	nódulo pulmonar
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 1770 1777	tumoral
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 113 140	leucemia linfoide crónica B
+#12	AnnotatorNotes T12	9823/3
+T13	MORFOLOGIA_NEOPLASIA 360 399	adenocarcinoma de colon derecho grado 1
+#13	AnnotatorNotes T13	8140/31
+T14	MORFOLOGIA_NEOPLASIA 753 770	recidiva pulmonar
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 2052 2079	nódulo milimétrico pulmonar
+#15	AnnotatorNotes T15	8000/6

@@ -1,0 +1,42 @@
+T1	MORFOLOGIA_NEOPLASIA 1127 1131	GIST
+#1	AnnotatorNotes T1	8936/3
+T2	MORFOLOGIA_NEOPLASIA 61 67	cáncer
+#2	AnnotatorNotes T2	8000/3
+T3	MORFOLOGIA_NEOPLASIA 156 162	cáncer
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 2118 2140	implantes peritoneales
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2498 2520	implantes peritoneales
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 4343 4355	metastásicos
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 110 119	neoplasia
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 1890 1920	poliposis adenomatosa familiar
+#8	AnnotatorNotes T8	8220/0
+T9	MORFOLOGIA_NEOPLASIA 925 935	tumoración
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 1306 1313	tumoral
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 2167 2174	tumoral
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 2489 2496	tumoral
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 1484 1525	fibromatosis mesentérica de tipo desmoide
+#13	AnnotatorNotes T13	8821/1
+T14	MORFOLOGIA_NEOPLASIA 1867 1884	tumores desmoides
+#14	AnnotatorNotes T14	8821/1
+T15	MORFOLOGIA_NEOPLASIA 1922 1925	PAF
+#15	AnnotatorNotes T15	8220/0
+T16	MORFOLOGIA_NEOPLASIA 2434 2437	PAF
+#16	AnnotatorNotes T16	8220/0
+T17	MORFOLOGIA_NEOPLASIA 2674 2734	linfoma B difuso de células grandes, inmunofenotipo germinal
+#17	AnnotatorNotes T17	9680/3/H
+T18	MORFOLOGIA_NEOPLASIA 3722 3750	afectación a nivel abdominal
+#18	AnnotatorNotes T18	8000/6
+T19	MORFOLOGIA_NEOPLASIA 4293 4316	masas intraperitoneales
+#19	AnnotatorNotes T19	8000/6
+T20	MORFOLOGIA_NEOPLASIA 4942 4965	masas a nivel abdominal
+#20	AnnotatorNotes T20	8000/6
+T21	MORFOLOGIA_NEOPLASIA 5029 5091	Linfoma difuso de células grandes B (LCGB) tipo centrogerminal
+#21	AnnotatorNotes T21	9680/3/H

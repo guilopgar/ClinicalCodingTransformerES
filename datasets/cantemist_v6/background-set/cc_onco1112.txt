@@ -1,0 +1,25 @@
+Anamnesis
+Varón de 51 años, sin antecedentes de interés, salvo ser exfumador de 20 cigarrillos/día, que ingresó en Medicina Interna por dolor cervical asociado a parestesias en ambos miembros superiores de 2 semanas de evolución, así como dolor en los miembros inferiores de carácter punzante bilateral, con aumento de tamaño del testículo derecho. Dos días antes del ingreso, el paciente presentó dolor abdominal localizado en el hipocondrio derecho acompañado de malestar general, náuseas y sensación de mareo. No refería síndrome constitucional ni síntomas B.
+
+Examen físico
+Las exploraciones física y neurológica fueron rigurosamente normales, salvo un aumento del tamaño y la consistencia del testículo derecho, que se encontraba duro e irregular.
+
+Pruebas complementarias
+- Se realizó analítica (hemograma y coagulación, bioquímica completa, sistemático de orina y proteinograma), resultando dentro de los límites de la normalidad, salvo GPT 63 mUI/ml y GGT 91 mUI/ml.
+- También se solicitaron serologías (VIH, VHC y VHB, Coxiella burnetti, Brucella, Borrelia burgdoferi y Treponema pallidum) negativas.
+- TC: imágenes líticas que afectan a la parte posterior de los cuerpos vertebrales C6-C7 con interrupción de la cortical posterior, así como una masa de partes blandas en el canal raquídeo que afectaba a los niveles descritos a nivel epidural, comprimiendo la médula. Masa pericárdica que comprime la entrada de la vena cava superior de unos 40 x 40 mm; LOE hepáticas sugestivas con metástasis. Masa retroperitoneal izquierda de 26 x 26 mm que estenosa la unión pieloureteral izquierda.
+- RM columna cérvico-dorsal: masa epidural desde C3-C4 hasta D4, con extensión a ambos forámenes de conjunción que estrecha el canal raquídeo, contactando con la médula a nivel cervical, sin signos de mielopatía. Afectación de la médula ósea de los cuerpos vertebrales y en menor medida pedículos desde C5 hasta D2.
+- Ecografía de escroto: testículos aumentados de tamaño, de predominio derecho y con lesiones nodulares sólidas bilaterales de hasta 23 mm en el derecho y 14 mm en el izquierdo. Vascularización conservada.
+- PET-TC: captaciones hipermetabólicas (SUV entre 7,4 y13,1) en el mediastino, el pericardio, el hígado, suprarrenales retropancreática y óseas.
+- Se realizó una microbiopsia hepática compatible con linfoma B difuso de célula grande (CD20 +; MUN1 +; BCL2 +; BCL6 +; MIB1 alto; CD10 -; CD30 -; CS1 -); biopsia de la médula ósea sin evidencia de infiltración por células malignas y punción lumbar: LCR sin alteraciones analíticas, salvo por citometría de flujo en el que se observaron -2,9 células/mcl de su linfoma.
+
+Diagnóstico
+En mayo de 2013 se diagnosticó linfoma B difuso de célula grande. Estadio IV-A. IPI 2.
+
+Tratamiento
+El paciente fue incluido en el Ensayo clínico GOYA; fue asignado a la rama de tratamiento R-CHOP. Recibió 8 ciclos desde mayo hasta octubre de 2013 y se realizó tratamiento del SNC con citarabina liposomal en los ciclos 1, 2, 4 y 8.
+Tras el cuarto ciclo se realizó una TC de control, que mostró RP mayor y tras el 8º persistencia de dos pequeñas lesiones hepáticas. La PET-TC mostró remisión metabólica completa. Los controles de citometría en LCR fueron repetidamente negativos.
+
+Evolución
+Se realizaron exploración, analítica y consulta al Servicio de Neurología, así como una TC y una PET-TC, sin encontrar signos de recidiva, así como un electromiograma compatible con mononeuritis múltiple. Ante el diagnóstico inicial de mononeuritis múltiple paraneoplásica, se inició el tratamiento con gammaglobulina a dosis altas, pero el paciente presentó un empeoramiento clínico, con dolores neuropáticos intensos que requirieron sedación del paciente y manejo por la Unidad del Dolor con medicación múltiple y anestésicos IV. Se realizó una PET-TC incluyendo las extremidades, cuyo resultado fue el engrosamiento del nervio ciático izquierdo (Fig. 1) ocupando la práctica totalidad del muslo izquierdo con diámetro mayor de 16 mm y un SUV máx de 9,5. Aumento del metabolismo del nervio mediano, más prominente en el brazo y el antebrazo derechos (Fig. 2) con SUV máx de 3,6, en la región deltoidea izquierda (SUV 4,7) y la raíz nerviosa C8 izquierda (SUV máx 1,5). Estudio compatible con diagnóstico de sospecha de neurolinfomatosis.
+En febrero de 2014 se inició terapia de rescate con R-ICE, con mejoría de la clínica dolorosa, habiéndose administrado tres ciclos con progresión clínica y radiológica al finalizar. Se propuso administrar un esquema de inmunoquimioterapia a altas dosis seguido de trasplante autólogo de médula ósea. Actualmente, se encuentra pendiente del trasplante autólogo.

@@ -1,0 +1,30 @@
+T1	MORFOLOGIA_NEOPLASIA 144 158	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 1187 1201	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 3129 3178	diseminación linfática única de un adenocarcinoma
+#3	AnnotatorNotes T3	8140/6
+T4	MORFOLOGIA_NEOPLASIA 4336 4350	adenocarcinoma
+#4	AnnotatorNotes T4	8140/3
+T5	MORFOLOGIA_NEOPLASIA 470 492	enfermedad a distancia
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 4502 4527	linfangitis carcinomatosa
+#6	AnnotatorNotes T6	8000/3
+T7	MORFOLOGIA_NEOPLASIA 5394 5419	linfangitis carcinomatosa
+#7	AnnotatorNotes T7	8000/3
+T8	MORFOLOGIA_NEOPLASIA 3049 3060	metastásica
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 1992 2010	nódulos pulmonares
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 630 635	tumor
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 918 923	tumor
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 952 1029	adenocarcinoma de colon con células en anillo de sello, grado histológico III
+#12	AnnotatorNotes T12	8490/33
+T13	MORFOLOGIA_NEOPLASIA 1231 1240	pT3pN2bM0
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 3009 3048	diseminación broncovascular y linfática
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 4386 4423	Progresión pulmonar de adenocarcinoma
+#15	AnnotatorNotes T15	8140/6

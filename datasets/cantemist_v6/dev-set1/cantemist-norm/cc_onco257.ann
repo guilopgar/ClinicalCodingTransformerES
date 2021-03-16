@@ -1,0 +1,26 @@
+T1	MORFOLOGIA_NEOPLASIA 264 273	carcinoma
+#1	AnnotatorNotes T1	8010/3
+T2	MORFOLOGIA_NEOPLASIA 505 514	carcinoma
+#2	AnnotatorNotes T2	8010/3
+T3	MORFOLOGIA_NEOPLASIA 2862 2871	carcinoma
+#3	AnnotatorNotes T3	8010/3
+T4	MORFOLOGIA_NEOPLASIA 3130 3139	carcinoma
+#4	AnnotatorNotes T4	8010/3
+T5	MORFOLOGIA_NEOPLASIA 3907 3916	carcinoma
+#5	AnnotatorNotes T5	8010/3
+T6	MORFOLOGIA_NEOPLASIA 5377 5386	carcinoma
+#6	AnnotatorNotes T6	8010/3
+T7	MORFOLOGIA_NEOPLASIA 4614 4638	carcinoma seroso papilar
+#7	AnnotatorNotes T7	8460/3
+T8	MORFOLOGIA_NEOPLASIA 416 422	cáncer
+#8	AnnotatorNotes T8	8000/3
+T9	MORFOLOGIA_NEOPLASIA 4853 4859	cáncer
+#9	AnnotatorNotes T9	8000/3
+T10	MORFOLOGIA_NEOPLASIA 2323 2333	tumoración
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 3220 3269	metástasis de carcinoma pleomórfico de alto grado
+#11	AnnotatorNotes T11	8022/64
+T12	MORFOLOGIA_NEOPLASIA 3493 3519	adenopatía supraclavicluar
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 3730 3783	adenocarcinoma de ovario seroso-papilar de alto grado
+#13	AnnotatorNotes T13	8460/34

@@ -1,0 +1,10 @@
+T1	MORFOLOGIA_NEOPLASIA 855 877	implantes peritoneales
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 2151 2186	progresión tumoral a nivel hepático
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 898 905	tumoral
+#3	AnnotatorNotes T3	8000/1
+T4	MORFOLOGIA_NEOPLASIA 528 551	carcinoma de alto grado
+#4	AnnotatorNotes T4	8010/34
+T5	MORFOLOGIA_NEOPLASIA 1588 1648	carcinoma seroso de ovario izquierdo pobremente diferenciado
+#5	AnnotatorNotes T5	8441/33

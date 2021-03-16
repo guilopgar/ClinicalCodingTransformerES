@@ -1,0 +1,30 @@
+Anamnesis
+Mujer premenopáusica, nulípara y sin comorbilidades. Intervenida en julio de 2007, mediante tumorectomía, por carcinoma ductal infiltrante bien diferenciado de mama derecha, estadio IA pT1bpN0cM0. Inmunohistoquímica: receptores de estrógenos, de progesterona y herceptest negativos, Ki67 positivo débil. Quimioterapia adyuvante según esquema FEC por 6 ciclos (5-fluoruracilo 600 mg/m², 4-epirrubicina 75 mg/m², ciclofosfamida 600 mg/m²) y radioterapia (dosis total 50 Gy PTV1 mama y 16 Gy PTV2 lecho tumoral).
+En revisión de julio de 2010, se objetiva, en radiografía de tórax, un NPS de 3 cm en el lóbulo superior izquierdo (LSI).
+Se solicita TC y, pendiente de realización, consulta en Urgencias por disminución de la agudeza visual de 10 días de evolución sin otra sintomatología, ingresando en Neurología.
+
+Examen físico
+ECOG 2 (pérdida visual). Buen estado general. Eupneica. Mama sin signos de recidiva. No hay adenopatías palpables.
+Auscultación, abdomen y extremidades: sin hallazgos relevantes. Exploración neurológica: orientada y colaboradora.
+Funciones superiores conservadas. Agudeza visual 0,6. Hemianopsia bitemporal. Pupilas normorreactivas isocóricas.
+Pares craneales, movimientos oculares extrínsecos, fuerza y sensibilidad conservados. No presenta signos meníngeos.
+Fondo de ojo: borramiento de papila izquierda.
+
+Pruebas complementarias
+Analítica: hemoglobina 9,5 mg/dl. Leucocitos, plaquetas, coagulación, iones, hormonas tiroideas, enzimas hepáticas, vitamina B12, ácido fólico, CEA, Ca 15.3 y ECA, normales.
+Tomografía computarizada de tórax y abdomen superior: nódulo de 3 x 2 cm en el lóbulo superior izquierdo.
+TAC cráneo: normal.
+Punción lumbar: citoquímica, citología y cultivo, normal.
+Resonancia magnética nuclear de cráneo: hiperintensidad en T2 y Flair en segmento distal de nervios ópticos y quiasma óptico, sugestivo de metástasis perineural bilateral.
+Tomografía por emisión de positrones (PET): nódulo pulmonar solitario de probable origen metastásico sin poder descartar primario (SUV máximo 17,68 uCi/ml).
+Punción-aspiración con aguja fina (PAAF) pulmonar guiada por TC (2): material insuficiente. Biopsia transbronquial: tejido de granulación inespecífico. Resección quirúrgica NPS: linfoma de la zona marginal extraganglionar (tipo MALT) con fenotipo de restricción de cadenas ligeras kappa.
+
+Diagnóstico
+Linfoma de la zona marginal extraganglionar tipo Mucosa Associated Lymphoid Tissue (MALT).
+Neuritis óptica como probable síndrome paraneoplásico.
+
+Tratamiento
+Lingulectomía atípica y linfadenectomía de grupos 11 y 5. Corticoides intravenosos a altas dosis y un ciclo con inmunoglobulinas.
+
+Evolución
+Recuperación ad integrum de la clínica visual con normalización de la RM. TC de enero de 2013 sin evidencia de recidiva. Cáncer de mama y linfoma en remisión completa.

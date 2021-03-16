@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 1753 1760	cT4N1M0
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1358 1386	carcinoma ductal infiltrante
+#2	AnnotatorNotes T2	8500/3
+T3	MORFOLOGIA_NEOPLASIA 2445 2473	carcinoma ductal infiltrante
+#3	AnnotatorNotes T3	8500/3
+T4	MORFOLOGIA_NEOPLASIA 6234 6250	células malignas
+#4	AnnotatorNotes T4	8001/3
+T5	MORFOLOGIA_NEOPLASIA 1679 1701	enfermedad a distancia
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 1114 1124	malignidad
+#6	AnnotatorNotes T6	8000/3
+T7	MORFOLOGIA_NEOPLASIA 1544 1567	metástasis de carcinoma
+#7	AnnotatorNotes T7	8010/6
+T8	MORFOLOGIA_NEOPLASIA 405 414	neoplasia
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 1725 1734	neoplasia
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 2595 2623	micrometástasis de carcinoma
+#10	AnnotatorNotes T10	8010/6

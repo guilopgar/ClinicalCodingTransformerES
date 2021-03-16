@@ -1,0 +1,34 @@
+T1	MORFOLOGIA_NEOPLASIA 307 309	M0
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1689 1709	Melanoma metastásico
+#2	AnnotatorNotes T2	8720/6
+T3	MORFOLOGIA_NEOPLASIA 3002 3021	células neoplásicas
+#3	AnnotatorNotes T3	8001/1
+T4	MORFOLOGIA_NEOPLASIA 740 762	enfermedad a distancia
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2309 2324	lesión pulmonar
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 282 298	melanoma maligno
+#6	AnnotatorNotes T6	8720/3
+T7	MORFOLOGIA_NEOPLASIA 1525 1535	metástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 3519 3529	metástasis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 658 680	metástasis de melanoma
+#9	AnnotatorNotes T9	8720/6
+T10	MORFOLOGIA_NEOPLASIA 2596 2611	nódulo pulmonar
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 3475 3482	tumoral
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 4002 4009	tumoral
+#12	AnnotatorNotes T12	8000/1
+T13	MORFOLOGIA_NEOPLASIA 96 148	melanoma en el antebrazo derecho de tipo epitelioide
+#13	AnnotatorNotes T13	8771/3
+T14	MORFOLOGIA_NEOPLASIA 1444 1464	nódulos en el pulmón
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 1603 1638	lesión ocupante de espacio hepática
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 1711 1717	T2N2M1
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 209 220	satelitosis
+#17	AnnotatorNotes T17	8001/1

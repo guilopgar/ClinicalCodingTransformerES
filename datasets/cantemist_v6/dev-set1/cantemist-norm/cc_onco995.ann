@@ -1,0 +1,48 @@
+T1	MORFOLOGIA_NEOPLASIA 2460 2474	Adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 677 691	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 1639 1653	adenocarcinoma
+#3	AnnotatorNotes T3	8140/3
+T4	MORFOLOGIA_NEOPLASIA 2975 2989	adenocarcinoma
+#4	AnnotatorNotes T4	8140/3
+T5	MORFOLOGIA_NEOPLASIA 3916 3928	masa pélvica
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 2007 2018	metastásica
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 1693 1716	metástasis de carcinoma
+#7	AnnotatorNotes T7	8010/6
+T8	MORFOLOGIA_NEOPLASIA 986 992	miomas
+#8	AnnotatorNotes T8	8895/0
+T9	MORFOLOGIA_NEOPLASIA 1470 1476	miomas
+#9	AnnotatorNotes T9	8895/0
+T10	MORFOLOGIA_NEOPLASIA 2621 2627	miomas
+#10	AnnotatorNotes T10	8895/0
+T11	MORFOLOGIA_NEOPLASIA 442 452	neoplásica
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 3883 3904	progresión peritoneal
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 3834 3850	recaída pulmonar
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 141 151	miomatosis
+#14	AnnotatorNotes T14	8895/0
+T15	MORFOLOGIA_NEOPLASIA 722 725	uM0
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 1039 1047	ypT3N1M0
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 2484 2492	ypT3N1M0
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 2124 2163	nódulos de 4 y 5 mm en bases pulmonares
+#18	AnnotatorNotes T18	8000/6
+T19	MORFOLOGIA_NEOPLASIA 2651 2685	adenocarcinoma gástrico rIV (OTHER
+#19	AnnotatorNotes T19	8140/6
+T20	MORFOLOGIA_NEOPLASIA 2774 2811	adenocarcinoma gástrico rIV (PULMONAR
+#20	AnnotatorNotes T20	8140/6
+T21	MORFOLOGIA_NEOPLASIA 4438 4467	progresión a nivel peritoneal
+#21	AnnotatorNotes T21	8000/6
+T22	MORFOLOGIA_NEOPLASIA 4471 4492	implante rectovesical
+#22	AnnotatorNotes T22	8000/6
+T23	MORFOLOGIA_NEOPLASIA 5352 5387	implantes en cara anterior de recto
+#23	AnnotatorNotes T23	8000/6
+T24	MORFOLOGIA_NEOPLASIA 5515 5536	implante en mesocolon
+#24	AnnotatorNotes T24	8000/6

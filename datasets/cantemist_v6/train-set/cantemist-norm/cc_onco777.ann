@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 3066 3089	Adenocarcinoma mucinoso
+#1	AnnotatorNotes T1	8480/3
+T2	MORFOLOGIA_NEOPLASIA 2082 2096	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 2458 2472	adenocarcinoma
+#3	AnnotatorNotes T3	8140/3
+T4	MORFOLOGIA_NEOPLASIA 3028 3051	adenocarcinoma mucinoso
+#4	AnnotatorNotes T4	8480/3
+T5	MORFOLOGIA_NEOPLASIA 2175 2216	adenocarcinoma mucinoso bien diferenciado
+#5	AnnotatorNotes T5	8480/31
+T6	MORFOLOGIA_NEOPLASIA 2351 2368	células tumorales
+#6	AnnotatorNotes T6	8001/1
+T7	MORFOLOGIA_NEOPLASIA 1730 1735	tumor
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 3136 3144	pT4NxM1a
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 3146 3169	derrame pleural maligno
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 3643 3682	cáncer de pulmón de células no pequeñas
+#10	AnnotatorNotes T10	8002/3

@@ -1,0 +1,41 @@
+Anamnesis
+ Sin alergias medicamentosas conocidas.
+ Fumador de 20 cigarrillos-día.
+ Como antecedentes, presenta una fibrilación auricular, en tratamiento con anticoagulantes orales.
+ Estudiado en Neurología por cefalea, con diagnóstico de lesiones isquémicas en sustancia blanca de la que no disponemos de informes.
+ Tumor de Warthin conocido.
+Se trata de un paciente que inicia estudio en otro centro en octubre de 2016 por cuadro de lumbociatalgia derecha, en este contexto, y dados los datos de no control con el tratamiento analgésico y edad del paciente, se decide realizar prueba de imagen.
+
+Exploración física
+ ECOG 1.
+ Buen estado general, consciente orientado y colaborador. Eupneico en reposo saturando al 98 % sin oxigenoterapia. TA 138/74 mm hg, FC 79 lpm.
+ Auscultación cardiopulmonar: corazón rítmico sin soplos ni sobretonos. Buen murmullo vesicularsin ruidos sobreañadidos.
+ Abdomen: blando depresible no doloroso durante la palpación, ruidos hidroaéreos presentes, no se palpan ni masas, ni megalias.
+ Miembros inferiores: sin edema, sin datos de insuficiencia venosa periférica ni datos de trombosis venosa profunda.
+
+Exploración neurológica:
+ Pupilas isocóricas normorreactivas, sin limitación en la mirada horizontal.
+ Sin asimetrías faciales, ni alteración de pares craneales, con elevación del velo del paladar de forma simétrica, sin afonía.
+Miembros superiores: sin claudicación en barré, con balance muscular y articular normal, no hay alteraciones de sensibilidad.
+Miembros inferiores: mínima claudicación de miembro inferior derecho en Mingazzini, con balance muscular disminuido en flexión dorsal de la pierna, y flexión dorsal del pie, exploración muy limitada por el dolor.
+Exploración de la columna: destaca dificultad en la flexión anterior, con dolor en la palpación de cuerpo vertebrales entre D2-D4.
+Pruebas complementarias
+ RM de columna: lesión lítica única en L4 (realizada en otro centro, no disponemos de informe).
+ TC toracoabdominal: nódulo de 2,5 cm en lóbulo superior derecho, sin adenopatías mediastínicas ni hilares.
+ Analítica: tiroglobulina de 3.009 ng/ml rango en nuestro laboratorio superiores de 55 ng/ml.
+ PET-TC: captación patológica, en lóbulo medio e inferior derecho, y la lesión lírica en L4. Además, una captación con SUV 2,8 en relación con posible tumor de Warthin ya descrito.
+
+Diagnóstico
+Resultados anatomopatológicos: iniciales de la biopsia vertebral.
+»Biopsia de lesión vertebral ósea (enero 2017) que transcurre sin incidencias y se obtiene diagnóstico histológico de metástasis de carcinoma papilar de tiroides, demostrando la expresión en las células de tiroglobulina y TTF-1.
+Resultados anatomopatológicos: tras intervención quirúrgica, paciente ya diagnosticado.
+ Lobectomía media y linfadenectomía de territorios 4R (abril 2017): adenocarcinoma de pulmón moderadamente diferenciado de 1,7cm que afecta a la pleura visceral sin contactar con el borde de resección bronquial. Ganglios linfáticos de territorio paratraqueal bajo y submarina con antracosis e histiocitosis sinusal. Estadio IB (pT2aN0), se confirma mutación EGFR en el exón 21.
+ Tiroides: carcinoma papilar de tiroides de tipo convencional, con patrón de crecimiento folicular y sólido-trabecular, multifocal, cuyo nódulo mayor mide 1,2 cm, y alcanza márgenes quirúrgicos de resección. Vaciamiento central derecho e izquierdo, con ausencia de ganglios linfáticos, glándula paratiroides y tiroides sin alteraciones.
+
+Tratamiento
+ El paciente fue sometido a: » Lobectomía media y linfadenectomía de territorios 4R, como complicación postoperatoria, presentó neumotórax, que requirió la colocación de tubo torácico con resolución del mismo sin complicaciones posteriores.
+ Tiroidectomía con vaciamiento ganglionar central derecho e izquierdo.
+
+Evolución
+Actualmente el paciente se encuentra pendiente de iniciar tratamiento con radioyodo, y realizar estudio gammagráfico para completar estudio de extensión de tumor papilar de tiroides metastásico, además de haber iniciado tratamiento con ácido zoledrónico.
+Desde el punto de vista pulmonar, pendiente de reevaluación con nueva prueba de imagen, tras lobectomía, que se realizará dentro de dos meses. En principio se ha planteado seguimiento mediante pruebas de imagen.

@@ -1,0 +1,32 @@
+T1	MORFOLOGIA_NEOPLASIA 2534 2537	TNE
+#1	AnnotatorNotes T1	8240/3
+T2	MORFOLOGIA_NEOPLASIA 2734 2737	TNE
+#2	AnnotatorNotes T2	8240/3
+T3	MORFOLOGIA_NEOPLASIA 3770 3773	TNE
+#3	AnnotatorNotes T3	8240/3
+T4	MORFOLOGIA_NEOPLASIA 4436 4439	TNE
+#4	AnnotatorNotes T4	8240/3
+T5	MORFOLOGIA_NEOPLASIA 1472 1482	Tumoración
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 2272 2282	metástasis
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 78 85	sarcoma
+#7	AnnotatorNotes T7	8800/3
+T8	MORFOLOGIA_NEOPLASIA 3275 3282	sarcoma
+#8	AnnotatorNotes T8	8800/3
+T9	MORFOLOGIA_NEOPLASIA 2431 2436	tumor
+#9	AnnotatorNotes T9	8000/1
+T10	MORFOLOGIA_NEOPLASIA 2512 2532	tumor neuroendocrino
+#10	AnnotatorNotes T10	8240/3
+T11	MORFOLOGIA_NEOPLASIA 1272 1335	Tumor maligno indiferenciado de células redondas inclasificable
+#11	AnnotatorNotes T11	8000/34/H
+T12	MORFOLOGIA_NEOPLASIA 2576 2603	recidiva tumoral de sarcoma
+#12	AnnotatorNotes T12	8800/6
+T13	MORFOLOGIA_NEOPLASIA 2651 2714	Tumor maligno indiferenciado de células redondas inclasificable
+#13	AnnotatorNotes T13	8000/34/H
+T14	MORFOLOGIA_NEOPLASIA 2771 2790	recidiva de sarcoma
+#14	AnnotatorNotes T14	8800/6
+T15	MORFOLOGIA_NEOPLASIA 3144 3172	progresión a nivel abdominal
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 4450 4478	tumor de corteza suprarrenal
+#16	AnnotatorNotes T16	8370/1

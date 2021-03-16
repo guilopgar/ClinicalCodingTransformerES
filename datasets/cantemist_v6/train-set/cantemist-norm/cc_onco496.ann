@@ -1,0 +1,8 @@
+T1	MORFOLOGIA_NEOPLASIA 611 621	metástasis
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1963 1998	metástasis de carcinoma microcítico
+#2	AnnotatorNotes T2	8041/6
+T3	MORFOLOGIA_NEOPLASIA 259 309	adenocarcinoma de pulmón estadio IV por metástasis
+#3	AnnotatorNotes T3	8140/6
+T4	MORFOLOGIA_NEOPLASIA 1283 1300	lesión subpleural
+#4	AnnotatorNotes T4	8000/6

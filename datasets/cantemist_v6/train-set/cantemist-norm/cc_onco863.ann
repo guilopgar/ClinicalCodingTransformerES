@@ -1,0 +1,26 @@
+T1	MORFOLOGIA_NEOPLASIA 2336 2364	carcinoma de células renales
+#1	AnnotatorNotes T1	8312/3
+T2	MORFOLOGIA_NEOPLASIA 844 863	carcinoma urotelial
+#2	AnnotatorNotes T2	8120/3
+T3	MORFOLOGIA_NEOPLASIA 826 832	cáncer
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 2395 2407	hipernefroma
+#4	AnnotatorNotes T4	8312/3
+T5	MORFOLOGIA_NEOPLASIA 4357 4364	maligna
+#5	AnnotatorNotes T5	8000/3
+T6	MORFOLOGIA_NEOPLASIA 2395 2425	hipernefroma de células claras
+#6	AnnotatorNotes T6	8310/3
+T7	MORFOLOGIA_NEOPLASIA 2457 2513	Carcinoma renal de células claras estadio IV (metástasis
+#7	AnnotatorNotes T7	8310/6
+T8	MORFOLOGIA_NEOPLASIA 3388 3413	lesión lítica en escápula
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 4151 4176	lesión lítica de escápula
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 4210 4228	lesión de apófisis
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 4275 4291	masa suprarrenal
+#11	AnnotatorNotes T11	8000/6
+T12	MORFOLOGIA_NEOPLASIA 1527 1549	masa de partes blandas
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 1941 1957	masa suprarrenal
+#13	AnnotatorNotes T13	8000/6

@@ -1,0 +1,36 @@
+T1	MORFOLOGIA_NEOPLASIA 4675 4684	carcinoma
+#1	AnnotatorNotes T1	8010/3
+T2	MORFOLOGIA_NEOPLASIA 355 365	metástasis
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1018 1028	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 3903 3913	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 5256 5263	tumoral
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 318 353	cáncer de sigma estadio IV cT3N1bM1
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 386 408	implantes peritoneales
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 564 648	adenocarcinoma de sigma pT3N2b (7/20) M1 (enfermedad hepática bilobar) de bajo grado
+#8	AnnotatorNotes T8	8140/61
+T9	MORFOLOGIA_NEOPLASIA 3853 3863	metástasis
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 4008 4041	carcinoma colorrectal metastásico
+#10	AnnotatorNotes T10	8010/6
+T11	MORFOLOGIA_NEOPLASIA 4073 4111	adenocarcinoma colorrectal metastásico
+#11	AnnotatorNotes T11	8140/6
+T12	MORFOLOGIA_NEOPLASIA 4043 4062	Progresión hepática
+#12	AnnotatorNotes T12	8000/6
+T13	MORFOLOGIA_NEOPLASIA 1740 1762	masa de partes blandas
+#13	AnnotatorNotes T13	8000/6
+T14	MORFOLOGIA_NEOPLASIA 3686 3701	nódulo pulmonar
+#14	AnnotatorNotes T14	8000/6
+T15	MORFOLOGIA_NEOPLASIA 1388 1407	progresión hepática
+#15	AnnotatorNotes T15	8000/6
+T16	MORFOLOGIA_NEOPLASIA 1686 1701	progresión ósea
+#16	AnnotatorNotes T16	8000/6
+T17	MORFOLOGIA_NEOPLASIA 1789 1808	enfermedad hepática
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 1703 1734	lesión en pala ilíaca izquierda
+#18	AnnotatorNotes T18	8000/6

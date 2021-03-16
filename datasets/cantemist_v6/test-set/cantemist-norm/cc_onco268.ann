@@ -1,0 +1,10 @@
+T1	MORFOLOGIA_NEOPLASIA 517 531	adenocarcinoma
+#1	AnnotatorNotes T1	8140/3
+T2	MORFOLOGIA_NEOPLASIA 299 332	adenocarcinoma de tipo intestinal
+#2	AnnotatorNotes T2	8144/3
+T3	MORFOLOGIA_NEOPLASIA 483 493	metástasis
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 221 230	neoplasia
+#4	AnnotatorNotes T4	8000/1
+T5	MORFOLOGIA_NEOPLASIA 416 434	nódulos pulmonares
+#5	AnnotatorNotes T5	8000/6

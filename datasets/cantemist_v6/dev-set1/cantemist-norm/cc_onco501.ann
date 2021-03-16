@@ -1,0 +1,40 @@
+T1	MORFOLOGIA_NEOPLASIA 4804 4823	afectación pulmonar
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 5778 5792	carcinomatosis
+#2	AnnotatorNotes T2	8010/9
+T3	MORFOLOGIA_NEOPLASIA 3160 3177	colangiocarcinoma
+#3	AnnotatorNotes T3	8160/3
+T4	MORFOLOGIA_NEOPLASIA 2836 2851	hepatocarcinoma
+#4	AnnotatorNotes T4	8170/3
+T5	MORFOLOGIA_NEOPLASIA 2642 2654	intratumoral
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 2373 2391	lesiones hepáticas
+#6	AnnotatorNotes T6	8000/6
+T7	MORFOLOGIA_NEOPLASIA 5608 5626	lesiones hepáticas
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 5553 5572	lesiones pulmonares
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 1374 1392	nódulos pulmonares
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 1467 1483	suelta de globos
+#10	AnnotatorNotes T10	8000/6
+T11	MORFOLOGIA_NEOPLASIA 4517 4522	tumor
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 3183 3197	tumor germinal
+#12	AnnotatorNotes T12	9064/3
+T13	MORFOLOGIA_NEOPLASIA 4012 4026	tumor germinal
+#13	AnnotatorNotes T13	9064/3
+T14	MORFOLOGIA_NEOPLASIA 1502 1512	tumoración
+#14	AnnotatorNotes T14	8000/1
+T15	MORFOLOGIA_NEOPLASIA 2445 2455	tumoración
+#15	AnnotatorNotes T15	8000/1
+T16	MORFOLOGIA_NEOPLASIA 4789 4796	tumoral
+#16	AnnotatorNotes T16	8000/1
+T17	MORFOLOGIA_NEOPLASIA 616 653	multinodulares pulmonares bilaterales
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 3926 3944	neoplásica maligna
+#18	AnnotatorNotes T18	8000/3
+T19	MORFOLOGIA_NEOPLASIA 4431 4471	tumor germinal con enfermedad secundaria
+#19	AnnotatorNotes T19	9064/6
+T20	MORFOLOGIA_NEOPLASIA 4542 4549	TxNxM1b
+#20	AnnotatorNotes T20	8000/6

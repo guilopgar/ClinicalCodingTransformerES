@@ -1,0 +1,45 @@
+Anamnesis
+Varón de 69 años de edad entre cuyos antecedentes personales destacan haber sido exfumador desde hacía 20 años de 30 años/paquete y presentar diabetes tipo II no insulino-dependiente además de dislipemia en tratamiento farmacológico.
+El paciente acudió a Urgencias hospitalarias en febrero de 2013 por presentar inestabilidad de la marcha de 2 meses de evolución que se asociaba a un cuadro de déficit sensitivo-motor en las cuatro extremidades de instauración progresiva.
+Presentaba claro empeoramiento de la sintomatología en los últimos 10 días, con imposibilidad para la marcha y dificultad para mantener la bipedestación. Además, refería clínica vertiginosa, por lo que se realizó una TC craneal de urgencia que únicamente mostraba infartos antiguos en el centro semioval y ganglios basales izquierdos con leve leucoaraiosis y atrofia de predomino córtico-frontal. No presentaba otra sintomatología en la anamnesis por aparatos.
+Ante el cuadro clínico descrito, se decide su ingreso en el Servicio de Medicina Interna para completar el estudio.
+
+Examen físico
+- IK: 50% (imposibilidad para la marcha). Consciente y orientado. Normocolerado. Normohidratado. Eupneico en reposo sin O2 suplementario.
+- Auscultación cardiaca: rítmico, no auscultación de soplos.
+- Auscultación pulmonar: murmullo vesicular conservado, no roncus ni sibilantes.
+- Abdomen: blando y depresible, no masas ni organomegalias palpables. Peristaltismo conservado. Sin signos de irritación peritoneal.
+- Extremidades inferiores: no edemas, no signos de TVP. Pulsos pedios palpables y simétricos.
+- Exploración neurológica: Glasgow 15. PICNR. Pares craneales conservados. Fuerza 2/5 en las cuatro extremidades.
+Sensibilidad térmica y táctil conservada. Alteración de la propiocepción. Dismetría dedo-nariz. Disdiadococinesia.
+Marcha no valorable. No afasias ni disnomias. Habla normal en fluencia y contenido.
+
+Pruebas complementarias
+- RM cerebral: sin hallazgos significativos excepto por imágenes sugestivas de pequeños infartos lacunares antiguos.
+- RM de columna completa: cambios degenerativos cervicales, dorsales y lumbares con barras disco-osteofitarias.
+- TC TAP: adenopatías a nivel retrocavo-pretraqueal con un tamaño aproximado la mayor de 2,1 cm, subcarinal de 1,7 cm e hiliar derecha. Parénquima pulmonar sin nódulos ni infiltrados. No se evidencia derrame pleural. El hígado presenta esteatosis hepática. Bazo, páncreas, riñones y suprarrenales dentro de la normalidad. No líquido libre en la cavidad peritoneal. No adenopatías en las cadenas iliacas ni inguinales. Resto del estudio sin hallazgos.
+- PET-TC: captación patológica de adenopatías ya descritas previamente en la TC. La adenopatía pretraqueal-retrocava presenta un SUV máximo de 10,01g/ml, la subcarinal de 5,69 g/dl y la hiliar derecha un SUV máximo de 6,28. Resto del estudio dentro de los límites de la normalidad.
+- Broncoscopia: cuerdas vocales móviles, tráquea y carina de aspecto normales. No signos de compresión extrínseca.
+Signos de broncopatía crónica grave. Se realiza lavado endobronquial para estudio anatomopatológico y microbiológico.
+- Eco-broncoscopia: adenopatías en el territorio 4R y 7 de 1,91 cm de diámetro máximo. Punción transbronquial para citología, microbiología y anatomía patológica.
+- Potenciales evocados: estudio fisiológico compatible con patrón axonal de predominio en los miembros inferiores.
+- Electromiograma: polineuropatía sensitivo-motora, de tipo mixto, axonal y desmielinizante, con afectación simétrica de las cuatro extremidades, aunque en mayor medida en los miembros inferiores y de intensidad moderada.
+- Serología: VIH negativo, sífilis negativo, anti-CMV IgM negativo, anti-CMV IgG positivo, anti-VEB IgM negativo, anti-VEB IgG positivo, Toxoplasma negativo.
+- Bioquímica de LCR: glucosa 92 mg/dl, proteínas 42 mg/dl, celularidad 43 leucos/μl, 100% mononucleares, ADA 1 UI/l.
+- Microbiología de LCR: negativo para micobacterias, herpesvirus, enterovirus, virus herpes simple, virus varicela zóster.
+- Antígenos neuronales, autoanticuerpos: anti-anfifisina negativo, anti-CV2 negativo, anti-PNMA2 negativo, anti-Ri negativo, anti-Hu negativo, anti-Yo negativo.
+- Anatomía patológica de LCR: se muestran células redondeadas sin atipia.
+- Análisis sanguíneo: hemograma dentro de la normalidad. Perfil hepático dentro de la normalidad. Iones (sodio, potasio, calcio) dentro de los límites normales.
+- Marcadores tumorales: PSA, CEA, CA 19.9, AFP dentro de la normalidad.
+- Hormonas tiroideas: dentro los límites.
+- Electroforesis en suero: sin anomalías.
+- Autoinmunidad: complemento C3,C4 normal. ANA y ECA normales.
+
+Diagnóstico
+Los resultados anatomopatológicos procedentes de la ecobroncoscopia analizados mediante inmunohistoquímica mostraron positividad para TTF1, CD56 y cromogranina, siendo todo ello compatible con carcinoma microcítico. Tras los resultados de las pruebas complementarias, y habiendo realizado un diagnóstico diferencial, se establece el diagnóstico definitivo de carcinoma microcítico de pulmón con enfermedad localizada. Se concluyó entonces que la clínica que presentaba el paciente era un probable síndrome paraneoplásico de origen neurológico a pesar de la negatividad de los resultados en el análisis del LCR. Tratándose, por tanto, de una polineuropatía-axonal sensitivo-motora de tipo mixto, axonal y desmielinizante, con afectación simétrica de las cuatro extremidades. El diagnóstico del síndrome paraneoplásico se llevó a cabo por exclusión de otras entidades, habiendo sido descartadas otras causas que pudieran explicar la sintomatología del paciente.
+
+Tratamiento
+Con el diagnóstico de carcinoma microcítico de pulmón, enfermedad limitada al tórax, el paciente inició tratamiento concomitante basado en quimioterapia y radioterapia. La quimioterapia administrada consistía en el régimen establecido como estándar para esta patología: cisplatino + etopósido cada 21 días. Inició el primer ciclo de quimioterapia en marzo, recibiendo un total de cuatro ciclos y finalizando en el mes de mayo. Como toxicidad secundaria al tratamiento quimioterápico se produjo una neutropenia grado 3 tras el segundo ciclo, que requirió la adición de factor estimulante de colonias y que originó el retraso del siguiente ciclo durante 7 días. Recibió radioterapia concomitante sobre áreas ganglionares mediastínicas patológicas (4R, 7, 10-11R) alcanzando una dosis total de 50 Gy sin efectos tóxicos secundarios relevantes. Tras el fin del tratamiento se realizó una TC de tórax-abdomen-pelvis de reevaluación de la enfermedad, que muestra respuesta completa según criterios RECIST, por lo que es remitido de nuevo al Servicio de Oncología Radioterápica para iniciar tratamiento con radioterapia holocraneal profilácticaentre los meses de junio y julio, a una dosis total de 30 Gy y presentando como toxicidad aguda dermitis grado 1.
+
+Evolución
+En las siguientes TC de tórax-abdomen-pelvis y PET-TC realizadas durante los meses de septiembre y diciembre de 2013, así como en su última visita en marzo de 2014, se objetiva respuesta completa iconográfica. En cuanto a la evolución de la sintomatología neurológica que presentaba, tuvo lugar una recuperación progresiva de la fuerza en las cuatro extremidades, así como de la sensibilidad propioceptiva inmediatamente al inicio del tratamiento y presentando una recuperación completa de la clínica 4 meses tras el diagnóstico. En la actualidad, el paciente camina sin ayuda de andador, habiendo recuperado por completo la fuerza y la sensibilidad y presentando respuesta completa de la enfermedad. El paciente continúa un programa de seguimientos en Oncología Médica sin evidencia de enfermedad hasta el momento.

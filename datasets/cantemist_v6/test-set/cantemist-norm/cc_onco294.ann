@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 2985 2994	carcinoma
+#1	AnnotatorNotes T1	8010/3
+T2	MORFOLOGIA_NEOPLASIA 2049 2091	carcinoma neuroendocrino de célula pequeña
+#2	AnnotatorNotes T2	8041/3
+T3	MORFOLOGIA_NEOPLASIA 1652 1662	malignidad
+#3	AnnotatorNotes T3	8000/3
+T4	MORFOLOGIA_NEOPLASIA 1568 1578	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 3103 3113	metástasis
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 1153 1160	tumoral
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 2257 2320	Carcinoma neuroendocrino microcítico de próstata con metástasis
+#7	AnnotatorNotes T7	8041/6
+T8	MORFOLOGIA_NEOPLASIA 2364 2370	T4N2M1
+#8	AnnotatorNotes T8	8000/6

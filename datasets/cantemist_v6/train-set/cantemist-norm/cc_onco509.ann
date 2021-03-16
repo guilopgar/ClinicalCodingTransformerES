@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 2051 2053	M0
+#1	AnnotatorNotes T1	8000/6
+T2	MORFOLOGIA_NEOPLASIA 1488 1495	adenoma
+#2	AnnotatorNotes T2	8140/0
+T3	MORFOLOGIA_NEOPLASIA 430 439	carcinoma
+#3	AnnotatorNotes T3	8010/3
+T4	MORFOLOGIA_NEOPLASIA 1311 1325	leiomiosarcoma
+#4	AnnotatorNotes T4	8890/3
+T5	MORFOLOGIA_NEOPLASIA 1863 1877	leiomiosarcoma
+#5	AnnotatorNotes T5	8890/3
+T6	MORFOLOGIA_NEOPLASIA 2009 2023	leiomiosarcoma
+#6	AnnotatorNotes T6	8890/3
+T7	MORFOLOGIA_NEOPLASIA 1761 1771	malignidad
+#7	AnnotatorNotes T7	8000/3
+T8	MORFOLOGIA_NEOPLASIA 1938 1945	tumoral
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 1223 1248	tumor fusocelular maligno
+#9	AnnotatorNotes T9	8004/3
+T10	MORFOLOGIA_NEOPLASIA 2169 2197	leiomiosarcoma de alto grado
+#10	AnnotatorNotes T10	8890/34

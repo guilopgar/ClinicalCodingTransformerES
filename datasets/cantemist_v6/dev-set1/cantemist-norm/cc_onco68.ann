@@ -1,0 +1,20 @@
+T1	MORFOLOGIA_NEOPLASIA 2467 2474	cordoma
+#1	AnnotatorNotes T1	9370/3
+T2	MORFOLOGIA_NEOPLASIA 2659 2681	enfermedad a distancia
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 2458 2465	linfoma
+#3	AnnotatorNotes T3	9590/3
+T4	MORFOLOGIA_NEOPLASIA 2499 2509	metástasis
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2476 2488	plasmocitoma
+#5	AnnotatorNotes T5	9731/3
+T6	MORFOLOGIA_NEOPLASIA 3612 3617	tumor
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 1731 1741	tumoración
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 2706 2713	tumoral
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 2813 2847	tumor de células gigantes de hueso
+#9	AnnotatorNotes T9	9250/1
+T10	MORFOLOGIA_NEOPLASIA 3399 3429	Tumor de células gigantes óseo
+#10	AnnotatorNotes T10	9250/1

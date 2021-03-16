@@ -1,0 +1,68 @@
+T1	MORFOLOGIA_NEOPLASIA 2681 2700	Cistoadenocarcinoma
+#1	AnnotatorNotes T1	8440/3
+T2	MORFOLOGIA_NEOPLASIA 1399 1413	adenocarcinoma
+#2	AnnotatorNotes T2	8140/3
+T3	MORFOLOGIA_NEOPLASIA 1746 1760	adenocarcinoma
+#3	AnnotatorNotes T3	8140/3
+T4	MORFOLOGIA_NEOPLASIA 2320 2337	carcinoma medular
+#4	AnnotatorNotes T4	8510/3
+T5	MORFOLOGIA_NEOPLASIA 2413 2427	feocromocitoma
+#5	AnnotatorNotes T5	8700/0
+T6	MORFOLOGIA_NEOPLASIA 2631 2645	feocromocitoma
+#6	AnnotatorNotes T6	8700/0
+T7	MORFOLOGIA_NEOPLASIA 994 1004	metástasis
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 4055 4065	metástasis
+#8	AnnotatorNotes T8	8000/6
+T9	MORFOLOGIA_NEOPLASIA 4661 4671	metástasis
+#9	AnnotatorNotes T9	8000/6
+T10	MORFOLOGIA_NEOPLASIA 602 612	tumoración
+#10	AnnotatorNotes T10	8000/1
+T11	MORFOLOGIA_NEOPLASIA 1113 1123	tumoración
+#11	AnnotatorNotes T11	8000/1
+T12	MORFOLOGIA_NEOPLASIA 730 764	cistoadenocarcinoma seroso papilar
+#12	AnnotatorNotes T12	8460/3
+T13	MORFOLOGIA_NEOPLASIA 1310 1355	carcinoma infiltrante pobremente diferenciado
+#13	AnnotatorNotes T13	8010/33/H
+T14	MORFOLOGIA_NEOPLASIA 1709 1728	cistoadenocarcinoma
+#14	AnnotatorNotes T14	8440/3
+T15	MORFOLOGIA_NEOPLASIA 1926 1999	metástasis cutánea de carcinoma neuroendocrino moderadamente diferenciado
+#15	AnnotatorNotes T15	8246/62
+T16	MORFOLOGIA_NEOPLASIA 2574 2615	Carcinoma medular de tiroides metastásico
+#16	AnnotatorNotes T16	8510/6
+T17	MORFOLOGIA_NEOPLASIA 3262 3291	adenopatías supraclaviculares
+#17	AnnotatorNotes T17	8000/6
+T18	MORFOLOGIA_NEOPLASIA 3887 3916	adenopatías supraclaviculares
+#18	AnnotatorNotes T18	8000/6
+T19	MORFOLOGIA_NEOPLASIA 4085 4119	tumor tiene rasgos neuroendocrinos
+#19	AnnotatorNotes T19	8240/3
+T20	MORFOLOGIA_NEOPLASIA 4351 4380	adenopatías supraclaviculares
+#20	AnnotatorNotes T20	8000/6
+T21	MORFOLOGIA_NEOPLASIA 4397 4408	mestástasis
+#21	AnnotatorNotes T21	8000/6
+T22	MORFOLOGIA_NEOPLASIA 4773 4814	carcinoma medular de tiroides metastásico
+#22	AnnotatorNotes T22	8510/6
+T23	MORFOLOGIA_NEOPLASIA 4819 4841	afectación suprarrenal
+#23	AnnotatorNotes T23	8000/6
+T24	MORFOLOGIA_NEOPLASIA 5097 5123	progresion a nivel del SNC
+#24	AnnotatorNotes T24	8000/6
+T25	MORFOLOGIA_NEOPLASIA 2363 2385	afectación suprarrenal
+#25	AnnotatorNotes T25	8000/6
+T26	MORFOLOGIA_NEOPLASIA 947 963	masa suprarrenal
+#26	AnnotatorNotes T26	8000/6
+T27	MORFOLOGIA_NEOPLASIA 3347 3363	masa suprarrenal
+#27	AnnotatorNotes T27	8000/6
+T28	MORFOLOGIA_NEOPLASIA 3387 3403	masa suprarrenal
+#28	AnnotatorNotes T28	8000/6
+T29	MORFOLOGIA_NEOPLASIA 2923 2942	nódulos subcutáneos
+#29	AnnotatorNotes T29	8000/6
+T30	MORFOLOGIA_NEOPLASIA 3428 3451	masa a nivel del ovario
+#30	AnnotatorNotes T30	8000/6
+T31	MORFOLOGIA_NEOPLASIA 3969 3985	masa suprarrenal
+#31	AnnotatorNotes T31	8000/6
+T32	MORFOLOGIA_NEOPLASIA 4021 4033	masa anexial
+#32	AnnotatorNotes T32	8000/6
+T33	MORFOLOGIA_NEOPLASIA 4470 4489	masas suprarrenales
+#33	AnnotatorNotes T33	8000/6
+T34	MORFOLOGIA_NEOPLASIA 4571 4583	masa anexial
+#34	AnnotatorNotes T34	8000/6

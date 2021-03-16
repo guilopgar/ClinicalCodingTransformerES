@@ -1,0 +1,22 @@
+T1	MORFOLOGIA_NEOPLASIA 3113 3126	Condrosarcoma
+#1	AnnotatorNotes T1	9220/3
+T2	MORFOLOGIA_NEOPLASIA 809 824	adenoma tubular
+#2	AnnotatorNotes T2	8211/0
+T3	MORFOLOGIA_NEOPLASIA 3051 3064	condrosarcoma
+#3	AnnotatorNotes T3	9220/3
+T4	MORFOLOGIA_NEOPLASIA 720 726	lipoma
+#4	AnnotatorNotes T4	8850/0
+T5	MORFOLOGIA_NEOPLASIA 4225 4230	tumor
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 2901 2911	tumoración
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 3039 3046	tumoral
+#7	AnnotatorNotes T7	8000/1
+T8	MORFOLOGIA_NEOPLASIA 4323 4330	tumoral
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 2977 3007	tumor de estirpe cartilaginosa
+#9	AnnotatorNotes T9	8000/1/H
+T10	MORFOLOGIA_NEOPLASIA 4673 4700	condrosarcoma de bajo grado
+#10	AnnotatorNotes T10	9220/31
+T11	MORFOLOGIA_NEOPLASIA 3373 3400	condrosarcoma de bajo grado
+#11	AnnotatorNotes T11	9220/31

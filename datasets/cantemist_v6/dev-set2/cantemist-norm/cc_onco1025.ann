@@ -1,0 +1,24 @@
+T1	MORFOLOGIA_NEOPLASIA 1575 1597	carcinoma mioepitelial
+#1	AnnotatorNotes T1	8982/3
+T2	MORFOLOGIA_NEOPLASIA 3251 3273	implantes peritoneales
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 4804 4826	implantes peritoneales
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 4073 4104	liposarcoma de células redondas
+#4	AnnotatorNotes T4	8853/3
+T5	MORFOLOGIA_NEOPLASIA 1337 1349	metastásicas
+#5	AnnotatorNotes T5	8000/6
+T6	MORFOLOGIA_NEOPLASIA 1617 1640	metástasis de carcinoma
+#6	AnnotatorNotes T6	8010/6
+T7	MORFOLOGIA_NEOPLASIA 1652 1659	sarcoma
+#7	AnnotatorNotes T7	8800/3
+T8	MORFOLOGIA_NEOPLASIA 2588 2593	tumor
+#8	AnnotatorNotes T8	8000/1
+T9	MORFOLOGIA_NEOPLASIA 1475 1488	tumor maligno
+#9	AnnotatorNotes T9	8000/3
+T10	MORFOLOGIA_NEOPLASIA 1575 1615	carcinoma mioepitelial de partes blandas
+#10	AnnotatorNotes T10	8800/3
+T11	MORFOLOGIA_NEOPLASIA 1790 1844	tumor maligno indiferenciado de predominio epitelioide
+#11	AnnotatorNotes T11	8000/34/H
+T12	MORFOLOGIA_NEOPLASIA 2669 2705	tumor primario de origen desconocido
+#12	AnnotatorNotes T12	8000/9
