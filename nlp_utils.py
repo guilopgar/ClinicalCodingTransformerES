@@ -580,56 +580,25 @@ def create_frag_input_data(df_text, text_col, df_label, doc_list, tokenizer, sp_
 
 
 
-# MAP score evaluation
+## Models evaluation
 
-def max_fragment_prediction(y_frag_pred, n_fragments, label_encoder_classes, doc_list):
+def max_fragment(y_frag_pred, n_fragments):
     """
-    Convert fragment-level to doc-level predictions, usin max criterion.
+    Convert fragment-level to document-level predictions, using maximum porbability criterion.
     """
     y_pred = []
     i_frag = 0
     for n_frag in n_fragments:
         y_pred.append(y_frag_pred[i_frag:i_frag+n_frag].max(axis=0))
         i_frag += n_frag
-    return prob_codiesp_prediction_format(np.array(y_pred), label_encoder_classes, doc_list)
+    return np.array(y_pred)
 
 
-def mean_fragment_prediction(y_frag_pred, n_fragments, label_encoder_classes, doc_list):
+def max_fragment_prediction(y_frag_pred, n_fragments, label_encoder_classes, doc_list):
     """
-    Convert fragment-level to doc-level predictions, usin mean criterion.
+    Convert fragment-level to document-level predictions in CodiEsp submission format.
     """
-    y_pred = []
-    i_frag = 0
-    for n_frag in n_fragments:
-        y_pred.append(y_frag_pred[i_frag:i_frag+n_frag].mean(axis=0))
-        i_frag += n_frag
-    return prob_codiesp_prediction_format(np.array(y_pred), label_encoder_classes, doc_list)
-
-
-def max_mean_fragment_prediction(y_frag_pred, n_fragments, label_encoder_classes, doc_list):
-    """
-    Convert fragment-level to doc-level predictions, usin max*mean criterion.
-    """
-    y_pred = []
-    i_frag = 0
-    for n_frag in n_fragments:
-        y_pred.append(np.multiply(y_frag_pred[i_frag:i_frag+n_frag].max(axis=0),y_frag_pred[i_frag:i_frag+n_frag].mean(axis=0)))
-        i_frag += n_frag
-    return prob_codiesp_prediction_format(np.array(y_pred), label_encoder_classes, doc_list)
-
-
-def clinbert_fragment_prediction(y_frag_pred, n_fragments, label_encoder_classes, doc_list, c=2):
-    """
-    Convert fragment-level to doc-level predictions, usin ClinicalBERT criterion.
-    """
-    y_pred = []
-    i_frag = 0
-    for n_frag in n_fragments:
-        p_max = y_frag_pred[i_frag:i_frag+n_frag].max(axis=0)
-        p_mean = y_frag_pred[i_frag:i_frag+n_frag].mean(axis=0)*n_frag/c
-        y_pred.append((p_max + p_mean)/(1+n_frag/c))
-        i_frag += n_frag
-    return prob_codiesp_prediction_format(np.array(y_pred), label_encoder_classes, doc_list)
+    return prob_codiesp_prediction_format(max_fragment(y_frag_pred, n_fragments), label_encoder_classes, doc_list)
 
 
 def prob_codiesp_prediction_format(y_pred, label_encoder_classes, doc_list):
@@ -680,6 +649,7 @@ def thr_codiesp_prediction_format(y_pred, label_encoder_classes, doc_list, thr=0
     return pd.DataFrame({"doc_id": pred_doc, "code": pred_code, "rank": pred_rank})
 
 
+# MAP score
 # Code adapted from: https://github.com/TeMU-BSC/CodiEsp-Evaluation-Script/blob/master/codiespD_P_evaluation.py
 
 from trectools import TrecQrel, TrecRun, TrecEval
@@ -805,3 +775,76 @@ def format_gs(filepath, output_path=None, gs_names = ['qid', 'docno']):
 
     # Write dataframe to Qrel file
     gs.to_csv(output_path, index=False, header=None, sep=' ')
+
+    
+
+# P, R, F1-score
+# Code copied from: https://github.com/TeMU-BSC/codiesp-evaluation-script/blob/master/comp_f1_diag_proc.py
+
+import warnings
+
+def read_gs(gs_path):
+    gs_data = pd.read_csv(gs_path, sep="\t", names=['clinical_case', 'code'],
+                          dtype={'clinical_case': object, 'code':object})
+    gs_data.code = gs_data.code.str.lower()
+    return gs_data
+
+def read_run(pred_path, valid_codes):
+    run_data = pd.read_csv(pred_path, sep="\t", names=['clinical_case', 'code'],
+                          dtype={'clinical_case': object, 'code':object})
+    run_data.code = run_data.code.str.lower()
+
+    run_data = run_data[run_data['code'].isin(valid_codes)]
+    if (run_data.shape[0] == 0):
+        warnings.warn('None of the predicted codes are considered valid codes')
+    return run_data
+
+
+def calculate_metrics(df_gs, df_pred):
+    Pred_Pos_per_cc = df_pred.drop_duplicates(subset=['clinical_case', 
+                                                  "code"]).groupby("clinical_case")["code"].count()
+    Pred_Pos = df_pred.drop_duplicates(subset=['clinical_case', "code"]).shape[0]
+    
+    # Gold Standard Positives:
+    GS_Pos_per_cc = df_gs.drop_duplicates(subset=['clinical_case', 
+                                               "code"]).groupby("clinical_case")["code"].count()
+    GS_Pos = df_gs.drop_duplicates(subset=['clinical_case', "code"]).shape[0]
+    cc = set(df_gs.clinical_case.tolist())
+    TP_per_cc = pd.Series(dtype=float)
+    for c in cc:
+        pred = set(df_pred.loc[df_pred['clinical_case']==c,'code'].values)
+        gs = set(df_gs.loc[df_gs['clinical_case']==c,'code'].values)
+        TP_per_cc[c] = len(pred.intersection(gs))
+        
+    TP = sum(TP_per_cc.values)
+        
+    
+    # Calculate Final Metrics:
+    P_per_cc =  TP_per_cc / Pred_Pos_per_cc
+    P = TP / Pred_Pos
+    R_per_cc = TP_per_cc / GS_Pos_per_cc
+    R = TP / GS_Pos
+    F1_per_cc = (2 * P_per_cc * R_per_cc) / (P_per_cc + R_per_cc)
+    if (P+R) == 0:
+        F1 = 0
+        warnings.warn('Global F1 score automatically set to zero to avoid division by zero')
+        return P_per_cc, P, R_per_cc, R, F1_per_cc, F1
+    F1 = (2 * P * R) / (P + R)
+    
+    return P_per_cc, P, R_per_cc, R, F1_per_cc, F1
+
+
+def compute_p_r_f1(gs_path, pred_path, codes_path):
+    ###### 0. Load valid codes lists: ######
+    valid_codes = set(pd.read_csv(codes_path, sep='\t', header=None, 
+                                  usecols=[0])[0].tolist())
+    valid_codes = set([x.lower() for x in valid_codes])
+    
+    ###### 1. Load GS and Predictions ######
+    df_gs = read_gs(gs_path)
+    df_run = read_run(pred_path, valid_codes)
+    
+    ###### 2. Calculate score ######
+    P_per_cc, P, R_per_cc, R, F1_per_cc, F1 = calculate_metrics(df_gs, df_run)
+    
+    return round(P, 3), round(R, 3), round(F1, 3)
