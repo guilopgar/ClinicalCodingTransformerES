@@ -555,7 +555,7 @@ def create_frag_input_data_bert(df_text, text_col, df_label, doc_list, tokenizer
 
 # As all abstracts have one single fragment, the next method is compatible with NER method (previous function) to generate data
 
-def create_frag_input_data(df_text, text_col, df_label, doc_list, tokenizer, sp_pb2, lab_encoder, seq_len):
+def create_frag_input_data_xlmr(df_text, text_col, df_label, doc_list, tokenizer, sp_pb2, lab_encoder, seq_len):
     indices, attention_mask, labels, fragments = [], [], [], []
     for doc in tqdm(doc_list):
         # Extract labels
@@ -592,13 +592,6 @@ def max_fragment(y_frag_pred, n_fragments):
         y_pred.append(y_frag_pred[i_frag:i_frag+n_frag].max(axis=0))
         i_frag += n_frag
     return np.array(y_pred)
-
-
-def max_fragment_prediction(y_frag_pred, n_fragments, label_encoder_classes, doc_list):
-    """
-    Convert fragment-level to document-level predictions in CodiEsp submission format.
-    """
-    return prob_codiesp_prediction_format(max_fragment(y_frag_pred, n_fragments), label_encoder_classes, doc_list)
 
 
 def prob_codiesp_prediction_format(y_pred, label_encoder_classes, doc_list):
@@ -638,8 +631,7 @@ def thr_codiesp_prediction_format(y_pred, label_encoder_classes, doc_list, thr=0
     for i in range(y_pred.shape[0]):
         pred = y_pred[i]
         # Codes are sorted according to their probability values in descending order, and then prob threshold is applied
-        codes_sort = [label_encoder_classes[j] for j in np.argsort(pred)[::-1]]
-        
+        codes_sort = [label_encoder_classes[j] for j in np.argsort(pred)[::-1] if pred[j] >= thr]
         pred_code += codes_sort
         pred_doc += [doc_list[i]]*len(codes_sort)
         # For compatibility with format_predictions function
@@ -654,7 +646,6 @@ def thr_codiesp_prediction_format(y_pred, label_encoder_classes, doc_list, thr=0
 
 from trectools import TrecQrel, TrecRun, TrecEval
 
-    
 def format_predictions(pred, output_path, valid_codes, 
                        system_name = 'xx', pred_names = ['query','docid', 'rank']):
     '''
@@ -699,35 +690,6 @@ def format_predictions(pred, output_path, valid_codes,
     
     # Write dataframe to Run file
     pred.to_csv(output_path, index=False, header=None, sep = '\t')
-
-
-def compute_map(valid_codes, pred, gs_out_path=None):
-    """
-    Custom function to compute MAP evaluation metric. 
-    Code adapted from https://github.com/TeMU-BSC/CodiEsp-Evaluation-Script/blob/master/codiespD_P_evaluation.py
-    """
-    
-    # Input args default values
-    if gs_out_path is None: gs_out_path = './intermediate_gs_file.txt' 
-    
-    pred_out_path = './intermediate_predictions_file.txt'
-    ###### 2. Format predictions as TrecRun format: ######
-    format_predictions(pred, pred_out_path, valid_codes)
-    
-    
-    ###### 3. Calculate MAP ######
-    # Load GS from qrel file
-    qrels = TrecQrel(gs_out_path)
-
-    # Load pred from run file
-    run = TrecRun(pred_out_path)
-
-    # Calculate MAP
-    te = TrecEval(run, qrels)
-    MAP = te.get_map(trec_eval=False) # With this option False, rank order is taken from the given document order
-    
-    ###### 4. Return results ######
-    return MAP
 
 
 # Code copied from: https://github.com/TeMU-BSC/CodiEsp-Evaluation-Script/blob/master/codiespD_P_evaluation.py
@@ -777,6 +739,47 @@ def format_gs(filepath, output_path=None, gs_names = ['qid', 'docno']):
     gs.to_csv(output_path, index=False, header=None, sep=' ')
 
     
+def compute_map(valid_codes, pred, gs_out_path=None):
+    """
+    Custom function to compute MAP evaluation metric. 
+    Code adapted from https://github.com/TeMU-BSC/CodiEsp-Evaluation-Script/blob/master/codiespD_P_evaluation.py
+    """
+    
+    # Input args default values
+    if gs_out_path is None: gs_out_path = './intermediate_gs_file.txt' 
+    
+    pred_out_path = './intermediate_predictions_file.txt'
+    ###### 2. Format predictions as TrecRun format: ######
+    format_predictions(pred, pred_out_path, valid_codes)
+    
+    
+    ###### 3. Calculate MAP ######
+    # Load GS from qrel file
+    qrels = TrecQrel(gs_out_path)
+
+    # Load pred from run file
+    run = TrecRun(pred_out_path)
+
+    # Calculate MAP
+    te = TrecEval(run, qrels)
+    MAP = te.get_map(trec_eval=False) # With this option False, rank order is taken from the given document order
+    
+    ###### 4. Return results ######
+    return MAP
+
+
+def compute_map_avg(doc_preds_arr, codes_labels, docs, valid_codes, gs_out_path):
+    """
+    Computes the average, std and max MAP scores for a given array of document-level predictions.
+    """
+    map_arr = []
+    for doc_preds in doc_preds_arr:
+        df_pred = prob_codiesp_prediction_format(y_pred=doc_preds, label_encoder_classes=codes_labels, 
+                                                 doc_list=docs)
+        map_arr.append(round(compute_map(valid_codes=valid_codes, pred=df_pred, gs_out_path=gs_out_path), 3))
+    return pd.Series({'MAP': np.mean(map_arr), 'MAP_std': np.std(map_arr), 
+                      'MAP_max': np.max(map_arr)}).apply(lambda x: round(x, 3))
+
 
 # P, R, F1-score
 # Code copied from: https://github.com/TeMU-BSC/codiesp-evaluation-script/blob/master/comp_f1_diag_proc.py
@@ -848,3 +851,24 @@ def compute_p_r_f1(gs_path, pred_path, codes_path):
     P_per_cc, P, R_per_cc, R, F1_per_cc, F1 = calculate_metrics(df_gs, df_run)
     
     return round(P, 3), round(R, 3), round(F1, 3)
+
+
+def compute_metrics_avg(thr, doc_preds_arr, codes_labels, docs, pred_file_path, gs_path, valid_codes_path):
+    """
+    Custom function that, using a single given threshold, returns a pd.Series containing the average, std and max 
+    micro-averaged P, R, F1 values obtained for a given array of document-level predictions.
+    """
+    p_arr, r_arr, f1_arr = [], [], []
+    for doc_preds in doc_preds_arr:
+        df_test_pred = thr_codiesp_prediction_format(y_pred=doc_preds, label_encoder_classes=codes_labels, 
+                                                     doc_list=docs, thr=thr)
+        df_test_pred[["doc_id", "code"]].to_csv(path_or_buf=pred_file_path, sep="\t", header=False, index=False)
+        p, r, f1 = compute_p_r_f1(gs_path=gs_path, pred_path=pred_file_path, codes_path=valid_codes_path)
+        p_arr.append(p)
+        r_arr.append(r)
+        f1_arr.append(f1)
+
+    return pd.Series({'P': np.mean(p_arr), 'P_std': np.std(p_arr), 'P_max': np.max(p_arr), 
+                      'R': np.mean(r_arr), 'R_std': np.std(r_arr), 'R_max': np.max(r_arr), 
+                      'F1': np.mean(f1_arr), 'F1_std': np.std(f1_arr), 
+                      'F1_max': np.max(f1_arr)}).apply(lambda x: round(x, 3))
