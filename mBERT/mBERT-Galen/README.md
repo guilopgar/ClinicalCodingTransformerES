@@ -1,0 +1,3 @@
+# mBERT-Galén
+
+This model corresponds to the multilingual BERT (mBERT) architecture adapted to the Spanish clinical doamin, obtained by further pretraining the general-domain [mBERT](https://github.com/google-research/bert/blob/master/multilingual.md) model on the Galén corpus, a private collection of real-world oncology documents in Spanish. The pretraining was carried out using the [original TensorFlow implementation of BERT](https://github.com/google-research/bert/blob/master/run_pretraining.py). The weights of the model are available here: https://drive.google.com/file/d/1CmaePBkRtcuQv3O4x2rcOlSMj4QAwKm_/view?usp=sharing. mBERT-Galén uses the same configuration and vocabulary as the original mBERT.
