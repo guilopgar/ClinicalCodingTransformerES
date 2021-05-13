@@ -1,0 +1,3 @@
+# BETO-Galén
+
+This model corresponds to the BETO architecture adapted to the Spanish clinical doamin, obtained by further pretraining the general-domain [BETO](https://github.com/dccuchile/beto) model on the Galén corpus, a private collection of real-world oncology documents in Spanish. The pretraining was carried out using the [original TensorFlow implementation of BERT](https://github.com/google-research/bert/blob/master/run_pretraining.py). The weights of the model are available here: https://drive.google.com/file/d/1tMDv0pmP-iYTzyL-SH3Wu5pOkzoXmfCA/view?usp=sharing. BETO-Galén uses the same configuration and vocabulary as the original BETO.
