@@ -1,0 +1,3 @@
+# XLM-R-Galén
+
+This model corresponds to the XLM-RoBERTa (XLM-R) base architecture adapted to the Spanish clinical domain, obtained by further pretraining the general-domain [XLM-R](https://huggingface.co/xlm-roberta-base) model on the Galén corpus, a private collection of real-world oncology documents in Spanish. The pretraining was carried out using the [HuggingFace Transformers library](https://github.com/huggingface/transformers/blob/master/examples/pytorch/language-modeling/run_mlm.py). The weights of the model are available here: https://drive.google.com/file/d/1QrJBCA_urVOGeajkAPvTqurSI69hfvMO/view?usp=sharing. XLM-R-Galén uses the same configuration and vocabulary as the original XLM-R.
