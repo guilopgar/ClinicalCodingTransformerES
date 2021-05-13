@@ -1,0 +1,6 @@
+keras-base=2.2.0
+keras-bert=0.81.0
+keras-gpu=2.2.0
+keras-radam=0.15.0
+keras-transformer=0.32.0
+tensorflow-gpu=1.7.0
